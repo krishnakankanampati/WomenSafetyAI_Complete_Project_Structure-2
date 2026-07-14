@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//f/WomenSafetyAI_Complete_Project_Structure/**)",
+      "Bash(powershell -Command \"Get-ChildItem -Recurse | Select-Object FullName\")",
+      "Read(//f/WomenSafetyAI_Complete_Project_Structure/dataset/processed/**)",
+      "Bash(powershell -Command \"Get-Content train.csv -TotalCount 3; Write-Output '---'; Import-Csv train.csv | Select-Object -ExpandProperty category -Unique\")",
+      "Bash(powershell -Command \"Import-Csv train.csv | Select-Object -ExpandProperty category -Unique | Sort-Object; Write-Output '--counts--'; Import-Csv train.csv | Group-Object category | Select-Object Name,Count; Write-Output '--valid--'; Import-Csv validation.csv | Select-Object -ExpandProperty category -Unique | Sort-Object; Write-Output '--test--'; Import-Csv test.csv | Select-Object -ExpandProperty category -Unique | Sort-Object\")",
+      "Bash(python -m py_compile ai_model/train.py ai_model/predict.py ai_model/evaluate.py ai_model/dataset.py)",
+      "Bash(python -c \"import torch, transformers, pandas, sklearn, tqdm; print\\('deps ok'\\)\")",
+      "Bash(python -c ' *)",
+      "Bash(powershell -Command \"Import-Csv raw\\\\Women_Safety_Final_v3_50k.csv | Group-Object category | Select-Object Name,Count | Sort-Object Name\")",
+      "Bash(powershell -Command \"Get-ChildItem raw -Recurse | Select-Object FullName,Length\")",
+      "Bash(powershell -Command \"if \\(Test-Path saved_models\\) { Get-ChildItem saved_models -Recurse | Select-Object FullName, Length, LastWriteTime } else { 'no saved_models dir' }\")",
+      "Bash(python -c \"import torch; print\\('cuda available:', torch.cuda.is_available\\(\\)\\); print\\('device count:', torch.cuda.device_count\\(\\) if torch.cuda.is_available\\(\\) else 0\\)\")",
+      "Bash(python -m py_compile ai_model/model.py ai_model/train.py ai_model/config.py ai_model/dataset.py dataset/label_encoder.py)",
+      "Bash(python -m ai_model.train)",
+      "PowerShell(Import-Csv \"F:\\\\WomenSafetyAI_Complete_Project_Structure\\\\dataset\\\\raw\\\\Women_Safety_Final_v3_50k.csv\" | Where-Object { $_.category_original -match 'Cyber|Stalk' -or $_.comment -match 'cyberbully|stalking' } | Select-Object -First 5 comment,category,category_original | Format-List)",
+      "PowerShell(Import-Csv \"F:\\\\WomenSafetyAI_Complete_Project_Structure\\\\dataset\\\\raw\\\\Women_Safety_Final_v3_50k.csv\")",
+      "Bash(python -m py_compile ai_model/utils.py)"
+    ]
+  }
+}

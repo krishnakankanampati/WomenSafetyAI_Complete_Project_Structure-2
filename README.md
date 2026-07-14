@@ -1,0 +1,2 @@
+# WomenSafetyAI
+Professional project structure.

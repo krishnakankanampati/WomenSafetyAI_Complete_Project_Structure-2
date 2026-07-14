@@ -1,0 +1,11 @@
+torch
+transformers
+pandas
+numpy
+fastapi
+uvicorn
+pymongo
+scikit-learn
+langdetect
+tqdm
+matplotlib
