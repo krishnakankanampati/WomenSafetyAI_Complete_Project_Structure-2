@@ -1,4 +1,5 @@
 import logging
+import re
 import pandas as pd
 import torch
 
@@ -30,6 +31,16 @@ logging.basicConfig(
 )
 
 logger = logging.getLogger(__name__)
+
+# Matches letter-by-letter spaced-out words used as a filter-evasion
+# tactic in some toxic-comment sources (e.g. "e a s t a s i a n s"),
+# which XLM-R's subword tokenizer otherwise shreds into a run of
+# meaningless single-character tokens.
+_SPACED_LETTERS_RE = re.compile(r"\b(?:[A-Za-z][ ]){2,}[A-Za-z]\b")
+
+
+def normalize_spaced_letters(text):
+    return _SPACED_LETTERS_RE.sub(lambda m: m.group(0).replace(" ", ""), text)
 
 
 class WomenSafetyDataset(Dataset):
@@ -89,7 +100,7 @@ def load_dataset(csv_path):
         raise ValueError(f"{LABEL_COLUMN} column not found.")
 
     df = df[[TEXT_COLUMN, LABEL_COLUMN]].dropna()
-    df[TEXT_COLUMN] = df[TEXT_COLUMN].astype(str)
+    df[TEXT_COLUMN] = df[TEXT_COLUMN].astype(str).apply(normalize_spaced_letters)
 
     unknown_labels = set(df[LABEL_COLUMN].unique()) - set(ID_MAP.keys())
     if unknown_labels:
@@ -125,6 +136,23 @@ def create_dataloader(csv_path, shuffle=False):
         pin_memory=PIN_MEMORY,
         )
     return loader
+
+
+def compute_class_weights():
+    """
+    Inverse-frequency class weights from the actual train.csv label
+    distribution, for use in a weighted CrossEntropyLoss. Needed
+    because balance_dataset.py now keeps majority classes (Safe,
+    Hate Speech) at their natural size instead of undersampling
+    them down to the smallest class - see dataset/balance_dataset.py
+    for why.
+    """
+    df = load_dataset(TRAIN_FILE)
+    counts = df[LABEL_COLUMN].value_counts().sort_index()
+    total = counts.sum()
+    num_classes = len(CLASS_NAMES)
+    weights = [total / (num_classes * counts.get(i, 1)) for i in range(num_classes)]
+    return torch.tensor(weights, dtype=torch.float)
 
 
 def create_train_loader():

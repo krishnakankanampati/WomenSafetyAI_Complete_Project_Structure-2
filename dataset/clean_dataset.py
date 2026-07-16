@@ -7,9 +7,12 @@ File      : clean_dataset.py
 ====================================================
 """
 
+import sys
 import re
 import unicodedata
 import pandas as pd
+
+sys.stdout.reconfigure(encoding="utf-8")
 
 
 INPUT_FILE = "dataset/processed/clean_dataset.csv"
