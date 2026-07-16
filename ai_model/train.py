@@ -41,8 +41,9 @@ from ai_model.config import (
     WARMUP_RATIO,
     WEIGHT_DECAY,
 )
-from ai_model.dataset import create_train_loader, create_validation_loader
+from ai_model.dataset import create_train_loader, create_validation_loader, compute_class_weights
 from ai_model.model import (
+    build_layerwise_param_groups,
     create_model,
     freeze_embeddings,
     print_model_summary,
@@ -128,8 +129,12 @@ class Trainer:
         self.train_loader = create_train_loader()
         self.valid_loader = create_validation_loader()
 
+        logger.info("Computing class weights from train.csv distribution...")
+        class_weights = compute_class_weights().to(DEVICE)
+        logger.info("Class weights: %s", class_weights.tolist())
+
         logger.info("Creating model...")
-        self.model = create_model(DEVICE)
+        self.model = create_model(DEVICE, class_weights=class_weights)
 
         # Keep the pretrained multilingual embeddings frozen for epoch 1
         # so the randomly-initialized classifier head doesn't push large,
@@ -140,15 +145,18 @@ class Trainer:
         print_model_summary(self.model)
 
         logger.info("Creating optimizer and scheduler...")
-        # Discriminative learning rates: the backbone is pretrained and
-        # fine-tuned gently, while the freshly-initialized classifier head
-        # needs a much larger learning rate to converge in a few epochs.
+        # Layer-wise-decayed learning rates across the encoder, plus a much
+        # higher LR for the freshly-initialized classifier head - see
+        # build_layerwise_param_groups docstring for why this replaced a
+        # hard freeze of the bottom 6 layers.
         self.optimizer = AdamW(
-            [
-                {"params": self.model.backbone.parameters(), "lr": learning_rate},
-                {"params": self.model.classifier.parameters(), "lr": HEAD_LEARNING_RATE},
-            ],
-            weight_decay=WEIGHT_DECAY,
+            build_layerwise_param_groups(
+                self.model,
+                base_lr=learning_rate,
+                head_lr=HEAD_LEARNING_RATE,
+                weight_decay=WEIGHT_DECAY,
+                layer_decay=0.85,
+            )
         )
 
         total_steps = max(len(self.train_loader) * epochs, 1)
