@@ -1,0 +1,1401 @@
+comment_id,verdict,corrected_category,reason
+C010873,Wrong,Safe,Compliment about vlogging content
+C010874,Wrong,Safe,Fan question about trending status
+C010879,Wrong,Safe,Neutral movie description
+C010882,Correct,,Vulgar personal insult at fans not group hate
+C010888,Wrong,Safe,Neutral fan banter about trailer
+C010896,Wrong,Safe,Movie quality criticism
+C010899,Wrong,Safe,Neutral phrase referencing political fan group
+C010902,Correct,,Caste-name used as personal insult
+C010906,Wrong,Safe,Crude but positive praise of actors not an insult
+C010913,Wrong,Safe,Praise of actor's talent
+C010914,Wrong,Safe,Compliment about person's humility
+C010915,Wrong,Safe,Sarcastic joke about movie theatre experience
+C010916,Wrong,Safe,"Garbled fan comment, no hate content"
+C010920,Wrong,Safe,"Political corruption jab, not hate speech"
+C010928,Wrong,Safe,"Movie criticism, calling it a flop"
+C010929,Wrong,Safe,Neutral VFX criticism
+C010936,Wrong,Safe,"Joking comment about movie, no real insult"
+C010937,Correct,,Vulgar insult directed at named individual
+C010943,Wrong,Safe,Opinion distinguishing actor from politician
+C010945,Wrong,Sexual Harassment,Sexualized body comparison of named person
+C010950,Correct,,"Insult telling dislikers to leave, not group hate"
+C010953,Wrong,Threat,Explicit call to bomb a group
+C010965,Correct,,"Mocking insult about wig, individual target"
+C010966,Wrong,Safe,Neutral observation about events
+C010967,Wrong,Safe,Well-wishing comment
+C010973,Wrong,Safe,Praise for hard work on song
+C010977,Wrong,Offensive,"Vulgar rant about industry figures, not group hate"
+C010979,Correct,,Vulgar insult calling makers dogs
+C010981,Unsure,,"Garbled text, meaning unclear"
+C010986,Wrong,Safe,Neutral comment about TV episode
+C010987,Correct,,"Vulgar insult at thief, individual target"
+C010996,Wrong,Safe,Praise for simplicity
+C011006,Correct,,"Insult at director, not group hate"
+C011011,Wrong,Safe,Neutral question about teaser cast
+C011015,Wrong,Safe,"Political wish for change, no hate"
+C011018,Wrong,Safe,Fan comment anticipating release
+C011023,Wrong,Safe,Vague neutral reference to college batch
+C011026,Wrong,Safe,"Criticism of fan rivalry behavior, not vulgar"
+C011027,Unsure,,"Garbled phrase, unclear intent"
+C011033,Wrong,Safe,"Sarcastic political remark, no hate"
+C011036,Wrong,Safe,Movie criticism about star's mass appeal
+C011040,Wrong,Safe,"Casual comment, no hate"
+C011044,Wrong,Safe,"Mild personal remark, not hateful"
+C011048,Wrong,Safe,Empathetic reality show comment
+C011058,Wrong,Safe,Casual unclear remark
+C011059,Wrong,Safe,"Casual exclamation, no hate"
+C011060,Wrong,Safe,Fan speculation about dislikers
+C011061,Wrong,Safe,Political speculation comment
+C011062,Wrong,Safe,Mild criticism of judge selection
+C011071,Correct,,Crude mocking joke at individual
+C011082,Wrong,Offensive,"Political hostility, not group-identity-based hate"
+C011083,Unsure,,"Garbled repeated words, unclear"
+C011086,Wrong,Safe,Harsh but neutral movie criticism
+C011091,Wrong,Safe,Fan banter comparing releases
+C011092,Wrong,Safe,Mild scolding about volunteer meaning
+C011093,Wrong,Safe,Fan complaint about dislikes
+C011099,Wrong,Safe,Neutral question about certification inconsistency
+C011105,Wrong,Safe,"Casual scolding, no real insult"
+C011108,Wrong,Safe,Political opinion comparing actors' stances
+C011111,Wrong,Safe,Praise for logical explanation
+C011118,Wrong,Safe,Neutral comment about song popularity
+C011120,Wrong,Safe,"Comment about hairstyle, no real insult"
+C011121,Wrong,Safe,Casual banter among friends about college
+C011138,Unsure,,Unclear slang reference
+C011143,Wrong,Safe,Neutral question about production house
+C011166,Wrong,Safe,Neutral question about casting
+C011167,Wrong,Safe,Neutral reality show pairing comment
+C011169,Unsure,,Ambiguous sarcastic political comment mentioning killing
+C011171,Wrong,Safe,Rhetorical philosophical question
+C011172,Wrong,Safe,Casual unclear comment about college
+C011175,Unsure,,"Vague movie-related remark, unclear"
+C011195,Wrong,Safe,Metaphorical fan hype comment
+C011200,Wrong,Safe,Neutral comment about short film
+C011209,Wrong,Safe,Neutral observation about views vs likes
+C011210,Wrong,Safe,Mild fan loyalty comment
+C011219,Wrong,Safe,Neutral question about video content
+C011224,Wrong,Safe,Mild disappointment about remake
+C011239,Wrong,Safe,Civic message encouraging informed voting
+C011242,Wrong,Safe,Praise for politician
+C011245,Correct,,Vulgar insult at dislikers
+C011248,Wrong,Offensive,"Insult at a politician, not group-targeted"
+C011250,Unsure,,"Unclear slang mocking, meaning unclear"
+C011251,Wrong,Safe,Mild complaint about short film choice
+C011252,Wrong,Safe,Neutral movie comparison
+C011253,Wrong,Safe,"Budget/VFX criticism, not vulgar insult"
+C011254,Wrong,Safe,Praise for song quality
+C011267,Wrong,Offensive,"Vulgar exclamation, not group hate"
+C011273,Wrong,Threat,Explicit call to violently attack a group
+C011276,Wrong,Safe,Neutral comment about film reception
+C011279,Wrong,Safe,Unclear mild remark
+C011282,Wrong,Safe,"Political criticism of politicians, not hate"
+C011288,Wrong,Safe,Neutral movie dialogue comment
+C011289,Correct,,Vulgar sexualized personal insult
+C011290,Wrong,Safe,Neutral supportive comment about family
+C011291,Wrong,Safe,"Sarcastic political comment, not hateful"
+C011295,Wrong,Safe,Neutral movie criticism
+C011299,Wrong,Safe,"Sarcastic remark about a person's judgement, not vulgar"
+C011300,Correct,,Caste-based hostile rhetoric
+C011309,Wrong,Safe,Joking comment about movie title
+C011311,Wrong,Safe,"Casual vulgar exclamation, no target"
+C011318,Wrong,Safe,Praise for a good person
+C011324,Correct,,Vulgar insult at individual
+C011325,Wrong,Safe,Praise for family member
+C011328,Correct,,Mocking insult about actor's scene
+C011332,Wrong,Safe,Fan preference for different movie style
+C011335,Wrong,Safe,"Fan dialogue quote, no hate"
+C011336,Wrong,Safe,Neutral VFX criticism
+C011339,Wrong,Safe,Neutral comment about film promotion
+C011343,Wrong,Safe,"Movie quality criticism, no hate"
+C011344,Wrong,Safe,Comment contrasting movie content with actor's respectful behavior
+C011348,Wrong,Safe,Neutral question about trending
+C011350,Unsure,,"Unclear regional reference, meaning vague"
+C011353,Wrong,Safe,Neutral movie release comparison
+C011356,Correct,,Vulgar insult at group over political stance
+C011359,Wrong,Safe,"Metaphorical praise, no hate"
+C011374,Wrong,Safe,Metaphorical criticism of repetitive movies
+C011376,Wrong,Safe,Neutral comment about music similarity
+C011380,Wrong,Safe,"Political warning statement, not group hate"
+C011381,Wrong,Safe,Unclear request for respect for elders
+C011382,Wrong,Safe,Unclear neutral movie comment
+C011383,Wrong,Safe,Sarcastic political comment about votes
+C011386,Wrong,Safe,Wordplay comparing movie titles
+C011387,Wrong,Offensive,"Insulting implication about someone's background, not group hate"
+C011390,Wrong,Threat,Threatens beating someone
+C011397,Wrong,Safe,Political movie criticism
+C011398,Correct,,Vulgar personal insult
+C011400,Unsure,,"Garbled text, meaning unclear"
+C011401,Wrong,Offensive,"Accusatory gossip about individual's behavior, not hate speech"
+C011405,Wrong,Offensive,"Vulgar personal insult about her acting, not group hate"
+C011408,Wrong,Safe,Social opinion about trust and progress
+C011422,Wrong,Safe,"Political opinion, no hate"
+C011427,Wrong,Safe,Praise for correct statement
+C011434,Wrong,Safe,Joking fan banter mocking rival fans
+C011439,Wrong,Offensive,"Insult at individual politician, not group hate"
+C011440,Wrong,Safe,Sarcastic political remark
+C011446,Wrong,Safe,Fan comment about watching for one actor
+C011454,Wrong,Offensive,"Body-shaming insult at individual, not group hate"
+C011456,Wrong,Safe,Fan banter referencing old movie
+C011458,Wrong,Safe,Mild movie criticism
+C011459,Wrong,Safe,Simple negative opinion
+C011461,Wrong,Safe,Supportive reality show comment
+C011462,Wrong,Safe,Fan anticipation comment
+C011463,Wrong,Offensive,"Vulgar hyperbole about team management, not hate"
+C011482,Wrong,Safe,Comment comparing graphics to old show
+C011483,Wrong,Offensive,"Rant against TikTok users, not protected-group hate"
+C011496,Wrong,Safe,Fan comment about watching for actor
+C011498,Wrong,Safe,"Fan discussion, no hate"
+C011502,Correct,,Caste-based hostile commentary
+C011506,Wrong,Safe,Neutral financial comment
+C011508,Wrong,Safe,Positive reaction comment
+C011509,Wrong,Safe,"Political hypocrisy comment, not vulgar"
+C011518,Correct,,Mocking insult calling actor fake
+C011520,Correct,,Caste-related hostile rant
+C011521,Wrong,Safe,Neutral political party comment
+C011522,Wrong,Offensive,"Vulgar personal insult about age gap, not group hate"
+C011525,Wrong,Safe,Fan opinion about casting
+C011532,Wrong,Safe,Neutral fan request
+C011543,Wrong,Safe,Praise and thanks
+C011547,Wrong,Safe,"Fan criticism of rivalry, not vulgar"
+C011549,Wrong,Safe,Neutral fan comment about actor
+C011551,Wrong,Offensive,"Complaint about spoiler trailer, mild insult"
+C011554,Wrong,Safe,Neutral comparison comment
+C011556,Correct,,Explicit caste-based vulgar slurs
+C011560,Wrong,Safe,Unclear fan banter comparison
+C011566,Wrong,Safe,Neutral fan comment about trailer discussion
+C011572,Correct,,Mild insult directed at group tied to director
+C011574,Wrong,Safe,Neutral comment about typecast character
+C011575,Wrong,Safe,Political opinion about protests
+C011578,Wrong,Safe,Unclear personal comment
+C011584,Wrong,Safe,Political sarcasm
+C011587,Wrong,Offensive,"Mild insult at fans, not group-identity hate"
+C011596,Wrong,Safe,Emotional appreciative comment
+C011602,Wrong,Threat,Explicit threat to beat/crush anyone opposing release
+C011603,Wrong,Offensive,"Mocking insult at individual, not group hate"
+C011606,Wrong,Offensive,"Vulgar insult at TikTok users, not protected-group hate"
+C011614,Unsure,,"Garbled rant, unclear meaning"
+C011618,Wrong,Sexual Harassment,Explicit sexual accusation about a specific person
+C011621,Wrong,Offensive,"Vulgar insult at specific individuals in a crime case, not group hate"
+C011623,Wrong,Safe,Neutral comment about short film scale
+C011624,Wrong,Offensive,"Political mockery, not group-identity hate"
+C011626,Unsure,,"Unclear meaning, possibly age-related comment"
+C011631,Wrong,Safe,Neutral life lesson/moral
+C011634,Wrong,Offensive,"Vulgar insult at group of students, not protected-class hate"
+C011641,Wrong,Safe,"Sarcastic tease about someone's camera-consciousness, not hateful"
+C011642,Wrong,Safe,Political mocking comment
+C011645,Wrong,Safe,Political opinion urging criticism of corrupt politicians
+C011651,Wrong,Safe,Praise for honesty
+C011658,Wrong,Safe,Fan comment favoring another actor
+C011663,Wrong,Safe,Wish for actor's return
+C011664,Wrong,Safe,Neutral comment about actress
+C011674,Wrong,Threat,"Explicit threat to beat critics, tied to caste debate"
+C011677,Wrong,Safe,Neutral movie dialogue criticism
+C011680,Wrong,Safe,Praise for trailer
+C011683,Wrong,Safe,Neutral view count comparison
+C011685,Wrong,Sexual Harassment,Objectifying romantic/sexual remark about a specific woman's looks
+C011690,Correct,,Vulgar caste-related dehumanizing term
+C011693,Wrong,Safe,Humorous comment about mispronunciation
+C011703,Wrong,Safe,Supportive comment
+C011708,Unsure,,"Unclear reference, possibly caste-related, ambiguous"
+C011709,Wrong,Safe,"Commentary defending movie against caste-film label, not hate itself"
+C011724,Wrong,Safe,Song comparison opinion
+C011726,Wrong,Offensive,"Mild insult at dislikers, not group hate"
+C011728,Wrong,Safe,"Political praise, no hate"
+C011733,Unsure,,"Garbled fragment about PUBG, unclear"
+C011735,Correct,,Fan rivalry insult calling actor a loser
+C011741,Wrong,Safe,Fan complaint about dislikes
+C011745,Wrong,Safe,"Unclear fan banter, no hate"
+C011747,Wrong,Offensive,"Regional political insult, not protected-group hate"
+C011748,Wrong,Safe,Confused comment about liking video
+C011749,Wrong,Safe,Neutral movie scene comment
+C011751,Wrong,Threat,Explicit violent imagery calling to cut with weapon
+C011752,Wrong,Offensive,"Vulgar insult at fan group, not protected-class hate"
+C011755,Wrong,Safe,Well-wishing comment
+C011761,Wrong,Safe,Neutral music criticism
+C011763,Wrong,Safe,Praise comparing to other movies
+C011764,Unsure,,"Unclear slang term, meaning unclear"
+C011766,Wrong,Offensive,"Vulgar insult at dislikers, not group hate"
+C011770,Wrong,Safe,Political and social opinion about caste politics and civic sense
+C011774,Correct,,Vulgar crude description of trailer quality
+C011778,Wrong,Safe,Fan banter comparing actors
+C011785,Wrong,Safe,Fan banter about likes
+C011787,Wrong,Safe,Encouraging neutral comment
+C011789,Wrong,Safe,"Opinion blaming nepotism for actor's death, not hate speech"
+C011790,Wrong,Safe,Neutral political comment
+C011795,Wrong,Safe,"Regional political grievance, not hate"
+C011798,Wrong,Safe,"Movie criticism, calling it a flop"
+C011805,Unsure,,"Vulgar fragment, unclear target/intent"
+C011807,Wrong,Safe,Neutral fan poll comment
+C011810,Wrong,Safe,Neutral question about movie delay
+C011812,Wrong,Safe,Fan criticism about disrespecting actor
+C011815,Wrong,Safe,"Political criticism, no hate"
+C011816,Wrong,Safe,Praise for editing
+C011818,Wrong,Safe,"Mild warning about career, not hate"
+C011822,Wrong,Safe,Positive movie comparison
+C011826,Wrong,Safe,Neutral comment about intense scene
+C011832,Wrong,Safe,"Political comment about legal punishment, not hate speech"
+C011836,Wrong,Safe,Praise for actor
+C011840,Wrong,Safe,"Criticism of journalist's language, not hate speech"
+C011842,Correct,,Insult calling actor a fool
+C011843,Correct,,Mocking insult at young dislikers
+C011848,Wrong,Threat,Threatens to beat critics with vulgar dog insult
+C011852,Unsure,,"Vague comment about dress/dance, ambiguous intent"
+C011855,Wrong,Safe,Neutral music criticism
+C011856,Wrong,Safe,Philosophical statement about treating humans humanely
+C011861,Wrong,Safe,Praise for trailer and social message
+C011862,Wrong,Offensive,"Extremely vulgar personal insult, not group-targeted"
+C011864,Wrong,Safe,Neutral request to YouTube admin
+C011872,Wrong,Safe,"Vague moral statement, no hate"
+C011876,Wrong,Safe,Praise comparing to acclaimed films
+C011877,Wrong,Safe,Praise for meaningful songs
+C011886,Wrong,Safe,"Political praise, no hate"
+C011892,Wrong,Safe,Compliment about appearance
+C011896,Wrong,Offensive,"Insult at politician, not group hate"
+C011897,Wrong,Safe,Opinion criticizing film for stoking caste division
+C011898,Wrong,Safe,Casual conversation about teaser
+C011901,Wrong,Sexual Harassment,Extremely vulgar sexualized insult about a woman's body
+C011902,Wrong,Safe,Mild unclear comment about actress
+C011903,Correct,,Vulgar insult at director
+C011907,Wrong,Safe,Neutral political observation
+C011912,Wrong,Safe,Neutral question about political announcement
+C011913,Wrong,Safe,"Vague exclamation, no hate"
+C011916,Wrong,Safe,"Political criticism of lawmakers, sarcastic"
+C011925,Wrong,Safe,Romantic fan question about movie scene
+C011938,Wrong,Safe,Unclear joke reference
+C011941,Correct,,Vulgar fan rivalry insult
+C011944,Wrong,Offensive,"Vulgar insult at politician, not group hate"
+C011945,Wrong,Safe,"Accusatory political question, not hate speech"
+C011946,Wrong,Safe,Neutral observation about dislikes
+C011947,Wrong,Safe,"Hyperbolic dislike of media house, not real threat"
+C011952,Wrong,Sexual Harassment,Explicit vulgar sexual remark at named woman
+C011956,Wrong,Safe,"Fan quote reference, no hate"
+C011957,Wrong,Offensive,"Insult directed at a troll, not group-targeted hate"
+C011964,Wrong,Safe,Mild acting criticism
+C011965,Wrong,Safe,"Political opinion, no hate"
+C011970,Wrong,Safe,Joking movie comparison
+C011974,Wrong,Offensive,Mild insult calling someone dramatic
+C011975,Correct,,Body-shaming insult at actor
+C011977,Wrong,Safe,Neutral movie editing criticism
+C011979,Wrong,Offensive,"Vulgar insult at individual director, not group hate"
+C011980,Wrong,Safe,"Fan hype statement, no real insult"
+C011981,Wrong,Safe,Neutral movie criticism
+C011983,Wrong,Safe,"Political mockery about election loss, metaphorical"
+C011985,Wrong,Safe,Social criticism about alcohol policy
+C011986,Wrong,Safe,"Religious commentary question, no hate"
+C011987,Wrong,Safe,Music comparison criticism
+C011999,Wrong,Safe,Fan praise for actor family
+C012000,Wrong,Safe,Positive comment about movie
+C012001,Wrong,Safe,Positive fan comment
+C012007,Wrong,Safe,"Comedic rural joke, no hate"
+C012010,Wrong,Safe,Mocking movie comparison joke
+C012015,Wrong,Safe,"Vague mild scolding, unclear target"
+C012017,Wrong,Safe,Opinion criticizing caste-themed films
+C012020,Wrong,Safe,Unclear fan respect comment
+C012021,Wrong,Safe,General life wisdom comment
+C012022,Wrong,Safe,Unclear casual slang comment
+C012026,Wrong,Safe,Casual exclamation
+C012029,Wrong,Safe,Unclear neutral comment
+C012031,Wrong,Safe,Political debate about caste representation in cinema
+C012033,Wrong,Safe,Accusatory political comment about land grabbing
+C012034,Wrong,Safe,Positive fan hype comment
+C012037,Wrong,Sexual Harassment,Sexualized comment about someone's gaze
+C012047,Wrong,Offensive,Political insult calling someone a liar
+C012053,Wrong,Safe,Praise comment
+C012054,Wrong,Safe,Praise for speech
+C012059,Unsure,,"Garbled phrase, ambiguous intent"
+C012061,Wrong,Safe,Praise comment
+C012062,Wrong,Safe,Praise for good explanation
+C012065,Wrong,Safe,Well wishes for team
+C012066,Wrong,Safe,Neutral comment
+C012067,Wrong,Safe,"Casting suggestion, positive"
+C012070,Wrong,Safe,Joking comment about actor
+C012074,Wrong,Safe,Joking movie comment
+C012076,Correct,,Explicit religious hate speech targeting Christian/Islamic groups
+C012077,Wrong,Safe,Personal religious belief statement
+C012078,Correct,,Vulgar personal insult
+C012080,Wrong,Safe,Neutral reference to college batch
+C012087,Unsure,,"Garbled phrase, unclear"
+C012092,Wrong,Safe,"Fan rivalry metaphor, mild"
+C012093,Wrong,Safe,"Hyperbolic fan hype language, not real threat"
+C012095,Wrong,Safe,Neutral question about actress
+C012096,Wrong,Safe,"Regional political criticism, not explicit hate"
+C012099,Wrong,Safe,Fan comparison banter
+C012108,Wrong,Safe,Agreement/praise comment
+C012114,Wrong,Safe,Well wish for movie success
+C012117,Correct,,Mild insult calling filmmakers copycats
+C012120,Correct,,Mild insult calling fans crazy
+C012123,Correct,,Uses eunuch slur as insult
+C012124,Wrong,Safe,Praise comment
+C012130,Wrong,Safe,Fan rivalry commentary
+C012142,Correct,,Vulgar insult at actor
+C012143,Wrong,Safe,Neutral movie criticism
+C012144,Wrong,Safe,Praise comment
+C012146,Wrong,Safe,Neutral comment about music composer
+C012149,Wrong,Safe,Praise for communication style
+C012155,Wrong,Sexual Harassment,Explicit sexualized comment about thighs
+C012157,Wrong,Safe,"Plagiarism accusation, neutral"
+C012160,Wrong,Safe,Joking comment about actor
+C012163,Correct,,Mild appearance-based mockery
+C012166,Wrong,Safe,Well wishes for festival wins
+C012168,Wrong,Safe,"Wishes movie success, vague reference to critics"
+C012172,Wrong,Safe,Praise for acting skill using hyperbole
+C012173,Wrong,Offensive,Mild insult calling interviewee crazy
+C012178,Wrong,Safe,Neutral comment about short film concept
+C012179,Wrong,Safe,Tribute/praise statement about sacrifice
+C012181,Wrong,Safe,Mild complaint about causing trouble to actor
+C012194,Wrong,Safe,Nostalgic generational comment
+C012195,Wrong,Safe,Neutral political joke suggestion
+C012196,Wrong,Safe,Mocking joke about character design
+C012199,Wrong,Safe,Mild opinion about language skill
+C012204,Correct,,Vulgar insult at filmmakers
+C012207,Wrong,Safe,Neutral cricket opinion
+C012211,Wrong,Safe,"Anti-caste-discrimination and anti-rape appeal, not hate speech"
+C012215,Wrong,Safe,Unclear neutral movie comment
+C012217,Wrong,Safe,Social commentary on disrespect toward dancers
+C012221,Wrong,Safe,Positive statement listing castes supporting movie
+C012226,Wrong,Safe,Neutral encouraging statement
+C012230,Wrong,Safe,Mild comment about dislikers
+C012234,Correct,,Vulgar insult about age
+C012237,Wrong,Safe,Political sarcasm about problems
+C012242,Wrong,Safe,Vague exclamation about TN
+C012244,Wrong,Safe,Mild request to stop overacting
+C012245,Wrong,Safe,Neutral observation about interviews
+C012249,Wrong,Offensive,"Vulgar insult at TikTok supporters, not protected-group hate"
+C012252,Wrong,Safe,Neutral question about release
+C012253,Wrong,Safe,Unclear fan exclamation
+C012260,Wrong,Safe,Political/religious sarcasm
+C012261,Wrong,Safe,Praise for prediction/editing
+C012265,Wrong,Safe,"Political request, neutral"
+C012272,Wrong,Safe,Joking fan complaint about waiting
+C012275,Wrong,Hate Speech,Mocking insult targeting a specific caste group's mindset
+C012277,Correct,,Insult questioning actor's acting ability
+C012279,Wrong,Safe,Political opinion and fan praise
+C012283,Wrong,Safe,Fan praise comment
+C012287,Correct,,Insult at dislikers using censored vulgar term
+C012288,Wrong,Safe,Fan hype comment
+C012290,Wrong,Offensive,Insult calling individual a fool
+C012295,Wrong,Offensive,Insult mocking actor's movies and speech
+C012298,Wrong,Safe,"Political corruption accusation, not hate speech"
+C012301,Wrong,Safe,Praise comment
+C012304,Wrong,Safe,Neutral feedback request
+C012305,Wrong,Safe,Compliment about actor's looks
+C012306,Wrong,Safe,Joking BGM comparison
+C012315,Wrong,Safe,Wordplay joke about movie title
+C012317,Correct,,Insult calling someone a psycho
+C012318,Wrong,Safe,Praise for honesty
+C012328,Wrong,Safe,Vague social comment
+C012330,Correct,,Vulgar personal insult
+C012334,Wrong,Safe,Neutral movie story comment
+C012338,Correct,,Vulgar insult chain at named individual
+C012341,Wrong,Safe,Neutral question about song popularity
+C012343,Wrong,Safe,Vague comment about actress's expression
+C012345,Wrong,Safe,Neutral factual comment
+C012350,Wrong,Safe,Mixed praise and mild criticism
+C012362,Wrong,Safe,Fan hype praise
+C012364,Wrong,Safe,Praise and well wishes
+C012367,Wrong,Safe,"Brief mocking reference to fans, unclear target"
+C012368,Unsure,,"Garbled aggressive rant, ambiguous intent/target"
+C012375,Wrong,Safe,Casual unclear comment
+C012387,Correct,,Disturbing rhetorical outrage about content's influence on kids
+C012390,Wrong,Sexual Harassment,Explicit sexualized comment about a woman's body
+C012391,Wrong,Safe,Neutral movie repetitiveness criticism
+C012392,Wrong,Safe,Praise for changed behavior
+C012393,Correct,,Vulgar insult at actor
+C012394,Wrong,Offensive,"Vulgar insult about individual cricketer, not group hate"
+C012406,Wrong,Safe,Mild neutral question
+C012411,Wrong,Safe,"General social observation, no hate"
+C012412,Wrong,Safe,Neutral opinion about watching later
+C012413,Wrong,Safe,Praise for leader
+C012422,Wrong,Safe,Neutral comment about idea origin
+C012430,Wrong,Safe,Political well-wish
+C012431,Wrong,Safe,"Comment about movie marketing, neutral"
+C012435,Wrong,Safe,Unclear neutral movie comment
+C012438,Wrong,Safe,Praise for actor
+C012442,Wrong,Safe,Praise for family
+C012446,Wrong,Safe,"Movie casting criticism, neutral"
+C012464,Wrong,Threat,Explicit violent sexual threat against named individual
+C012465,Wrong,Safe,Praise for movie style
+C012470,Correct,,Vulgar insult at dislikers
+C012476,Wrong,Safe,Vague colloquial expression
+C012477,Wrong,Offensive,Body-shaming insult comparing someone to a buffalo
+C012481,Wrong,Safe,Fan hype comment about release date
+C012482,Wrong,Safe,"Music plagiarism accusation, neutral"
+C012485,Wrong,Safe,Praise comment
+C012493,Wrong,Offensive,"Vulgar comparison of movie to porn, not group hate"
+C012496,Wrong,Offensive,"Vulgar personal insult, not group hate"
+C012498,Wrong,Safe,Praise/proverb comment
+C012503,Wrong,Safe,Emotional praise for movie scene
+C012507,Wrong,Safe,"Political governance comment, neutral"
+C012510,Wrong,Offensive,"Mild regional complaint, not caste/religion/gender hate"
+C012515,Unsure,,"Garbled comment, unclear meaning"
+C012516,Wrong,Safe,Neutral opinion about trailer vs movie
+C012518,Correct,,Explicit caste-based dehumanizing slur
+C012519,Wrong,Safe,"Political corruption criticism, not hate"
+C012526,Wrong,Safe,Praise for political icons
+C012529,Wrong,Offensive,Mild insult calling critics random nobodies
+C012532,Wrong,Safe,Unclear fan comment
+C012544,Wrong,Safe,Neutral question about release
+C012545,Wrong,Safe,Joking movie comparison
+C012546,Wrong,Safe,"Political criticism of politician's stance, not hate speech"
+C012549,Wrong,Safe,"Vague criticism, unclear target"
+C012550,Unsure,,"Ambiguous wordplay pun, possibly lewd innuendo"
+C012558,Wrong,Safe,"Political/financial accusation, not hate"
+C012560,Wrong,Safe,Praise for actor
+C012562,Wrong,Safe,Social commentary about film industry economics
+C012563,Wrong,Safe,Metaphorical fan hype about comeback
+C012567,Wrong,Safe,Anti-cheating moral message with caste-community shoutout
+C012568,Wrong,Offensive,"Vulgar sexual slurs directed at filmmakers, not clear group hate"
+C012572,Correct,,Mild insult calling commenters fools
+C012574,Wrong,Safe,Mild movie criticism
+C012584,Wrong,Safe,Fan hype comment
+C012585,Wrong,Safe,Neutral suggestion about screening
+C012587,Wrong,Offensive,Hyperbolic insult calling critics terrorists
+C012589,Wrong,Safe,Mild complaint about dislikers
+C012592,Wrong,Safe,Mild rhetorical complaint about dislikes
+C012597,Wrong,Offensive,"Vulgar insult at politician, not group hate"
+C012604,Wrong,Safe,Praise comment
+C012606,Wrong,Offensive,"Hyperbolic fan statement implying violence against critics, conditional"
+C012607,Wrong,Safe,Simple negative movie opinion
+C012609,Wrong,Offensive,"Vulgar insult at named politicians, not group hate"
+C012610,Wrong,Safe,"Movie criticism, mild"
+C012611,Wrong,Safe,"Fan rivalry comment, mild"
+C012613,Wrong,Safe,Neutral question about interview
+C012614,Wrong,Safe,Neutral political/fan comment
+C012619,Wrong,Safe,Positive hype comment
+C012635,Wrong,Safe,Praise comment
+C012636,Wrong,Threat,"Explicit reference to raping a named celebrity, violent sexual threat"
+C012641,Wrong,Safe,"General proverb, no hate"
+C012646,Wrong,Safe,Mild casting complaint
+C012649,Wrong,Safe,Neutral vague comment
+C012651,Wrong,Safe,Neutral observation about views
+C012653,Correct,,Mild mocking insult at fan group
+C012654,Correct,,Vulgar insult mixed with fan hype
+C012656,Wrong,Safe,Neutral comparison joke
+C012666,Wrong,Safe,Praise comment
+C012671,Correct,,Fan rivalry insult calling actor a loser
+C012675,Wrong,Offensive,"Vulgar insult at music company, not group hate"
+C012677,Wrong,Safe,Hopeful neutral comment
+C012687,Wrong,Safe,Joking exaggerated comment
+C012688,Wrong,Safe,Praise comment
+C012693,Unsure,,"Poetic text mixed with vulgar term, unclear intent"
+C012701,Wrong,Safe,"Harsh movie criticism, not vulgar insult"
+C012705,Wrong,Safe,Hyperbolic comment about winning a TV debate
+C012708,Wrong,Safe,Praise comment
+C012715,Wrong,Safe,Fan speculation about dislikers
+C012717,Wrong,Offensive,"Mild insult calling people crazy, political context"
+C012720,Wrong,Safe,Self-aware joking fan comment
+C012728,Wrong,Sexual Harassment,Extremely vulgar sexual insult directed at named woman
+C012736,Wrong,Safe,"Accusation of copying short film, neutral"
+C012741,Wrong,Safe,Praise for singers
+C012742,Wrong,Safe,"Political corruption criticism, neutral"
+C012746,Correct,,Insult calling likers idiots
+C012752,Wrong,Offensive,Mild personal criticism of interviewer's skill
+C012755,Wrong,Safe,Neutral sports comment
+C012761,Wrong,Hate Speech,Vulgar caste-based slurs targeting actor's caste identity
+C012766,Wrong,Safe,Mild criticism about actor's age appearance
+C012774,Unsure,,"Garbled comment with censored insult, unclear target"
+C012779,Wrong,Safe,"Vague complaint about idle people, no clear target"
+C012780,Wrong,Safe,Fan banter song reference
+C012786,Wrong,Safe,Fan comment about waiting for release
+C012788,Wrong,Safe,Neutral sports comment
+C012793,Correct,,Mild insult at fan group about dislikes
+C012794,Wrong,Safe,Mild criticism about repeating dialogues
+C012796,Wrong,Threat,Explicit threat to cut hands of wrongdoers
+C012802,Wrong,Safe,Neutral observation about views
+C012804,Wrong,Safe,"Teasing fan banter, positive"
+C012805,Wrong,Safe,Praise for punch dialogue
+C012806,Correct,,Insult calling actress waste
+C012812,Wrong,Safe,Neutral request
+C012816,Wrong,Safe,Fan criticism about hero's movie choices
+C012820,Wrong,Safe,"Fan rivalry banter, mild"
+C012828,Wrong,Safe,Neutral reflective comment
+C012833,Wrong,Safe,Fan concern exclamation
+C012835,Wrong,Safe,Mild criticism about overacting
+C012838,Wrong,Safe,"Literary/poetic reference, neutral"
+C012844,Wrong,Safe,Fan hype listing heroes
+C012848,Wrong,Safe,Movie criticism opinion
+C012850,Wrong,Offensive,"Hyperbolic insult telling haters to die, not group hate"
+C012851,Wrong,Safe,Fan quote reference
+C012856,Wrong,Safe,Joking political comment
+C012861,Wrong,Safe,"Movie criticism, neutral"
+C012862,Wrong,Offensive,"Moral criticism calling believers fools, individual target"
+C012866,Wrong,Safe,Vague idiom about downfall
+C012869,Wrong,Safe,Fan quote reference joke
+C012871,Wrong,Safe,"Political corruption accusation, not hate speech"
+C012873,Wrong,Offensive,"Vulgar fan rivalry insult, not group hate"
+C012874,Wrong,Offensive,"Insult calling dislikers trashy, not group hate"
+C012878,Wrong,Safe,Political commentary defending someone's stance
+C012879,Wrong,Safe,Fan hype exclamation
+C012886,Wrong,Safe,Neutral question about 3D
+C012899,Wrong,Safe,Neutral suggestion about supporting filmmakers
+C012901,Wrong,Offensive,"Hyperbolic aggressive warning, fan hyperbole not real threat"
+C012904,Correct,,Mild insult at fan group
+C012907,Wrong,Safe,Appreciation comment
+C012919,Wrong,Safe,Praise for song
+C012921,Correct,,Vulgar insult at TikTok users
+C012927,Wrong,Safe,"Mild career warning to actor, no vulgar insult"
+C012933,Wrong,Safe,"Casting criticism question, neutral"
+C012935,Wrong,Safe,Political praise
+C012936,Wrong,Safe,Sarcastic commentary mocking recurring movie themes
+C012937,Wrong,Safe,Political sarcasm about corruption
+C012938,Wrong,Safe,Unclear neutral comment about locations
+C012949,Wrong,Safe,"Music criticism/suggestion, neutral"
+C012950,Wrong,Safe,Fan hype praise
+C012952,Correct,,Vulgar-ish insult at dislikers
+C012953,Wrong,Safe,Unclear neutral comment
+C012954,Wrong,Safe,"Unclear phrase, likely praise"
+C012956,Wrong,Offensive,"Hostile rant against caste-based fighting, not group-targeted"
+C012959,Wrong,Safe,"Cautionary advice to women, not hateful"
+C012965,Wrong,Safe,Comment about long wait for release
+C012966,Correct,,Mild appearance-based mockery
+C012967,Wrong,Safe,Unclear comment about rowdyism
+C012970,Wrong,Safe,Fan hype comment
+C012974,Correct,,Mild insult about lack of good theatres
+C012975,Unsure,,"Very short fragment, unclear intent"
+C012980,Unsure,,"Unclear slang, meaning unclear"
+C012983,Wrong,Safe,Unclear neutral comment
+C012986,Correct,,Explicit caste-based insult and slur
+C012990,Wrong,Safe,Complaint about piracy via Telegram
+C012998,Wrong,Safe,"Political advice metaphor, no hate"
+C013000,Wrong,Safe,Factual discussion about criminal case and police encounter
+C013002,Correct,,Vulgar insult at director
+C013004,Wrong,Offensive,"Vulgar insult at those who fake love, not protected-group hate"
+C013005,Wrong,Safe,"Political prediction about election loss, mild"
+C013009,Wrong,Safe,Neutral reaction to removed scene
+C013010,Wrong,Safe,Neutral question about music composer
+C013011,Wrong,Offensive,"Dehumanizing insult at fake lovers, caste mention is supportive shoutout"
+C013015,Wrong,Safe,Neutral opinion about trailer vs movie
+C013016,Wrong,Safe,"Wondering about dislike group, mild"
+C013017,Wrong,Offensive,"Vulgar-ish insult at media sensationalism, not group hate"
+C013018,Correct,,Vulgar insult at named individual
+C013020,Correct,,Vulgar insult implying visiting prostitutes
+C013043,Wrong,Safe,Hypothetical casting comment
+C013045,Wrong,Safe,"Mild costume/styling critique, not vulgar"
+C013056,Wrong,Offensive,"Mild insult at fans in rivalry banter, not group hate"
+C013059,Wrong,Safe,Political praise
+C013070,Wrong,Safe,Neutral question about views
+C013073,Wrong,Safe,Fan praise about music
+C013077,Wrong,Safe,"Fan rivalry comment, mild dismissal"
+C013080,Wrong,Safe,Fan congratulation comment
+C013084,Wrong,Safe,Caste-related political grievance about job discrimination
+C013088,Wrong,Safe,Praise for movie's impact
+C013090,Wrong,Safe,Praise for punch dialogue
+C013091,Wrong,Safe,"Fan observation, neutral"
+C013093,Wrong,Safe,Political praise
+C013098,Wrong,Safe,"Unclear acting criticism, not vulgar"
+C013101,Unsure,,"Unclear Kannada slang phrase, meaning ambiguous"
+C013102,Wrong,Safe,Praise and political wish
+C013103,Wrong,Safe,Mild criticism about actor doing politics
+C013111,Wrong,Safe,Respectful praise
+C013112,Wrong,Safe,"Dark hyperbolic joke about fans, not real threat"
+C013116,Wrong,Safe,"Sports opinion, neutral"
+C013117,Wrong,Safe,Personal question seeking advice
+C013120,Wrong,Safe,Nostalgic movie reference
+C013123,Wrong,Safe,Social commentary praising movie's message
+C013124,Wrong,Safe,"Criticism about misuse of temple funds, not hate speech"
+C013128,Wrong,Safe,"Praise, excitement idiom"
+C013133,Wrong,Offensive,Personal insult mocking commenter's voice/opinion
+C013148,Wrong,Safe,Mild criticism about repetitive story
+C013149,Wrong,Offensive,Mocking insult calling individual caste-obsessed
+C013150,Wrong,Safe,"Political infrastructure criticism, neutral"
+C013158,Wrong,Sexual Harassment,Explicit vulgar sexual insult directed at named woman
+C013164,Correct,,Vulgar censored insult at actor
+C013168,Wrong,Safe,Unclear casual comment
+C013178,Wrong,Safe,Anti-caste-division opinion criticizing caste-themed films
+C013181,Wrong,Safe,Supportive praise comment
+C013184,Wrong,Safe,"Political opinion, no hate"
+C013190,Wrong,Threat,Explicit threat to cut hands of wrongdoers
+C013194,Wrong,Safe,Neutral listing of movie flops
+C013196,Wrong,Offensive,Mild insult calling someone a joker
+C013209,Wrong,Offensive,"Vulgar sarcastic jab about hypocrisy, not group hate"
+C013211,Wrong,Safe,Neutral fan comment about scene
+C013214,Wrong,Safe,"Reference to real cases, critical commentary not hate speech"
+C013220,Wrong,Safe,"Industry criticism, neutral"
+C013226,Wrong,Safe,Movie acting criticism with hyperbolic reference
+C013227,Wrong,Safe,Mild joking comparison of trailers
+C013232,Correct,,Dehumanizing insult targeting caste-narrative promoters
+C013246,Correct,,Mild insult at individual using actor's name
+C013247,Wrong,Offensive,Crude joke implying commenter's wife infidelity
+C013256,Wrong,Safe,Neutral movie criticism
+C013259,Wrong,Safe,Praise comment
+C013266,Correct,,Vulgar insult at fan group
+C013269,Wrong,Safe,Neutral comment about repetitive comments
+C013271,Wrong,Safe,Praise/anticipation comment
+C013277,Wrong,Safe,Compliment about appearance
+C013280,Wrong,Offensive,"Vulgar insult at actors, not group hate"
+C013285,Wrong,Safe,Political sarcastic hypothetical
+C013288,Wrong,Safe,"Mild criticism, not vulgar"
+C013292,Wrong,Safe,Fan rivalry comment
+C013293,Correct,,Vulgar expression of disgust about movie
+C013298,Wrong,Offensive,"Vulgar personal insult/gossip, not group hate"
+C013303,Wrong,Offensive,"Political insult and accusation against a CM, individual target"
+C013304,Wrong,Safe,Unclear mild comment
+C013306,Wrong,Safe,Joke about audience reaction
+C013309,Wrong,Safe,Praise comment
+C013312,Wrong,Safe,Unclear neutral comment
+C013313,Wrong,Safe,Supportive comment about exposing fake content creators
+C013314,Wrong,Hate Speech,Sexist insult equating femininity with weakness
+C013315,Wrong,Safe,"Vulgar exclamation about IPL interest, no target"
+C013318,Wrong,Hate Speech,Explicit caste-based slur and dehumanizing insult at director
+C013319,Wrong,Safe,"Political criticism, not hate"
+C013327,Wrong,Offensive,Mocking insult about someone's face/appearance
+C013335,Wrong,Safe,Political opinion about protests
+C013339,Wrong,Safe,Praise comment
+C013344,Wrong,Safe,Social commentary about caste double-standards in reception
+C013353,Wrong,Safe,Mild movie criticism
+C013354,Wrong,Safe,Sarcastic movie joke
+C013360,Correct,,Insult about actress's wooden acting
+C013361,Wrong,Offensive,"Insult calling fans cheap, not group hate"
+C013362,Wrong,Safe,Praise comment
+C013364,Wrong,Safe,Political criticism about hypocrisy regarding caste and a woman
+C013370,Wrong,Offensive,"Vulgar personal insult, not clearly group hate"
+C013371,Wrong,Safe,Neutral movie feedback
+C013375,Wrong,Safe,Philosophical statement about eating meat
+C013376,Wrong,Safe,Anti-caste-hatred commentary criticizing comment section
+C013377,Wrong,Safe,Complaint about repetitive ads
+C013379,Wrong,Safe,Criticizes disrespectful joke about someone's wife
+C013385,Wrong,Safe,Unclear joke comment
+C013386,Wrong,Safe,Praise comment
+C013393,Wrong,Offensive,Vulgar insult at named political figures
+C013397,Wrong,Safe,Mild complaint about dislikers
+C013399,Correct,,Mild insult calling dislikers opportunists
+C013402,Wrong,Offensive,Vulgar insult at critics over perceived hypocrisy
+C013411,Correct,,Vulgar insult at music composer
+C013413,Wrong,Offensive,Insult calling individuals petty/cheap
+C013419,Wrong,Safe,Neutral question about dislikes
+C013420,Correct,,Mild insult about actor's acting
+C013421,Wrong,Safe,Unclear joke about likes
+C013425,Wrong,Safe,Positive movie comment
+C013428,Wrong,Safe,Prediction movie will flop
+C013432,Wrong,Safe,Positive hype about industry
+C013434,Wrong,Safe,Fan hype hyperbole
+C013437,Wrong,Safe,Political prediction opinion
+C013438,Wrong,Safe,Unclear name joke
+C013445,Unsure,,Unclear political comment
+C013451,Wrong,Safe,Joke about begging for likes
+C013454,Wrong,Offensive,"Vulgar exclamation, no clear target"
+C013458,Wrong,Safe,Devotional praise comment
+C013464,Wrong,Safe,Mild fan criticism
+C013469,Wrong,Safe,Fan hype about villain scene
+C013472,Wrong,Safe,Positive social commentary about opportunities
+C013478,Wrong,Safe,Mild political mockery
+C013481,Correct,,Vulgar insult at politician
+C013482,Wrong,Offensive,Mild criticism about actress's look for a role
+C013486,Wrong,Safe,Critical opinion about reviewer/actor credibility
+C013493,Wrong,Safe,"Movie dialogue quote, not real threat"
+C013502,Unsure,,"Unclear rant, ambiguous target"
+C013503,Correct,,Vulgar insult at TikTok users
+C013508,Correct,,Mild appearance mockery
+C013515,Wrong,Safe,Political criticism about politicians' courage
+C013521,Wrong,Offensive,Vague insult calling unspecified people fools
+C013524,Wrong,Safe,Neutral question about dislikes
+C013526,Unsure,,"Garbled phrase, unclear meaning"
+C013527,Wrong,Safe,Neutral observation about gender role portrayal
+C013532,Wrong,Safe,Fan excitement comment
+C013536,Wrong,Safe,Praise about looking young
+C013540,Wrong,Safe,General life wisdom
+C013557,Wrong,Safe,Neutral view count comparison
+C013569,Wrong,Safe,Fan hype exclamation
+C013572,Correct,,Vulgar insult targeting community-based fan group
+C013574,Wrong,Safe,Mild fan complaint about mockery
+C013577,Wrong,Offensive,"Vulgar personal insult, not group hate"
+C013580,Correct,,Vulgar censored personal insult
+C013593,Correct,,Vulgar insult at fan group
+C013594,Wrong,Safe,Political corruption criticism
+C013595,Correct,,Mild insult at filmmakers
+C013600,Wrong,Safe,Mild hairstyle comparison
+C013604,Wrong,Safe,Political praise
+C013615,Correct,,Vulgar insult about trailer quality
+C013618,Wrong,Safe,"Criticism of movie as caste-divisive, not hate speech itself"
+C013621,Wrong,Safe,Fan hype comparison praise
+C013623,Wrong,Safe,General opinion about movies and society
+C013625,Wrong,Safe,Fan banter about dislikes
+C013628,Wrong,Safe,Critical commentary about filmmaker's formulaic themes
+C013632,Wrong,Offensive,Mild insult about movie/acting quality
+C013633,Wrong,Offensive,Mocking insult about empty claims
+C013650,Wrong,Safe,Praise for composer
+C013654,Wrong,Safe,Joke about mother's reaction
+C013656,Wrong,Safe,Mild request mixed with praise
+C013659,Wrong,Safe,Neutral joke about digital payments
+C013661,Wrong,Safe,Neutral fan reference comment
+C013669,Unsure,,"Nonsensical phrase, meaning unclear"
+C013671,Wrong,Safe,Neutral exclamation
+C013675,Wrong,Safe,Neutral comment about fan groups
+C013686,Wrong,Safe,Political comparison about charity
+C013695,Wrong,Safe,Neutral actor comparison
+C013697,Wrong,Safe,Joke movie criticism
+C013699,Wrong,Safe,Unclear neutral comment
+C013704,Wrong,Offensive,"Dark humor joke referencing suicide, inappropriate"
+C013705,Wrong,Safe,Neutral criticism about portrayal
+C013706,Wrong,Safe,Vague neutral comment
+C013707,Wrong,Safe,Civic voting message
+C013712,Wrong,Safe,"Mostly praise, mild criticism of arrogance"
+C013719,Wrong,Offensive,Judgmental commentary about actresses' career choices
+C013724,Wrong,Offensive,Vulgar insult mixed with hate-crime commentary
+C013733,Wrong,Safe,Praise for bravery
+C013740,Wrong,Safe,"Regional stereotype comment, mild"
+C013741,Wrong,Safe,Mild criticism about likes
+C013743,Correct,,Mild insult at critics defending composer
+C013744,Wrong,Safe,Neutral comment about bike model
+C013745,Wrong,Safe,Dark anti-sectarian philosophical commentary
+C013757,Wrong,Safe,Supportive encouraging comment
+C013759,Correct,,Vulgar insult mixed with fan discourse
+C013762,Wrong,Safe,Neutral fan anticipation
+C013770,Wrong,Safe,Neutral request to like movie
+C013772,Wrong,Safe,Neutral commentary about public spat
+C013773,Wrong,Safe,Vague neutral comment
+C013774,Wrong,Safe,Unclear neutral comment
+C013776,Wrong,Safe,Political corruption accusation
+C013783,Wrong,Safe,Unclear joking exclamation
+C013785,Wrong,Safe,Political praise
+C013786,Wrong,Safe,Fan hype chant
+C013788,Wrong,Offensive,"Insult calling individual caste-obsessed, not group hate"
+C013793,Unsure,,Unclear vulgar-ish phrase
+C013794,Wrong,Safe,Criticism of director's output quality
+C013800,Wrong,Safe,Neutral comment about resemblance
+C013802,Wrong,Threat,Explicit threat to cut those who marry outside caste
+C013809,Correct,,Mocking appearance comparison
+C013815,Wrong,Safe,"Political criticism, neutral"
+C013820,Wrong,Safe,Mild acting criticism
+C013823,Wrong,Safe,Constructive criticism about release timing
+C013826,Wrong,Offensive,"Vulgar political accusation, individual target"
+C013831,Wrong,Safe,"Political opinion, mild"
+C013833,Wrong,Safe,"Political accusation, mild"
+C013835,Wrong,Offensive,Accusation calling individual a thief
+C013837,Wrong,Safe,Neutral movie criticism
+C013839,Correct,,Vulgar mocking insult at a reviewer
+C013845,Wrong,Safe,"Logic criticism question, neutral"
+C013848,Correct,,Vulgar comment mocking actress
+C013857,Wrong,Safe,Sarcastic political/fan double-standard commentary
+C013861,Wrong,Safe,Proverb about hypocrisy
+C013869,Wrong,Offensive,Insult questioning individual's integrity over plagiarism
+C013874,Wrong,Safe,Criticism about unrealistic courtroom scene
+C013876,Wrong,Safe,Neutral comparison comment
+C013882,Correct,,Caste-based dehumanizing rhetoric against political group
+C013883,Wrong,Offensive,Vague insult about individual's nature
+C013890,Wrong,Safe,Slang praise phrase
+C013891,Wrong,Safe,Mild criticism about animation quality
+C013893,Wrong,Safe,Neutral observational remark about age
+C013896,Wrong,Safe,Unclear neutral comment
+C013899,Wrong,Safe,Quoting interview about plagiarism
+C013901,Wrong,Offensive,Vulgar insult and curse at those who discuss caste
+C013902,Wrong,Safe,"Criticism of actresses' performances, not misogynistic"
+C013903,Wrong,Safe,Neutral comment about song familiarity
+C013904,Wrong,Safe,"Movie criticism, neutral"
+C013905,Wrong,Offensive,Mocking insult at fan group via movie criticism
+C013909,Wrong,Safe,Mild rhetorical complaint
+C013913,Wrong,Safe,Neutral speculation about identity
+C013916,Wrong,Safe,Philosophical comment about water rights
+C013924,Wrong,Safe,Positive observation
+C013926,Wrong,Safe,Ambiguous philosophical comment
+C013927,Wrong,Safe,Joke about reacting calmly
+C013928,Wrong,Safe,Unclear mild criticism
+C013931,Wrong,Safe,Praise comment
+C013934,Wrong,Safe,Movie commentary opinion
+C013936,Unsure,,Garbled nonsensical text
+C013948,Correct,,Mild teasing insult at dislikers
+C013949,Unsure,,"Unclear phrase, meaning ambiguous"
+C013950,Wrong,Safe,Neutral comment about trailer wait
+C013951,Wrong,Safe,Vague unclear comment
+C013953,Wrong,Safe,Neutral genre comment
+C013954,Wrong,Safe,Neutral question about voice actor role
+C013967,Wrong,Offensive,Mild insult calling someone crazy
+C013968,Correct,,Vulgar caste-based dehumanizing insult
+C013972,Wrong,Safe,Neutral movie criticism
+C013975,Wrong,Offensive,Mild insult about someone's face
+C013976,Correct,,Extreme caste-based dehumanizing hate speech
+C013989,Wrong,Safe,Neutral reaction to scene
+C013990,Wrong,Safe,Defends group's conduct regarding inter-caste relationships
+C013992,Wrong,Offensive,Mild caste-tinged exclusionary remark
+C013996,Wrong,Safe,Vague neutral comment
+C013997,Wrong,Sexual Harassment,Vulgar sexualized remark about a woman's body
+C013998,Wrong,Safe,Praise comment
+C014003,Wrong,Safe,Neutral fan rivalry comment
+C014005,Correct,,Vulgar mocking comment about actor
+C014007,Wrong,Safe,Criticism defending a political figure's honor
+C014009,Wrong,Safe,Neutral opinion about comedy styles
+C014016,Wrong,Safe,Neutral advice about likes
+C014025,Wrong,Safe,"Political criticism, not hate"
+C014029,Unsure,,"Garbled phrase, unclear meaning"
+C014030,Wrong,Offensive,"Insult calling individual crooked, personal target"
+C014037,Wrong,Safe,Neutral comment
+C014038,Wrong,Safe,Neutral question about movie
+C014045,Wrong,Safe,Fan rivalry joke
+C014051,Wrong,Safe,Fan praise chant
+C014053,Wrong,Safe,Neutral wordplay joke
+C014057,Wrong,Safe,Praise comment
+C014058,Wrong,Safe,Political criticism about broken promise on Dalit representation
+C014061,Wrong,Safe,"Vague moral warning about karma, not explicit threat"
+C014062,Wrong,Safe,Neutral comment
+C014067,Wrong,Offensive,Mild insult suggesting someone needs mental hospital
+C014069,Wrong,Safe,Compliment comparing to someone else
+C014074,Wrong,Safe,Political prediction/support
+C014077,Wrong,Safe,Neutral interpretive comment
+C014084,Wrong,Safe,Political sarcasm about sycophancy
+C014087,Wrong,Safe,Mild criticism about director's movie
+C014089,Wrong,Safe,Unclear joke about age
+C014091,Wrong,Offensive,"Hyperbolic curse at dislikers, not group hate"
+C014094,Wrong,Safe,Vague neutral comment
+C014095,Wrong,Offensive,"Insult calling filmmakers caste-obsessed, not group-targeted hate"
+C014099,Wrong,Safe,Praise for movie
+C014109,Wrong,Safe,Neutral fan comment
+C014111,Wrong,Offensive,Mild insult expressing annoyance at actress
+C014126,Correct,,Vulgar insult at individual
+C014127,Wrong,Threat,Explicit threat to hit caste group members with slipper
+C014128,Wrong,Safe,Neutral question
+C014131,Wrong,Safe,Mild comment about dislikers
+C014140,Wrong,Hate Speech,Explicit religious hate speech stereotyping Muslims as terrorists
+C014141,Unsure,,"Garbled phrase, unclear meaning"
+C014142,Wrong,Safe,Neutral comment about trailer music
+C014153,Wrong,Safe,Neutral observation about remake
+C014155,Wrong,Safe,Ambiguous political comment
+C014160,Correct,,Vulgar insult at fan group
+C014165,Wrong,Safe,Mild comment about laughing
+C014168,Wrong,Safe,Criticism about song lyrics quality
+C014172,Wrong,Safe,Praise comment
+C014177,Wrong,Safe,Political corruption criticism
+C014179,Wrong,Safe,Vague question
+C014189,Wrong,Safe,Fan rivalry comment
+C014196,Wrong,Safe,Praise comment
+C014198,Wrong,Safe,Mild suggestion to change casting
+C014201,Wrong,Safe,Positive social message
+C014204,Wrong,Safe,Neutral music comparison
+C014218,Wrong,Safe,"Movie criticism, neutral"
+C014219,Wrong,Safe,Praise comment
+C014220,Wrong,Safe,Fan hype comparison
+C014227,Wrong,Safe,Self-deprecating humble statement
+C014234,Correct,,Vulgar insult at commenters
+C014235,Wrong,Safe,Neutral question
+C014237,Correct,,Mild insult calling actor a cheater
+C014239,Wrong,Safe,Neutral comment listing actors
+C014242,Wrong,Safe,Praise comment
+C014247,Wrong,Safe,Neutral question about release
+C014249,Wrong,Safe,Neutral question about casting
+C014251,Wrong,Safe,Neutral request for respect
+C014255,Wrong,Safe,Neutral request for more content
+C014256,Wrong,Safe,Neutral economic complaint humor
+C014257,Wrong,Safe,"Technical complaint, neutral"
+C014262,Wrong,Safe,"Unclear political comment, no clear hate"
+C014272,Wrong,Safe,Neutral music comparison
+C014276,Wrong,Safe,Neutral anticipation comment
+C014281,Wrong,Safe,Mild sarcastic comment
+C014282,Correct,,Vulgar exclamation about confusion
+C014284,Wrong,Safe,Vague comment about prank show
+C014289,Wrong,Safe,"Plagiarism accusation, neutral"
+C014294,Wrong,Safe,Fan hype exclamation
+C014302,Wrong,Safe,Fan speculation about dislikers
+C014303,Wrong,Safe,Neutral request to like movie
+C014304,Wrong,Safe,Neutral opinion about local filmmaking talent
+C014313,Wrong,Safe,Neutral certification comment
+C014317,Wrong,Safe,Unclear political comment
+C014320,Wrong,Offensive,"Insult calling filmmakers fools, not group hate"
+C014321,Wrong,Safe,Vague unclear comment
+C014326,Wrong,Safe,Unclear exclamation
+C014329,Wrong,Safe,"Mild personal criticism, ambiguous meaning"
+C014333,Wrong,Safe,Neutral suggestion
+C014335,Wrong,Safe,Mild complaint about producer/movie naming
+C014337,Wrong,Safe,Praise for content style
+C014338,Wrong,Offensive,Vulgar sarcastic critique of hypocrisy regarding real cases
+C014340,Wrong,Safe,Neutral movie comparison
+C014345,Wrong,Safe,Fan hype comment
+C014352,Wrong,Offensive,Mild insult calling fan groups fools
+C014363,Wrong,Offensive,Insult calling unspecified group worst fellows
+C014365,Wrong,Safe,Praise comment
+C014366,Wrong,Safe,Neutral joke about repetitive movies
+C014376,Unsure,,"Ambiguous phrase, unclear intent"
+C014386,Correct,,Extreme caste-based dehumanizing hate speech
+C014387,Wrong,Safe,Cynical commentary about marriage practices
+C014388,Wrong,Offensive,"Hyperbolic curse about trending rank, not real threat"
+C014389,Wrong,Offensive,"Vulgar dismissal of caste discourse, not group-targeted hate"
+C014397,Wrong,Offensive,"Crude mocking joke about fans, inappropriate implication"
+C014399,Wrong,Safe,Neutral music similarity comment
+C014402,Wrong,Safe,"Mild criticism, vague target"
+C014404,Correct,,Caste-based generalization about violent intimidation
+C014406,Wrong,Safe,Mild comment about dislikers
+C014407,Wrong,Safe,Neutral movie criticism
+C014408,Wrong,Safe,"Political observation, mild"
+C014409,Wrong,Safe,Neutral question in Kannada
+C014412,Wrong,Offensive,Vague insult at movie critics
+C014413,Wrong,Safe,Unclear comment about military/games
+C014414,Wrong,Safe,Political praise via cricket metaphor
+C014432,Wrong,Safe,Mild criticism about repetitive music style
+C014433,Wrong,Safe,"Defends actor against trolls, advocates for peace"
+C014435,Wrong,Safe,Praise for actor
+C014437,Wrong,Safe,Praise for sound effects
+C014445,Wrong,Safe,Sarcastic comment about caste-based industry nepotism
+C014446,Wrong,Safe,"Movie/music criticism, neutral"
+C014452,Wrong,Safe,Constructive criticism about makeup quality
+C014459,Wrong,Safe,"Casting criticism, not vulgar"
+C014463,Wrong,Safe,Neutral character commentary
+C014465,Wrong,Threat,Explicit threat to cut and burn alive men who fake love
+C014480,Wrong,Safe,Neutral joke comparing villain actor to pastor
+C014483,Wrong,Safe,Praise for actor
+C014489,Unsure,,"Garbled rant, unclear meaning"
+C014495,Wrong,Safe,Neutral comment about trending
+C014498,Wrong,Safe,Ambiguous political comment
+C014506,Correct,,Mocking insult at individual
+C014523,Wrong,Safe,Neutral factual/joking comment
+C014533,Wrong,Safe,Praise/nostalgic comment
+C014535,Wrong,Offensive,Mild insult calling filmmakers sinners
+C014539,Wrong,Safe,Well wishes for actress
+C014542,Wrong,Offensive,Accusatory comment implying dislikers are foreign sympathizers
+C014545,Wrong,Safe,Empathetic positive comment
+C014552,Wrong,Safe,Neutral criticism about casting
+C014553,Wrong,Safe,Mild request
+C014558,Wrong,Offensive,Mild insult calling privileged people crazy
+C014560,Wrong,Safe,Casual slang expressing disbelief
+C014563,Wrong,Safe,Neutral movie comparison
+C014565,Wrong,Safe,Neutral opinion about role suitability
+C014567,Wrong,Safe,Ambiguous nostalgic joke
+C014568,Wrong,Safe,Compliment and question about actress's name
+C014569,Wrong,Safe,Joke about Rajini's reaction
+C014571,Unsure,,Garbled phrase about China
+C014579,Wrong,Safe,Praise for inspiring words
+C014580,Wrong,Safe,Neutral philosophical statement
+C014585,Wrong,Safe,Neutral criticism about scene
+C014586,Wrong,Safe,"Economic nationalism complaint, not hate speech"
+C014587,Wrong,Safe,"Complaint about lack of patriotism, mild sarcasm"
+C014589,Wrong,Safe,Praise comment
+C014593,Correct,,Ageist insult about role suitability
+C014595,Wrong,Safe,Fan hype praise
+C014596,Wrong,Safe,Unclear comment about language
+C014599,Wrong,Safe,"Plagiarism accusation, neutral"
+C014605,Wrong,Safe,"Moral advice, neutral"
+C014610,Wrong,Threat,Explicit threat to beat award committee with slippers
+C014616,Unsure,,"Ambiguous community reference, unclear target"
+C014622,Wrong,Safe,"Social commentary referencing real case, not hate speech"
+C014623,Wrong,Safe,Neutral opinion about fan loyalty vs quality
+C014624,Wrong,Safe,Fan speculation about dislikers
+C014628,Wrong,Safe,Neutral comment about censor board
+C014630,Wrong,Offensive,Insult questioning integrity over music crediting
+C014631,Wrong,Safe,"Encouraging comment, neutral"
+C014633,Wrong,Safe,Anti-caste philosophical commentary praising movie
+C014645,Correct,,Vulgar insult at fans
+C014654,Correct,,Vulgar insult at individual
+C014657,Wrong,Safe,Neutral comment about delay
+C014661,Correct,,Vulgar hostile curse targeting caste group
+C014663,Wrong,Safe,"Philosophical/political statement, neutral"
+C014668,Wrong,Safe,Neutral movie criticism
+C014685,Wrong,Offensive,Insult calling individual a waste
+C014688,Wrong,Safe,Neutral request
+C014692,Wrong,Hate Speech,Hostile political rhetoric targeting caste community group
+C014696,Correct,,Misogynistic generalization about wives
+C014699,Wrong,Safe,Anti-discrimination unity message
+C014701,Wrong,Safe,"Plagiarism joke, neutral"
+C014707,Wrong,Safe,Fan quote joke reference
+C014710,Wrong,Safe,Unclear joke about dubbing
+C014717,Wrong,Hate Speech,Explicit hostile generalization about Islam
+C014720,Wrong,Offensive,Insult calling someone a crazy fool over expectations
+C014724,Wrong,Safe,Neutral wish
+C014734,Wrong,Offensive,Insult calling someone's press meet useless
+C014739,Wrong,Safe,Neutral comment about data/content
+C014740,Wrong,Safe,Neutral political comparison
+C014743,Wrong,Safe,Neutral comment about missing scenes
+C014744,Wrong,Safe,Neutral comparison comment
+C014745,Correct,,Vulgar fan hype language
+C014746,Wrong,Safe,"Political accusation, not hate"
+C014749,Wrong,Safe,Neutral fan rivalry comment
+C014756,Wrong,Safe,Praise comment
+C014774,Wrong,Safe,Neutral joke about video
+C014786,Wrong,Safe,Neutral fan comment about director
+C014787,Wrong,Offensive,"Praise for scolding unspecified group, vulgar term not group hate"
+C014798,Correct,,Mocking appearance comparison
+C014800,Wrong,Safe,Neutral comment about flop movie
+C014803,Wrong,Safe,Positive praise for song and scene
+C014810,Wrong,Safe,Praise comment
+C014811,Wrong,Safe,Neutral response about climax
+C014812,Wrong,Safe,Unclear vague phrase
+C014813,Wrong,Safe,Neutral prediction/opinion
+C014814,Wrong,Safe,Unclear casual comment
+C014818,Wrong,Safe,Mild movie criticism about actor's expression
+C014819,Wrong,Safe,Mild mockery about begging for likes
+C014821,Wrong,Safe,Praise for song
+C014822,Wrong,Safe,Positive comment about fan support and bonding
+C014828,Wrong,Offensive,Vulgar insult calling individual crazy
+C014831,Wrong,Safe,Unclear joking comment
+C014833,Wrong,Safe,Praise comment
+C014837,Wrong,Hate Speech,Caste-based mockery using occupational stereotype
+C014838,Wrong,Offensive,Vulgar insult calling commenters dogs
+C014848,Unsure,,"Garbled phrase, unclear meaning"
+C014850,Wrong,Safe,Neutral observation about actress
+C014856,Wrong,Offensive,"Vulgar regional/ethnic insult, not caste/religion/gender hate"
+C014858,Wrong,Safe,Neutral music comparison
+C014861,Wrong,Safe,Neutral personal comment
+C014864,Wrong,Safe,Praise for dancer
+C014867,Wrong,Offensive,Vulgar insult at fan group
+C014869,Correct,,Vulgar crude joke about movie content
+C014871,Wrong,Safe,Anti-caste-discrimination advocacy for Dalit rights
+C014873,Correct,,Insult questioning integrity over music plagiarism
+C014880,Wrong,Safe,Dark sarcastic humor mocking obsessive fans
+C014884,Wrong,Safe,Unclear joke about coffee
+C014888,Wrong,Safe,Praise comment
+C014889,Wrong,Safe,Political opinion about media and government
+C014895,Unsure,,"Demand for personal address, intent unclear but concerning"
+C014900,Wrong,Offensive,"Hyperbolic curse at fans, not real threat"
+C014901,Wrong,Safe,Well wishes for movie success
+C014906,Wrong,Safe,Unclear casual question
+C014907,Wrong,Offensive,Moral warning with veiled threat about karma
+C014911,Correct,,Caste-targeted insult combined with community well-wishing
+C014915,Wrong,Safe,Praise/gratitude comment
+C014921,Wrong,Offensive,Mild insult questioning someone's credibility
+C014923,Wrong,Safe,"Political sarcasm, not hate"
+C014926,Wrong,Safe,Praise about religious discourse
+C014939,Wrong,Safe,"Sports criticism, mild"
+C014940,Wrong,Safe,Neutral prediction about movie
+C014950,Wrong,Safe,Fan hype wordplay
+C014951,Wrong,Offensive,Mild insult accusing someone of being dramatic
+C014963,Wrong,Safe,Praise for actor's performance
+C014966,Wrong,Hate Speech,Caste-based slur used as insult against a person
+C014967,Wrong,Safe,Fan hype comment
+C014969,Wrong,Safe,"Plagiarism accusation, neutral"
+C014970,Wrong,Offensive,Extremely vulgar political commentary about real case
+C014972,Wrong,Safe,Joke about Rajinikanth as robot
+C014974,Wrong,Offensive,Political insult calling someone waste
+C014975,Wrong,Safe,Neutral comment about actress
+C014977,Unsure,,Garbled phrase possibly about protecting women
+C014983,Wrong,Hate Speech,Discriminatory insult using tribal community name pejoratively
+C014986,Wrong,Safe,Praise for honest Q&A
+C014993,Wrong,Safe,Praise comment
+C014995,Correct,,Vulgar insult at named individual
+C014999,Wrong,Safe,"Political criticism, not hate"
+C015001,Wrong,Safe,"Mild criticism, mostly positive"
+C015003,Wrong,Safe,Neutral joke
+C015010,Wrong,Offensive,"Vulgar political insult, not group hate"
+C015012,Wrong,Safe,Neutral movie criticism
+C015016,Wrong,Safe,Neutral comment about acting
+C015018,Wrong,Offensive,Mild mocking insult comparing trailer to documentary
+C015019,Wrong,Safe,Neutral comment
+C015020,Wrong,Safe,Neutral box office comparison
+C015023,Wrong,Safe,Criticizes abusive behavior and family-targeting in comments
+C015028,Wrong,Safe,Complaint about spoilers
+C015038,Unsure,,"Garbled vulgar phrase, unclear meaning"
+C015040,Wrong,Safe,Neutral question about song popularity
+C015045,Wrong,Safe,Praise for leaders
+C015048,Wrong,Safe,Political praise via cricket metaphor
+C015050,Wrong,Safe,Supportive comment about protecting girls' welfare
+C015058,Wrong,Safe,Fan hype exclamation
+C015063,Wrong,Safe,Joke comment about scene
+C015065,Wrong,Safe,Neutral feedback about graphics
+C015075,Wrong,Safe,Political/social opinion about family policy
+C015087,Wrong,Safe,Praise for speaking style
+C015088,Wrong,Safe,"Mild disagreement, not vulgar"
+C015089,Wrong,Safe,Neutral director comparison
+C015093,Wrong,Safe,Joke about loud movie experience
+C015097,Wrong,Offensive,Accusation calling people bribe-takers
+C015100,Wrong,Safe,Mild criticism about nepotism
+C015109,Wrong,Safe,Political criticism about movie exposing leaders
+C015110,Wrong,Safe,Defends actor against being dragged into controversy
+C015112,Wrong,Safe,Neutral comment about movie title
+C015113,Wrong,Safe,Generational commentary about marriage age
+C015114,Wrong,Safe,Humorous list joke about actors
+C015117,Wrong,Safe,Neutral excitement comment
+C015123,Correct,,Mild insult calling filmmakers sinners
+C015133,Correct,,Mocking insult about grey hair appearance
+C015135,Wrong,Safe,Positive comment about a child
+C015136,Wrong,Safe,Neutral life philosophy
+C015137,Wrong,Safe,Sympathetic comment
+C015140,Wrong,Safe,"Criticism about movie promoting caste pride, not hate speech itself"
+C015145,Wrong,Safe,Cultural observation about naming trends
+C015148,Correct,,Vulgar insult at dislikers
+C015149,Wrong,Safe,Neutral criticism about plagiarism double standard
+C015152,Wrong,Safe,Mild complaint about like/comment behavior
+C015158,Wrong,Safe,Unclear vague comment
+C015166,Wrong,Safe,Unclear joke about piracy
+C015183,Correct,,Vulgar personal insult
+C015194,Wrong,Safe,Neutral movie criticism
+C015196,Wrong,Safe,Neutral comment about trailer length
+C015208,Wrong,Offensive,Nationalistic hostile comment about TikTok/China
+C015209,Wrong,Safe,Tribute/memorial comment
+C015220,Wrong,Safe,Sarcastic comment about flop predictions
+C015225,Wrong,Safe,Mild dismissive comment toward dislikers
+C015227,Unsure,,"Unclear fragment, meaning unclear"
+C015231,Wrong,Safe,Neutral speculation about dislikes
+C015237,Wrong,Offensive,Mild insult calling unspecified group weak/pathetic
+C015240,Unsure,,"Garbled phrase, unclear meaning"
+C015242,Wrong,Safe,Neutral comparison comment
+C015245,Wrong,Safe,"Political speculation, neutral"
+C015249,Wrong,Safe,Praise comment
+C015252,Wrong,Safe,Praise comment
+C015254,Wrong,Safe,"Movie criticism, calling it lame"
+C015255,Wrong,Offensive,Vulgar personal insult against named individual
+C015268,Wrong,Safe,Neutral music comparison
+C015269,Wrong,Safe,"Compliment about appearance, not explicit harassment"
+C015274,Wrong,Safe,Neutral suggestion about title language
+C015281,Wrong,Safe,Neutral comment
+C015283,Wrong,Safe,Praise for charity
+C015286,Wrong,Offensive,Insult about wasting effort on meaningless things
+C015287,Unsure,,"Garbled phrase, unclear meaning"
+C015289,Wrong,Offensive,Vulgar insult at political figure
+C015290,Wrong,Safe,Neutral observation about suspicious stats
+C015291,Wrong,Offensive,Political insult calling government useless
+C015294,Wrong,Safe,Neutral comedy comment
+C015297,Wrong,Offensive,Insult calling political candidate a waste
+C015301,Unsure,,Very short vague phrase
+C015307,Wrong,Safe,Mild comment about dislikers
+C015309,Wrong,Safe,Neutral question/mild criticism about comparisons
+C015317,Wrong,Safe,Neutral joke about editing
+C015319,Wrong,Safe,Mild complaint about role downgrade
+C015323,Wrong,Safe,Neutral fan rivalry comment
+C015324,Wrong,Safe,Fan quote joke reference
+C015332,Wrong,Safe,Movie dialogue quote
+C015339,Correct,,Vulgar caste-political insult at rival leader's group
+C015342,Wrong,Offensive,Mild insult calling people petty/nobodies
+C015348,Wrong,Safe,Neutral opinion about director reputation
+C015352,Wrong,Safe,Praise for political leader
+C015354,Wrong,Safe,Neutral music comparison
+C015362,Wrong,Safe,Political accusation about hypocrisy
+C015365,Wrong,Safe,Supportive encouraging comment
+C015371,Wrong,Safe,Joke comparing movie to Mission Impossible
+C015372,Wrong,Safe,Neutral opinion about trailer demographic
+C015375,Wrong,Safe,Mild acting criticism
+C015378,Unsure,,Vague ominous political statement
+C015379,Wrong,Safe,Positive interfaith message
+C015382,Wrong,Offensive,Mocking insult about actor's overacting
+C015386,Wrong,Safe,Constructive criticism about speaking style
+C015393,Correct,,Vulgar insult at fans
+C015394,Wrong,Safe,Vague agreement comment
+C015396,Wrong,Safe,Neutral joke comparison
+C015411,Wrong,Safe,Neutral comment about trailer
+C015413,Wrong,Safe,Neutral joke about teaser
+C015427,Wrong,Safe,Praise comment
+C015429,Wrong,Safe,Praise for acting
+C015437,Wrong,Safe,Neutral personal reflection
+C015440,Wrong,Safe,Neutral reaction comment
+C015445,Wrong,Safe,Neutral supportive request
+C015449,Wrong,Offensive,Vulgar insult about fake bravado in comments
+C015450,Wrong,Safe,Neutral actor comparison
+C015451,Wrong,Safe,Criticism of dialogue quality
+C015452,Wrong,Safe,Neutral fan comment
+C015457,Wrong,Safe,Praise comment
+C015460,Wrong,Safe,"Metaphorical political criticism, not real threat"
+C015461,Correct,,Insult about authenticity/appearance
+C015466,Wrong,Safe,Neutral fan anticipation
+C015470,Wrong,Safe,Praise for artists with mild media criticism
+C015478,Wrong,Offensive,Vulgar gendered insult directed at a specific woman
+C015479,Wrong,Safe,Neutral comment about laughing during scene
+C015480,Wrong,Safe,Praise for comedian
+C015484,Wrong,Offensive,Mild insult about individual's bad behavior
+C015487,Wrong,Safe,Neutral consumer complaint about TV channel
+C015496,Wrong,Hate Speech,Vulgar insult invoking caste identity against a director
+C015499,Wrong,Safe,Neutral comment about character
+C015502,Wrong,Safe,Fan joke referencing 96 movie
+C015503,Wrong,Offensive,"Vulgar wordplay exclamation, unclear target"
+C015506,Wrong,Safe,Praise/appreciation comment
+C015511,Wrong,Offensive,Criticism about hypocrisy regarding treatment of Tamil-speaking women
+C015513,Wrong,Safe,Fan praise comment
+C015514,Wrong,Safe,Neutral comparison comment
+C015515,Wrong,Offensive,Vulgar insult at dislikers
+C015516,Wrong,Offensive,Mocking comparison of actress's appearance
+C015518,Wrong,Safe,Caste community mobilization statement of support
+C015519,Wrong,Safe,Fan hype comment with mild dismissal of rivals
+C015522,Wrong,Safe,Neutral fan speculation
+C015523,Wrong,Safe,Fan hype comment
+C015524,Wrong,Safe,Neutral complaint about theatre
+C015535,Wrong,Safe,Supportive comment about success
+C015538,Unsure,,Unclear comment about health condition
+C015539,Wrong,Safe,Praise comparing to another movie
+C015541,Wrong,Safe,Sentimental nostalgic comment
+C015546,Wrong,Offensive,Political accusation calling someone evil/cunning
+C015549,Wrong,Safe,Political criticism list of grievances
+C015556,Wrong,Offensive,Vulgar insult mocking those who raise caste concerns
+C015561,Correct,,Misogynistic judgment about woman's role in housework
+C015562,Wrong,Safe,Neutral reflective comment
+C015563,Correct,,Caste-targeted taunt at community
+C015568,Wrong,Safe,Neutral music comparison
+C015570,Wrong,Safe,"Unclear phrase, ambiguous"
+C015572,Correct,,Mild mocking insult at small-timers
+C015580,Wrong,Safe,Neutral comment about teaser likes
+C015581,Wrong,Safe,Neutral comment about dislikers
+C015583,Wrong,Safe,Praise for great statement
+C015584,Wrong,Safe,Fan hype comparison
+C015585,Wrong,Safe,Unclear phrase
+C015587,Wrong,Safe,Praise comment
+C015592,Correct,,Vulgar insult at actor
+C015593,Wrong,Safe,"Fan rivalry hype expression, not real hostility"
+C015596,Correct,,Vulgar insult and accusation at director
+C015599,Wrong,Safe,Unclear personal comment
+C015601,Wrong,Safe,"Political criticism, neutral"
+C015614,Wrong,Safe,Praise comment
+C015616,Wrong,Offensive,"Hyperbolic suggestion to slap someone, not real threat"
+C015617,Wrong,Safe,Fan rivalry comment
+C015625,Wrong,Safe,"Comment about dislikers, mild"
+C015632,Wrong,Safe,"Movie criticism, neutral"
+C015634,Wrong,Safe,Joking comment about metaphor
+C015640,Wrong,Safe,Mild opinion about politician's understanding
+C015642,Wrong,Safe,Neutral joking question about generation
+C015652,Wrong,Safe,Movie dialogue quote about protecting women
+C015657,Wrong,Safe,Fan hype dialogue quote
+C015660,Wrong,Safe,Mild joking comment about villain entrance
+C015663,Wrong,Safe,Criticism about small role for actor
+C015670,Wrong,Safe,Fan praise comment
+C015681,Wrong,Safe,Praise comment
+C015685,Wrong,Offensive,Garbled vulgar rant at fan group
+C015688,Wrong,Safe,Fan quote joke reference
+C015697,Wrong,Safe,"Mild criticism, neutral"
+C015702,Wrong,Offensive,Crude hypothetical joke about actor and adult performer
+C015703,Wrong,Safe,"Movie criticism/prediction, neutral"
+C015708,Wrong,Safe,Neutral correction about game name
+C015713,Wrong,Safe,"Defends Rajini against mockery, mild"
+C015720,Wrong,Safe,Praise comment
+C015726,Correct,,Vulgar personal insult
+C015729,Wrong,Safe,Praise comment
+C015730,Wrong,Safe,Political media bias accusation
+C015735,Wrong,Safe,Praise comment
+C015737,Wrong,Safe,Neutral comment about fake views
+C015742,Wrong,Safe,Neutral question
+C015748,Wrong,Safe,Unclear comment about family/money
+C015749,Correct,,Victim-blaming misogynistic generalization about provoking men
+C015751,Wrong,Safe,Neutral comment about view count
+C015754,Wrong,Offensive,Mild insult telling fans not to talk nonsense
+C015761,Wrong,Safe,Neutral prediction
+C015763,Wrong,Safe,"Political sarcasm/taunt, not vulgar"
+C015764,Wrong,Offensive,"Vulgar insult at regional population, not protected-class hate"
+C015771,Wrong,Safe,Unclear comment about song
+C015774,Wrong,Safe,Praise for dialogue about caste/gender equality
+C015775,Wrong,Safe,"Accusation of copying dialogues, individual criticism"
+C015786,Wrong,Sexual Harassment,Vulgar sexual comment about named actress
+C015787,Wrong,Safe,Positive comment about trailer
+C015794,Wrong,Safe,Unclear philosophical comment
+C015796,Wrong,Safe,Praise for actor's hard work
+C015799,Unsure,,"Garbled phrase, unclear meaning"
+C015803,Unsure,,"Garbled run-on text, unclear meaning"
+C015805,Wrong,Offensive,"Vulgar insult at TikTok users, not protected-group hate"
+C015806,Wrong,Safe,Neutral comparative observation
+C015818,Wrong,Safe,Neutral question
+C015821,Wrong,Safe,Positive comment with mild joke
+C015822,Wrong,Safe,Mild comment about tough interviewer
+C015823,Wrong,Offensive,Vulgar insult mocking bald fans
+C015824,Wrong,Offensive,Vulgar insult at political leader over statements
+C015825,Wrong,Safe,Neutral fan comment
+C015830,Wrong,Safe,Neutral opinion about release timing
+C015833,Wrong,Safe,Praise comment
+C015835,Wrong,Safe,Political criticism about actor's inaction
+C015839,Wrong,Safe,Neutral industry commentary
+C015844,Wrong,Safe,Opinion liking actor but disliking role
+C015856,Wrong,Offensive,Mild insult calling filmmakers sinners
+C015857,Wrong,Safe,"Plagiarism accusation, neutral"
+C015858,Wrong,Safe,Neutral criticism about repetitive movie
+C015859,Wrong,Safe,Neutral political opinion
+C015861,Unsure,,"Garbled phrase, unclear meaning"
+C015874,Wrong,Safe,"Question about double standard, individual criticism"
+C015877,Wrong,Safe,Unclear comment about work
+C015878,Wrong,Offensive,Vulgar insult calling people donkeys for mocking a child
+C015890,Wrong,Safe,Neutral observation about suspicious stats
+C015896,Wrong,Safe,Neutral question about actors in scene
+C015903,Wrong,Safe,Neutral comment about title similarity
+C015908,Unsure,,"Cryptic statement about covert violence, unclear context"
+C015909,Wrong,Offensive,Political accusation calling party a proxy
+C015912,Wrong,Safe,Joke comparing seriousness of two people
+C015913,Wrong,Safe,Criticism that portrayal insults a political figure
+C015914,Correct,,Vulgar curse tied to caste politics
+C015922,Wrong,Hate Speech,Caste-targeted insult against Kuruma community
+C015927,Wrong,Offensive,Body-shaming joke comparing person to banana bunch
+C015928,Wrong,Safe,Joke about actor playing police role
+C015932,Wrong,Safe,Neutral request for release
+C015934,Wrong,Safe,"Plagiarism accusation, neutral"
+C015935,Wrong,Safe,Praise comment
+C015945,Wrong,Safe,Praise for singer
+C015950,Wrong,Threat,Explicit threat to cut hand/head over land/women
+C015958,Wrong,Safe,Neutral question about actor's appearances
+C015959,Wrong,Safe,Praise comment
+C015961,Wrong,Safe,Comment about trailer showing scenery
+C015962,Wrong,Safe,Praise for police/forest officers
+C015967,Wrong,Offensive,"Political insult framing party as foreign, caste accusation"
+C015968,Wrong,Safe,Movie comparison criticism
+C015969,Wrong,Safe,Praise comment
+C015976,Wrong,Safe,Neutral political comment
+C015978,Wrong,Safe,Mild political/fan criticism
+C015984,Wrong,Offensive,Fan rivalry insult telling fans to shut up
+C015989,Correct,,Vulgar personal insult
+C015990,Wrong,Safe,"Political criticism/accusation, not hate"
+C015996,Wrong,Safe,Political rhetorical criticism
+C015999,Wrong,Safe,"Movie criticism, neutral"
+C016005,Wrong,Safe,Unclear comment about release date
+C016009,Wrong,Safe,Fan rivalry comment about comment counts
+C016012,Wrong,Safe,Praise comment
+C016013,Wrong,Safe,Praise for cricketer
+C016036,Wrong,Safe,Neutral gratitude comment
+C016039,Wrong,Offensive,Mild insult downplaying actor's greatness
+C016041,Wrong,Safe,Constructive comment about supporting new talent
+C016043,Wrong,Safe,Praise for actor
+C016048,Wrong,Safe,Positive interfaith message
+C016049,Wrong,Offensive,Vulgar insult at fan group
+C016052,Wrong,Offensive,"Mild mocking insult, praise for director"
+C016054,Wrong,Threat,Explicit threat of sickle attacks tied to fake-love accusation
+C016057,Wrong,Safe,Political/legal commentary about crime punishment
+C016062,Wrong,Safe,"Social/political commentary, vague target"
+C016064,Correct,,Mild insult at fan group
+C016067,Wrong,Offensive,Vulgar insult about nepotism in industry
+C016072,Wrong,Offensive,Vulgar insult at hypocrites regarding caste stance
+C016073,Wrong,Offensive,Vulgar insult calling individual an old fool
+C016074,Wrong,Safe,Joke comparing movie to Captain America
+C016079,Wrong,Safe,Neutral request for post-credit scene
+C016084,Wrong,Offensive,Insult accusing individual of lying while drunk
+C016085,Wrong,Safe,Neutral movie comparison
+C016094,Wrong,Safe,"Political corruption accusation, individual target"
+C016099,Wrong,Offensive,Political insult calling unspecified group fools
+C016104,Wrong,Safe,"Neutral question, fan identification"
+C016107,Wrong,Safe,Praise for VFX and dialogue
+C016108,Wrong,Safe,Unclear comment about editing
+C016109,Wrong,Offensive,Vulgar insult at dislikers
+C016118,Wrong,Safe,Praise comment
+C016120,Wrong,Safe,Neutral comparison comment
+C016127,Wrong,Safe,Comment about VFX quality
+C016128,Wrong,Safe,Praise for political figure
+C016131,Wrong,Safe,Unclear comment about movie plot
+C016135,Wrong,Safe,"Plagiarism accusation, neutral"
+C016136,Wrong,Safe,"Fan rivalry comment, mild dismissal"
+C016137,Wrong,Safe,"Mild political criticism, not vulgar"
+C016145,Wrong,Safe,Request to stop abusing deceased people
+C016154,Wrong,Safe,Unclear comment about trailer
+C016158,Wrong,Safe,Constructive suggestion about speaking style
+C016161,Wrong,Safe,Neutral criticism about repetitive story
+C016162,Wrong,Safe,Confident fan comment
+C016168,Wrong,Offensive,Political insult calling individual a cheater
+C016173,Wrong,Hate Speech,Hostile generalization about men/boys as a class
+C016174,Wrong,Safe,"Vague proverb, neutral"
+C016179,Unsure,,"Ambiguous caste-related reference, unclear intent"
+C016186,Wrong,Safe,Unclear comment about promotion
+C016193,Wrong,Safe,Neutral question about dubbing
+C016198,Wrong,Safe,Factual/mythological debate comment
+C016203,Wrong,Safe,Ambiguous comment about expressive face
+C016207,Wrong,Safe,Neutral request for video
+C016212,Correct,,Mild insult comparing content to kids' channel
+C016213,Wrong,Safe,Praise for BGM
+C016215,Wrong,Safe,"Commentary referencing real case, not hate speech"
+C016225,Correct,,Mocking insult about actor's persistence
+C016229,Wrong,Offensive,Vulgar insult at dislikers
+C016233,Unsure,,"Unclear phrase, meaning unclear"
+C016236,Wrong,Safe,Neutral anticipation comment
+C016237,Wrong,Safe,Vague comment about envy
+C016243,Wrong,Safe,Neutral comment about composer/director combo
+C016245,Correct,,Extreme vulgar personal insult chain
+C016261,Wrong,Offensive,Hostile call to boycott/eliminate a specific director
+C016264,Wrong,Safe,Fan comment expressing doubt about script
+C016269,Wrong,Offensive,Vague insult calling people self-respect-less
+C016273,Correct,,Insult calling individual an idiot
+C016281,Wrong,Safe,"Compliment, positive"
+C016283,Wrong,Safe,Fan rivalry criticism comparing performances
+C016284,Wrong,Safe,Criticism about character's traits
+C016286,Wrong,Safe,Comment comparing to Korean movie
+C016289,Wrong,Safe,Praise comment
+C016293,Wrong,Safe,Fan hype comment about villain character
+C016296,Wrong,Offensive,"Vulgar political insult at leader/party, defends caste community"
+C016303,Wrong,Safe,Mild criticism about reporter's overacting
+C016305,Correct,,Mild insult at directors for movie flop
+C016310,Wrong,Safe,"Emotional commentary about parental concerns, not hate speech"
+C016316,Wrong,Safe,Fan hype hyperbole
+C016323,Wrong,Offensive,Mild insult calling manipulated fans dummies
+C016324,Wrong,Safe,"Mild sarcastic comment, not hate"
+C016326,Wrong,Safe,Neutral observation about trailers
+C016327,Wrong,Offensive,Political rhetoric implying retaliation
+C016333,Wrong,Safe,Unclear comment about scene
+C016339,Wrong,Offensive,"Hyperbolic warning to dislikers, not real threat"
+C016340,Wrong,Sexual Harassment,Lewd sexual innuendo about named woman
+C016347,Correct,,Vulgar insult at unspecified target
+C016354,Wrong,Safe,Neutral industry opinion
+C016355,Wrong,Offensive,Mild insult calling filmmakers sinners
+C016362,Wrong,Safe,Neutral comment about actors' fitness
+C016372,Wrong,Threat,Threat to beat with slipper someone perceived as caste-biased
+C016373,Wrong,Safe,Neutral casting suggestion

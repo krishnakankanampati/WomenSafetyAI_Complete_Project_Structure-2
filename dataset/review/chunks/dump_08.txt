@@ -1,0 +1,1400 @@
+0	C043695	Offensive	Kanglish	T Lo comment maadbeku anstu maaddhe Telugu commenta nange Telugu baralla...idhu Kannada song marre
+1	C043697	Offensive	Kanglish	sᴛᴜᴅɪᴏ ᴍᴏᴠɪᴇs neen huttidh yav kuttige
+2	C043699	Offensive	Tanglish	dei pecha kora da eppa singam.........
+3	C043707	Offensive	Tamil	தேவிடியா பசங்க நாங்க மட்டுமா நாடகம் காதல் பன்ரோம் ஆம்பள டா அடங்கயெல்லாம் முடியாது அதுயெல்லாம் அந்த காலம் கேன புன்டேகலா படத்தபார்த்து முடிவெடுக்காத அவ அவ என்னபன்னா யோசிடா ஜாதிய நாங்கல ஆரமிச்சோம் நீங்க ஏன்டா எங்கல அடிமை செய்யனும் 🤨🤨🤨
+4	C043717	Hate Speech	Kanglish	Kadu odiyuva majane bere inserted people get a answer
+5	C043725	Offensive	Kanglish	M.R maga urkanbeda bido
+6	C043747	Offensive	Tanglish	I think sivakarthickku hero getup set aagala, trailer is good,but movie average pogumnu ninaikiravanga like Pannuga
+7	C043749	Offensive	Tamil	ரஜினியை ஏமாற்றிய முருகதாஸ் உண்மை பின்னணி :
+8	C043754	Hate Speech	Roman Telugu	Na modda la expressions
+9	C043755	Hate Speech	Roman Telugu	Chillara vedu
+10	C043760	Offensive	Tanglish	marubadiyum palaya panjamirathathan start pannitan da hahaha title paathe mudivu panniten ipdithan varumnu... athe mari vanthuduchu ... disappointed
+11	C043761	Offensive	Tamil	கங்கனா ஜெ வேடத்துல சுத்தமா பொருந்தல யா
+12	C043763	Hate Speech	Roman Telugu	Idendayya idi Mariiii ila thayarayyaru Dandaalu ra ayya
+13	C043766	Hate Speech	Roman Telugu	Meeku governer post ivvadame waste
+14	C043767	Offensive	Tanglish	1:08 Enna karumamda idhu.. Andha amma pei ya vandhu unna sagadikumya vijay
+15	C043772	Offensive	Tanglish	Its mohanlal not mohan lal
+16	C043783	Offensive	Tanglish	Intha trailer dislike pandra va manushan na illa
+17	C043784	Hate Speech	Roman Telugu	aandhra police meeda eppudo nammakam poyindi
+18	C043786	Hate Speech	Telugu	నిజాయితీని నముకునోడు సక్కగా వుంటాడు దారి తాపిన నాకొడుకు ఒగోని కాళ్లు పట్టుకుంటున్నాడు
+19	C043791	Hate Speech	Kanglish	Thu yar guru karma ithara video gu dislike madtare ...
+20	C043792	Hate Speech	Roman Telugu	Minority ayithe vadhileyaala , vaallemayina Nawab laa , vaallakemayina kommulu molachaaya , vaallemayina swargam lonchi oodipaddaara , minorities ki ee special treatment endhiraa
+21	C043795	Offensive	Kanglish	Pubg kooda ban agbeku guru..
+22	C043797	Offensive	Kanglish	Kinyaje yen promotion madtare ivaru. Bengaluru bittu yelladru hogtara promotion madakke?nTamil
+23	C043798	Hate Speech	Tanglish	Monkeys Like here Donkeys Comment
+24	C043804	Hate Speech	Telugu	అన్నా నువు ముడ్డి కడుక్కోకు.ఆ నీళ్లు వృథా కావు.పొలాలకి నీటి కరువు వుండదు.
+25	C043807	Offensive	Kanglish	Vijaykumar s Kumsi hotelnKumsi
+26	C043811	Hate Speech	Tanglish	Ottu mothama sethuruchi intha trailer nu solravan ungalukulle ponnu kuduthu ponnu yeduka matingada...ungalukulle pirivinai iruku ithula peruma Vera Pongada nan thalith Pennai thirumanam seitha agamudayar da unga jathi veriya thukki kuppaila podu ithala oru use m kedaiyathu.. Chi Pongada
+27	C043820	Offensive	Tanglish	Konjam othingiru.. odi pathingiru.. Varathu Thalaivaru..petta paraak.... Tha.. Marana Mass.. Get Rajinified... Best wishes from Thalapathy fans..
+28	C043821	Hate Speech	Telugu	So much transformation in శ్రీముఖి Very good anchoring
+29	C043822	Hate Speech	Tanglish	Adichi odra adha odra adha odra adha....odra adha odra adha fans like here
+30	C043824	Offensive	Tanglish	Viswasam Teaser vartum Nama Side la Irnthu Oru Sambavam Panuvom
+31	C043827	Offensive	Tamil	1996 நான் அரசியலுக்கு வருவது உறுதி... 2016 நன் அரசியலுக்கு வருவது உறுதி... (2019ல் தண்ணியை விட்டு வெளியில் வந்த காஞ்சிபுரம் அத்திவரதர்.. தற்போது 40 வருடங்களுக்கு பிறகு 2059ல் மீண்டும் வெளியில் வந்தார்...) 2059ல் எந்திரன் 13ம் பாகம் இசை வெளியீட்டு விழாவில் நான் அரசியலுக்கு வருவது உறுதி என ரஜினிகாந்த் கூறினார்...
+32	C043830	Hate Speech	Telugu	చెప్పినవి చెప్పినట్టు జరిగితే అడగడానికి అపాయింట్మెంట్ కూడా దొరకదు వినేవాడు ఉంటే ఏదైనా చెప్తారు
+33	C043846	Hate Speech	Tanglish	ajith fans neegala ketta varthai pottu thitradhuku dhan layaku yenga yedhachum oru movie yenga thalapathy movie teaser or trailer ah beat panirukunu solluga naiiii gala perusa pesavadhutanuga negalam pesamatum dhan layaku.idho bairava teser beat panucha adhan da naigala nanga.oru movie la yengala vida collection and views, likes vangi kamida naiiigala apo othukuren unga thoppaiyan dhan periyalu mudinja panuga neegala ambalaya irundha
+34	C043852	Offensive	Tanglish	Jeyam Ravi thanaku Thane aapai sorugikittar.thalaivara kalaikra alawuku periya aala aagitar pola.pudungi ravi
+35	C043853	Hate Speech	Roman Telugu	Nidra pothunna gaadida nu lepi thanninchukovadam ante ide. Dayachesi vadiki public lo mike ivvakandi.
+36	C043856	Hate Speech	Roman Telugu	babu kcr meeru congress thothu modi sir gurchi maryaadagaa mataldandi
+37	C043857	Hate Speech	Roman Telugu	ee vakhyam rr loo raam charanh jail seen deggara vaadaru
+38	C043859	Hate Speech	Tanglish	Apram arasiyalvaathi Avan payyanukku arisi vikkava solli kuduppan politics ah solli kuduppan ketta vaarisu arasiyal nu koovurathu
+39	C043862	Offensive	Kannada	ಚೀನಾ ಎಷ್ಟೇ ಮುಂದುವರೆದಿದ್ದರೂ ಅದು ಅನ್ಯದೇಶವೇ ಹೊರತು ನಮ್ಮ ದೇಶವಾಗುವುದಿಲ್ಲ. ಅವರನ್ನು ಹೊಗಳಿ ನಮ್ಮನ್ನು ತೆಗಳಿ ಯಾವುದೇ ಪ್ರಯೋಜನವಿಲ್ಲ. ನಾವು ಪ್ರಜೆಗಳಾಗಿ ಯಾವರೀತಿ ನಡೆದರೆ ದೇಶವನ್ನು ಮುನ್ನಡೆಸಲು ಸಾಧ್ಯ ಎಂದು ನಮ್ಮಲ್ಲಿ ಅರಿವು ಮೂಡಿಸುವ ಸಂಘಟನೆ ಅತ್ಯಗತ್ಯ. ಮೋದಿ ಸ್ವಚ್ಛ ಭಾರತ ಅಭಿಯಾನವನ್ನು ಆಡಿಕೊಂಡು ಹಂಗಿಸಿದವರೆ‌ ಹೆಚ್ಚು. ಸ್ವಚ್ಛ ಭಾರತವನ್ನು ಮೋದಿ ಮಾಡುವುದಲ್ಲ ಬದಲಾಗಿ ಅದು ದೇಶದ ನಾಗರೀಕರ ಕರ್ತವ್ಯ ಎಂದು ಒಬ್ಬರಿಗೂ ಅನಿಸಲಿಲ್ಲ. ಈಗಲೂ ಮೋದಿ ಏತಿ ಎಂದರೆ‌ ಅಲ್ಲ ಪ್ರೇತಿ ಎನ್ನುವ ಜನರಿದ್ದಾರೆ. ಯಾವುದೇ ಒಳ್ಳೆಯ ಕೆಲಸಕ್ಕೆ ಕಾಲೆಳೆಯುವ ಜನರು ದೇಶದಲ್ಲಿ ತುಂಬಿ ತುಳುಕುತ್ತಿದ್ದಾರೆ. ದೇಶ ದ್ರೋಹಿಗಳನ್ನು ಬೆಂಬಲಿಸುವ
+40	C043865	Offensive	Kannada	indian Tiktok ನಿನಾದರು ಕಂಡುಯಿಡಿ ಮಾರಯಾ ಜಾಸ್ತಿ ವದರಬೇಡ
+41	C043866	Offensive	Tanglish	Rajinj kaala nakkalana ungaluku thoolamae varathe
+42	C043870	Hate Speech	Tamil	teaser எப்ப பாக்கனுமமேன்டு சொல்லட்டுமா தல funs என்ன பயம் தளபதிய நாங்க பாக்க முதலே நீங்க பாக்கிறிங்க அந்த பயம் இருக்கனும்டா
+43	C043883	Offensive	Tanglish	Dislike potta mutta muthevingaluku than thalayoda last dialogue... Oruthan mela viswasam katta innoruthara enn asinga paduthireenga
+44	C043888	Hate Speech	Roman Telugu	naag sir lae natural gaa evaru matlada lerunag sir super
+45	C043894	Hate Speech	Telugu	Hanu గారు is a very descent and dignified person unlike the arrogant petty giramouli Hanu గారు is very simple and down to earth person Best wishes to him
+46	C043895	Hate Speech	Tanglish	Selva sir aayirathil oruvan ku panna thappu maadhiri ngk ku pannamaatom
+47	C043898	Offensive	Tanglish	Last Battle feels like Power Rangers SPD.
+48	C043903	Hate Speech	Roman Telugu	Prathi daniki Government tappu vundadu prajalu koncham marali attitude change ayithey ilanti jaragavu
+49	C043909	Offensive	Tanglish	padatha pakka kola kandula iruken diiiiii
+50	C043913	Hate Speech	Roman Telugu	anna samskaaram undaali koncham manishiga puttinappudu sampaadinchaali ante elagaina sampaadinchochu kaani ilanti bhashani janaalaku neerputuu kaadu
+51	C043919	Offensive	Kanglish	Aa bindu gowda nad innitar support madovrge hilieghtag troll madi bro life nal tiktok bagge matadbardu
+52	C043929	Offensive	Tanglish	Udhayanidhi stalin pundamavanuku nadippum varla oru mayirum varla
+53	C043933	Hate Speech	Roman Telugu	Fake luchha news ra jaffa
+54	C043934	Offensive	Tanglish	yennai arindhal movie ya apdiye copy adichutu scene punda podringala???
+55	C043937	Offensive	Tanglish	Enaku enamo ella kadhaiyum kalandha madhiri oru feeling
+56	C043939	Offensive	Tanglish	Senseless movie .. just video game..
+57	C043948	Hate Speech	Roman Telugu	Amit Shaw ki slippers vesthu bathukuthunnadu, telugu vaari gowravaanni gujarat gadidhala dhaggara thaakattu pettesthunnadu..
+58	C043952	Offensive	Tanglish	Enada ithu sema mass ah iruku
+59	C043954	Hate Speech	Roman Telugu	Deenni ycp Lo ki raanivvakandi
+60	C043957	Hate Speech	Tanglish	Thayirimairuntha Amma uyirodairukkum pothu poda vendiyathu Thane pongada
+61	C043958	Offensive	Tamil	இந்த ஹீரோ பய பிறக்கும் போதே போலீஸ் தொப்பியோட பிறந்திருப்பான் போல ..இவ்ளோ சண்டை போட்டும் அது தலையில இருந்து விழலை ...கொஞ்சமாவது மனசாட்சியோட படம். எடுங்கடே
+62	C043964	Hate Speech	Roman Telugu	ekanth sindhe gadu lanjala koppa leader
+63	C043967	Hate Speech	Tamil	விஜய் ரசிகர்னு சொல்லிக்கிட்டு டிஸ்லைக் பன்ன தூங்காம இருப்பானங்க போல
+64	C043969	Offensive	Tanglish	1.20 dei tejai 🤣🤣 neeena da panra inga 🤣🤣🤣🤣
+65	C043973	Hate Speech	Roman Telugu	Hi ra T.R.S. kukka…
+66	C043974	Offensive	Tanglish	Rajni sir trending neenga late sir
+67	C043976	Offensive	Tanglish	Oru appanuku poranthavan evan patathai pokkamatan
+68	C043980	Hate Speech	Roman Telugu	Kaleswaram sanka nakenchendevaru Dora
+69	C043988	Hate Speech	Roman Telugu	cinema chustunnanta sepu edho manasuku teliyade aanandam
+70	C043997	Hate Speech	Tanglish	Rajini fans ah kathara viduranga pa last month Balaji Hassan . Ippo jeyam Ravi
+71	C043998	Hate Speech	Tanglish	Loosu Pundaigalaa unga Droupadikku, enga Maari Selvaraj’s Karnan varudhu daaw...!! jaadhi veri pundaigalaa..!
+72	C043999	Offensive	Kanglish	Kuladalli keelyavudo huchappa
+73	C044001	Hate Speech	Kanglish	Ellar mobile alli dia movie ide kanri theatre ge jana yake barthare heli yake online alli leak aythu movie nOnline alli movie nosbodu andre jana bidthara heli neeve
+74	C044003	Hate Speech	Tanglish	492 views 1hour ra apudiya eruku etho sari ella
+75	C044004	Offensive	Tanglish	Yooov athuku nu hero oru dialogue kudayada pesatha maari teaser viduveenga 🤔🤔🤔🤔🤔🤔🤔oru vela hero umaiyoo
+76	C044010	Hate Speech	Roman Telugu	CHETTHAPLAN. RAAKSHASHATHVAM
+77	C044017	Hate Speech	Roman Telugu	karan johar asla modda levadu anta andukey ammaila mataladuthaane vunatru
+78	C044019	Hate Speech	Tamil	படம் பாத்துட்டு பாதில எந்திச்ச மாதிரி இருக்கு........மீதி பாதி எப்போம் சார் வரும்..............
+79	C044020	Hate Speech	Roman Telugu	mundu nuv ii sinimaala gurinchi apu ayya anduku niku respect ivaniki raadu m raadu
+80	C044023	Offensive	Tanglish	Yaanda DISLIKES Pandrige...... Thala DA........ Thala pola varuma ..
+81	C044025	Offensive	Tanglish	Marupadium god father ah eduthu vachurukan pola... thirutu paya...
+82	C044029	Hate Speech	Tanglish	1k likes left for 200k likes
+83	C044032	Offensive	Kanglish	Yak guru ibrugu avarde aada talent ide yake eethara 1
+84	C044034	Hate Speech	Roman Telugu	Rey verri pushpam recharge khaali ayyaka browser yela work avuthundira
+85	C044038	Hate Speech	Roman Telugu	thanni paeru enti id enti chapuu brother
+86	C044043	Offensive	Tanglish	Innoru national award vangama poga mattanga polaye???
+87	C044048	Hate Speech	Roman Telugu	dopidikosame anna jeevinchedi dopide jeevita lakshyam
+88	C044051	Hate Speech	Roman Telugu	anna ii veediyo 100 saarla chusina tandri kodukulo madhya unna prema super maa dhisti tagulutundi emo baya amitundi
+89	C044059	Hate Speech	Roman Telugu	garikapati vaaru nijame chepparu
+90	C044061	Hate Speech	Telugu	ఏంటి గుర్రం 2సరే కి వస్తోందా పక్కనే చెట్లు ఉన్నాయి వెళ్లి లోడ్ దించేయ్
+91	C044066	Hate Speech	Roman Telugu	roja oka noru vunna pichi lanja noru vundhaani edho edho matladthi
+92	C044068	Offensive	Tanglish	July 23 sigapene songa varutha Athukku ippave update vitrukanuga avolo Bayam views likes vaeathunu
+93	C044081	Offensive	Tanglish	Oh keka beka short film dhana.. Andha shortfilm paiyanae nalla panniruparu... Idha vida
+94	C044085	Hate Speech	Tamil	நாடகக் காதல் கும்பல், 200 ரூபாய் பரம்பரை கொத்தடிமை ஊபிஸ் & சொரியான் groupsக்கு சரியான செருப்படி. இவனும் இனிமேல் அடுத்த ஜாதி பெண்களை யோசிக்க கூட கூடாது
+95	C044087	Hate Speech	Tamil	அடேய் ஜாதி ஜாதி ஒரே தேவுடியா படமா எடுகிறேக
+96	C044090	Hate Speech	Tamil	ஒரு ஜாதி ய மட்டும் குத்தி கட்டுகிறார் அப்படி இன்ன என் ஊர் ல இருக்கும் கீழ் ஜாதி யன வன்னியர் களுக்கு எங்க பெண்ண தெட்ட ஒத்த உன்ன வெட்டுவேம் டா என்ன kuthi comments pandringa ipo thearithu eagaluku baiyathinganu
+97	C044092	Hate Speech	Tanglish	3 million viewers da apo padam vettri patathu dhane nanbargale Ivanungaluku .PCR apdi onu ilainu vachika ivanunga suvasika kuda mudiyathu
+98	C044093	Offensive	Kanglish	Modhlu sariyagi english kaliyo childu
+99	C044097	Offensive	Tanglish	Hit like if you think Rajinikanth is a fucking joke
+100	C044099	Hate Speech	Roman Telugu	Car top medhega kurchuni vachindhi mee araganta auntymedha kurchuni kaadhu ga me fans tega feel aypothu support chestnaaru manchi aatagaadivey
+101	C044106	Hate Speech	Roman Telugu	Devududevudini chudafaaniki enduku raaraiah
+102	C044108	Hate Speech	Tanglish	Online streaming rights endha app vangirukanga???
+103	C044109	Offensive	Tanglish	Editing kevalam enga anna VJ SP romba kammiya irukaru 🤬🤬🤬🤬
+104	C044114	Offensive	Tanglish	100 ajithu, 100 Vijay vanthalum, rajini ya onum panamutiyathula, only one supar one rajini
+105	C044116	Hate Speech	Telugu	​అయినా, వైకాపా, భాజపా దోస్తీ నడుస్తూనే ఉంటుంది.
+106	C044121	Offensive	Tanglish	Mannu Ponnu Rendum Mukkiam...Kaiya vettuvom...................Semmmma Semm....Ranjith Narakkooothi un Poo.la vettuvom
+107	C044122	Offensive	Tanglish	Idhan da Acting ! Kola Mass ! Saar!
+108	C044125	Hate Speech	Telugu	లక్ష్మీ పార్వతి ఎంత బోకు ముండో అర్థము అవుతోంది
+109	C044132	Hate Speech	Tamil	சேலம் மாவட்டத்தில் விநாயகம்பட்டி கிராம வன்னியர் மக்கள் சார்பாக வெறித்மான வாழ்த்துக்கள்... படம் ரிலீஸ் ஆகாம எவனாச்சும் ஏதாவது பன்னட்டும் தமிழ்நாடே பத்தி எறியும்
+110	C044133	Offensive	Tanglish	Dis like pottha potta pasangala nigala nallave irukka mathynga by thalabathi veriyan
+111	C044134	Offensive	Tanglish	Yarru da dislike pannavan???? Julie purusha
+112	C044146	Hate Speech	Tamil	Dislike பண்ணது எல்லாம் அண்ணன் குஜினிகாந்தோட குஞ்சுகள் தான்..
+113	C044150	Hate Speech	Roman Telugu	devudimeedaa jokulu vesina avamaanicchina chaalaa nasta poetaaru vinayakudito pettukokuda power full gaad
+114	C044153	Hate Speech	Roman Telugu	anji mama and sati anna combination adirindi
+115	C044156	Hate Speech	Roman Telugu	argievy garu telugu vaariga janminchadam mana telugu vaallu chesukunna adrushtam
+116	C044166	Offensive	Tanglish	Sir intha bgm Mattum yengayo 🤔ketta madhiri irukku..
+117	C044167	Offensive	Tanglish	1 million likes Kuda illa Ivan superstar ?
+118	C044170	Offensive	Tanglish	Marvel aavuthu mairavathu SK universe daw
+119	C044171	Hate Speech	Roman Telugu	modi gandhinagar pantice dongalede vadhu vaadu enti pm marry chiller gah
+120	C044173	Offensive	Tanglish	Ivan oru alau ivanuku oru padam
+121	C044175	Hate Speech	Roman Telugu	Sudheer gaaru team yekada unna full comedyperfect time ki set ayyeka comedy chestharu
+122	C044177	Hate Speech	Tamil	கோமாளி படத்தின் டிரைலரை காண்பித்து என்னை கிண்டல் செய்யும் நண்பர்களுக்கு, ரஜினி 2017ற்கு முன்பு நான் அரசியலுக்கு வருவது உறுது என்றோ அல்லது நான் இந்த தேதியில் தேர்தலில் நிற்க போகிறேன் என்றோ அவர் பேசிய வீடியோ அல்லது எந்ந ஆதாரத்தை காண்பித்தூலும் நான் ரஜினியை ஆதரிப்பதை நிறுத்த தயாராக இருக்கிறேன்.
+123	C044183	Offensive	Tanglish	Vijay pundha Thala Ajith Sunni Thala always mass Thala pola varruma
+124	C044185	Hate Speech	Roman Telugu	nidra poyadani train kii elaa telustondi
+125	C044189	Offensive	Kanglish	Yak jana barthilla andre sir yaro loffer nanna maklu YouTube Facebook yella kadenu movie na akidare yellaru elle nodtare heg bartare heli
+126	C044203	Hate Speech	Tamil	பொள்ளாச்சி சம்பவத்துல இந்த பொங்கலெல்லாம் காணுமே?? ஆண்ட பெரும பேசுறவனுங்க கைவச்ச பொங்கதோ உங்க அருவா?
+127	C044211	Hate Speech	Tanglish	Kaithi Eh Ippadi Na Appea Thalapati 64 ?? Dei Naan Thala Fan da Eanake Veari Asguthu !!
+128	C044226	Offensive	Tanglish	Kaidhi oodha poran da vijay ku bhigilu va va va sanghu
+129	C044229	Offensive	Tamil	மெட்ராஸ், கபாலி, பரி ஏறும் பெருமாள், கடைசி குண்டு, அட்டகத்தி, இந்த படங்களில் உங்கள் மக்களுக்காக எடுத்த படம் அது உங்கள் தலித் ஜாதி உணர்வு வா க தெரிகிறது. அதுவே நாங்கள் திரொபதி படம் எடுத்தால் ஜாதி வெறி யாக தெரிகிறதா. பா. குஞ்சித் உங்களுக்கு வந்த ரத்தம் பிற ஜாதி மக்களுக்கு வந்தால் தக்காளி சட்னி யா.
+130	C044232	Offensive	Tanglish	copy bgm ...to malayalam film oppam
+131	C044243	Offensive	Tanglish	Jayam Ravi inime epdi Rajini ah face pannuvaru 🤣
+132	C044250	Hate Speech	Roman Telugu	Ntr kadhu bey ntr garu give respect
+133	C044260	Offensive	Tanglish	Inga comments pota ellothukum onnu solren poi Maris records channel parunga da jathi Veri pundaigala!!!
+134	C044261	Offensive	Kanglish	Bindu Gowda idko nan Lowda.🤣
+135	C044265	Hate Speech	Roman Telugu	Areyy vanni mental hospital loo join cheyyadraaa
+136	C044266	Offensive	Tanglish	97k likes ah paths arpmum inum yepadi da thimira pesaringa
+137	C044268	Hate Speech	Roman Telugu	Amazon Prime lo Lucifer ani type chesthe story enti complete movie osthundhi
+138	C044271	Hate Speech	Tanglish	Pirabu and naasar very good acting in Piriyanka tamil movie But aigth and Pandey moka acting.
+139	C044272	Hate Speech	Roman Telugu	dharani badha padutunte naaku nachatle ii videos vdu
+140	C044277	Hate Speech	Roman Telugu	meeru matladina maatallo 100 percent nizam undhi
+141	C044278	Offensive	Tanglish	Rajni reference use panni ethanayo per pozhachirukanga. Neengalum pozhachitu ponga.
+142	C044283	Hate Speech	Tanglish	Atchi varathu irukatum intha padathuku vasool varuma
+143	C044285	Offensive	Tanglish	Awesome... Pa. Ranjith otha.. Ithu than da padam.. Mudinja umbu da
+144	C044288	Hate Speech	Telugu	చాలా బాగా చెప్పారు అన్న దిల్ రాజు గాడు దొంగ నా కొడుకు ఒక మంచి సినిమాని ఆపేశారు కదరా దిల్ రాజు గాడు అయినా ఏమి పర్వాలేదు కార్తికేయ 2 సినిమాకి మంచి రెస్పాన్స్ వస్తుంది మూవీ సూపర్ బ్లాక్ బస్టర్ సెకండ్ టైం చూస్తా
+145	C044290	Offensive	Tanglish	vijayna summawa vijayna nerupputha aana namma superstar rajini na erimala inga sri lankaala vijay fans ajith fans pala fansnga irukaanga aana ellaarum rajinina uyire kudupaanga
+146	C044291	Hate Speech	Roman Telugu	ilah extras cheyadam cinema kii karchu pettam shoe peepul should pay 450 antaaru
+147	C044294	Hate Speech	Telugu	Fan రెక్కలు విరిగే రోజు దగ్గరలోనే ఉంది
+148	C044300	Hate Speech	Roman Telugu	goppa vaari kadupulogoppa vaare pudataruanna mata mea vishayam loo correct
+149	C044303	Offensive	Tanglish	Tamil 300 k nd hindi only 100 k 🤔🤔
+150	C044304	Hate Speech	Roman Telugu	Assembly lo aa party kani sir ma samsyaluni gurinchi matladandi missillineous vanni matlda vaddu si
+151	C044305	Offensive	Tanglish	Chinna vayasula oru yeriku kulikka povomey, anga kootitu poda.... athu mela thaanda nadanthu poitu irukom.. nice punch.. comedy ah irunthalum yosikka vendiya visayam..
+152	C044308	Offensive	Tanglish	Hahahahahahaha now you tube is now fire.., chiti 2.0 loaded
+153	C044310	Hate Speech	Telugu	ఏ మార్నింగ్ వెళ్ళలేదా ఇంకా ఎందుకు వేళ్ళు త్వరగా
+154	C044314	Hate Speech	Tanglish	how is tis possible .views is 60k but likes is 124k.fake likes
+155	C044315	Hate Speech	Tanglish	In India women empowerment na onnu thani yadipalunga illa tham yadipalunga
+156	C044320	Offensive	Tanglish	indian endru kurumpothu eppadi asingamai ihruku tamilan endru kurumpothu eppadi unarvu ponkuthu
+157	C044324	Offensive	Tanglish	Shakthi Maan graphic maathiri irukku ... Ithukka ivlo varusham
+158	C044340	Hate Speech	Tanglish	2.0 vs zero Srk vs Rajnikant Shankar vs Anand 200cr vs 550cr Who's win
+159	C044345	Hate Speech	Tamil	நாடோடிகள் ஒன்று போல் எதிர்பார்த்து ஏமாந்தது விட்டேன்
+160	C044358	Offensive	Kanglish	yakale.... Dbooos bagi matadtya
+161	C044359	Hate Speech	Tanglish	Kadaisila naan arasiyalukku varuvathu uruthi a..a....a ithu 96 yaara emathureenga
+162	C044362	Hate Speech	Tanglish	marana mass...amai kunjugalla odungada....vj rocks again....
+163	C044379	Offensive	Tanglish	Nega arasiyal varama irutha unga leaval vera maari iruthu irukkum
+164	C044384	Hate Speech	Roman Telugu	Lakshmi paravathi bsthapitam cheste mi cbn telagana lo bustapitam chesadu tdp ni
+165	C044385	Offensive	Tanglish	Indha padam nalla irukkum Ana thalapathy 64 mayiru madiri irukkum.hit like
+166	C044389	Hate Speech	Tamil	Part 2 எடுக்குறேன் னு ஆசைப்பட்டு அந்தந்த இயக்குனர்களே அவர்கள் முந்தைய படங்களை கெடுத்துக்கொண்டு இருக்கிறார்கள்.... அடுத்த Part 2 flop movie ரெடி.... பில்லா 2 சாமி 2 சண்டைக்கோழி 2 சிங்கம் 2 மாரி 2 இப்போ நாடோடிகள் 2
+167	C044391	Hate Speech	Telugu	అప్పుడు రాజకీయ ఎదుగుదలకు కారకులయిన అద్వానీ గార్ని అవమానించారు ఇప్పుడు పదవీవిరమణ చేసిన కోవింద్ గారిని అవమానించారు న్యాయమా మోదీ గారు
+168	C044392	Offensive	Tanglish	Antha ponndatti Kozhantha Kutti Sendiment dialogue yaarayo kurippittu solra maari irukku
+169	C044393	Hate Speech	Telugu	అందరి మంచి vaalalo oka yadava ఉన్నాడు?? కనుక్కోండి చూద్దాం......
+170	C044394	Offensive	Tanglish	Neenga Thaane Main Nandha Gopala Kumaran Enga Appa Military Daa Odi vilayadava sollitharuvaa
+171	C044398	Offensive	Tanglish	Dislike potavanuka amma va oda vittu okanum
+172	C044399	Offensive	Tanglish	Ivan la oru aala ivan la oru moonjiyaa nu ketaanga...ana inaikku danush engayo irukaaru...
+173	C044400	Hate Speech	Tanglish	Dai last la vechinga para, pongada neenga Nala variveenga
+174	C044402	Offensive	Tanglish	Oruthar Mela viswasatha katradhukkaga innoruthara ya asingapaduthuringa....namma mind Vera angaye pogudhe
+175	C044412	Hate Speech	Kannada	ಅಯ್ಯೇೂ ಅಲ್ಲು ಮಾಡ್ತಾರೆ tic toc ನ
+176	C044413	Hate Speech	Roman Telugu	ee veediyo ante chaalaa ishtam naaku
+177	C044414	Offensive	Tanglish	1:42 noticed nee yaruda komali channel jainth
+178	C044420	Hate Speech	Roman Telugu	vinayaka chaviti subhakaamsaalu harsha saayi
+179	C044423	Hate Speech	Telugu	ఉద్యోగం జాగర్త! నువ్వంటే పడకపోతే మీ ఆఫీసర్ సస్పెండ్ చేస్తడు!
+180	C044427	Offensive	Tanglish	Thu vekkama ila ya da punda
+181	C044434	Hate Speech	Telugu	పార్టీ నుండి జంప్ కావాలంటే, ఎవర్నో ఒకరిని తిట్టాలే స్వార్థం కోసం పార్టీ మారాలి....
+182	C044436	Offensive	Tanglish	Thalaivar vera level!!! karthik subbaraj yenagaya iruntha ivalo naala.... 02:00 Kola gaandla irukkam mavaney kollama vidda mataen insaneeeee :P
+183	C044439	Hate Speech	Telugu	అవినీతి రహిత పరిపాలన గనక ఇస్తే తప్పకుండా రాష్ట్రం అభివృద్ధి చెందుతుంది
+184	C044443	Hate Speech	Telugu	ఇలా ఏమి లేకుండా ఉన్న ఏకైక నాయకుడు Apj abdul kalam gaaru మాత్రమే
+185	C044444	Offensive	Tanglish	Odara atha ...odara atha...odara atha...odara atha.....bamgammm🤣🤣🤣🤣🤣🤣
+186	C044450	Hate Speech	Roman Telugu	vaadu ninnu kl university loo chuusi undadu anduke alaa annadu
+187	C044454	Offensive	Tamil	நீ என்ன பெரிய வசூல் மன்னனா? விஜய்னா: தெரில்லா அப்டித்தான் பேசிக்கிறாங்க. யாரு? என் பேன்ஸ்தான்
+188	C044455	Hate Speech	Telugu	మేకప్ లోనే ఇలా ఉందంటే మేకప్ లేకుండా ఎలా ఉంటుంది
+189	C044462	Hate Speech	Kanglish	dislikes are from pedigree foodies
+190	C044465	Offensive	Tanglish	Dei yenga annan vijay ah paathu sirikira
+191	C044467	Offensive	Tamil	Enna da Music kuda VA da..... திருடிவிங்க...இந்த இசை Plant of Zombies Game Music da .....chaiiiii................🤦‍🤦‍🤦‍
+192	C044477	Hate Speech	Tanglish	Anava kolaiku athaeava Oru padam ithu laa Oru kathai yaa daa
+193	C044484	Hate Speech	Roman Telugu	oka saari aa abbai yavaru chapadi madam garu
+194	C044485	Hate Speech	Tanglish	Intha trailer yaarukumey pidikaama irukathu Hollywood level kum Mella iruku aana intha echa Vijay fans than 61 dislikes potu irukanga ivanungalalam rasana kettavanunga
+195	C044487	Offensive	Tanglish	Inime evanavadhu Tamil natla sathi olinjiduchu nu sonan na Inga iruka comments ah padika solunga.
+196	C044492	Hate Speech	Roman Telugu	Poyi poyi Bollywood vaalatho kalisi theesthey ilaane vuntundi..
+197	C044493	Offensive	Tanglish	Thanks to anils for 20k dislikes
+198	C044494	Offensive	Tanglish	Paakaruthukku style aarukka???? Antha ponnukku kannu yengey..kundiyiley vechirikkeyaa
+199	C044496	Offensive	Tanglish	Sunni haters 51k dislikes ? Pepundes wait just wait your turn !!
+200	C044498	Hate Speech	Roman Telugu	naaku adhe kaavaali shudhir anna
+201	C044501	Offensive	Tanglish	Pangalingala inniki Sunday and leave day so adichi thookalamaa thagida thagida thagida thagida ‍‍‍‍‍‍‍‍‍‍‍‍‍
+202	C044505	Offensive	Tanglish	viswasam enga poga poguthunu theriyalaya. PETTA PARAAK
+203	C044506	Offensive	Kanglish	Hahah baari guru
+204	C044510	Hate Speech	Tamil	ம்மாலே சாதி புண்டன்னு சொல்லிட்டு எவனாவது வந்தீங்க ! ஒரே சாதினா தமிழன் மட்டுமே !
+205	C044513	Hate Speech	Tamil	கீழ்சாதி என்ன அவ்வளவு கேவலமா உங்கம்மா போலந்து ருவாண்டா தம்பி
+206	C044514	Hate Speech	Roman Telugu	Jayaho Janasainiks. Oka lakadi gadi gurinchi time waste chesukovaddu. Prajalu chepputho kotte rojulu daggaralo unnayi
+207	C044518	Offensive	Tanglish	pakka mass teaser..better than utter flop bairava
+208	C044519	Offensive	Tanglish	1 million likes vara matignkitheeee so sad
+209	C044525	Hate Speech	Roman Telugu	ee kalam loo ekkada kanipinchani voneelu
+210	C044529	Offensive	Kannada	ಏ ನಂದಿನಿ ರಂಡಿಮಗಳ D Boss Bagge matadadre hudukondu Bandu Hoditini Jaag helu
+211	C044530	Hate Speech	Tanglish	Nan arasiyal luku varuvathu uruthi .yai yara yamathura ithu 1996
+212	C044531	Offensive	Tanglish	Mas masss but foringn la la shooting edukringa aana angayu duke bike use panraga vera bike use panirukalame...🤔🤔
+213	C044532	Hate Speech	Tanglish	Inime vinayak mahadeve,Durai singamellam kedaiyathu Vijay Kumar ips than
+214	C044534	Offensive	Kanglish	Vn sule maga neenu ade bere ide bere
+215	C044537	Offensive	Tanglish	Suyama senthika therichava dha super hero. 90's kids kana oru padam.
+216	C044538	Offensive	Tanglish	No varthuda Mass thalayda visvasam Peta out
+217	C044542	Hate Speech	Telugu	చాలా చక్కగా తికమక లేకుండా నవల మీద సినిమా మీద ఆసక్తి పెరిగేలా వివరించారుధన్యవాదాలు
+218	C044544	Hate Speech	Roman Telugu	vidiki emina teliste kada em undo chepadaniki pm ki chetulu kattukoni kurcho ra
+219	C044546	Offensive	Tanglish	Ada paavi aathi thala thalapathiya y da vechchu senje un padam sathyama odathu po.. tamilnadula ivanga fans thaanda 75% ivangala mokkaiyabkadittila un padam doubt tha
+220	C044547	Offensive	Tanglish	singer voice does not suit ajith...
+221	C044549	Offensive	Kannada	Bindu gowda ನಿನಗೆ ಹೇಳ್ತಿನಿ ಕೇಳು tiktok ಮಾಲೀಕ ನಿಂಮತವರಿಗೆ ಅಂತಾನೆ ಈ app ಮಾಡಿದ್ದಾನೆ ಕೆಲಸ ಇಲ್ಲದೆ ಕಾಲಿ ಇರೋರಿಗೆ ಅಂತ ನಮ್ಮ ದೇಶಕ್ಕೊಸ್ಕರ ಒಂದ app delete ಮಾಡೋಕೆ ಆಗಲ್ಲ ಅಂದ್ರೆ ನಿನಗೆ ತೂ
+222	C044555	Hate Speech	Telugu	NTR గారిని అమిత్ షా గారు కలిస్తే RK గారికి ఎక్కడో కాలినట్టుంది...
+223	C044560	Hate Speech	Tamil	பொள்ளாச்சி இல் 200 பேர்க்கு மேல பாலியல் பலாத்காரம் பன்னவங்கள.... ஏன் எதிர்த்து கூட பேசவே இல்லையே.... ???அது நாடக காதல் இல்லையா ?? ஏன் பேசல ??? because they r also...🤣🤣 ஏன்னா அந்த தே பசங்க எல்லாரும் ஆண்ட பரம்பரை 🤣🤣🤣 ...அப்போ உங்க மண்ணு பொண்ணு தொட்டவனுக்கு புடுசிங்கள 🤣🤣🤣🤣 ... அடா சூத்துர பசங்கள ... comment பன்னவனேள்ளா சூத்திர பசங்க... இதுல சாதி பெரும வேற 🤣🤣🤣
+224	C044567	Hate Speech	Roman Telugu	Alaanti goppollaki ilaanti goppolle pudatharu
+225	C044571	Offensive	Tanglish	Nee thirunthave matada kulla payale singam 4 dhan Unna kapathanum your boat is sinking da kullandi
+226	C044575	Offensive	Tanglish	Porukiya, rowdya entha mari Kati thanda nadu nasama pochi
+227	C044580	Hate Speech	Roman Telugu	ray apara nee telivitakkuva maatalu
+228	C044584	Hate Speech	Roman Telugu	veeni cm ananaloo leka pothey vp analoo artham kavadam ledhu
+229	C044590	Hate Speech	Tanglish	RAJINI ya eanda vampukku elukkiringa name vanga vera vali theriyaliyaaaaa
+230	C044593	Hate Speech	Tamil	அப்போ இது சிலை கடத்தல் பற்றிய கதை இல்லையா??? அப்போ ஏன்யா அவரு பேர வெச்சு படமெடுத்திருக்கிங்க??????
+231	C044609	Hate Speech	Roman Telugu	appude adukkune sthithi vasteinka mundu vundhi musali panduga
+232	C044615	Hate Speech	Roman Telugu	same too same mallanna lekkane unnadi kaada nee katha kudayeda dorikillu raa saami
+233	C044616	Hate Speech	Roman Telugu	Ktr nuvu ni party lo Valasalu avuthai jagatha mundhu mundhu nuvu ni thandri mathatrame Migultharu Nunu chepindhi jaragakapothe voche election lo nike na votu
+234	C044627	Hate Speech	Roman Telugu	naani meelo surya poolikalu kanipistunnaayi shoe nice of you
+235	C044637	Offensive	Tanglish	Go*** Sk Va Thapa Pesa Evanumkum Thaguthi Illa
+236	C044644	Offensive	Tanglish	Vijay eh kora sollite iruntha ajith no.1 aaiduvaan nu ivangala brain wash pannirukaanga
+237	C044650	Hate Speech	Tanglish	teaser nallala na kuda thaangamudiyum aana dmk adds a thaan thaangave mudiyala da samy
+238	C044651	Hate Speech	Roman Telugu	jokulu vesukoni navukunnaru eppudu andaru navutunnaru chuusi
+239	C044652	Offensive	Tanglish	Surya vathu mairavathu nethan than thalaiva nadipin arakkan
+240	C044666	Offensive	Tanglish	Padam nalla odum....bigil oothikum...athukku unga trailer sooper
+241	C044670	Hate Speech	Kanglish	6-5=2 nalli nijvadh video antha posteralli nodide but movie nodida mele gotthaythu adu sulu antha
+242	C044673	Offensive	Tanglish	thalayoda trailer luku eppa oruthan dislike pannano appava avan aalu luku padam uuuthikurum nu paiyam vanthuruchuuu da.....
+243	C044678	Offensive	Kanglish	Dislike kon kiya re m###₹##0d 🤗..
+244	C044679	Hate Speech	Roman Telugu	Kojja mundu supply epinchandi.
+245	C044681	Hate Speech	Roman Telugu	police vaallu cheppindi anta nijamena puurti enquirey ayina taravaata nuvvu vaallanu criminals ani cheppu brother
+246	C044682	Offensive	Tanglish	vishal eavlo paravala pola...suriya ipadi adikararea!!!! dai indhu hand or any iron rod....andhara padam mathri eadukaragalea!!! ena koduma ji idhu
+247	C044684	Offensive	Tanglish	Surya u r an anty Indian
+248	C044685	Offensive	Tanglish	what a stupid movie, you saying kadaram kondan, a Malaysian movie documentary, but Im seeing actions........ disgusting.....
+249	C044689	Offensive	Tanglish	12k dislikes from blind srk fans
+250	C044690	Hate Speech	Tanglish	Myru thayvar, udayar, vanniyar, goundar nu vanthutanga.. Oru road sari illai, padichavanuku vaylai illai, govt sari ellai, petrol rate kudittu poguthu, vegetables rate kuduthu... Etha thatti kaytka oruthanum illai.. Pottachi luv pannurala.. Pannalaianu veeram katta poranga.. Thuuuu.. Police Karan lathi edutha vittukkula poi pondattai pinnadi oliura paiyalvo thana neenga ellarum.. Vada nattu karanuku kuja thukura paiyalvo.. Kasuku vote pottura naiykal.. Paycha paru.. Atharavu thayrivingalam.. First poi unnoda oru la thanni olunga varuthanu parthu unnoda veeratha political person kitta kattu
+251	C044703	Hate Speech	Roman Telugu	naa bharatamaata chaalaa goppadi endukante sonusud lanty goppavyakttini kannanduku
+252	C044716	Offensive	Tanglish	Vishvasam padam edutha vishvasam Enna nu theriyadha Rendu perukum vishvasam ma irukanum na sombuthanda adikkanum
+253	C044725	Offensive	Tanglish	Valavuvalavan nuku good revenge . Pavada ranjith thukum than....
+254	C044733	Hate Speech	Roman Telugu	shekhar master garu and srimukhi garu mea dance baagaa adirindi
+255	C044737	Hate Speech	Tanglish	yaarda ithu ammakea vfx panna maari iruku
+256	C044738	Offensive	Tanglish	82k views 104k likes. Views stuck up
+257	C044745	Hate Speech	Telugu	మీరు చెప్పే టాపిక్ వల్ల ఉపయోగం చాలా ఉంది
+258	C044747	Hate Speech	Roman Telugu	Leak endhi ra secret aaa dhii
+259	C044750	Hate Speech	Tanglish	🤣🤣🤣🤣.... Dei Amma look kudupeenganu partha... Yedho cartoon face ah nadika vachu irrukeenga...
+260	C044759	Offensive	Kanglish	urkolli nodi avrella
+261	C044766	Offensive	Kanglish	ASN release in nKannada-Dec 27nTelugu-Jan 1stnTamil& Malayalam-Jan 3rdnHindi-jan16thnnAstaralli Ella mobile nalli nodi Mugsirtaare aaga release Maadi Aden record Create maadtaro?n300 koti Beku anta Tweet maadidre saaladu ondu cinemana Janagalige Yav reethi Talupisodu anta gottirbeku.... Kurukshetra ide reethi Promotion ilde haalagi hoytu...Innoo idunnoo hange maadtidaare
+262	C044767	Hate Speech	Roman Telugu	​venkata reddi yadava ninnu cheap gah vallu kanapade thantharru take care
+263	C044771	Hate Speech	Tanglish	PLEASE CHECH WANT HAPPENED FOR VIEWS UPDATE,views update hang aayitu ennanu paarunga plz 24 minslaye 492 k views vanthutu ippom 2 hours aayitu innum 492k viewslaye irukku
+264	C044775	Offensive	Tanglish	SEMA bangamda kelavanuku, idhu 96 Yaara emathureenga???hahahhah
+265	C044776	Offensive	Tanglish	athu yaar koodapa fight rakul kooda vah
+266	C044780	Offensive	Tamil	Ngk ngk kumaraa ne போடா
+267	C044784	Hate Speech	Telugu	మాకు తెలుసు పవన్ అన్న అంటే ఏంటి యావడో మాటలు పట్టించుకోము జై జనసేన
+268	C044785	Hate Speech	Kanglish	MONSTER_KANNADA nNimm Todeya release gu modale damaar
+269	C044787	Hate Speech	Tamil	Aaga தளபதி fans ku oru kuthu... தல fans ku oru kuthu.. Nalla iruku daa unga dealing uh🤓🤓🤓
+270	C044790	Offensive	Tanglish	enna fur elise theme ah potrukanga.. ilaiyaraja ku Idhu aanmai illadha thanama therlaya??
+271	C044799	Offensive	Tanglish	Rangaraj Pandey ehi ala konamnu patha.... Inga vandhutarah !
+272	C044800	Hate Speech	Roman Telugu	Ante ithanu ne ex annamata
+273	C044804	Hate Speech	Roman Telugu	chaalaa adbhutamgaa paadaru brother meeru paadutunte entha adbhutamgaa undo maatallo cheppalenamtagaa undhi
+274	C044813	Hate Speech	Roman Telugu	Power loki vachaka prajala paina kallu petti thokkutharuu,
+275	C044817	Hate Speech	Tamil	செய்வீர்களா.. செய்வீர்களா'னு கேட்டவங்கள நல்லா வச்சி செஞ்சிட்டிங்களே டா..
+276	C044818	Offensive	Tanglish	kalippp mode on naan kolapasiyile irukku
+277	C044822	Hate Speech	Tanglish	Amazon webseries modern love Mari iruku.
+278	C044825	Hate Speech	Roman Telugu	first aa ammai family kii security ivvandi night night emaina jaragochu
+279	C044831	Hate Speech	Roman Telugu	Dhani pandhi moham chusi shock avuthada
+280	C044834	Offensive	Kanglish	Mallad nin Amman thullu sulemagne gaandu nayi sulemakla mucchkondiro
+281	C044836	Offensive	Tanglish	Eppodanda padatha release pannuvenga , adukkula santanam 60 ayiduvar pola
+282	C044847	Hate Speech	Roman Telugu	maatalo cheppalenanta pema
+283	C044849	Hate Speech	Tanglish	Ratchasan part 2 pakuramari iruku.Who agree?
+284	C044854	Hate Speech	Telugu	వాళ్లు ఈ జీవితం లో కూడ ఫలక్నామ ప్యాలస్ లో బోజనం చేసివుండకపోదురునువ్వు గ్రేట్ బ్రో
+285	C044855	Hate Speech	Tanglish	Gommalakka teaser pakkalanu Vantha,intha dmk punda ad vera
+286	C044857	Hate Speech	Tanglish	Blue sattai maran review be like - indha padathula namma hero aadhi mattum dha sirikuraru padam paaka vandha oruthanum sirikala...avaru sirikanum na veetlaiyae okandhu sirikalamae...idha kaasu kuduthu paaka varavan poora paithiya kaarana...mothathula indha padam epdi irrukunu keteengana naa onnum solla virumbala neengalae paathu therinjikanga
+287	C044863	Hate Speech	Roman Telugu	jagan corporate kii paniki raadu vaste phelo
+288	C044865	Offensive	Tanglish	Surya sir ajith vikaram market yellam kalli pannanum nu mudivu panniteenga pola
+289	C044871	Offensive	Tamil	செம்ம தில்லு சார். இப்படி வாரிவுட்டீங்க
+290	C044875	Offensive	Kannada	Parthasarathi ನಿನ್ ತುಲ್ಲು ಉರಿತ..... ಲೋಕಲ್ ಚಾಯ್ಸ್ ಕುಡುದೇ ಏನ್ ಕಿತ್ಕೊ ತಿಯ... ಬ ನನ್ ತುಣ್ಣಿ ಉಣ್ಣು ಹ RMD ನೇ ತಿಂದೆ.... ನಿಂಗೇನು ತುಲ್ಲು ಉರಿ
+291	C044880	Hate Speech	Roman Telugu	Raja Singh nuvvu ni karra tagubthu mokam neeku mokham nuvvu mla ela ayyavu
+292	C044882	Hate Speech	Tanglish	Padam Ethanna vettu vaanga pogudho theriyala
+293	C044883	Hate Speech	Telugu	ప్రతి పాట అరపు ఎక్కువగా ఉంటుంది ఎందుకో అన్ని పాటలు ఒకేలా ఉన్నాయి
+294	C044886	Offensive	Tanglish	Nawazuddin ah enna Da panni vachrukinga?
+295	C044888	Hate Speech	Tamil	கெக்க புக்க ஷார்ட் பிலிம் ஓட copy மாதிரி இருக்கு
+296	C044889	Hate Speech	Roman Telugu	dnr sampaadinchaalani anukunte thode cinema feeled loo evaru sariporu mahanubhavudu daring maan
+297	C044892	Hate Speech	Kanglish	Ei movi pass aglile
+298	C044900	Hate Speech	Roman Telugu	​political fit kakapothe bayapadatam endukandi
+299	C044901	Hate Speech	Roman Telugu	Bokka spritual, ela champukkunnte years baby
+300	C044904	Hate Speech	Tanglish	Kanithan + mugamoodi Neenga nambalainalum ithan nesam
+301	C044905	Offensive	Tamil	எங்க தலைவர் படம் update வரும்போது எல்லாம் jio டவர் கிடைக்கல இது அம்பானி யோட சதியாகத்தான் இருக்கும்
+302	C044908	Offensive	Tanglish	Yuvan music enna aachi ..bgm illa tha Mathiri iruku
+303	C044911	Hate Speech	Tanglish	Sabba oru vazhiya trailer mudinchu... padam yepdi irukumo..
+304	C044915	Offensive	Tanglish	Thalapathy padam pakratha illa Thalapathy 64 director padatha pakratha
+305	C044920	Hate Speech	Telugu	రాంబాబు గారు కరెక్ట్ గ చెప్పారుమావల్ల కాదు అని చెప్పకుండా ఎప్పటికి అవుతుందో డేటు టైమ్ చెప్పలేముఅని చాలా హుందాగా ఒప్పుకున్నారు
+306	C044927	Offensive	Tanglish	Trailer nala ilanu solravanga elam , nalla katharungatrailer trending agathn pothu thala daw
+307	C044938	Offensive	Tanglish	Korraikum nai kadikathu nu solluvanga ... Ithulea yea therithu ivalo bayam nu ...... Iraivi 2
+308	C044940	Offensive	Tamil	ஏண்டா தேவுடியா பயலே ஜெயம் ரவி உன் கோமாளி படம் படுதோழ்வி அடைந்து தயாரிப்பாளர் பிச்சை எடுப்பான். உங்கோத்தா நான் உன்னை வெளியில பார்த்தால் உன்னை கொன்னுட்டு ஜெயிலுக்கு போனாலும் சரி மீண்டும் வந்து உன் பொண்டாட்டிய செய்யனும்டா...சாகுடா..அந்த டைரக்டர் தேவுடியா பயல் விரைவில் வாகனவிபத்தில் சாவான்.
+309	C044942	Hate Speech	Telugu	పవన్ కళ్యాణ్ అసెంబ్లీలోకి నువ్వు మాత్రం next జబర్దస్త్ లోకే
+310	C044943	Hate Speech	Tanglish	Saathiya olikanuna pira saathi ponna kalyanam panni tha olikanuma akka thangachi nu nenachi kaila raaki kattu apdi saathiya oli (saathi mathi kalyanamea pannakoodathu nu solala unmayana kaathala iruntha pannu veembuku vairagiyathuku thimiruku panatha sunniya aruthuruvo)
+311	C044946	Hate Speech	Telugu	నిమాటలు కడుపుకి అనం తినేవాడు ఎవరు నమరు జై హర్ష జై హర్ష హర్ష
+312	C044947	Hate Speech	Roman Telugu	number cheppakunda recharge super gaa cheshav
+313	C044952	Hate Speech	Tanglish	Amma padam eduka sonna, chinnamma padam eduthurukanga
+314	C044954	Offensive	Tanglish	Mercury padam set mari iruku entry
+315	C044957	Hate Speech	Roman Telugu	vijay mallya nirav modi kapadindhi bjp malla ha baate shah gadu nak emtelidhu antaru
+316	C044960	Hate Speech	Roman Telugu	indulo yea okkodiki kuudaa janaganamana vandemaataram evvadiki raadu paiga edava speech lu
+317	C044962	Offensive	Kanglish	Le gandu nan magane
+318	C044964	Hate Speech	Tanglish	Trailar sunni kanda erukku ..seeriyal mari sunni mari erukku...neenga laa oru aal pundaiyala..enthe padam velila vanthaa otha unakku thaa aapathu uyiroda eruke matta..
+319	C044965	Hate Speech	Roman Telugu	ee patta ante entha mandiki ishtam deeje tillu atla untundi manoditho
+320	C044971	Offensive	Kanglish	anna intha kachada nahigallna roast madodralli tapenilla asn dialogue daritapdhorna kshamisbodhu thap daari hiddhornallla nim jothe iddhivi anna
+321	C044977	Offensive	Tanglish	Oruthar meela neenga visuvasam katurathukaga inoruthara yen asinga paduthiringa.....
+322	C044978	Hate Speech	Roman Telugu	anna ee speech rojuku moodu naalugusaarlu chustegani naaku nidraradusupar bandla
+323	C044979	Hate Speech	Telugu	అంతా మీ కష్టార్జితం అన్నమీరు ఎప్పుడు సంతోషంగా ఉండాలని కోరుకుంటూ ఇట్లు మీ అభిమాని
+324	C044985	Offensive	Kannada	Parthasarathi ನಿಮ್ಮ ಅಪ್ಪ ಹುಚ್ಚಾ ವೆಂಕಟ್ ಅಂತೇ ಹೌದ
+325	C044993	Hate Speech	Roman Telugu	delete cheii bro lekopothey kcpd
+326	C044997	Offensive	Tamil	என்ன சமுத்திரகனி சுந்தர் சி ககு டப் கொடுத்தீங்க போல... கார் பறக்கிறது...
+327	C044998	Hate Speech	Roman Telugu	Ne mokam susthe leshe modda kuda muska pothundhi.
+328	C045002	Offensive	Tanglish	Viswasatha kaaturathuka innorunthangala yen asinga paduthiringa #thala #haters
+329	C045004	Hate Speech	Tanglish	Last scene anda kuduraila kevulama irruku loussu passanglan
+330	C045006	Hate Speech	Roman Telugu	Mee mother kuda inkokariki aunty a raa chetta dikkumalina Pata
+331	C045012	Offensive	Tanglish	Ippo purithu Thalapathy yan lokesh ta chance kudutharunu
+332	C045014	Hate Speech	Roman Telugu	ee madhya idhi oka trend ayipoyindi vaerae vaerae party vaallanu tittadam veellu popular avvadam
+333	C045017	Hate Speech	Tanglish	Simran Trisha pattilam iruntha Padam nalla irukkuma
+334	C045028	Offensive	Tanglish	Ellam ok ana last la dha...
+335	C045029	Offensive	Tanglish	Avaru 2017 dec31 st tan sonnaru Aana ivanuga 2016 la kaatitu ithutu irukanuga. En da neengalam oru aalu, nenga avara kalaikuringala, poi innu nallatha ethachum yosichitu va
+336	C045031	Offensive	Kanglish	Guru ee desha uddhara agalla bedu bhai indian youth waste bedu
+337	C045037	Offensive	Tanglish	Onnumey puriyala innoru time parpom..... Ippavum puriyala enna panradhu
+338	C045041	Offensive	Tanglish	1:54 reply to Haters.... Slipper hit....Dislike potta pundangalukku
+339	C045042	Hate Speech	Tanglish	Animation mathiri iruku Thalaivi padathuku south indian heroin yarum kedaikalaya
+340	C045046	Offensive	Tanglish	35k Anil kunjus found -disliked 🤣🤣
+341	C045049	Hate Speech	Roman Telugu	Kadupuki annam thintunnavaa biryani thintunnavaaawhat a comedy dialoguereally super
+342	C045051	Hate Speech	Tanglish	Enna da panni vachu erukinga...at the moment la mersel la vei kalaichutinga
+343	C045060	Hate Speech	Tanglish	Iron lady , Tamilnadu in amma va ipd pani vachu iruukinga paithiya karangala.... vera nalla heroine eh kidaikalaya da unkaluku
+344	C045063	Hate Speech	Roman Telugu	anil ravapudi garu chaalaa baagaa chesaaru
+345	C045066	Offensive	Tanglish	Intha ilayaraja eppadi govind vasantha va kevalama pesunarru, annmai illatha thanam sonnaru, ippo mattum vetkkame illama Beethoven music use paanirukkangge. Puthusaa poda vendiyathane. Yes, it arrangements by myskin, he didn't even give credits.
+346	C045068	Offensive	Tanglish	thala t-shirts open pandara da edhuka aparam sleeper cells unga yalarukam iruka de oru Kacheri
+347	C045070	Offensive	Tanglish	VANTHAL RAJU AH THAN VARUVEN KU pochuku samam daa NKP
+348	C045074	Offensive	Tanglish	Entha trailer poi Dis like pannuarenga la enna pannalam
+349	C045077	Hate Speech	Tanglish	Yennadaa ithu dialogues illa pei padamaa???
+350	C045093	Offensive	Tanglish	Mass trailer paaa after bigil manasa tottu aollungha
+351	C045097	Hate Speech	Tamil	அட ஜாதி வெறி புடிச்ச தேவுடியா பசங்களா என்ன டா மேல் ஜாதி கீழ் ஜாதி னுட்டு எல்லா ஜாதியும் ஒன்னு தாண்ட மட புண்டைங்களா🤫
+352	C045099	Offensive	Tanglish	Ajith maathiri thane avonoda familyum irukum thiuuuuuu
+353	C045105	Hate Speech	Roman Telugu	mimmalni chustunte allu ramalingayyagaru commidy chusinattu vundhi malli
+354	C045107	Offensive	Tanglish	Idhu epdi da trending la vandhuchu..
+355	C045108	Hate Speech	Roman Telugu	ilanti kammani kaburlu chiranjeevi gaaruu matrame cheppagalaru
+356	C045109	Hate Speech	Roman Telugu	Police vallu cheppindi antha nijamena poorthi enquiry ayina tharavatha nuvvu vallanu criminals Ani cheppu brother
+357	C045111	Hate Speech	Roman Telugu	Entha mandhi bjp lo join aina kuda bjp TS govt form cheyyaledhu..
+358	C045118	Hate Speech	Tanglish	3k dislikes only from kelavan fans lol....🤣🤣🤣
+359	C045124	Hate Speech	Roman Telugu	Babu aambotu ramubabu garu maru matladevi enti ainaa meekanna unmadulu evarunnaru netho padhi mandi daka untaru malli chupinchu antaru enti
+360	C045134	Hate Speech	Telugu	నేను సచ్చిపోత బాబోయ్..ఉరి ఏది..విషం ఏది..నా రైలు ఏది..నా కత్తి ఏది
+361	C045141	Offensive	Tanglish	Story la attraction kammi ah irukuramathiri irukeaaa
+362	C045143	Hate Speech	Tanglish	Vaani fans like panuga Rithika Singh fan like panuga Sethu fan like panuga nu solrangalae ,evanachu trailer epti irukunu solrana pathiya...
+363	C045153	Offensive	Kanglish	Hands up Idu kannada antha ninge helidavatu yaru 🤣🤣🤣
+364	C045155	Hate Speech	Tamil	எத்தனை நாளைக்கு நாங்கள் கீழ்ஜாதி நாங்கள் செய்தால் தவறில்லை என்ற ஆணவத்தில் ஆடி பெண்களை நாசம் செய்கிறார் இந்த படம் அனைவரையும் செருப்பால் அடிக்கும் என்ற நம்பிக்கை
+365	C045162	Hate Speech	Tanglish	Muthai jathi padamay edukamatar ana avara jathi padam edukuringanu soluvanunga. Ana Kunjith edutha puratchi padam. Mohan adichar par unga suthula
+366	C045163	Offensive	Kanglish	Majestic alli mobile and money kaltana mado sule makla nodi kalthkoli shankar Sir na shankar ashwath Sir inspiration to all
+367	C045165	Hate Speech	Roman Telugu	Dil raju Cheedapurugu Tollywood ki. Tollywood Karan Johar ee Dil Raju.Ravi teja Krack movie ni kuda elane Tokkesadu
+368	C045168	Offensive	Tanglish	Yenna da idhu... Thalaivar ku views illa... Likes um illa....... Cha
+369	C045169	Offensive	Tanglish	Breaked sarkar views in 5 hrs
+370	C045175	Offensive	Tanglish	Ena da hindi la varuthu title uu
+371	C045179	Offensive	Tanglish	Enna da mairu mari edit pannirukka phone la potrate mode pottu edutha mari irukku
+372	C045183	Hate Speech	Telugu	సంస్థలు అమ్మినవ
+373	C045184	Hate Speech	Roman Telugu	SheM gari manasu doche untadu goratla madhavudu; promotion confirm deputy SheM poste
+374	C045186	Hate Speech	Roman Telugu	Nenu vunnanunenu vinnanunenu chusanu all are eligible for the Oscar level performance
+375	C045194	Hate Speech	Roman Telugu	nuvvu chaalaa chaalaa bagunnavu perfect gaa unnav meeru naaku nacchaaru
+376	C045196	Hate Speech	Roman Telugu	mea lantivalla maatalu inspiring gaa vuntai…gaad blessed us with more nouledge bye sent peepul like you
+377	C045202	Hate Speech	Roman Telugu	Chinna herola mida Chinna cinemala midane mi prathapamDevi is now playing Lady Victim Card against Viswak AnnaWe All Public should support himStay strong Annawe are therewe will make ur movie to go well
+378	C045204	Hate Speech	Kanglish	Mast aitu tik tok ban maadi evella odo du bare yodu bittu bari tirpe shoki maadi nandu istu talent ankotir wa yalla dabba nan maklige Sari yaagi paata kalisi dange aitu. Study bage awrige Care idde iddilla iga nodona yestu awar talent anta. Taawe tik tok maadi tammanne brilliant anta tilkoluwara Talente
+379	C045209	Hate Speech	Tamil	இந்த படைப்ப நல்லா பார்த்திங்கனா தெரியும் இதில் வருகின்ற எந்த ஒரு கதாப்பாத்திரத்திரமும் கண் இமைக்கவில்லை.நமது தமிழ் பட உலகினை அடுத்த தரத்திற்கு கொண்டு செல்லும் இயக்குநர்களில் இவரும் ஒருவர்.இது போன்ற படங்களை ஆதரிக்க வேண்டும்.இல்லையெனில் சிங்கம் 200 பூஜை 300 காஞ்சனா 2000 பகுதி (part) போன்ற படங்களை எடுத்து நம்மை சாவடித்து விடுவார்கள்
+380	C045213	Offensive	Tanglish	Diwali rase kaithi win bigil failure
+381	C045216	Offensive	Kanglish	Kelsa made dudedu duddu tandu kode
+382	C045217	Hate Speech	Tanglish	Dislike poottanvan pooda poravan ellam Pollachi bar naagaraajan thirunaavkarasu oda paartner vs rapist gal
+383	C045218	Hate Speech	Roman Telugu	Net balance lekunda google ala cheyali ra lukka
+384	C045219	Hate Speech	Roman Telugu	chaalaa manchi movie anna meeru react avtav anukunna anna nuvvu super lauer anna
+385	C045223	Hate Speech	Roman Telugu	annee prabhutva vyatiraeka vaartale samanyudi kii ee vaartalu chusteaatma hatye saranyam anipistundi
+386	C045226	Offensive	Tanglish	Illayaraja : ennai pathu copy adipavan anmai illathavan ! *Copies Beethoven
+387	C045238	Hate Speech	Telugu	ఎక్కడ మొదలయ్యారు ఎక్కడికి వెళ్లి కూర్చున్నారు
+388	C045242	Offensive	Kanglish	Sholay makalu China
+389	C045243	Offensive	Tanglish	Director Kamal fan pola , 96 la rajini varenu sollave ilada.
+390	C045246	Hate Speech	Tanglish	Last scene...sema bangam🤣🤣🤣 idhu 96 uh'
+391	C045248	Hate Speech	Roman Telugu	nee andaaniki anthaa mata avusaram maa beautiful lady
+392	C045252	Offensive	Kanglish	Lo gube don't compare anyone yellaru namma kannada super star
+393	C045254	Offensive	Kannada	ಬಿಂದು ಡವ್ ಆಂಟಿ ಮತ್ತೆ ಅವರ ಸಂಗಡಿಗರ ಉರು ಬೋಸುಡಿ / ಯರು ಅಂತ ಪ್ರೂವ್ ಮಾಡ್ತಾ ಇದಾಳೆ 🤣🤣 ತಿಕ್ ಟಾಕ್ ಮಾಡ್ಲಿಲ್ಲ ಅಂದ್ರೆ evalge ಸಂಡಸ್ ಬರುತ್ತೋ ಇಲ್ವೊ ಈ ಚೀನಾಲಿ ಗೆ🤣🤣
+394	C045264	Hate Speech	Roman Telugu	na athulu anta leru na endhuku ra
+395	C045267	Offensive	Tamil	உஸ் க்கு வந்த வாழ்வ பாருங்கய்யா!!! மிஸ்கின் படத்துல நடிக்க வாய்ப்பு...
+396	C045268	Offensive	Tanglish	Movie nalla than iruku # Hidden layers vechi nalla illanu soldranga
+397	C045269	Hate Speech	Telugu	అబ్బా చాలా హుందాగా చెప్పారు సార్ మిత్రులారా మాట్లాడే విధానంలో మన కొడాలి కన్నా బెస్ట్ కదా…
+398	C045276	Hate Speech	Tamil	எந்த சாதியிலையும் செட்டியார் பெண்ணை காதலிப்போம் கவுண்டர் பெண்ணெ கட்டியணைப்போம்னு கோஷம் போடல, எந்த தலைவனும் சரக்கு மிடுக்கு, வயித்துல நம்ம சிசுனு உசுப்பேத்தல.... இப்போ இது பெரிய மேட்டர்ஆ ஆக காரணமே ரஞ்சித் இயக்கிய தயாரித்த படங்கள் தான்.
+399	C045279	Hate Speech	Tanglish	Dei naaigala... jaadhi ungala mirugamaki vachiruku da muttalgala... Vaalthukkal solra naaigala ithuku onnukoodi vaalthu solra Pala jaadhi naaigala neenga unga pala jaadhi kulla marriage pannika mudiyuma da...neenga ellarume oruthanuku oruthan jaadhi la uyarnthavan thalnthavan nu ungakitaye pirivu iruku...thirunthungada
+400	C045282	Hate Speech	Telugu	DSP గాని డిప్ప పగలాలి పిచ్చి పిచ్చి ట్యూన్లు కడితే…
+401	C045283	Offensive	Tanglish	Kishore rajkumar epovo kekka bekkala panitaru
+402	C045284	Hate Speech	Tamil	நல்ல வேளை இதை பார்ப்பதற்கு அம்மா உயிரோடு இல்லை....அழகான நடிகை....அருமையான தலைவி...இப்படி எடுத்துவீட்டீர்களே......
+403	C045287	Hate Speech	Tamil	டைரக்டா் செல்வராகவனின் ஆயிரத்தில் ஒருவன் திரைப்படம் மறைமுக அரசியலை திரைக்கு கொண்டு வந்த திரைப்படம் ஆனால் அந்த திரைப்படம் தோல்வியை சந்தித்தது, ஆனால் #NGK திரைப்படம் மறைமுக அரசியல் அல்லாத தற்போதைய அரசியல் நிலவரத்தின் மாற்றங்களை எடுத்துரைக்கும் இத்திரைப்படம் ரசிகர்கள் எதிர்பார்த்ததை விட பிரமாண்ட வெற்றி அடையும்
+404	C045288	Hate Speech	Tanglish	Enna thalaiva imsai arasan music lam pottu vachi erukenga
+405	C045290	Hate Speech	Tanglish	Dei thalaivar eppo da arasiyal varuvadhu urudhi nu sonnaaru? Seri da sooriyana paathu kolachitu ponga.
+406	C045291	Hate Speech	Roman Telugu	navvinchi navvinchi champela unnaaru gaa meerugetap srinu your awesome
+407	C045292	Offensive	Tanglish	NOT SUCH GOOD TRAILER .RUINED MY EXPECTATIONS OF 4 YEARS.
+408	C045293	Offensive	Tamil	ஏண்டா இப்படி லூசு தனமா டைரக்ட் பண்ணுவீங்க?!!! Very very poor
+409	C045295	Offensive	Kanglish	Rock Siddu yaako gaandu soole magane naanu ninna thangina rape maadidna.. yelo mathannu ole mathanaadu.. nanagu baahi ide.. nanage gothilade thapagide.. Neenu mathado reethi badalisiko ...
+410	C045296	Hate Speech	Roman Telugu	Aa yedawa, daddamma yewadoo kaadu mohan babu
+411	C045299	Offensive	Tamil	சீறு என்ன கதீ சிவ போறிய இல்லை பென்சில் சீவ போறியா இல்லை சேவல் சீவ போறிய Jiva look comedy adei Telugu Padam copy Da stunt over Iruku Da Mokka Padam idhu Jiva flopapa flop on the way
+412	C045300	Hate Speech	Roman Telugu	Ippudu nuvvu cheppindi yem pikutanani news chesataru
+413	C045301	Offensive	Tanglish	Poda jayam Ravi naye en thalaivar eppo vandha unakenna da panni.avar Eppa varuvaru epdi varuvarunu yaarukkum theriyadhu varavendiya nerathula correctah varuvaru. Mudittu po jayam Ravi naai.
+414	C045302	Offensive	Tanglish	No means No Best movie enna THALA da
+415	C045303	Hate Speech	Roman Telugu	deepak kalal increasing hiss haters inn too aaa phone day bye day
+416	C045306	Hate Speech	Roman Telugu	VD gudda mi ekkuva attidude andheukey movie assam ki dengindhi
+417	C045311	Offensive	Kanglish	Marketing swalpa bekittu ansutte
+418	C045318	Hate Speech	Tamil	டேய் அந்த குறும்படத்தை காப்பி அடிசிங்கிலாடா... டேய்....
+419	C045322	Hate Speech	Roman Telugu	pelli meeda naaku chaalaa dreams respect vundedi itlanti interviews chusinappudalla pelli chesukokunda vundadame manchidi anipistundi
+420	C045326	Hate Speech	Tamil	சொல்லவே வேண்டாம் படம் மொக்கயாத இருக்கும் .... சாதி பாத்துலாம்... சொல்ல... சாதி வைத்துதான் ஓடும்... நானேபோய் பார்பேன்... உண்மையில் என்ன பிரச்சினை என்று பார்க்க..
+421	C045332	Hate Speech	Roman Telugu	manodu venkie batch job pakka
+422	C045336	Offensive	Tanglish	Ya iven inthe mathiri ellam pannikitthu irukkan
+423	C045340	Offensive	Tanglish	Semma stylish... Olunga odi poidunga kolaveri la irukken adhichu trouser oda oda vitruven... Mass action movie maathiri irukku
+424	C045342	Hate Speech	Tamil	தலித்துக்கள் மீது எவ்வளவு பொறாமை, கோபம்,வன்மம் சாதி வெறி எல்லாம் கொஞ்சம் கூட குறையலனு கீழ உள்ள கமெண்ட்ஸ் படிக்கும்போது தெரியுது.
+425	C045344	Hate Speech	Roman Telugu	mallareddy garu revant reddy block mail chesadu antunnaru ok anthe kakunda mea dabbulatho bidda pelli chesadu antunnaru ok meeru ataniki appa ichara lekha bhayapadi mea avineetini kappipuchukovadaaniki ichchaaraanta dabbu ataniki icchaaru ante meeru entha dochukoni tinnaro meeru nijayiti parulaithe enduku istaaru
+426	C045346	Offensive	Kanglish	Kithodnan maklu galu. Alli saytha edare elli yak madbeku uninstall madbeku anthare. Gandu galu
+427	C045347	Offensive	Tanglish	Indha padathoda trailer eh indha level la irukkunna apa thalapathy 64 padathoda trailer
+428	C045351	Offensive	Tanglish	dislike pottavangalukku irrukku mersal thann kandippa most disliked traileraagum
+429	C045360	Hate Speech	Telugu	Legendary అంటేనే ntr anr తర్వాత చిరు ఆయన సినిమాలు నిజజీవితానికి అద్దం పడతాయి యువతకు దిశానిర్దేశం చేస్తాయి ఎవడో ఏదో అన్నంత మాత్రాన legend కాకుండా పోతారా
+430	C045371	Hate Speech	Tanglish	Pundayatam irruku yenna kudhi da ithu yenna solla Vara Sunni nee ipo
+431	C045389	Hate Speech	Telugu	సార్ నాదెండ్ల మనోహర్ గారు మీరు ఎప్పటికి ప్రాణం ఉన్నంత వరకు పవన్ కళ్యాణ్ గారితో వుండండి
+432	C045399	Hate Speech	Roman Telugu	denivallanashtapoyadanteare cinemavalla taruvatapavankalyan save chesadu
+433	C045400	Hate Speech	Tanglish	Politicians ah intha padathlayum vachi senjirykanuva pola.
+434	C045414	Offensive	Kanglish	Nanu yash sudeep darshan appu cinema bittu yardu nodalla
+435	C045419	Offensive	Kanglish	Stupid Fans heno helkodthidallla adunna helkodo munche neenu kaltho henge irbeku antha suvar gandu anthidde ivga ninge baididke thika huritha
+436	C045426	Offensive	Tanglish	96 rajini sir Araseyalukku varanu sonnathukku Aatharam iruntha kattettu Apram en Thalaivana pathe pesunga.... Avaru sollatha 1 vesayatha yethukku epd solluringa... Rajini sir 2017 dec 31 tha araseyalukku varanu sonnaru... Athuvaraikkum sonnathe illa...
+437	C045428	Hate Speech	Tanglish	Sathi illai endru sollum comaligal pa ranjith sadhi irukku endru kadharum podhu than iru kaigalai payan paduthi munnum pinnum moodi kondu selgirargal
+438	C045434	Offensive	Tanglish	Dey enga Da ... Namma makkalselvam dialogue eh kanom
+439	C045435	Hate Speech	Roman Telugu	atla vuntadi maalaa manathoni maamula undadu
+440	C045437	Hate Speech	Roman Telugu	rma kosam chusanu modatisaari athanu oka hero abhimani elaa ullasamga stage paie matladutaro alaa anipinchaaru
+441	C045441	Hate Speech	Tamil	எங்க வீட்டு பெண் பிள்ளைங்க மேல கை வைக்கனும்னு தொடர்ந்து பின்னாடியே போயி தொல்லை பன்றவன, நான் வெட்டுனா நான் ஜாதி வெறியனா??? அப்படின்னா நான் ஜாதி வெறியனே....
+442	C045446	Hate Speech	Roman Telugu	youtube loo emani search cheyali brow ee patta kosam
+443	C045448	Offensive	Kanglish	KALMANI nhu neen iro jagane helu.... naane bandu hoditini.... illa tumkur main road bustop ge bandu partha yaaru antha kelu
+444	C045450	Offensive	Kannada	ಕೇಳಲು ಇಷ್ಟ ಆದರೆ ಇದು ನಿಜ ಅಲ್ಲ ಅನಿಸುತ್ತೆ...ನನ್ನ ಪ್ರಕಾರ
+445	C045454	Hate Speech	Roman Telugu	Vaadu feel avvadu Vaadi answer ki nuv avthav
+446	C045457	Hate Speech	Tamil	சினிமாத்துறையில் ஒரேஒரு சமூகம் பற்றி மட்டும் அருமை பெருமைய அந்த சமூகத்தில் மற்ற சமூகத்தினிரால் ஏற்படும் பிரச்சனை சமூக சீரழிவுகள் மத்த மாற்று சமூகங்கள் பாதிக்கபட்ட சமூகத்தை ஏளனம் கிண்டல் பொது இடங்களில் தலைகுணிவு போனரவற்றை திரையில் காண்பிக்க எந்த இயக்குனர்கும் திராணி இல்லை, திராணி இல்லாமல் சொல்வதை எங்க நம்மள ஒதுக்கி வைத்து விடுவார்களோ நம்ம எடுக்குக்ம் படம் ஓடாதோ நோக்கத்தில் எடுக்கமாற்றாற்கள் முதன் முதலில் ஒரு இயக்குனர் திராணியோடு மேலே சொன்ன இயக்குனர் மோகன் ஜீ அவர்கள் மட்டும் தான் . மோகன் ஜி நீங்கள் எதுக்கும் கவலை படாதீங்க சார். நாங்கள் இருக்கோம்.
+447	C045460	Hate Speech	Roman Telugu	Mukuu neelaku raayi raja
+448	C045461	Hate Speech	Tanglish	Rajini vachu kindal pana movies la recent 80 percent flop
+449	C045464	Offensive	Tanglish	Nan uyiroda than da eruken GraceSharmilaAlphonse
+450	C045471	Hate Speech	Roman Telugu	good andi geetha krishna gaaruu manchi interview
+451	C045474	Offensive	Tanglish	Satthiyama Solren.. Adichu underwaer-oda oda vuttuduven.. manam pona thiruppi varadhu.. paathukko..
+452	C045475	Offensive	Tanglish	BGM engayeo ketta mathiri irruku 🤔🤔🤔🤔
+453	C045477	Offensive	Tanglish	Thalllaaaa thalapathy unn kita kuda varamutiyadhu
+454	C045491	Offensive	Kanglish	Parthasarathi nin Amman sule magane nin number send gandu
+455	C045492	Hate Speech	Kannada	ಏನ್ರೀ ಇದು ಇಷ್ಟು ಜಾಹಿರಾತುಗಳು ಬರ್ತಾ ವೇ ಸ್ಕಿಪ್ ಮಾಡಿ ಮಾಡಿ ನೋಡಬೇಕಾಗಿದೆ
+456	C045494	Hate Speech	Roman Telugu	liger debbadi konda anna gudda mooskoni vunnaru
+457	C045497	Hate Speech	Roman Telugu	Geethu ki correct mogudu Shiva dimma thirigindi geethu ki
+458	C045506	Hate Speech	Telugu	ఇదే చైతన్యం అంటే తిరగబడం అంటే ఇదే అమ్మపెట్టదు అడుక్కుతిననివ్వడు అంటే ఇదే
+459	C045509	Offensive	Tanglish	Dislike podrathuku avolo mokka illayea .. dislike kena punda
+460	C045512	Offensive	Kanglish	Pranjali Raj nija boglu.... Ninu kannadiga alva
+461	C045516	Hate Speech	Tanglish	Ena da morratu cringe panrenga
+462	C045518	Offensive	Tanglish	Katthi 2 Va En Thalapathi Kall Thusikuda Ne Illada
+463	C045530	Hate Speech	Roman Telugu	Modda gudu aithyy
+464	C045531	Offensive	Tanglish	Thala fans Yaravadhu reason sollunga Viswasam trailer ku vandha varaverpu en Nkp ku varala
+465	C045532	Offensive	Tanglish	semma comedy ya irukan ajith kelavan
+466	C045534	Hate Speech	Roman Telugu	Disha case lo encounter chesaru Mari e case lo encounter chese dammu undaha
+467	C045535	Offensive	Tanglish	Naanum rombha neram ah pakaren , views yeramatinguthu , but likes and dislikes matum yeruthu . Same feeling yarukachi Iruka bro ???
+468	C045543	Hate Speech	Kannada	ಇಂಥ ಒಳ್ಳೆ ಸಾಂಗ್ ಅನ್ನು ಕೂಡ dislike ಮಾಡ್ತಾರಲ್ಲ ಆವರು ಮನುಷ್ಯ ಜನ್ಮಕ್ಕೆ ನಿಜವಾಗಿಯು ಸೇರಿಲ್ಲ ಅನ್ಸುತ್ತೆ ನಿಮ್ಮ ಕೈ ಅಲ್ಲಿ ಲೈಕ್ ಮಾಡುಕೆ ಆಗಲ್ಲಾ ಅಂದ್ರೆ ಸುಮಸುಮ್ನೆ ಇಂಥ ಸಾಂಗ್ ಗೆ dislike matra ಮಾಡಬೇಡಿ
+469	C045544	Hate Speech	Roman Telugu	prabhudeva dance master ante dance adiripoddi
+470	C045545	Hate Speech	Roman Telugu	andarki daddy lucky kodkulu pudataaru kani mega star gaariki manchi vaadu puttadu
+471	C045559	Hate Speech	Roman Telugu	sanka naaku ra ..papi ga chn dhi
+472	C045562	Offensive	Tanglish	Indha padathukku dislike poduravanga Manisa jenmamay illa
+473	C045564	Hate Speech	Tamil	அட லூசு கூகளா நீங்க எல்லாம் எப்போடா ஜாதி(சாக்கடை) இருந்து வெளிய வருவிங்க.... 🤦‍🤦‍🤦‍🤦‍
+474	C045565	Offensive	Tanglish	Dei...yaarra andha 3.4k haters.... ungala paatha sirippu dhan varudhu...thalaivar... promoted to GOD LEVEL...PETTA PARRRRAAAAAK!!!!
+475	C045572	Hate Speech	Roman Telugu	Em Tesukovali na Bokkala padda innerwear tappa. time Bokkalo show
+476	C045574	Hate Speech	Roman Telugu	vaadu edho joke chesthe adhi nuvvu nammadame naa
+477	C045583	Hate Speech	Roman Telugu	nandamuri vaaru eppudu nijaayiteegaane vuntaaru abhimaanulu bagachusukuntaru gouravistaaru
+478	C045586	Offensive	Kannada	ಎಂತಾ ಕೆಲ್ಸ ಮಾಡ್ದೆ ಗುರು. ಕೊಡಬಾರದ
+479	C045587	Offensive	Tanglish	Yenda Thalapathy fans poole nereya peru umburinge
+480	C045591	Offensive	Kanglish	basavaraj tambak lol Peddha
+481	C045592	Hate Speech	Tanglish	Comment section full ah orey saathi pundaya irukku
+482	C045598	Hate Speech	Tanglish	Iyarkai ah uruvaagura nadhi ku yaarum urimai kondada kudadhu2.Porattam thappuna , andha situation ah uruvakkuradhu thappudhan, 3. Tamil natta desert aakittu India va vallarasakka poringala ??? semma seruppadi
+483	C045604	Offensive	Kanglish	Dbøss munde ivanu baccha
+484	C045605	Hate Speech	Telugu	శ్రీదేవిగారు చెప్పిన సమాధానంలో ఎంత హుందాతనం సౌమ్యం రాజసం ఠీవి మర్యాద ఉన్నాయో హ్యాట్సాఫ్ టూ శ్రీదేవిగారు
+485	C045609	Offensive	Tanglish	Chummaa tup tup tup nu pottu pogite irupen
+486	C045611	Hate Speech	Tanglish	2:08 Intha ? Keduketta Character Yaarunu Sollunga Pappom
+487	C045613	Hate Speech	Tanglish	valakampola onnum puriyala...padatha oru nallu vatti patha than puriyum pola
+488	C045615	Offensive	Tanglish	Padam full ah Ajith kathikite irupaaru Pola..
+489	C045616	Offensive	Tanglish	ajith oru lose kirrruken romba scene podva
+490	C045617	Offensive	Tanglish	Yaru Ethu Katthu Kututhalum Odane Kathupen....vera level Naanum Aptiye....
+491	C045620	Offensive	Tamil	வீர வன்னியர் குல சத்திரிய வம்சமாட Krishnagiri, ,படம் வெற்றி பெற வாழ்த்துக்கள்
+492	C045626	Offensive	Tanglish	Pantey va inoru vakkil [layer] ada iva enya thala padathula nadikira
+493	C045627	Hate Speech	Roman Telugu	samantha anni lanja kathalu dengutahdhi dani namakodahu
+494	C045631	Hate Speech	Telugu	అక్క నువ్వు సూపర్ రోజా కి 90రాడు దిగింది
+495	C045633	Hate Speech	Tamil	கதறுங்கடா கதறுங்க ...!!! வாழ்த்துக்கள் மோகன் .....சும்மா சும்மா எப்போ பார்த்தாலும் ஜாதி ஜாதி இவனுங்க தான் இப்படி எல்லாம் பண்ண வைக்கிறாங்க..அவன் அவன் வேலையா பார்துட்டு இருக்கும் தேவை இல்லாமல் சீண்டி விட்டு இப்படி அசிங்க படனுமா
+496	C045634	Offensive	Tanglish	Evanukachum pondati kolandhainu sentiment irundha , apdiyaeoadi poairu, kola gandula iruken mavana kollama vida mata
+497	C045638	Offensive	Kanglish	Thuuuuuuuuuuuuuuuuuu Bindu gowda andre alpa swalpa maryade ide but why you only tiktok anta kelitumba asayya aytu avla mele
+498	C045643	Offensive	Kannada	ಕಕ್ಕ ಮಾಡ್ಕೊಳ್ಳೋಕೆ ಬಂದ್ ಬಿಟ್ಟಿದ್ದಿಯ ಇಷ್ಟೆಲ್ಲ ಹೇಳಿಕೂಡ chinaದು use ಮಾಡಲ್ಲ ನಾನ್ ಹೇಳಿರೋದು apps ಬಗ್ಗೆ ಕಣೋ products ಬಗ್ಗೆ ಅಲ್ಲ...ಮಾಡಿರೋ ಕಕ್ಕನ ತೊಳ್ಕೊಂಡು ಮನೆಗೆ ಹೋಗು
+499	C045651	Hate Speech	Tanglish	Kavalamana irru ku eppavumay orray mathiri intro
+500	C045652	Hate Speech	Tamil	இந்த அசிங்கத்துக்கு இவ்வளவு அசிங்கம் ஆதரவு ...வாழும் காலத்தில் மகிழ்வுடன் வாழுங்கள்.... நீங்கள் எல்லாம் தமிழகத்தின் சாக்கடைகள்
+501	C045653	Offensive	Kanglish	havali nin astu urkondilla pa
+502	C045655	Offensive	Kanglish	Instagram fallow back kodi Nev obre alla eradu
+503	C045661	Hate Speech	Tanglish	Vijay fans ajith fans enna pha eppadi pannita
+504	C045662	Hate Speech	Kannada	ಪುಣ್ಯಾತ್ಮ... ಸರಣಿ ಫ್ಲಾಪ್ ಕಥೆಗಳು ಮಾಡಿ
+505	C045663	Offensive	Tamil	நான் யாருங்கிறத எப்பவுமே நா முடிவு பண்றதுல்ல ... ஏன் எதுர்ல நிக்கிறவங்கதான் முடிவு பண்ணுவாங்க...
+506	C045667	Hate Speech	Roman Telugu	Dance show erripuku chesesaru kadhara comedy zabardast lo cheyandi d lo dance cheyandi erripuku director erripuku editing
+507	C045669	Offensive	Kannada	Parthasarathi ನಿಂದು ಬೀದಿ ನಾಯಿ ತುಲ್ಲು ಅನ್ಸುತ್ತೆ
+508	C045673	Offensive	Tanglish	Trailer bgm kekum bodhu enaku ilayaraja sonadhu dan nabagam varudhu....AANMAI ILADHAVAN NU ARTHAM.....ippo idula Beethoven music ah full ah use pani irukurangale....🤔🤔🤔🤔
+509	C045674	Hate Speech	Tanglish	Hip Hop Thamizhaku Vaiya udaikanum,faceyum seathu Vijay emotin scence sirikiran ajith sentimentku sirikala yena thimirua rendu padam odiduchunu naan sirithal padathula trailer romba overa eruku
+510	C045680	Hate Speech	Roman Telugu	avunu 8years taravaata avakaasam vachindi matladaniki prajala kosam milaa kallu pattukoovadaaniki kaadu
+511	C045681	Offensive	Kannada	nayak ನಿನ್ ತುಲ್ಲಗೆ ಬಕಾರ್ಡಿ ಬಿಯರ್ ತುರ್ಕಾ
+512	C045684	Offensive	Kanglish	Prajju prajju nan prajwala ondu hittu ninu kodappa from fan
+513	C045687	Hate Speech	Roman Telugu	nuvvu cheppedi kuudaa makem ardham kaale fast
+514	C045689	Hate Speech	Tamil	சீட்டாஸ் இனிமே தான் டா இருக்கு உங்களுக்கு ட்ரையலர் பாத்து கதறுங்க டா
+515	C045690	Offensive	Kanglish	420 tik tok 420 China
+516	C045691	Offensive	Tanglish	Vikram Vedha 2 Rajini vs Sethupathi
+517	C045693	Hate Speech	Tamil	சீட்டா :அடக்குனா அடங்க கூடாது எங்க அண்ணே சொல்லீருக்காப்ள மீ : அப்ப ஊம்பு
+518	C045694	Hate Speech	Tanglish	appaadi teaser mokka appo confirmed ah padam BLOCKBUSTER dhan
+519	C045698	Hate Speech	Telugu	ఏంది రా మాకు ఈ సోది నీ ఎపిసోడ్
+520	C045699	Offensive	Tanglish	Thala da thalapathi fans bayanthu dislike podurainga
+521	C045702	Offensive	Tanglish	Ipa vara padamla vivasayam pathi varudhu ellam trend aachi
+522	C045703	Offensive	Tanglish	Dei appo suriya ku pair ellada antha koo arya ku than pair ra
+523	C045705	Hate Speech	Roman Telugu	Naku thelisi rc gari eyes lo power ni correct ga use chesukunnadi matrampuri garu mathrame in chirutha lo
+524	C045716	Offensive	Tanglish	Ithula Tapsi a heroine ah potrukalaam .
+525	C045723	Hate Speech	Roman Telugu	oka raani evaru ettandi aame rajyam oka sainikudi kosam oka sainikudu evaru tyaagam chestaaru athani jeevitam mariyu prema kosam athani desham
+526	C045724	Offensive	Tanglish	dei yaara neengalam enga irnthu ra vareenga... :'(
+527	C045727	Hate Speech	Kanglish	Those 850 dislikes are Frome rashmika mandanna fans
+528	C045732	Hate Speech	Tanglish	Hw is Possible 94K views 107k Likes.....
+529	C045734	Hate Speech	Telugu	అబ్బా బొడ్డు ఇంత పెద్దగా ఉంటే బొక్క సముద్రం లాగా ఉంటాదేమో?
+530	C045735	Offensive	Tanglish	Enna pa comment la jaathi pathiyeh pesureenga Intha nelama maaratha....
+531	C045741	Hate Speech	Tanglish	so nerkondaparvaiya kadhara kadhara karpalika pogudhu comali best wishes from 90s kids
+532	C045742	Hate Speech	Roman Telugu	mallanna tappudu darlo vellaku. oka melu jarigetappudu konni vishayalu oppukovali. mana paruvu Manam teesukundam entavaraku correct. Kcr bathroom biryani gurinchi telisi kuda chala mandi peddalu niraharadeeksha ni munduku techaru kada . jarige melu telusuko.adi andariki manchidi
+533	C045743	Hate Speech	Telugu	తెలివైన మూర్ఖుడు... RGV
+534	C045744	Offensive	Kanglish	super duper old audio drama
+535	C045747	Hate Speech	Tanglish	Nalla vela serious ana moments la sirikura mathri scene vechirukanga, soori comedy ku sirikura mathri vechirundhanga audience gaandayirupanga
+536	C045754	Hate Speech	Roman Telugu	Marea srihan pakkana moddagudvala
+537	C045757	Offensive	Kanglish	Rakshith...Nan yakda dboss dabba Nan Maga
+538	C045759	Offensive	Tanglish	Yannda ngk moviku aprm intha movie la cm aytra suriya
+539	C045763	Offensive	Tanglish	Yara emathurenga ithu 1996, rajinikanth ah vachi senjuteenga..
+540	C045768	Offensive	Tanglish	Visvasam Remix music vera level bro Gv 🤘Visvasam 2.0 musics alluthu
+541	C045773	Offensive	Tanglish	Dislike panra antha haters ellam yaruda stupid konjamachum think pannungada story nallathana irukku nonsense......
+542	C045787	Hate Speech	Roman Telugu	sudheer garu team ekadaa unna full comediperfect time kii set ayyeka comedy chestaaru
+543	C045788	Hate Speech	Roman Telugu	neenu ithe tinevaadini intsepu chuudanu
+544	C045789	Hate Speech	Tanglish	0.22 enada puttu elaeem paraka viduringa
+545	C045793	Hate Speech	Roman Telugu	Don't compare it with powerstar, veedi laga chetha character lu, chillar gadi character lu cheyadu ma Power star, vaadu thaginchukunte manchidhi
+546	C045795	Hate Speech	Telugu	ఏం చెప్పాలనుకుంటున్నారో సమాజానికి
+547	C045797	Hate Speech	Roman Telugu	Rahul dravid vadi moddalo selection asla chahal hi endhuku tesukole
+548	C045799	Hate Speech	Tanglish	Sathi veriyai, ootrum padamaga therigirathu. Pennum Mannum onna? Penn enna oru porula da? Kevalamana sitharippu, avamana paduguren yen intha sathi veri piditha Tamizh samoogathil piranthen endru.
+549	C045803	Hate Speech	Tanglish	Na Surya fan tan but trailer konjam mokaya irke. Let's wait for movie.
+550	C045805	Hate Speech	Roman Telugu	Yevaru e mogudu vadilesina pativratha ?!!
+551	C045817	Hate Speech	Tamil	அட பாவிகள் எவ்வளவு பெரு டா ஐாதி வெறி பிடித்து அலைகிறங்க
+552	C045825	Hate Speech	Roman Telugu	inko rendu padithe aa migataa dula kuudaa teerpoddi uday kiran 2
+553	C045829	Hate Speech	Tamil	நான் அரசியலுக்கு வருவது உறுதி🤣🤣🤣 Hey ithu '96u yaara emathureenga
+554	C045830	Offensive	Tanglish	Dislike poravanla Ratham Kakki than saavan
+555	C045834	Hate Speech	Roman Telugu	rbi appa ivvakapothe kendram medalu vanchi frinting mission teesukostaanu ani maatistunna
+556	C045841	Hate Speech	Tanglish	Jayalalitha amma face la oru gambeeram irukkum. Inga onnum theriyala.
+557	C045843	Hate Speech	Tanglish	Vera leval'' trailer aana oorey oru kora TN ELECTION KU munnadie vanthurukkalam...padameyy
+558	C045844	Hate Speech	Roman Telugu	Muslims hindu devullanu entha thittina parledhu Kaani hinduvulu Mee devudini thidithe thappenti
+559	C045851	Hate Speech	Roman Telugu	bjp tress iddaru dostlu lae bayatiki ivanni dramalu
+560	C045853	Hate Speech	Roman Telugu	vaadu taagi vunnadu..vaadiki entha cheppina kooda ardam kaadu.
+561	C045856	Offensive	Tamil	தலித்மட்டும் தான் அப்பாவி மாதிரி சித்தரிக்கும் திருட்டு தேவிடியாபையன் ரஞ்சித் நாயிக்கு செருப்படி
+562	C045857	Offensive	Tanglish	Villane kollan chittiye irakkunnu..chitty parajayappedumbo avanil red chip vechu 2.0 aakkunnu...thats all...
+563	C045861	Hate Speech	Roman Telugu	owasi gah nuvvu gudda mosuko nuvvu ha nupur desham malla 1947 loki poyindhi #kill owasi
+564	C045862	Offensive	Tamil	கங்கணரனவத் நல்ல நடிகை ஆனாலும் இந்த வேடத்துக்கு அவர் சரியாகஇல்லை
+565	C045864	Offensive	Tanglish	top heros ah vambu ilukra alavuku innu nee periyaal aagala better luck next time
+566	C045865	Hate Speech	Roman Telugu	idoka goppa vishayama bokka loo sodhi
+567	C045867	Offensive	Tamil	தலைவர் politcs bangam
+568	C045870	Offensive	Tanglish	ParAvala semma mokkayatha iruku irunthalum pappom yenna pannida poranga
+569	C045876	Offensive	Kannada	ನನ್ ಮಕ್ಳಾ ಎಲ್ಲರೂ ಕನ್ನಡದವರೇ ಇಲ್ಲಿರೋದು ಶಾಟದ ಇಂಗ್ಲಿಷ್ ಕಾಮೆಂಟ್ ಹಾಕ್ತೀರಾ... ಒಬ್ಬೊಬ್ಬನಿಗೆ ಒಬ್ಬೊಬ್ಬ ಹೀರೋ ಇಷ್ಟ... ಸುಮ್ನೆ ಕನ್ನಡದ ಹಾಡುಗಳನ್ನ ಕೇಳಿ ಇಷ್ಟ ಆದರೆ ಕಾಮೆಂಟ್ ಅಲ್ಲಿ ತೋರಿಸಿಕೊಳ್ಳಿ ಕಷ್ಟ ಆದರೆ ಮುಚ್ಕೊಂಡು ಮನಸಲ್ಲಿಟ್ಕೊಳ್ಳಿ ಹೀಗೆ ನಾವೆಲ್ಲ ಕನ್ನಡದವರು ಕಚ್ಚಾಡ್ತಾ ಇರೋದ್ರಿಂದಾನೆ ಕನ್ನಡಾನ ಉಳಿಸಿ ಅಂತ ಬೋರ್ಡ್ ಗಳು ಹೆಚ್ಚಾಗ್ತಾ ಇರೋದು... nಒಬ್ಬ ಅಪ್ಪನಿಗೆ ಹುಟ್ಟಿದ ಯಾವೋನು ಸ್ಟಾರ್ ವಾರ್ ಗೆ ಬೆಂಕಿ ಹಚ್ಚೊ ಕೆಲಸ ಮಾಡಲ್ಲ...‌ nಹಾಗೆಲ್ಲ ಮಾಡೋರು ಸೂಳೆ ಮಕ್ಕಳು ಅಂದ್ರೆ ತಪ್ಪೇನು ಇಲ್ಲ‌... nಇದನ್ನೆಲ್ಲ ಇಲ್ಲಿಗೆ ನಿಲ್ಲಿಸಿ ಕನ್ನಡ ಉಳಿಸಿ ಬೆಳೆಸೋದರ ಕಡೆ ಗಮನ ಕೊಡಿ... nಕನ್ನಡಿಗರೆಲ್ಲಾ ಯಾವತ್ತೂ ಒಂದೇ ಅನ್ನೋದನ್ನ ಜಗತ್ತಿಗೆ ತೋರಿಸೊ ಅಂತ ಕೆಲಸ ಮಾಡೋಣ ಜೊತೆಯಾಗಿ...‌ nಜೈ ಕರ್ನಾಟಕ ಮಾತೆ....
+570	C045881	Hate Speech	Telugu	కోతులు దిగేదానికి ఇంత bulid up aaa
+571	C045882	Hate Speech	Kanglish	Le tukali like dislike janakke bittaddu
+572	C045883	Hate Speech	Tanglish	Yaru da antha 800+ dislike aneygama avanga 2k kids ah than irupanga
+573	C045892	Offensive	Tanglish	Onda vantha naye ooda ooda virativom engala jathila pirachathu pothum
+574	C045899	Hate Speech	Telugu	మోడీ గారి బినామీ అయిన అదానీ ఆస్తి ఎంత ఉందో అది చెప్పు ముందు
+575	C045901	Offensive	Tamil	ஆமைஸ் எங்க தபளதி மெர்சல் 1 M like da
+576	C045915	Offensive	Tanglish	Serving soon nu yethana masama sollitu irukanga
+577	C045917	Offensive	Tanglish	Guyzz 1m likes vara varaikum vitraadheenga...
+578	C045925	Offensive	Tanglish	I mena mukamudi padam mathiri iruku
+579	C045938	Offensive	Tanglish	Trailer pudiklana paakathenga, Athuku yengada dislike pandrenga..🤦‍🤦‍🤦‍🤦‍ loosu pasangala
+580	C045939	Hate Speech	Telugu	ఓం నమో నమః శ్రీ వేంకటేశ్వర స్వామి యో కలియుగ ప్రత్యక్ష దైవం శ్రీ తిరుమల శ్రీవారి పాదాల కు నమస్కారంశ్రీ విష్ణు రూపాయ నమః శీవాయా
+581	C045942	Hate Speech	Tanglish	Namma manatha vanganune ivan padam yeduthurukan.
+582	C045945	Offensive	Tanglish	Kandasamy and Mugamoodi mixed nu nenaikre....
+583	C045946	Hate Speech	Tanglish	Trailer a nalla Alla padi appadi iruku flop tha
+584	C045947	Offensive	Tanglish	Eppudi pathalum Padam mokaya than irukum
+585	C045948	Offensive	Kanglish	Babu gandu sulemagane.....urko....
+586	C045952	Hate Speech	Telugu	తెలంగాణ గౌరవాన్ని గుజరాతీ తాడిపార్ పడాల ముందు ఉంచిన నత్తి గంజయ్
+587	C045956	Offensive	Tanglish	Upadi oru trailer ku unlike potta.. Avanuku life la taste Ella... Aprum moola... Aprum arivu adhu suthuma Ella
+588	C045957	Hate Speech	Tanglish	Enaku paakurathu ellam PUBG GAME mathiriye theriyuthe
+589	C045961	Hate Speech	Roman Telugu	dress nee chusukunnatuga kasta phone nee kuudaa chusukovali kaada amma
+590	C045963	Offensive	Tanglish	vijay ku six pack varuma{pulli rajaku aids varuma}????
+591	C045968	Hate Speech	Kanglish	Rip for 1.8dislikers devaru nimma atmakke shanti kodli
+592	C045969	Hate Speech	Roman Telugu	Chattha cinima ra babbu
+593	C045975	Hate Speech	Roman Telugu	neevu telugu intha chakkaga matladu tunte mana china babu anukoni undadu ayithe bengalur institute loo baagaa neerputunnaaru telugu
+594	C045976	Hate Speech	Tanglish	Unlike 17k ava amma akka elam item tha Thevadiyanga pasangala Ungamma koothingala kilichiduvan by surya anna big Rasigai
+595	C045984	Hate Speech	Telugu	Best లీడర్ and best పోలీస్ప్రవీణ్ కుమార్ సర్
+596	C045985	Offensive	Kanglish	Tik tok nan Shaaataaaaa
+597	C045993	Hate Speech	Tamil	Marana climax unbeatable pora Vara China pasagalam verupetharaga da நான் அரசியலுக்கு வருவது உறுதி
+598	C045997	Hate Speech	Roman Telugu	​tress nu odinchedi onlee bjp
+599	C045999	Offensive	Tanglish	Savage....Oruthar mela neega vishwasam katradhuku inoruthara yen asinga paduthuringa
+600	C046001	Hate Speech	Roman Telugu	intha andamgaa elaa andhi meerumeelaane mea swarm kuudaa chaala andamgaa undhi
+601	C046003	Offensive	Kanglish	Shetty BOSS na nodi urkobeku aste yenu nithkolake agalla
+602	C046004	Hate Speech	Roman Telugu	DNR still old school... Kalam tho Marakapote evaru aina kala gharbham lo kalisipotaru.
+603	C046005	Offensive	Tanglish	Enna da sonninga kavundana vettu kavundachiya katt ah ithu than da enga bathil
+604	C046007	Hate Speech	Roman Telugu	​BJP lo seat kosam baga chesav le stunt
+605	C046009	Hate Speech	Roman Telugu	Malli siggu Lekunda noob account eskoni vachesava
+606	C046011	Hate Speech	Telugu	రోహీత్ మంచి ఆట గాడే కాని cepation గా పనికి రాడు. ఏందుకంటే fitness గా వుండడు, తరచుగా గాయాలు బారిన పడ్డతాడు.. King of Kohli
+607	C046013	Offensive	Tanglish	moodevi rakul preet irukaala ... padam velanguna maari daan
+608	C046029	Hate Speech	Roman Telugu	reventh reddy dhi gadidha moddavadu waste
+609	C046031	Hate Speech	Roman Telugu	entha muddugundo chaalaa bagunnav bangaaram
+610	C046032	Offensive	Kannada	Parthasarathi ನಿಮ್ಮ ಅಪ್ಪ ಗಂಡ್ಸ...?? 🤔🤔🤔
+611	C046038	Hate Speech	Roman Telugu	nagababu selection super gully boys adurs
+612	C046039	Hate Speech	Roman Telugu	Ahh bongule
+613	C046044	Hate Speech	Tanglish	Ena pa aduthathu digital platform layum kondu vanthutengala vanga vanha.. #nasamapongada
+614	C046054	Hate Speech	Telugu	పిచోళ్ల గురించి వినడమే కాని చూడటం ఇదే ఫస్ట్ టైం
+615	C046056	Hate Speech	Roman Telugu	hea akka nen nunnu chusanu
+616	C046066	Hate Speech	Tamil	எல்லாம் சரி எதுக்கு இந்த படத்துக்கு நாடோடிகள் 2 னு பேரு வச்சிங்க? நாடோடிகள் பர்னிச்சர் நல்லாருக்குரது உங்களுக்கு புடிக்கலையா அதையும் போட்டு ஒடைக்கனுமா?
+617	C046068	Offensive	Tanglish	Sathiyama intha padam Blue sattai Maran'ku puriya poarathillai, confirm kaari thuppiduvaaru Mr.Makku manguni !
+618	C046075	Hate Speech	Tanglish	Jaya matum ipo irukanum.... Indha channel ahe YouTube la irukuradhuu
+619	C046086	Hate Speech	Roman Telugu	vaadu jeevitamlo train crossing ayithe 20 adugula dhooramlo untaadu siggu sharam unte samvatsaram varaku train kuudaa ekkadu
+620	C046103	Offensive	Tanglish	Amma saapta idli ye nerla vantha maari iruku!
+621	C046113	Hate Speech	Roman Telugu	Deeni ki samma ga vundi
+622	C046114	Hate Speech	Roman Telugu	Emana common sense unda ra lokesh niku...aa video ki ni wife name mention cheyadam....first tym anpinchindi nuv nijam ga pappu ani...m
+623	C046118	Hate Speech	Roman Telugu	basavaraj oka daridurudu hindu ante challu vadu rapist ayina parle vadithine kapuran chestharu
+624	C046121	Hate Speech	Tanglish	Sila Ajith thevidiya fans vandhu kadharaga potta pasanga
+625	C046127	Hate Speech	Roman Telugu	neenu cheppinappudu counter ivvandi
+626	C046128	Hate Speech	Tanglish	Idhu 96 uh yaara aemaatha paakureenga??
+627	C046131	Hate Speech	Tamil	ஆத்திரங்கள் அனைத்தும் அடங்கிய பின்பே கூந்தலை அள்ளி முடிவாள் திரௌபதி....ஆங்காங்கே மரண ஓலம் கேட்கிறதே!!!கௌரவர்களாகதான் இருக்கும்....
+628	C046136	Hate Speech	Roman Telugu	rosaiah garu is aaa real good and true politician history loo oka great leader rosaiah garu noo words too prize you sir rip rosaiah garu
+629	C046141	Offensive	Tamil	இது செல்வராகவன் எனும் பைத்தியத்தின் மாபெரும் படைப்பு!!! Best of luck ' A selvaragavan flim'
+630	C046142	Hate Speech	Roman Telugu	Kallu kakulu ethukoni poayayi...JaganBros
+631	C046145	Hate Speech	Roman Telugu	Channel name change cheskonews line Teluguno where related to news of TelanganaTRS band company Set ithadhi nee reporting ki
+632	C046150	Hate Speech	Roman Telugu	naa life loo oka nijaayateegaa saagina interview chusa jai baireddy siddarthareddy garu
+633	C046154	Hate Speech	Telugu	అంతా సోది చెప్పారు కానీ అసలు ఆమె అతని పైన ఏం మాట్లాడిందో చెప్పలేదుఇంతకు అతనిపైన ఆమె చేసిన కామెంట్స్ ఏంటి
+634	C046156	Hate Speech	Roman Telugu	systernellanti vaallu taluchukunte condectorle kaadu collectors avutaarukalaakarulavuneku support chestunna nae family kiya p s r tt sy kii nae tarupuna thanks cheptunna
+635	C046157	Hate Speech	Roman Telugu	baagaa tension padutunnavu akka
+636	C046158	Offensive	Tanglish	Dei epoda padam release panna poringa innu Ethana year wait pannanu sollungada
+637	C046161	Offensive	Kanglish	Ishtu bega YouTube li movie bitre theotre ge enukk hogtare jana
+638	C046166	Hate Speech	Roman Telugu	Telangana Andhra Pradesh me B J P ki Sarkar banna na mumkin hai ye yad rakho
+639	C046171	Hate Speech	Tamil	திடீரென ஏதோ ஒரு குளிர் காய்ச்சல் , ஆனால் பிடித்திருக்கு
+640	C046186	Hate Speech	Roman Telugu	Miku cinemala gurinchi andhuku ra ...nuvvu pettukunna dhukanam anti matladey matter anti
+641	C046189	Hate Speech	Roman Telugu	Papam suri ki chala badha vundemo anduke ane sarlu attack chesadu
+642	C046191	Hate Speech	Roman Telugu	evadu gelichina mana brathukulu maravu
+643	C046210	Hate Speech	Telugu	Waste gaadu jagan .. ma dabbulu అనవసరం గా కర్చు చేస్తున్నాడు
+644	C046215	Hate Speech	Roman Telugu	Teeskelli railway station loo padeyandi
+645	C046223	Hate Speech	Roman Telugu	Mottanaki neeku correct mogudu badaleswari ya
+646	C046229	Hate Speech	Roman Telugu	muslims hinduu devullanu entha tittina parledu kaani hinduvulu mea devudini tidithe tappenti
+647	C046235	Hate Speech	Tamil	நீங்களும் தமிழ் தமிழ்நாட்டு நலன் மக்கள் பிரச்சினை பத்தி படம் எடுத்துட்டு கடைசியாக இந்த கரு.பழனியப்பன் சமுத்திரகனி போல காசுக்காக திமுக பக்கம் ஓடிடாதீங்க
+648	C046241	Offensive	Tanglish	Enada innaiku trending la vanthichu . After 4days🤔🤔
+649	C046245	Hate Speech	Tanglish	Dai ngk padam vida kaapaan nalla odanum nu vendikonga da
+650	C046247	Hate Speech	Roman Telugu	okka kcr tappa vaerae party vaallaki aamaatram chepparu ii thenmar
+651	C046249	Hate Speech	Roman Telugu	array neeku neenu elaa anta picchi puku edava laga kanapadhutava poo raa babu
+652	C046251	Offensive	Tanglish	Kola mass thaliva.... Dhanush veriyanaga kathu kondirukkeran...
+653	C046254	Hate Speech	Telugu	జగన్ పరువు మోడీ పరువు కాదు అక్కడ పోయింది విపక్షాల పరువు ఆ మూర్ఖులకు ఇంకా అర్థం అవ్వట్లేదు
+654	C046256	Hate Speech	Roman Telugu	meru gelvali jai jenasena pavankalyan sir
+655	C046259	Offensive	Tanglish	Dei !! Nee elam police ah 🤣🤣🤣🤣🤣🤣🤣
+656	C046264	Hate Speech	Roman Telugu	I feel like bhuvaneshwarkumar must be dropped from the upcoming matches because he is going for lot of runs in death overs
+657	C046270	Offensive	Tanglish	Rajinikanth marana mokka panitaanga cheers
+658	C046274	Offensive	Tanglish	Orutharu mela neenga vishvasatha kamikaruthukaga innoruthara yen asingapadithuringa ( 50k ) dislike
+659	C046280	Offensive	Tanglish	Ipo ilayaraja mattum Beethoven music use pannalama.. its unfair
+660	C046283	Hate Speech	Roman Telugu	krishnam vandhe jagadgurum
+661	C046284	Hate Speech	Roman Telugu	k t r kuda poyendu kadaa adigenavu lucha
+662	C046285	Offensive	Tanglish	vijayfans ungalaku irkuda thevidiya pasngala de dislike podringlada ungluku irku mersal teaser varutum irungada mavangla de
+663	C046292	Hate Speech	Roman Telugu	useless TRS vallani champidenagli vallu hindus ey kadhu
+664	C046293	Hate Speech	Roman Telugu	kuuti kosam kooti vidyalu
+665	C046301	Offensive	Kanglish	hv ayyo bewarsi
+666	C046302	Hate Speech	Roman Telugu	Adhi ento nuv wrong family lo unnavu bronee speech lo compulsoryga social responsibility untundhihats off to you
+667	C046303	Hate Speech	Tanglish	Jayam ravi neenga ippdi pannuveenga nu ethirpaakkala. Unga trailer content ok thaan. But last ah rajini sir ah unga promotion kaaga use panna maathiri irukku. Ungalukke theriyala ithu avara straight ah attack pandra maathiri irukkunnu. Intha oru content vendam remove pannidunga.
+668	C046304	Hate Speech	Telugu	ఆ కారుకు సరే..... నీకు దొరికాడా డ్రైవరు??
+669	C046308	Offensive	Tanglish	Ipdi muttathanama padam edunga. . Urula naainga vettitu savuthunga
+670	C046324	Hate Speech	Roman Telugu	tammi nuvvu benz kaar kone stage kii asthavneelo aaa kasi n talent rendu unnayi all d best
+671	C046336	Hate Speech	Telugu	ప్రజల తరపున ఇంత సుదీర్ఘ పోరాటం చేసి తాను గెలిచి మమ్మల్ని గెలిపించిన దిలీప్ సుంకర గారికి హృదయ పూర్వక శుభాకాంక్షలుజై భీమ్ జై భారత్
+672	C046337	Hate Speech	Kanglish	Dislike madiroru mostly Rashmika Mandanna fans anisuthe.........
+673	C046341	Hate Speech	Telugu	నోరు ముయ్. వాడు పరిపాలనా చేతగాని వాళ్లకి అన్న... అంతే.
+674	C046349	Hate Speech	Kanglish	1.7k dislikes rashmika fans
+675	C046352	Hate Speech	Roman Telugu	boxes office amma mogugu charanh anna
+676	C046354	Offensive	Kanglish	Haa ebbbaru obbare !
+677	C046355	Offensive	Tamil	பரியேறும்பெருமாள் 'ஜோ'-வை தேவதையாக தான் பாா்த்தானே தவிர... 5-புருஷனை கட்டுன திரௌபதி-யா பாக்கல...
+678	C046358	Hate Speech	Telugu	తెలంగాణ రాష్ట్రం త్వరలోనే శ్రీలంక దేశానికి వచ్చిన ఆర్థికమాంద్యం కరువు కాటకాలు రాబోతున్నాయి ప్రజలందరూ అనుభవించడానికి సిద్ధంగా ఉండాలి Rip TRS government సీఎం కేసిఆర్ కి నివాళిలు అర్పించాలి😭😭
+679	C046359	Offensive	Tanglish	Mugamudi 2 mari ilama iruntha seri
+680	C046360	Hate Speech	Roman Telugu	britten chetulu kalai chainas drama lae thoti shoe jagrata haas britten vundaali britten konni tyaagaalu cheyyali
+681	C046363	Offensive	Kanglish	Shaata ivrnella borderg kalsbeku gotagutte
+682	C046366	Offensive	Tanglish	Iam From Maars. Thala Mass Like Picha Podungale nu Oru GANG VARUM PAARUNGALE
+683	C046372	Offensive	Kanglish	Kannada nigant allli dagar Andre enu artha gotta?n
+684	C046378	Hate Speech	Roman Telugu	naa bangaaram aa navvulone undhi anna maa santosham
+685	C046379	Hate Speech	Roman Telugu	jai kodali naani maeru oka dynamic leader
+686	C046382	Hate Speech	Telugu	Hero కంటే ఎక్కువ నువ్వు చాలా బాగున్నావూ
+687	C046384	Offensive	Kanglish	Masth maga u tube channel nalli obba hudugana voice thara ede
+688	C046386	Hate Speech	Roman Telugu	sir malli meeru industry kii raavalai sir
+689	C046390	Hate Speech	Roman Telugu	Kaveri jah kadu ra adi evarro kudo teliduuu jafa
+690	C046400	Hate Speech	Tamil	மனிதன் பிறந்தலிறுந்து காதல் இருக்கு. காதலில் எல்லா சமுதாய ஆண்களும் எமதுறங்க. சில சமயங்களில் பெண்களும் அதை செய்கிறார்கள். இது அவர்களின் தனிப்பட்ட விஷயம், அதை கவனித்து கொள்ள அவங்க குடும்பம் & அரசு இருக்கு. வேறு சாதியில் காதலித்து திருமணம் செய்தால் கொலை செய்வது மிகவும் கடுமையான குற்றம். சாதி ஆணவ கொலைக்கு ஆதரவு தருவது போல உள்ளது இந்த படம். மிகவும் மோசமான முன் உதார்ணம்.
+691	C046401	Hate Speech	Tanglish	Nadaka kathal pantra kuruma koothiki Nalla serupu adi
+692	C046402	Hate Speech	Telugu	అవసరం అయినప్పుడు ప్రాణాలు కి తెగించి పోరాడుతారు మన ఆంద్రప్రదేశ్ పోలీసులు ఫారెస్ట్ ఆఫీసర్స్ గ్రేట్
+693	C046404	Offensive	Tanglish	Dei....movie yya delt panetegala.... Varum ahh varatha??
+694	C046406	Offensive	Tanglish	Idhu yenna da Batman ku vandha sodhanai..
+695	C046407	Offensive	Kanglish	Namana Kudlada rakshith shetty innu orsbeku rashmikage Thu avla Janmake
+696	C046415	Offensive	Tanglish	3 days apram.... trending....etha thalaivar...kola kandulla irukken kollama vida matten
+697	C046416	Offensive	Tanglish	Ennda three days aaidichu 1million likes innum varala
+698	C046418	Hate Speech	Roman Telugu	Mee chatha face llu Mee kullu comedy tu
+699	C046441	Offensive	Tanglish	Kommala ithuku vada Chennai paravala da dai verithanam da
+700	C046443	Hate Speech	Kannada	ಅರ್ಜುನ janya e music director na nodi kali
+701	C046450	Offensive	Kannada	ಬಿಟ್ಟ ಹೋಗಿರೋ ರಶ್ಮಿಕಾ ಗೆ ಹೇಗ್ ಆಗ್ಬೇಕು ಗೊತ್ತಾ ಯಾಕಾದ್ರೂ ಬಿಟ್ಟ ಹೋದೆ ರಕ್ಷಿತ ಅವರನ್ನ ಅಂತ ಫೀಲ್ ಆಗ್ಬೇಕು ಆ ತರಾ success ನಿಮ್ಮದಾಗಲಿ ಶ್ರೀನಮ್ ನಾರಾಯಣ ಸಿನಿಮಾ
+702	C046452	Offensive	Tanglish	Why this many dislikes guys ?!?! Thalaivar ku likes mattum thaan pichukittu poganum
+703	C046457	Hate Speech	Roman Telugu	Are lanjoduka eko saru video theyaki raa lajodka
+704	C046460	Offensive	Tanglish	Fuck off dislikers Last dialogue paathum dislikes podravan manushane illa Indha manushanuku dislike poda eppdi Manasu varudho
+705	C046463	Offensive	Kanglish	S SHETTY appreciate maadiddu gottagudilva marayya ninge🤦
+706	C046464	Hate Speech	Telugu	అనిల్ కుమార్ గారిది తప్పలేదు కానీ ఇలాంటి సమస్యలు కూడా రాష్ట్రంలో ఉన్నాయి అని బాగా తెలియజేసారు
+707	C046468	Offensive	Tanglish	Daii enda aepo pathalum Engg paper epdi vachu pandrenga avenga mark potu pass potu vida ready ah erundhalum neenga entha madiri shoot pani avengala divert pandrenga da...neenga kastamnu sli avengalaum namba vachu fail poranga.. .nonsense
+708	C046477	Offensive	Tanglish	one word to say about the trailer is Hollywood level trailer bgm GV manusana ya ne epadi terika vituiruka adha kekum bodhu la kelaven fans evenavadhu kadacha adiche savadikinum nu veri varudhu already kaththi 150c thuppaki 187c Theri la adhukum mela 300c dhan
+709	C046483	Hate Speech	Roman Telugu	Thumbnail Chetha ga undi
+710	C046485	Hate Speech	Tamil	நாடக காதல் செய்ய தூண்டும் #vck திருமா,ரஞ்சித்,அதியமான் போன்ற நாய்களுக்கு செருப்படி...கலப்பு காதலித்தால் , வெட்டி வீசுவோம்...திரௌபதி வெற்றி பெற கவுண்டர் சமுதாயம் சார்பாக வாழ்த்துக்கள்...
+711	C046490	Hate Speech	Telugu	రోజా నా ముందుకి వచ్చి చూపించు నీ మిడిల్ ఫింగర్
+712	C046492	Hate Speech	Roman Telugu	niku oka cinimalu 100 kotlu nikendukura annikastalu vidu sodi pedalaku yemievvadu maremi sestavu bayya
+713	C046496	Hate Speech	Telugu	ఈ పాట ఎంత మందికి ఇష్టంఎన్ని సార్లు విన్నా మళ్లీ మళ్లీ వినాలనిపిస్తుంది
+714	C046501	Offensive	Tanglish	Thavam trailer ah Vida petta trailer super.....
+715	C046502	Offensive	Tanglish	Surya vah pathaley enaku orey siripu dha... Comedy Piece🤣🤣🤣🤣 Idha karthi panna soopr ah irukum.... Surya ku set agala
+716	C046507	Offensive	Tanglish	i like vijay but i dont like keerthy suresh she is waste nadikave therla
+717	C046510	Offensive	Tanglish	overa iruku and editing illa konjam speed illama iruku
+718	C046512	Hate Speech	Telugu	అమిర్ ఖాన్ మునవర్ గాడి కి చెప్పండి అన్నమాకు మనోభావాలు ఉంటాయి నూపూర్ శర్మ రాజాసింగ్ గారే మాకు దేవుళ్ళు గా కనిపిస్తారు
+719	C046513	Hate Speech	Roman Telugu	Are pichi sulli gah entha tiskunavra trs daggara
+720	C046514	Offensive	Tanglish	Enna da acting Thala punda marri pandra
+721	C046515	Hate Speech	Telugu	KING అనే వాడు ఒక్కడే ఉంటాడు One and only king kohli
+722	C046519	Offensive	Tanglish	G. V. Neenga music mattum pannunga thevaillama hero va nadikkathinga
+723	C046520	Offensive	Tanglish	oruthar mele neenga visvasam kattrathukaga innoruthara en asinga paduthiringa
+724	C046521	Hate Speech	Roman Telugu	Dhanikki kutha gilla mammulaga lehdu ra show na adhi
+725	C046524	Hate Speech	Roman Telugu	annamanam kuudaa oka meshini konukkundam maname guddukundam
+726	C046525	Offensive	Tanglish	Enada vivegam la coffee solu nu solra mathri sweet sapda porom nu cooola solraru thalaivaru!
+727	C046526	Hate Speech	Kannada	ಈ ಕರಾವಳಿ ಶೆಟ್ರು films ಯಾಕೆ ಇಷ್ಟೊಂದು dull and bore ಹೊಡಿಸುತ್ತೋ ಗೊತಾಗ್ತಿಲ್ಲ. ಆ ಕಿರಿಕ್ ಪಾರ್ಟಿ
+728	C046530	Offensive	Kannada	Parthasarathi ಲೆ ಗತಿಗೆಟ್ಟು ಮುಂಡೆ... ನಿಮ್ಮ ಲುಚ್ಛನ್ ತರ ಬೇರೆ ಲ್ಯಾಂಗ್ವೇಜ್ ಅವ್ರಿಗೆ ಬಕೆಟ್ ಹಿಡುದು.. ಸೈಡ್ ರೋಲ್ ಮಾಡಿಲ್ಲ ನಮ್ d boss .... ಪೈಲ್ಸ್ ಮ್ಯಾನ್ ಅಂತೇ.. ಬಾಡಿ ನೇ ಇಲ್ಲಾ ಅವುನ್ ನ ಪೈಲ್ವಾನ್ ಅಂತೀರಾ.... ಮತ್ತೆ ನಮ್ ಬಾಸ್ year ಅಲ್ಲಿ 3 boxoffice hit ಆಗೋದನ್ನ ಒಪ್ಪಿಕೊಳೋಲ್ಲಾ... ಯಾಕ್ರೆ ಮುಂಡೇರೆ.. ಯಾವುದು ಮೊಡ್ದು ತುಣ್ಣಿ ಸಿಗ್ಲಿಲ್ವಾ
+729	C046531	Offensive	Kanglish	E nayi nann makkalage thiliyode illa
+730	C046532	Hate Speech	Telugu	శ్రీను అన్నా నువ్వు చెప్పింది నిజం .... ఈ బగ్రౌండ్ music tho చిరాకు తెప్పిస్తుంది ప్రోగ్రామ్
+731	C046534	Offensive	Tanglish	surya veriyan ni mattum enga kita matna settada mavane. ngk diaster
+732	C046539	Hate Speech	Roman Telugu	Td janrdan cbn binami eddaru dongale avasaraniki vadukon vadilese cbn tdp partty
+733	C046541	Offensive	Tanglish	Intha pavigaluku theriyala yarna solla mattaingala irutha ana negatha sollimudiganum pola iruthakuthu
+734	C046542	Offensive	Tanglish	2K idhu 2016 Idhu 1996 yaara yemathuringa ... Naanga 90s kids .
+735	C046543	Hate Speech	Roman Telugu	Vedava ki brand ambassador sir miru
+736	C046545	Offensive	Tanglish	Asuran padam style la sollanumna.... Yennaya trailer eh ippudu irukku
+737	C046546	Hate Speech	Telugu	ముందు దాన్ని తరువాత వాడిని చెప్పుతో కొట్టాలి
+738	C046547	Offensive	Kanglish	Parthasarathi nimma yashini boobs gojjekesari acting ge Oscar award fix
+739	C046558	Offensive	Tanglish	Oruthar Mela Neenga Viswasam Kaattradhukkaga Innoruthara Yen Asinga Paduthuringa
+740	C046560	Offensive	Tanglish	Epo da kondi varuvinga 1.4 Million like
+741	C046565	Hate Speech	Roman Telugu	Ela lan..i veshalu vesedanni tesukochi TV Lo Pettaru
+742	C046568	Offensive	Kannada	ರಶ್ಮಿಕ ರಕ್ಷಿತ್ ಶೆಟ್ಟಿ ಬೆಳವಣಿಗೆ ನೋಡಿ ?
+743	C046569	Hate Speech	Roman Telugu	Chillar chillar mokalani teskochi famous chestunaru
+744	C046575	Hate Speech	Kanglish	VPN hakondu tiktok use madtidare nam soldier sattirodu lekkka ellla janakkke
+745	C046580	Offensive	Kanglish	Gowda neen anbeda bidolo
+746	C046590	Hate Speech	Roman Telugu	saami kaadaa kannah venakaala nuvv cheppina vivarana baagundi…
+747	C046593	Hate Speech	Roman Telugu	Power Lo undi evaru ra vedava
+748	C046595	Hate Speech	Roman Telugu	special respect fore indian cricket thanks fore international board of australia
+749	C046597	Offensive	Tanglish	bairava teaser dhan mokkay na...Indha teaser adha Vida mokkay ah irruku...Teaser nalum Seri...Trailer nalum Seri...epodhum Thala dhan......Waiting fr #Ak 57 teaser...
+750	C046599	Offensive	Tanglish	Waiting...... To see vekkai novel real version.
+751	C046605	Offensive	Tanglish	wt mn...surya paya comedy pannikittu irukkaru...summa onai illa sori nai illanu
+752	C046608	Hate Speech	Telugu	విజయ్ ఇంత లాజికల్ ఆన్సర్స్ ఇస్తాడని అస్సలు expect చేయలేగ్రేట్
+753	C046609	Offensive	Tanglish	Super movie and kamala kalasa samma
+754	C046613	Offensive	Tanglish	Idhu padathoda pera illa myskin oda pera
+755	C046614	Hate Speech	Tanglish	Sc dhan ipa overa panranuga oc la saptutu... Ena panrathu ...
+756	C046620	Hate Speech	Roman Telugu	brother nuvvu tress emanna ante kcr ktr thopu antunav athanemo bjp kii vattaasu palukutunnadu
+757	C046624	Offensive	Tanglish	To the guys who trolling surya & this teaser, aen da ungluku vera vela *** illayaa,,teaser nallaala naa ena ***** ku da pakringa..muditu poi thungung da...fuckin idiots
+758	C046633	Hate Speech	Roman Telugu	Geethakka performance matram apadam ledhu ga.....mental di
+759	C046634	Hate Speech	Tanglish	Unlike pannava ava amma ellam item tha Thevadiyanga pasangala Ungamma koothingala kilichiduvan by surya anna big Rasigai
+760	C046635	Hate Speech	Tanglish	let the aamai kadharals begin...varalam va varalam va bairava- king of mass-vijay
+761	C046639	Offensive	Kanglish	Bindu gowda lofer avlu
+762	C046641	Hate Speech	Tanglish	Light taa saw padam maadhiri iruku
+763	C046643	Offensive	Kanglish	Tamil movie remake
+764	C046651	Offensive	Kannada	Parthasarathi ಅಲಾ ಹಾದರಗಿತ್ತಿ ನಿಮ್ಮದು ದೊಡ್ಡ ತುಲ್ಲು ಬಿಡೆ
+765	C046653	Hate Speech	Roman Telugu	ayya kulaalu kosam kaadu manchi nayakudini ennukonedi
+766	C046654	Offensive	Tanglish	Indha karumatha dha raathiri Poora ottitu irundhiya moment
+767	C046664	Hate Speech	Roman Telugu	mea iddari walla telamgaana janaalaki emanna upayogam undaa cheppu
+768	C046670	Hate Speech	Roman Telugu	Nuvvu vastavu em matladathavo nekay theledhu tedha ga
+769	C046673	Hate Speech	Roman Telugu	mea lanty vaadini mosam chesthe vaadu eppatiki paiki raadu saar
+770	C046683	Hate Speech	Roman Telugu	ma anna nee troll chestava ra puka
+771	C046691	Hate Speech	Roman Telugu	nuvvu dorikithe thaan tantaaru pattukoni evariki kanabadaku
+772	C046692	Offensive	Tanglish	Same story same sandaa ..karrr thuuu
+773	C046693	Offensive	Kannada	ಟ್ರೈಲರ್ ನೋಡಿ ಮೈಯೆಲ್ಲ ರೋಮಾಂಚನವಾಯಿತು! ಪ್ರಜ್ವಲ್ ದೇವರಾಜ್
+774	C046694	Hate Speech	Telugu	భగవంతుడి దయ ప్రజల ఆశీస్సులు ఎప్పుడూ ఉండాలి
+775	C046696	Offensive	Tanglish	dei enna karumam da idhu ...xpected a lot...bharatha senjitan
+776	C046698	Offensive	Tamil	என்ன ஒரு முரண்பாடான வசனம் . \எது கிடைச்சலும் \வேட்டை ஆடுற ஓநாய் அல்ல சிங்கம் இப்போ கொலை பசில இருக்கேன் .\எது கிடைச்சலும்\ வேட்டை ஆடுவேன் .இதுக்கு நீ ஓநாய் என்றே சொல்லி இருக்கலாமே .வசனம் எழுதின புண்ணியவான் யாரு.ஓநாய் தான் எது கிடைத்தாலும் வேட்டையாடும்தானே!!
+777	C046704	Offensive	Tanglish	Idhula oru Trailer ah thu
+778	C046709	Offensive	Kanglish	Loo Nim Makha muccha e Video gu Dislike yenro nim Hendti Munde Haga avr character Nodi kaliro life Andre yenu antha thu nanmakla
+779	C046722	Hate Speech	Telugu	టీడిపి రౌడీల దౌర్జన్యం
+780	C046723	Hate Speech	Roman Telugu	rk garu mea quessioning baagundi butt cm nee or central minister nee adagalsina quessions adugutunnaru ovaraal its aaa very good discussion mai vakeel saab thopu aayana mata muchhata vignaanam chaala superb way too goo mai mlaa
+781	C046725	Hate Speech	Kanglish	Bandiro 3 comment adru avalge andkondre adu ugiyakke madidiralla guru
+782	C046726	Offensive	Tanglish	Valimai varatum enge attam adule paapingge
+783	C046729	Offensive	Kanglish	R neen hange badko avaginda yaavno balegaara ante avn hesr badkothiddiya.. hogi aa balegaaran tunne unn hogu... Sumne harkollodalla
+784	C046732	Hate Speech	Tanglish	Dei anils satham ilama unlike potutu irukingla da
+785	C046734	Offensive	Tanglish	issssss pisssss...!! Ramaa..!! -vandhuchu 1 1/2 ton asingam..!!
+786	C046735	Hate Speech	Tamil	இதே மாதிரி போலி மீடியாக்களையும் (News channels--win tv தவிர) தோலுரித்துக் காட்ட வேண்டும்.
+787	C046736	Hate Speech	Tanglish	Romba over ah kathuranunga. Aambala vishal madhiri. Nothing like nadodigal 1
+788	C046737	Hate Speech	Tamil	பேசுங்க டா நீங்க உங்களால ஒ௫ புண்டையும் பண்ன முடியாது உங்க அப்பா கைபேசியை தட்டி விட்டதுக்கு ஒ௫ புண்டையும் பேசாமல் இ௫ந்த இப்ப என்ன புண்டைக்கு பேசுற காசு கொடுக்குறானு பேசுறியா
+789	C046741	Offensive	Kanglish	Muccukondiro neenu ninna labaskoskara bogalbeda kendra sarakara mannu tinnuttiddara modige takattu ilva byan madakke
+790	C046761	Hate Speech	Tamil	இத்தன சாதி பயலுவளும் ஒன்னா சேர்ந்து பறையருக்கு எதிரா கத்துறீகனா. இங்க எவன் வலிமைமிக்கவன்னு தெரியுதா. ஒத்தைக்கு ஒத்த நின்னா மசுரை கூட புடுங்க முடியாது.
+791	C046762	Offensive	Tanglish	Sirapana tharanama sambavanga inumey dha pakka pora
+792	C046766	Hate Speech	Roman Telugu	Mee Ayya Farmhouse Unte Mee ML Lu Appudaina Mee Ayyani Chusindra Lolly ga
+793	C046767	Offensive	Tanglish	Enna daa bigil dialogue maathiri irukku 0:13
+794	C046779	Hate Speech	Roman Telugu	raja singh ki em pani pata ledha eppudu langa kathalu dengutharu paata nachaka potey gudda moskoni dengey ekkdada nunchi
+795	C046780	Offensive	Tanglish	#directorvijay ...*mm*la maatne sethha da ne
+796	C046782	Offensive	Tanglish	Vijay anna maari thala enna mo try pandraru paakalam
+797	C046790	Hate Speech	Tanglish	2:00 Ivan voice kekkum pothulam ooru artificial ava feel avuthu ooru hero feel la varamattuthu
+798	C046791	Offensive	Tanglish	Pakkaa SATHRIYAN Copy thuuuu ECHA BADU VISAY MAMA
+799	C046802	Offensive	Tanglish	44 k views 51k like 658dislike
+800	C046813	Offensive	Kanglish	Bai rakshith avri nan msg nodudri yargu agllilla aa thukali dagarna madvi madkolak hogbedi
+801	C046815	Offensive	Tanglish	Mr.Vandu courtla ipdi laam Kattha kudathu
+802	C046821	Hate Speech	Tanglish	August realse...I think kaapan v/s Nerkonda parvai...
+803	C046825	Hate Speech	Roman Telugu	brahmi ekkada unte akkada comedy
+804	C046827	Hate Speech	Tanglish	Dai Vijay fans neenga enna venalum pannungada Thala intha padathuku aparam vera level neenga dislike pottukine irunga Vijay rasigargale Thala rasigara mariduvinga
+805	C046835	Hate Speech	Roman Telugu	Miru miru okkatey, madyalo fans ey suffer avuthaaru
+806	C046836	Hate Speech	Roman Telugu	style gaa unav anna
+807	C046840	Hate Speech	Roman Telugu	emi tintaaru sir meeru agae 25 daggare aagipoyindi
+808	C046841	Hate Speech	Roman Telugu	telugu cinema key prapancha vyaaptamgaa paeru raavadaaniki kcr ktr kaaranamaaee okkate chalu lechi paaketlo chetulu pettukoni
+809	C046843	Hate Speech	Roman Telugu	tanu hug teesukone style loo kuudaa friendliness undhi tappa lust ledhu
+810	C046844	Offensive	Tanglish	Soori illama iruntha movie supper hit
+811	C046848	Hate Speech	Kanglish	Sariyagi degidiya guru all the best desha abhimana elade ero sule makkali ge sariyagi deggg bekuuu
+812	C046855	Hate Speech	Roman Telugu	neenu chusina all speech loo ekkuva saarlu chusanu
+813	C046856	Hate Speech	Tanglish	En Da Mayiru Mari comment panringa..andha samudhayam indha samudhayam nu....poi manusana vaala paarunga ellam..chaii
+814	C046859	Hate Speech	Tanglish	AYYO... Sammanthame ilaama NEET, VIVASAYI... nu thaaliya arupaanuga polaye
+815	C046862	Offensive	Tanglish	1:42 par thoda vfx ki kami lag rhi h bhai
+816	C046876	Offensive	Tamil	மணி ரத்னம் படம் கண்டிப்பா flop தான் பாவம் producer
+817	C046884	Offensive	Tanglish	Padathoda katha ok tha bt sariya yadukka theriyala derector ku pavam hahhha
+818	C046886	Hate Speech	Roman Telugu	Thappem ledu cheppulu andistheoka IAS CM kaallu mokkithene anni muskoni unna meeku idela thappuga anipisthundi
+819	C046888	Offensive	Kanglish	Shetty oh karch maadko hogu.... yello yaardo mundaav ikki sampadane maadirtya....
+820	C046891	Offensive	Tanglish	Yaaru Da Ivan seving Panna korangu mathiri irrukkan
+821	C046894	Hate Speech	Roman Telugu	superb maa
+822	C046903	Offensive	Tanglish	Jayam ravi athuku atha fraud kitta mannipu ktiga avan 96 la sonnatha tha eppaium solli amatharan
+823	C046909	Hate Speech	Roman Telugu	abbabba em reply echaadu bass supper
+824	C046918	Hate Speech	Telugu	ఇలాంటి వారు మా కన్నడ గొప్ప నటుడు డా రాజకుమార్ జొతులొ ఒక్క సినిమా ఐతె చేసి ఉంటే
+825	C046924	Hate Speech	Tamil	அடங்கவில்லை என்றால் அடக்கம் செய்வோம் மோகன் ஜி உங்களுக்காக நாங்கள் !!!!!
+826	C046928	Hate Speech	Tamil	என்னடா இது கொடுமை எப்படி இருந்தவங்க இப்படி maathitinga
+827	C046931	Offensive	Tanglish	Adei sun picture ivlo nal trending ilama sudden uh 2ku vandrcha
+828	C046939	Hate Speech	Roman Telugu	​trs party lo telangana kosam poradina valle unnara poratam ki vyatirekam ga unnollani ministers ala chesinarugurivinda ginja ki kinda unna macha kanapadadu
+829	C046940	Hate Speech	Roman Telugu	anchor garu asalu meeku dandam pettalandi babu mea opika entandi
+830	C046943	Hate Speech	Telugu	అంటే పేదవాళ్ళు ఉపన్యాసాలు చెప్పకూడదు అంటావా ఆయన 30 కోట్ల ప్రజలకు ముఖ్యమంత్రి
+831	C046945	Hate Speech	Telugu	చాలా సంతోషం తప్పుని తెలుసుకొని స్వచ్ఛమైన మనసు తో మాట్లాడుతున్నారు మంచి మార్పు
+832	C046946	Offensive	Tanglish	Dai otha vijay padatha podu kalaichi irukiga
+833	C046949	Hate Speech	Telugu	NXT Stop Ameerpet. తలుపులు ఎడమ వైపున తెరుచుకుంటాయి
+834	C046951	Hate Speech	Roman Telugu	comments chadivi masthu enjoy chestunna nenaithe
+835	C046953	Hate Speech	Roman Telugu	Telufu interview lo hindi comments enduku chupistunaru..... Ma cinema antha fame aindi ani chepukodanika
+836	C046960	Hate Speech	Roman Telugu	​4 lakh crore apu cheshadu yekada poyayi sigu leni lanja
+837	C046963	Offensive	Tanglish	1.1k dislike ethuku da dai entha trailer ku en da korachal...
+838	C046965	Offensive	Kanglish	Parthasarathi le randimagne modlu nimma appa amma hige mattadu kalisiddara modlu ninu mataadiddu aariti nodo hogo first
+839	C046969	Hate Speech	Roman Telugu	Expresion em vundavu Anntiki same expressions
+840	C046971	Offensive	Kanglish	Nan November indha kaytiddhe
+841	C046977	Offensive	Tanglish	Superstar movie Mass koanjam kooda illa
+842	C046982	Hate Speech	Roman Telugu	raaju garu aamanchi roeju kosam eduru chustunna saar
+843	C046990	Hate Speech	Roman Telugu	42saarlu chuusaanuu ayina boru cotta ledhu
+844	C046994	Hate Speech	Tanglish	dei samuthrakani sasikumar enna mayira vena eduthu tholaingada .enna mayiruku nadodigal 2 nu name vaikringa. nadodigal oru kurinji poo madri oru adhisayam da. adha kedukra madri oru padatha eduthu nadodigal pera keduthradhinga. padathuku vera title vachu tholainga. shit
+845	C047003	Offensive	Tanglish	Yarra paithiyam rajanikku yalra atikkurathu rajani arasiyalukku vanthu ennatha kilikka poran sollunga avanra mantaila mutiye Ella appuram arasiyalukku vanthu oru mairaium pulunga mutiyathu
+846	C047006	Offensive	Tamil	கதை இசை ஒளிப்பதிவு நல்லா இருக்கு. ஆனா எதோ ஒன்னு மிஸ்ஸிங்
+847	C047007	Offensive	Tanglish	Namakku thevaiyana tha namma thaa adichu vaanganum 0:37 tharam
+848	C047009	Hate Speech	Telugu	మీ నడుము కేక ఆంటీ
+849	C047010	Hate Speech	Roman Telugu	array babu asalu nuvu telamgaana loo m adhikaram undhi raa matladaniki
+850	C047013	Hate Speech	Roman Telugu	anthaa okay brow intakee ivanni evaru kuurchoni lekkistaaru evaru vintarumanam vinaka pothe train velladaa
+851	C047017	Offensive	Kanglish	Rashmika idanna nodi thi*a urkimbeku🤣🤣🤣🤣🤣
+852	C047018	Offensive	Tanglish	Lokesh Kanagaraj fans, leave a like
+853	C047019	Offensive	Tanglish	Vera level Thala wig mandaiya neeyalam avalo dhan
+854	C047021	Hate Speech	Tanglish	Devadiya pasangala... Jathi veri pudicha naigala..... Jati gu support ah coment pandra yelarum devadiya pasanga
+855	C047025	Hate Speech	Roman Telugu	inkenni rojulu white cheyali brow
+856	C047030	Hate Speech	Roman Telugu	im enjoyed aaa lott andhi aaa show chusina intha funn undaka povacchu good entertainment keep it up brose
+857	C047033	Hate Speech	Telugu	దీని దిక్కుమాలిన డాన్స్ ఏంటో???
+858	C047035	Hate Speech	Roman Telugu	hero ipodham industry ni yeledham ante last ki bokka ipotham
+859	C047048	Offensive	Tanglish	Thala fanz nu solla enga evanukum thaguthi ila comments pannama yengada poninga
+860	C047054	Hate Speech	Tanglish	Marvel DC lam orama pongada!! Enga tamil cinemavuku nu oru HERO vanthachu
+861	C047057	Hate Speech	Telugu	మీరు చెప్పే ప్రతి విషంలోనూ ఒక విలువైన అర్ధం ఉంటుంది బయ్యా నేను హిందువుని అయినా ఇంతవరకు పవిత్ర భగవత్ గీత చదవలేదు కానీ మీరు చెప్పే ప్రతి విషయం పవిత్ర భగవత్ గీత ఆధారంగా చెపుతుంటే చదవాలనిపస్తుంది
+862	C047062	Offensive	Tamil	அவன் ஒரு முட்டா பு** இவன் ஒரு கிருக்கு பு***
+863	C047064	Hate Speech	Roman Telugu	Elders ki respect lekunda matladina vaadu Oka hero...
+864	C047067	Hate Speech	Roman Telugu	abhaa enni rojulu ayyindi ilah chosi idarini
+865	C047071	Offensive	Kanglish	Urkond Sai beku
+866	C047077	Hate Speech	Telugu	Next faima ఈ పొజిషన్ లోకి రావాలి... సపోర్ట్ లేకుండా గేమ్ ఆడట్లేదు... Worst గా behave చేస్తుంది.
+867	C047080	Hate Speech	Roman Telugu	village pilla neevu super
+868	C047083	Hate Speech	Telugu	Nenu డ్రాయర్ ఎస్త చూడు నేను డ్రాయర్ ఎస్తా చూడు నా డ్రాయర్ siad చూడకుంటే ఇప్పెస్త చూడు
+869	C047084	Hate Speech	Roman Telugu	chaalaa baagundi rahul gandhi
+870	C047086	Offensive	Tanglish	FABulous trailer yaar... semma.. Rip Van Winkle
+871	C047090	Hate Speech	Telugu	Next faima ఈ పొజిషన్ లోకి రావాలి... సపోర్ట్ లేకుండా గేమ్ ఆడట్లేదు... Worst గా behave చేస్తుంది aha erri puku di
+872	C047098	Offensive	Tamil	கடைசில மரண பங்கம் பன்னிட்டேங்கப்பா...
+873	C047099	Hate Speech	Roman Telugu	ee patta chushaka ee cinema release eppudaiddaa ani eduruchuse aasakti perigindi
+874	C047100	Hate Speech	Roman Telugu	okasari maa telamgaana kii raha brother neeku adikuda dorakadu unnadi chesukoni vaerae job kii try cheyy
+875	C047101	Offensive	Kanglish	Cc camera footage thegiri ..avratra keli Mahabharata story
+876	C047104	Offensive	Tanglish	Yena aga pore sakthiman ..periya ooollll
+877	C047106	Offensive	Kanglish	Ee boli maklige deshakoskara1 app delete madakkaglilla
+878	C047107	Hate Speech	Kannada	ಸುಪರ್ ಮಚ್ಚ್ ಕಡಚ ಚೀನಾ ರಂಡಿಮಕ್ಕಳಿಗೆ ತಕ್ಕ ವೀಡೀಯೋ ....ಜೈ ಹಿಂದ್
+879	C047108	Offensive	Tanglish	Pods Thaathaa Mokkaiyaa Irukku
+880	C047111	Hate Speech	Roman Telugu	entandi pusukunna antha pedha Mata anesav
+881	C047114	Hate Speech	Roman Telugu	aa age loo emm dance anna adhi nee energy kii salaam anna
+882	C047123	Hate Speech	Telugu	Liger movie flop అవ్వాలని కోరుకునే వాళ్ళు ఒక like కొట్టండి bro
+883	C047128	Hate Speech	Telugu	ఈ అరాచకాలు ఆపగలిగే దృక్పథం ఉన్న నాయకుడు కేవలం పవన్ కళ్యాణ్ గారు మాత్రమే
+884	C047130	Hate Speech	Roman Telugu	desham kosam praanaalu arpinchina entho mandi sainikulanu talachukuntu jai hind
+885	C047135	Hate Speech	Telugu	రేవంతన్న అనే మనిషి కార్యకర్తలా జీవిస్తాడు అందుకే ప్రజల మనిషి నెక్స్ట్ సీఎం కావాలి
+886	C047142	Hate Speech	Telugu	శ్రీదేవి డ్రామా కంపెనీ షో వల్ల ఎంతో మంది టాలెంట్ ఉన్నవారు బయటకు వస్తున్నారు
+887	C047143	Hate Speech	Roman Telugu	nivedita ice loo aanandam chudandi great everest ekkinanta aanandam
+888	C047145	Hate Speech	Kanglish	Guru namaskara ennu chennagi tale dhengu.sonu Gowda bin*** Gowda evarge ennu tale li brain Ella anusutte
+889	C047146	Hate Speech	Tamil	இந்தப்படம் நாடக காதலுக்கும்,சரக்கு மிடுக்குக்கு செருப்படி படம்....
+890	C047155	Hate Speech	Roman Telugu	Over action apandi raa Babu
+891	C047156	Offensive	Tanglish	Serial la nadika vendiyavan innum film la nadichikitu irukan
+892	C047157	Offensive	Tanglish	Asuran varudhu ok Ennai nokki payum thotta ennada aachu varuma varadha
+893	C047160	Offensive	Tanglish	Sathiyama solren!!!adichu underwearoda voda vitruven.pona manam thirupi varathu
+894	C047166	Hate Speech	Tamil	என்ன டா we will rock you music copy பண்ணி வச்சு இருக்கீங்க
+895	C047170	Offensive	Tanglish	Psycho iliyaraja mysskin...buhhaaav padithavudan sirithu vidavum
+896	C047172	Hate Speech	Telugu	నువ్వు ఏమి పని మీద వచ్చావు నువ్వు ఏది matlduthunvu ముందు mlc ni arest చెయ్యండి
+897	C047180	Hate Speech	Telugu	ఆపు రా డ్రామా రావు అన్ని సొల్లు కబుర్లు
+898	C047181	Hate Speech	Roman Telugu	meeru ee lanti veediyo pettikandhi brow meevalla prajalu kuudaa chaedii potharu
+899	C047187	Hate Speech	Roman Telugu	bharatadesam garvinchadagga natudu entr anna komaram bheem
+900	C047188	Hate Speech	Roman Telugu	Neevu great annasuper
+901	C047189	Hate Speech	Roman Telugu	kallu pathukoni sanka kannidhi meru
+902	C047195	Hate Speech	Roman Telugu	array babu memu chinnappati nunchi chiru fance pls dont heart us first chiru next evarina maaku
+903	C047199	Hate Speech	Roman Telugu	Ni jobi lo nundi oka rupai evariki ichinatlu a media lo chudaledhu sir Pawan thana cinema dabbulu pedhavallaki pancharu
+904	C047200	Offensive	Tamil	சீமானை மனதில் வைத்து படம் எடுத்திருப்பார்களோ? சும்மா கேட்டு வைப்போம்...
+905	C047205	Hate Speech	Tanglish	As usual vijay fans started disliking the trailer. Avangala thavira yaarum munnera koodathunu ninaikiranga
+906	C047210	Hate Speech	Roman Telugu	maa addapillalu kii nee choose adrushtam undadu kabatti ilah chusinanduku dhanyavaadaalu telupukuntunnaanu
+907	C047219	Hate Speech	Roman Telugu	may nouledge kuu selute sir may lanty vaallu ilantivi appudappudu media mundhi cheppandi
+908	C047223	Hate Speech	Roman Telugu	Peoples be like: nuvvu nijanga erripukivi
+909	C047224	Hate Speech	Telugu	I love her voiceNice girl వాగ్దేవీ మేడం so sweet of you
+910	C047225	Offensive	Tanglish	Trailer full ah dark ah irruku... Konjam colourfull ah iruntha nalaa irrujum
+911	C047228	Hate Speech	Telugu	చెత్త వీడియో .....ఇవాళ రేపు కన్న తండ్రిని మరీ అంత దారుణంగా ఎవరూ చూడరు
+912	C047231	Hate Speech	Tamil	சாதி மாறி திருமணம் செய்யும் நம் வீட்டுப் பெண்களையும் ரோட்டில் கட்டி வெட்டுவோம்
+913	C047236	Hate Speech	Tamil	நாடக காதல் கும்பலுக்கு செருப்படி வெற்றி பெற மனமாற வாழ்த்துகிறேன்.. # நன்றி இயக்குனர் மோகன் அண்ணா அவர்கள்..
+914	C047238	Offensive	Tanglish	Mr bean cartoon series la vara music ah bgm ah poturukanga da🤣🤣
+915	C047240	Offensive	Tamil	ஏன்டா முட்டாப்புண்ணகை ரவி புதிய தலைமுறை தொலைக்காட்சி 1996 எங்கடா இருந்துச்சு???
+916	C047241	Hate Speech	Roman Telugu	samantha oka trigubothu lanja chai lanti mogudu vadilesindhi
+917	C047242	Offensive	Kanglish	nijvaglu ee movie nodilla Andre nim papa aste
+918	C047247	Offensive	Kanglish	Yenta mat andi yappa
+919	C047250	Offensive	Tanglish	Next Aadukalam Is Loading. Ha..?? 🤩
+920	C047258	Hate Speech	Roman Telugu	Kohli lekapote gelvaru ra sullli galllaraa...
+921	C047281	Hate Speech	Roman Telugu	super sati garumi action suuparbchaala enjoy chestunnamu
+922	C047289	Hate Speech	Roman Telugu	Megastar antey adi Em expression ra babuComedyactiondialoguesDance ayithey ika cheppoddu
+923	C047290	Offensive	Tanglish	mutta pasangala.. padam eduka sonna cartoon eduthu vechirkeenga
+924	C047291	Hate Speech	Telugu	సులభంగా స్వస్ బ్యాంక్ లో జమ చేసుకోవచ్చు అనుకుంటా
+925	C047293	Hate Speech	Kanglish	Nisha preety avalna avlu dodda buddivanthe deshada Asti avlu eval video Ella Andre Jana sathogtare antha avalge fallowers bekanthe instadalli thu kachadagalu taleli 3 kasina buddi Elladavella yak saytidave
+926	C047297	Hate Speech	Roman Telugu	Net I pothe google lo ela search chestav ra bevakoof
+927	C047299	Hate Speech	Tanglish	copy Yennai arinthal.....enna nai polapeda ete
+928	C047310	Offensive	Tanglish	Marana maasss!! 10 Jan . VISWASAM ennaaga pogudho.
+929	C047315	Hate Speech	Roman Telugu	kcr ktr chanchi povali anni black magic chesthunna jai bjp
+930	C047327	Hate Speech	Roman Telugu	raccha lepe speech cheppalante bandla ganesh anna tarwate evarainaa
+931	C047331	Hate Speech	Tamil	இது ட்ரைலரா இல்ல படமா இவ்வளவு நீளமா போகுது
+932	C047333	Offensive	Tanglish	Andha 19 k unlike panavangaluku kolandha porakathu
+933	C047353	Offensive	Tanglish	Nallave ella uinga movie ajith sir
+934	C047354	Offensive	Tanglish	Edhuku andha serial nadigaiya kondu vandhurukinga? Andha seriale eppo mudiyum nu irundhuchu. Adhuvum andhamma performance oh my god nu irundhuchu.idhula oh my kadavulevam adhula andhammava nadikka vachirukangalam. Unmaiya sollu unaku script eludhumpodhe andhamma moonji dhan vandhuchu andha characterku nu solla pora dhana ini varra interviewgalla..
+935	C047364	Offensive	Kannada	ಎಲ್ಲೋ ಏನೋ ಆಗಿದ್ದಕ್ಕೆ ಟಿಕ್ ಟಾಕ್ ಬ್ಯಾನ್ ಮಾಡಿದ್ದಾರೆ ಅಂತೆnnಲೋ ಕಚಡ ಕಂತ್ರಿ ಗಜ್ಜಿ ನನ್ನ ನಾಯಿ ನನ್ನ ಮಗನೇ ನಮ್ಮ ದೇಶದ ಸೈನಿಕರ 20 ಸೈನಿಕರು ಉಸಿರನ್ನ ಕಿತ್ತುಕೊಂಡಿರುವ ಶತ್ರು ರಾಷ್ಟ್ರದ ಕಿತ್ತೋಗಿರೋ ಆಪ್ ಅನ್ನು ಡಿಲೀಟ್ ಮಾಡ್ ಇರೋದಕ್ಕೆ ಎಲ್ಲೋ ಏನೋ ಆಗಿದೆ ಅನ್ನೋ ಬುದ್ಧಿಮಾಂದ್ಯತೆ ನಿನಗೆ ತುಂಬಿದೆ ನಿನ್ನಂತ ಅವರನ್ನು ಡೈರೆಕ್ಟಾಗಿ ಹಣೆಗೆ ಗುಂಡಿಟ್ಟು ಚೀನಾ ಬಾರ್ಡರ್ ಅಲ್ಲಿ ನಿಲ್ಲಿಸಿ ಸಾಯಿಸಬೇಕು ಕೊಲ್ಲಬೇಕು
+936	C047365	Hate Speech	Telugu	భారత దేశంలో గౌరవించే నటుడు అవుతాడు జై మనోజ్ అన్న rrr మూవీ మించి కలెక్షన్లు వసూలు చేస్తుంది
+937	C047366	Offensive	Tanglish	Kela bekka short film ah apdiye copy adichitingalae da
+938	C047373	Hate Speech	Tamil	நாங்க அடங்க மறுப்போம் இருக்கிறவங்கள பாப்போம் சொன்னா நான் சொல்றேன் நீ இந்த பொட்ட மாதிரி பேசிட்டு போகாத மீசைய உருகி விடுற மீசைய முறுக்கி விட்டவன் எல்லாம் வீரப்பன் ஆக முடியாது
+939	C047377	Hate Speech	Kanglish	Shettys>>>>Dboss+Raj kutumba+sarja family
+940	C047380	Hate Speech	Roman Telugu	Chepina sode 10times chepave
+941	C047381	Hate Speech	Roman Telugu	Bahusa father and son antey ilagey vundalemo Great father and Good Son
+942	C047385	Hate Speech	Roman Telugu	maatru bhasha telugu ante anta lokuva pakka raashtraala vaallu vaari maatru bhasha kii entha gowravam icchu kuntaro chuusi neerchukoondi
+943	C047386	Hate Speech	Roman Telugu	Deneke paneameladau. Vadeke paneameladu.neku.paneameladu. Raa
+944	C047391	Hate Speech	Telugu	నేను ysr జగన్ అభిమానిని వినోద్ రెడ్డి గారు మీరు పార్టీ కోసం పడే కష్టం నచ్చింది కచ్చితంగా మీరు విజయం సాదించాలి అని కోరుకుంటున్నాను
+945	C047394	Offensive	Tamil	வன்னிய நாயக்கனுக்கு மானமே பெரிசு..மத்ததெல்லாம் மசுறு... வாழ்த்துக்கள் எங்கள் குல துரோபதிக்கு
+946	C047398	Hate Speech	Roman Telugu	very great very humble
+947	C047401	Offensive	Tanglish	Haters - stop making violent films ! Vetrimaran - HOLD MY ASURAN !
+948	C047404	Hate Speech	Tanglish	Hahaha... Shakthi Maannu nenachu Maadi la irundhu kudhicha 90s kid Da Naanga.!!!?
+949	C047412	Offensive	Tanglish	thaaaaa fuck ipa vanga ta surya i love u bro
+950	C047415	Hate Speech	Tanglish	Dei rajinikanth ye kalaichitinga worst raa
+951	C047416	Offensive	Tanglish	wov, Vikram ah pathu kathuko... pasathuku padam verioty kodukuraru neeyum erikiyae thupaki, Kathi, theri action padam mattum than nadika theriyuma unaku
+952	C047422	Offensive	Tamil	இதை சொன்னது எந்த வாய்? நீங்க அடிச்சா copy இல்லையா ?
+953	C047423	Hate Speech	Roman Telugu	raakudaani time loo vacchaanu expersion super
+954	C047435	Offensive	Tanglish	250 k likes ineram sila arivuketta pundaika ithku karanam vivek obrai ila kajal ila aksara kakathanu innum sollala?
+955	C047442	Offensive	Tanglish	Dae naan Vijay fanum illa Ajith fanum illa unmaya manashakshi thottu sollunga trailor nallava irukku .////????
+956	C047443	Hate Speech	Roman Telugu	Konchum Theda kadu chala Theda........... After 2024 elections, 25 paise direct flight to Moscow, Russia to become President of Russia..... Package changed from Rs 250 cr to Rs 1000 cr.......
+957	C047444	Hate Speech	Roman Telugu	maamaeppuduu gunn redhee gaa unchutaadu
+958	C047446	Offensive	Kanglish	nayak nayakru suel maklu
+959	C047448	Offensive	Tanglish	Engada andha Joseph vijay?Thalaivarum thalaiyum ...Pongaluku ..
+960	C047455	Offensive	Tanglish	avaru music'a aduththvan use pannuraththukku kaasu kekkuravaru intha opening music a evlo vilai koduththu vaangunaaro theriyalaye 🤔
+961	C047469	Offensive	Kanglish	Tika hogibeku avlige
+962	C047483	Hate Speech	Roman Telugu	Ee cheppulu mose Banisa Sanjay ki intha avasarama?
+963	C047484	Hate Speech	Tamil	இங்க ஒன்னு சொல்ல ஆசை பற்றே ஜாதி பேரு சொல்லி பெருமை பற்ற எவனா இருந்தாலும் தெருஞ்சுக்கங்க தலித் மக்கள் அடி வாங்கி அடி வாங்கி போராடி இன்னக்கி வளர்ந்துருக்காக அவுங்களம் ஒன்னு இருக்கணும்னு நெனைக்கிறாங்க மறுபடியும் அடிக்கணும் நெனச்சீங்கன்னு வைய் நீங்க அடுச்ச அடித விழும் அவுங்க அடுச்சங்கான வைய்?
+964	C047487	Hate Speech	Roman Telugu	daanamlo karnudiki kazin lae natanalo kamalahasan nu minchipoyela
+965	C047492	Offensive	Tanglish	Movie la night shots neraya iruku
+966	C047494	Hate Speech	Roman Telugu	Oka family motham industry akramincheste prati okkaru ilage matladali tappadu
+967	C047500	Offensive	Tanglish	dei TEEJAY thay***!! naduchirukaya da b**du!
+968	C047506	Offensive	Kannada	Parthasarathi ನಿನ್ ತುಲ್ಲಗೆ 7ಅಪ್ ತುರ್ಕಾ
+969	C047510	Offensive	Kanglish	Bro ee devru yallru india davre na athava India bittu ogallva
+970	C047514	Hate Speech	Roman Telugu	Vadapav gaadu icc trophy elaa win aiythadoo neenu chusthaa
+971	C047517	Hate Speech	Roman Telugu	raaju eppuduu rajulane matladutadujai rrr
+972	C047525	Offensive	Tanglish	Evan Thalapathy ella padathulayum getup ore mari nadikuraru sonnano avanuku THERI padam vekkithu parra aapu
+973	C047532	Hate Speech	Roman Telugu	ee patni rojuki okkasaraina vintunna vaaru like cheyandi…
+974	C047533	Hate Speech	Roman Telugu	elangana prabhuthvam Andhuna POINT KALYAN vaadi AMMA ni DHENGINA prabhuthvam kadha ..No doubt
+975	C047539	Hate Speech	Tanglish	Samoothrakani edukkura nadikkira padathulalam caste kondu vanthu thinuchidraru..... confirm padam flop...
+976	C047541	Offensive	Tanglish	Eeeee nu paththuttu iruntha last la vechan paaru . . .vera level .
+977	C047543	Hate Speech	Roman Telugu	news valu pen undani rayatam manchidi Kadu
+978	C047544	Offensive	Kannada	Parthasarathiಲೆ ಹಾದರಗಿತ್ತಿ.... ನಿನ್ ತುಲ್ಲು ಊರು ಬಾಗ್ಲು ಅನ್ಸುತ್ತೆ
+979	C047547	Offensive	Tanglish	Kevalama ilaya... Jaathi pera soli comment podrathu... Thirunthunga da
+980	C047550	Offensive	Tanglish	Director thirutu nai avanota suya labathukaga jathi sandaiya young people kita spread pantra
+981	C047552	Hate Speech	Roman Telugu	itlantivi cheppi hostels lo undevallani Inka cheda dobbandi
+982	C047555	Offensive	Tanglish	so totall ah 57000 vgay paithyakaranga irukeengla. ritu ritu. ungluku lam vekkame illayada?
+983	C047556	Offensive	Tanglish	Thala🥰 video parthutu dislike panravununga aprm bad comments podravunugalukulam SURA trailer la kamichu sagadikunum🤕...to all haters
+984	C047560	Offensive	Tanglish	vijay Ella surya Anna munnuku sappa surya mass
+985	C047562	Hate Speech	Telugu	మనుషులు మాయ చేస్తేదేవుణ్ణి నమ్మినోల్లకు ఎప్పుడూ విజయమే Miracle ను మనం నమ్మాలి అంతే
+986	C047563	Offensive	Tanglish	Trailer vanthu evaluvu neram aguthu Enga trendingla canom
+987	C047566	Hate Speech	Kannada	ಪಾಪ ಜಾಸ್ತಿ followers ಇರೋರ್ ತುಂಬಾ ಬೇಜಾರ್ ಮಾಡ್ಕೊಂಡಿದಾರೆ
+988	C047567	Offensive	Kanglish	Finally sonu gowda b day dhinane tiktok ban aythu
+989	C047575	Hate Speech	Roman Telugu	Me Vally telagana Eroju Ela vundhi sir MA Andra ki kuda jagan lanty yadhava kakundha melanty ledars kavali sir great kcr and ktr
+990	C047584	Hate Speech	Roman Telugu	muslims andarini pakistan ledha afghan ko deport cheyali
+991	C047587	Offensive	Tamil	திருமாவை எதிர்க்க பல சாதி தலைவர்கள், திருமா ஒரே ஆள் அத்தனை பேரையும் நிம்மதி இழக்க செய்திருக்கிறார், இதுவே திருமாவுக்கு கிடைத்த வெற்றி, பன்றிகள் தான் கூட்டமா வரும், திருமா சிங்கள்.
+992	C047588	Hate Speech	Telugu	భరతమాత ముద్దుబిడ్డ అంటే మీరే సార్ ఇలాంటి వారికి శతకోటి వందనాలు
+993	C047589	Hate Speech	Kannada	ಏನೋ ಪಾ.. ಅಷ್ಟ್ ಇಷ್ಟ ಆಗ್ಲಿಲ್ಲ.. ಏನೇನೋ ಇದೆ.. ಹಿಂದಿ ಪ್ರೇಕ್ಷಕರಿಗೆ ವಿಚಿತ್ರ ಎನ್ನಿಸ ಬಹದು
+994	C047599	Hate Speech	Tanglish	Ellan ok dhan but nadodigal 2 nrs peruku trailer set aagala pa
+995	C047602	Hate Speech	Roman Telugu	vd overconfidence valla ciniema dengindhi
+996	C047608	Hate Speech	Tanglish	hahahha bilgil kitten modate venna kaithi patukooo
+997	C047611	Offensive	Tanglish	Pandee pesum pothu.. Thala ukkarra sangi pundannu solliruntha weight ah irunthurukkum
+998	C047618	Offensive	Tanglish	Kaithi diwali Bigilu poolu nu oorma ponga da palvadi vgay pans
+999	C047624	Offensive	Tanglish	Sivakarthikeyan endha movie la umaii pola oru scene kuda vai therandhu peasala
+1000	C047626	Offensive	Tanglish	Seeing comments... Ada paavingalaaa.. ivloo saathi erukaa ... Nalla vella itha ellam nan paakama chennai la poranthann ...
+1001	C047627	Hate Speech	Roman Telugu	upendra cinema loo hero carrector argievy real carrector same too same
+1002	C047638	Hate Speech	Telugu	ఓహో ఈ నిజాయితీపరుడైన రవి ప్రకాష్ లో పవన్ లక్షణాలు ఉన్నాయా
+1003	C047639	Offensive	Tanglish	Yennada panni vassu irukinkhaa Vijay yaa
+1004	C047640	Hate Speech	Telugu	తెలంగాణ ఉద్యమ గీతాల నుండి మాస్ గీతాల మీదికి రూట్ మార్చిన మంగ్లీ
+1005	C047648	Offensive	Tamil	ப.ரஞ்சித் அவர்களே இனி உன் சமூக படம் வேலைக்குஆகாது..
+1006	C047649	Offensive	Tanglish	Anirudh Ellam orama poda Yuvan thanda always mass
+1007	C047650	Offensive	Tanglish	This copy story Giri movie Konjam kuda matram ilaaa
+1008	C047658	Offensive	Tanglish	Dai Vijay Sethupathi onuku mass na set aagathu da example sindhubath,rekka indha padakoloda nelamatha onoda sangatamilan Ku aga poguthu
+1009	C047659	Hate Speech	Roman Telugu	Mammalni inspire avvamantunnaav. Mari nuvvenduku inspire avvalekapoyaav. Antha goppa vyakthini intlo pettukuni nuvvem peekaav aayana Peru use chesukuni chillara poguchesukovadm thappaa.
+1010	C047660	Hate Speech	Tanglish	Enga appan miltri da oodii ozhiyaa va solli tharuva
+1011	C047662	Hate Speech	Roman Telugu	kl rahul ipl baga adutavu india ki moda laga adutavu preity tho night out ha enti
+1012	C047663	Offensive	Tanglish	Dislike pannavanga last dialogue kelunga Sir
+1013	C047666	Hate Speech	Roman Telugu	anni paatalaki idhe steps haha
+1014	C047670	Offensive	Tamil	இந்த bgm ஒரு குழந்தை விளையாட்டு பொம்மையில் இருக்கு... Promise.🤙 Athu oru female toy..
+1015	C047676	Hate Speech	Roman Telugu	motthaniki tdp vari sabhalu yamapuriki dwaralu
+1016	C047679	Offensive	Kannada	Parthasarathi ನಿಂದು ತುಲ್ಲು ಯಾಕೋ ಹಳ್ಸಿ ಹೋಗಿದೆ ಅನ್ಸುತ್ತೆ ಹೋಗಿ ಡೆಟಾಲ್ ಹಾಕಿ ತೊಳ್ಕೊ
+1017	C047680	Offensive	Tanglish	Dislike poduravanlaam pombala porukinga . Ithu varaikum 48k porukinga trailer paathuruthukunga
+1018	C047690	Offensive	Tanglish	Enna da ellam avan seyal Mari iruku
+1019	C047695	Hate Speech	Roman Telugu	lanja nupur sharma valla desham sankanakipoyindhi
+1020	C047698	Offensive	Tanglish	Dislikes kuduthuvanla oru ammavuku poranthavan Ilaaaaa
+1021	C047701	Hate Speech	Roman Telugu	Koncham over action ekkuva undi ra anu deep needi
+1022	C047702	Offensive	Tanglish	Ennada posukkunu super star yea kalaaichutinga
+1023	C047703	Offensive	Tamil	எப்ப சார் படம் போடுவிங்க? இன்னும் கோலம் போட்டுகிட்டே இருக்கீங்க. . . !
+1024	C047705	Hate Speech	Roman Telugu	jai power star anna pawan kalyan anna neenu nee fyaan anna next nuvve cm pakka
+1025	C047706	Offensive	Tanglish	Phone a thatti vitta aaloda pulla thaanda Nee potta payale
+1026	C047709	Hate Speech	Telugu	సిగ్గు లేదు ప్రభుత్వానికి స్కూల్ కి ఇలా ప్రవర్తిస్తున్నారు . ఇంకా చదువులు ఎందుకు
+1027	C047714	Hate Speech	Tamil	28000 கமெண்ட் இருக்கு . ஒவ்வொரு கமெண்ட் ம் அவரவர் ஜாதி சொல்லி வாழ்த்துக்கள் என்ற படி இருக்கிறது. படம் வரும் முன்பே இத்தனை ஜாதி வண்மம் கொந்தளிப்பு என்றால் படம் வந்தால் கண்டிப்பாக பிரச்சனை உறுதி. இது போன்ற படங்கள் இந்த காலத்தில் எடுப்பது வெந்த புண்னில் வேல் பாய்ச்சுவது போல. பாவம் மக்கள். ஓம்குமார் மதுரை
+1028	C047717	Offensive	Tanglish	Vettu kuthu thavirthu vera mathiri story varadha, vetrimaaran., Ketta vartha illadha varaikum happy..,
+1029	C047720	Hate Speech	Tanglish	Dai appa neeyum rajini poola oombi periyala aga ninaikura....ethukuda intha manangetta pozhappu......
+1030	C047722	Hate Speech	Roman Telugu	kaamam tho emi chesina ee kalam loo super
+1031	C047725	Hate Speech	Roman Telugu	Bagaa tension paduthunnavu akkaa
+1032	C047726	Offensive	Tanglish	Dhayavasenju indha padathula mass ila mayiru ila nu yevanum saavadikadheenga.. let him do such roles.. it's healthy!
+1033	C047727	Hate Speech	Kanglish	Ondu trailer cut madak saryag baralla.trailet nodokke kasta agthide
+1034	C047736	Offensive	Tanglish	Mersal ku siricha siripu viswasam movie ku illa..idhu enna da anil ku vandha sodhanai
+1035	C047737	Hate Speech	Telugu	,విస్వక్ గాడికి బాగా ఎక్కువైంది.ఇది మంచి పద్ధతి కాదు
+1036	C047742	Hate Speech	Roman Telugu	telugu loo unnaa anni vlog chanel vaallani esukunna ntb anna kii dhanyavaadaalu
+1037	C047745	Offensive	Tanglish	Oru pakkam paiyan swag kaatran oru pakkam appan swag kaatran
+1038	C047749	Hate Speech	Roman Telugu	saar meeru 100 correct chepparu saar kakapothe indla 100 tappa ante government dhi endukante ataniki permission iyyadam tappa pani mundu telamgaanaloo permission eeyakuudadu permission ichhe chaalaa tappa pani chesaadu inni godavalaku government muula kaaranam
+1039	C047754	Offensive	Tanglish	Vetrimaran unakku ratham, kolai, aruval ithu illamma padam edukka theriyatha ???
+1040	C047755	Hate Speech	Telugu	చాలా బాగా చేస్తారు మీరు అభిమాని అయిపోయాను మీకు
+1041	C047758	Offensive	Tanglish	Pogo poree time paartha vayasaayii setturavaa polee
+1042	C047762	Hate Speech	Telugu	నువ్వు ఏం అన్న కష్టం చేసి కొన్నాధా మా సొమ్మేగా ప్రజలది
+1043	C047763	Hate Speech	Telugu	బొక్కలో bekar movie, దొబ్బింది
+1044	C047773	Hate Speech	Roman Telugu	Dramoji pedda 420 . AP ni nasamchesina vallalo veedu No. 1
+1045	C047776	Hate Speech	Kanglish	Hottege anna thinnoru e reethi comment madbardu Naveen raj nimmonthavre star war ge karana plz ella d boss abhimanigalu ivna gadipar madbekagi vinanthi
+1046	C047777	Hate Speech	Telugu	సార్ మీరు మా ఫెవర్ సార్
+1047	C047780	Offensive	Tanglish	Kola gaandula irukken .... Semma dialog .... Petta adhurudhu
+1048	C047783	Hate Speech	Tamil	திருநீறு பூஜை அறையில் தான் இருக்கனும். அப்ப தான் அதற்கு மதிப்பு. அதுபோல பன்றி சாக்கடையில் தான் இருக்கனும். அப்ப தான் அதற்கு மதிப்பு
+1049	C047784	Hate Speech	Roman Telugu	pavitra perfect dance
+1050	C047788	Hate Speech	Tanglish	Comali 9looks teaser la varave Ella
+1051	C047789	Offensive	Kanglish	Avne Dodda copy
+1052	C047790	Offensive	Tanglish	To Haters: Ungalukku comfortable ah illana neenga kanna moodikkalaam..
+1053	C047797	Offensive	Kanglish	Namma galli goo bandiddru ashwatthama
+1054	C047798	Hate Speech	Roman Telugu	bandi breaks goramgaa teesaadu super
+1055	C047800	Hate Speech	Roman Telugu	nuvvu poyi ktr gudda naku jai bjp
+1056	C047807	Hate Speech	Telugu	సూపర్ అండీ ఆదిగారు చాలా బాగా చెప్పారు మీలా ప్రతి సెలబ్రిటీ ఆలోచించాలి
+1057	C047819	Hate Speech	Roman Telugu	porapaatuna cinema bagaledu janaalu raaledu ante paristhiti vijayintlo padukovalsinde
+1058	C047820	Hate Speech	Telugu	అడిగే వెదవల్లార అనీల్ అంబానీ తండ్రి బీచ్చిలో వడపావ్ అమ్ముకున్నడు అది తెలుసామీకు
+1059	C047821	Hate Speech	Roman Telugu	AP lo JAGAN center amit shah peddha yedavalu vallu vunte desham sankanaki pothadhi
+1060	C047822	Offensive	Tamil	திரௌபதி பற ரஞ்சித் ku செருப்படி
+1061	C047824	Hate Speech	Roman Telugu	Nivetha konni interviews lo aa time lo Rajinikanth garithi movie chestunna idem peddha movie kanattu matladindhishe was not greatful to act in PSPKs movie
+1062	C047830	Offensive	Tanglish	Sumo trailer (siva) -like Hero trailer (Sivakarthikeyan) -comment Agila ulaga super star fans...
+1063	C047833	Offensive	Kanglish	Super Anna sakathagi ugdidira
+1064	C047839	Offensive	Tanglish	Super star ku semma nose cut..
+1065	C047841	Hate Speech	Roman Telugu	bhagavantudi daya prajala aasiissulu eppuduu undaali
+1066	C047844	Hate Speech	Roman Telugu	viluvalu telisina manishi viluvaina manishi
+1067	C047847	Hate Speech	Roman Telugu	modi to kcr : ey ley pilla bacha nayala
+1068	C047848	Hate Speech	Roman Telugu	Ayanni okasari kodithey meeru laksha sarlu chupisthunnaru emkavali meeku
+1069	C047849	Hate Speech	Roman Telugu	Oreyy babu inni rojulu prasantham ga unnam nu malli vachava chii neee edhava
+1070	C047854	Hate Speech	Roman Telugu	,waste interview vunnappudu oka maata lenappudu okamata
+1071	C047855	Offensive	Tanglish	Yetharkku 10M views ku Ivolo neram Edukkuthu... Likes um 1M innum varala... Thala fans Enna pantranga
+1072	C047857	Offensive	Kanglish	Ondu varshakke 3 movie tegyodu dod'dalla mattu adralli ondu movie li hit kottu innerdu movie li flop adavara jothe hudugi hodi hogodalla... 3 varshakke ondu super hit kottu avra personality ge dakke tarde hodre adunne success antha helboudu.... That is Rakshit Shetty.... Love u bro... Olle time ittu ansutte innu olle hudugi sigli nimge.... Haagodella holledakkenIndirect yake helodu direct agi Rashmika ge heliddu idu...🤷‍
+1073	C047859	Offensive	Tanglish	Sai Pallavi is not heroine material
+1074	C047862	Hate Speech	Telugu	రఘు మల్లన్న నే లోకం అన్నట్లు చేస్తున్నావ్ జర వేరే చెప్పు
+1075	C047866	Hate Speech	Kanglish	Kannadadha hesaralli and film ge devara hesaru Etti duddu maadodhu Kannada industry endha kalibdku. Kannada industry Alle athyantha ketta film Andre adhu edhe film.bt theatre alli malkoloke olle film
+1076	C047881	Hate Speech	Tanglish	Yentha padatha copy adichanunggeh nu theriyeleh...yaarukavathu theriyuma?
+1077	C047882	Hate Speech	Kanglish	Dislike madiroeu pakka Hollywood heroine fans
+1078	C047891	Offensive	Kanglish	#rashmikamandhana bad girl
+1079	C047892	Offensive	Tanglish	Edho solla varaan paa Namma ooruku... Ana ennanu dha therila..
+1080	C047896	Hate Speech	Roman Telugu	ee promo kosam entamandi eduruchuustunnaaru
+1081	C047902	Offensive	Tamil	அடுத்த மொக்கை படம் ரெடி , அடிக்கிற மாதிரி இல்லாம கொஞ்சம் நடிக்கிற மாதிரி கதையை செலக்ட் பண்ணுங்க ஜீவா
+1082	C047907	Offensive	Kanglish	Guru kiccha matte puneet matte Shivanna boss anta yaaru annala guru
+1083	C047909	Hate Speech	Roman Telugu	jeeva oo vilakshanhamaina natudusserius furious paatrale kaka kaamedeeni kuudaa nootiki noorupaalluu pandinchagala adbhutanatudu
+1084	C047910	Offensive	Tanglish	Dislike podura alavaku intha trailer yathum illa so 🤩
+1085	C047912	Hate Speech	Telugu	డిజిటల్ రూపీ మొదట హోల్ సేల్ రిటైలర్స్ఇంకా ఫ్యాక్టరీ ల్లో విధిగా అమలు చేయాలి
+1086	C047914	Offensive	Kannada	ಪ್ರಪಂಚವನ್ನೇ ನಡುಗಿಸುತ್ತಿರುವ ಉಗ್ರವಾದ ಕರೋನಾಗೆ ಶಾಕ್!!nರೂ.50
+1087	C047915	Offensive	Kanglish	Bro...nNeen este Roast madudru...China ne beku anthare ivrnella gun thagond shoot madbeku aagadru India dalli eetara Desha virodhi galu sattadru saythare... Nin video nodi actually innondsari tiktok alla mbl muttoku nin permission kelbeku... nInnond strong aagi video madu guru...
+1088	C047918	Offensive	Tanglish	Pondey va pathu yaar yaar shock aninga
+1089	C047923	Hate Speech	Tamil	போச்சு! எப்படியும் படத்தை தடை பண்ணிடுவாங்க.. trailerல எதுக்கு பா இந்த வசனத்தை போடுறீங்க?
+1090	C047925	Hate Speech	Tamil	அட நாய்களே படம் sc சமுகத்திற்கு எதிராக மட்டுமே அல்ல பிராமணருக்கு அடுத்த யாரு உடையாருக்கு அடுத்த பிள்ளைமாரு செட்டியார் தேவன் கவுண்டன் அவரவர் கிழே இருக்குற வருக்கும் என நினைத்தால் புரியும் ஏன் புன்னாக்கு
+1091	C047929	Hate Speech	Tanglish	Kirukku koodhi madhri story and concept eduthunu varaadha dhanasegaru..!!
+1092	C047933	Hate Speech	Roman Telugu	neelagaa andaru allo chinchaali anna
+1093	C047938	Offensive	Tanglish	over action mokka punj dialog eiyaa
+1094	C047944	Hate Speech	Roman Telugu	channel name change chesconues line teluguno ware related too news of telanganatras bond company set itadi nee reporting kii
+1095	C047954	Hate Speech	Roman Telugu	Telugu industry na modda kudavandi ra
+1096	C047958	Hate Speech	Roman Telugu	paedavaadi kashtaalu tiiraali ante paedavaadilaagae jodayatra sagali
+1097	C047960	Hate Speech	Roman Telugu	ni pellam puku denugutha ma anna annavu ante
+1098	C047963	Offensive	Tanglish	Irudhiyil ivarum MGR labelil dhaanAvar Cinemavil Hero Vaazhkaiyai ottuvaara
+1099	C047970	Hate Speech	Roman Telugu	mundu raja sing nu kaapaadandi appude mea partypai prajallo nammakam erpadutundi
+1100	C047971	Offensive	Tamil	மத்தவங்களை troll பண்ணாம படம் நடிடா தேவ்டியா ரவி
+1101	C047978	Offensive	Tanglish	Dai ennangada oru sports padam vanthuchuna varusiya verum sports padame varuthu
+1102	C047981	Offensive	Tanglish	Dai thevidiya bullaye niranjan soorappan unaku theriuma peasatha da badu yen komavula erukiya da thevidiya baiya
+1103	C047982	Hate Speech	Telugu	కరెక్ట్ గా సూపర్ గా సమాధానం చెప్పారు అయ్యన్న పాత్రుడు గారు
+1104	C047988	Offensive	Tanglish	dai naanum Thala veriyan thaan daa yaarukaavathu dhill iruntha mothi parungadaa
+1105	C048005	Offensive	Tanglish	theva pundaingala nadar nainngala. Vandhu umbunga da.
+1106	C048010	Offensive	Tanglish	Udhayanidhi stalin idhula blind madhiri irukku ...
+1107	C048012	Hate Speech	Roman Telugu	Ne dramalu ayana daggariki velli chey muthipallu ralakodatadu
+1108	C048013	Hate Speech	Roman Telugu	nuvvu nijamgaa nippu they voice of truth anipinchav tammi
+1109	C048027	Offensive	Tanglish	#Thala# only can do it#Hollywood style Tamil#move... #who am i? # #Naa Yarunu Enakku munnukku Erukkavan than mudivu pannanum. @#
+1110	C048032	Hate Speech	Tamil	0:50 PASamA irupaar,....?! Manirathnam படத்துல ipdi dhan thanglish pesanamu?!
+1111	C048033	Hate Speech	Roman Telugu	super fast pradhan mantri garu super fast
+1112	C048034	Hate Speech	Roman Telugu	intha speed dancer evaru cheyaleru
+1113	C048037	Offensive	Tanglish	Dai.. Mohan.. Ithellam.. Oru. Polapa.. Da.. 2 jathium.. Adichukitu.. Saganum.. Athula.. Nee.. Kaasu.. Paarkanum.... Intha.. Polapuku.. Nalla.. Vanthu.. Oompu.. Da.. Manangetta.. Punda...
+1114	C048044	Hate Speech	Tanglish	En da Sunni enga thalapathy paathu oombava sirikara komma punda
+1115	C048046	Hate Speech	Tanglish	Y not setupati all new movies telghu dubbed
+1116	C048048	Hate Speech	Tanglish	enna da idhu ayian 2 + adhavan + narasimma + arambam mari iru ku
+1117	C048050	Hate Speech	Telugu	మీరు క్లారిటీగా వున్నారు
+1118	C048052	Hate Speech	Roman Telugu	Akariki netho cenema thisina valani kuda vadaladam ledu antha pachipoye edusthunadu yedava
+1119	C048057	Hate Speech	Tamil	Tharamana trailer... இனி எவனாவது அடங்க மறு அத்து மிறு சென்னா வெட்டு தான்டா....
+1120	C048058	Offensive	Tanglish	Intha padam nalla odanumna bigil kuda motha vendam
+1121	C048060	Hate Speech	Tamil	அம்மா மட்டும் உயிரோடு இருந்திருந்தால் இப்படி எல்லாம் எடுப்பீங்களா? எங்க எடப்பாடி அய்யா வெச்ச செலயே பரவாயில்ல போல. கண்டிப்பா director DMK PARTY தொண்டன்தான்.
+1122	C048061	Offensive	Tanglish	Opening alam nalla than irukku finishing sarillaye pa!
+1123	C048064	Offensive	Tanglish	Dei thalaivaru direct huh vae vechi senchitangalae da
+1124	C048068	Offensive	Tanglish	Eppa paaru violence, vettu, adodjadi, idhellam illama oru padam eduthu jeyichi laatunga, young generationa violencelaya oora vachidadheenga
+1125	C048073	Hate Speech	Roman Telugu	aahaarapadaardhaalu chalavuprakruti kuuda sahakarinchutaleduyidi central government chetilopani
+1126	C048075	Hate Speech	Roman Telugu	annaiah undhi kuudaa miss avutunnavaaru
+1127	C048079	Hate Speech	Tanglish	TSK maari illa irudha padam nalla irukum
+1128	C048080	Hate Speech	Tamil	திருமா வளவன் எதற்க்காக பயந்து கொண்டு இருந்தாரோ அதை அவன் புள்ளைங்கோ கட்டவிழ்த்து விட்டுடானுங்கோ இனிமே அவனுங்கோ வாயில வெரள வெச்சிக்க வேண்டியது தான்
+1129	C048082	Hate Speech	Tamil	இது என்ன கதை னு புரியவே இல்லையே
+1130	C048086	Hate Speech	Telugu	ఇందులో ఏ ఒక్కోడికి కూడా జనగణమన వందేమాతరం ఎవ్వడికి రాదు పైగా ఎదవ స్పీచ్ లు
+1131	C048089	Offensive	Tanglish	Tamil Nadu naasama povathu uruthi.... Thuuu
+1132	C048090	Offensive	Tanglish	60k dislike like pannatti parava illa da aenda dislike pantringa this movie awesome
+1133	C048092	Hate Speech	Roman Telugu	king ekkada unna king kii eppudu neenu phone
+1134	C048095	Hate Speech	Roman Telugu	cinema chaalaa baagundi neenu chushanu
+1135	C048096	Hate Speech	Roman Telugu	Nivedha gurinchi matladam marichipoyi thanni chusi gurthukochi Mike kosam vethukaduaa time lodhaniki kullutharendhira
+1136	C048097	Offensive	Tamil	புதுச்சேரி வன்னியர்கள் சார்பாக இத்திரைப்படம் வெற்றிபெற வாழ்த்துக்கள்.............
+1137	C048101	Hate Speech	Roman Telugu	Partial dharidrsm voddhu sir
+1138	C048102	Hate Speech	Roman Telugu	mustache kosam white chesi untaaduinni rojulu ee veediyo cheyadaanikientainaa nae dedication kii hots off brow
+1139	C048105	Offensive	Tanglish	One question.yarula Siva next padamum ajith a vachu edukanum. Dai ulla katharitu veliya sirikathenga. Lusu ajak fans
+1140	C048106	Hate Speech	Roman Telugu	revant reddy garu mea opikaku mea sahananiki chetulu etthi mokkutunnamippudu unna paristhiti loo meeru chaalaa great
+1141	C048111	Hate Speech	Telugu	అరేయ్ బాబు నీ న్యూస్ మొత్తం TRS పార్టీకి అనుకూలంగా ఉన్నది
+1142	C048112	Hate Speech	Kanglish	Enna e sulegalege troll madu guru
+1143	C048114	Hate Speech	Roman Telugu	Chiranjeevi gaaru meeru eppudu greate mi manasu mi saayam mi kalmasham leni vyakthitwam mi prema mundu evvaru sariporu annayya ee vishnu lantollu vandala mandochina mi kaali gotiki kuda sariporu annayya valla kullu vallane thagalapettestundi
+1144	C048116	Offensive	Kanglish	Dagar sule munde bindu
+1145	C048119	Hate Speech	Roman Telugu	hero nee baagaa encourage chestundi papa
+1146	C048129	Hate Speech	Roman Telugu	Exams lo vundey vallani invigilators antaru adi kuda teleedhu Veeedu minister chesadu.... karmara babu chi.... Thuppas na kodaka
+1147	C048148	Offensive	Kanglish	Ban tik tok
+1148	C048150	Offensive	Tanglish	Yenna paandey thala ya ethirthu pesura ‌
+1149	C048152	Offensive	Kanglish	Alla ri valmiki real life na khate bardidaro real khate bardidaro avnu ganeshana hattira barsiridu avaga Ramayana Mahabharata nadide Ella haganta ashvataama badkidane anta hege nambtira astukku adu nadidide elvo namg gotte ella adu hege aahvataama badkidane anta heltira. Edu bidi nivu avna nodidira bandu Kate helda anta ede alla nivu hogi kelidira avaru buildope GE helirbodu. Edu yarige esta agidiyo avru like madi.
+1150	C048158	Hate Speech	Telugu	గరికపాటి నరసింహారావు గారికి పద్మశ్రీ అవార్డు రావడం చాలా చాలా ఆనందంగా ఉంది ఆయన ఉపన్యాసము భారతదేశ యువతకు ఆదర్శం ఆయనకు మరెన్నో గౌరవాలు లభించాలని మనసారా కోరుకుంటూవందనములు
+1151	C048166	Offensive	Tanglish	Yepadhan pa serve pannuva Serving soon nu poturuka???
+1152	C048169	Hate Speech	Kanglish	Boring song .....astu power illa....not like KGF
+1153	C048171	Hate Speech	Roman Telugu	samajam maaradam ante chaalaa kashtam mea pravachanalu vintoo kontamandi ayina maarutaarani ashiddam guruvugaaru
+1154	C048174	Hate Speech	Roman Telugu	pooja hegde kante ankore super undigaa
+1155	C048177	Offensive	Kanglish	Bere singer ge ee song kettidre innu cholo keltittu
+1156	C048181	Hate Speech	Roman Telugu	balaiah babu super
+1157	C048192	Hate Speech	Roman Telugu	Deendi length,breadth,depth,boops baaguntundi,sundlu superb.
+1158	C048200	Hate Speech	Roman Telugu	intaki rahul evadabba sir indirect gaa congress rahul gandhi kii hint istunda kalsipodamani
+1159	C048201	Hate Speech	Roman Telugu	Neku ministar padavi poiana sigguledu nanigaru
+1160	C048212	Hate Speech	Roman Telugu	enno kullu jokulu chusna bhaiyya kani idhi peaks
+1161	C048213	Offensive	Kanglish	One week salala .reach abeku ivag ela fast ide .nyc movie nodbeku etara agbhardu .node nodthare jana nodo tym ivag irbeku .etara agbhardu
+1162	C048215	Offensive	Tanglish	Yennada idhu or u word kudaika
+1163	C048216	Offensive	Tanglish	LIKE OR DIE IN 29 SECONDS!
+1164	C048227	Offensive	Tanglish	Adai trailer yeah cut dhaan adheayeah skip panni paaka vaikireingaleayda
+1165	C048229	Hate Speech	Kanglish	Bro adru evaga bere language enda open madkond use madtaidaralla bro 🤦‍....thumba janridare nam jana e tara vishyadalli..haladavru🤦‍
+1166	C048237	Offensive	Tanglish	1996 +16=2022 but idhu 2019 aachey yaara aemaatha paakkureenga
+1167	C048239	Offensive	Tanglish	Siva naai kaga la pakala only for Action Arjun
+1168	C048247	Offensive	Tanglish	thevidiya pasangala yaaaryum compare pannadhinga...baadujgala
+1169	C048249	Offensive	Tanglish	Oru abaliyaa irrunthaa anthaa Marii ponugalla maathii kattu daa pappoo ...
+1170	C048253	Hate Speech	Roman Telugu	aa pooja kannah ee poojane baagundi
+1171	C048255	Hate Speech	Tamil	திண்டிவனத்துல காலேஜ் படிக்குற தலித் பொண்ண நாடக காதல் பண்ணி அந்த பொண்ண நிர்வாணமா வீடியோ எடுத்து மிரட்டி அவங்க குடும்பத்தையே தூக்குல தொங்க வச்ச நாடக காதல் கும்பல் வன்னியர் சமுதாயத்தை சேர்ந்தவன், அவன் நண்பர்களும் இதற்கு உடந்தை குறிப்பு அந்த நாய்ங்களும் வன்னியர் சமூகம் தான் ... வீர நாடக காதல் குரூப் வன்னிய ஜாதி நாய்ங்க ஒரு உதாரணம்......
+1172	C048256	Offensive	Tanglish	Neruku ner modhi papom.. Godhavula sandhipom..# vishvasam
+1173	C048258	Offensive	Tanglish	Thala verithanam intha padam rapists ku marana serupadi kudukum
+1174	C048262	Offensive	Tamil	இது ட்ரெய்லர் தானா டீசர் மாதிரி இருக்கு
+1175	C048266	Offensive	Tanglish	Thalaya thaniya eduthittu vandhenna ennum sandhosa petturippe. Lady Supper Star Manju Chechiiiiii Dhanush supper
+1176	C048268	Offensive	Tanglish	Oru nallavara azhikka , innnum ethanai perda varuvinga...?
+1177	C048270	Offensive	Kanglish	Nandini Parthasarathi ascar just miss n
+1178	C048272	Offensive	Tanglish	Batman+24 movie+krish = HERO......sonthama yosingada dei
+1179	C048277	Offensive	Kannada	Parthasarathi ಒನ್ ನೈಟ್ ಸಿಗೆ
+1180	C048278	Hate Speech	Roman Telugu	vidipoyaaru anaa pain feel una navvutunadu shannu
+1181	C048280	Hate Speech	Roman Telugu	adhe maatani dookudugaa cheppandi shiva garu kanabadataru maaku voice belagaa vundhi
+1182	C048290	Hate Speech	Tamil	ha ha semma kalaiching ரஜினி
+1183	C048294	Hate Speech	Tamil	எங்களுக்கு மண்ணு பொண்ணு றென்டுமே முக்கியம் அதுலே யார் கை வெச்சாலும் கைய வெட்டுவோம் யாறுனு நேனச்சே கொங்கு நாட்டு கவுண்டர்களின் சார்பாக படம் வெற்றி பெற வாழ்த்துகள்
+1184	C048301	Offensive	Tanglish	Thala thaanda eppavumay mass meethi ellaarum waste
+1185	C048303	Offensive	Tanglish	gommala idhan padam.bigil lavadhu mayiravadhu.sema weight diwali this year
+1186	C048304	Hate Speech	Roman Telugu	oka saamaanya vakti ilanti sthaayiki ravadam chaalaa garvakaranamgaaundi adhi eeroju chudadam chaalaa happyga undhi
+1187	C048313	Hate Speech	Telugu	వీడు కాలేజీ రన్ చేస్తున్నాడు అంటే ఎలా నమ్మాలివీడే గిట్లుంటే వీని కాలేజీలెక్చరర్స్పిల్లలు అయ్యో దేవుడా
+1188	C048317	Hate Speech	Roman Telugu	BJP Sanka naku teenmar vartalu
+1189	C048326	Hate Speech	Roman Telugu	atleast akkadaina vudyogam vacchindi,chaala mandiki adi sampadinche scene ledu le bro
+1190	C048332	Hate Speech	Tanglish	Thu tariler ah ithu jathi naikalin attuliyan ha ha. Comedy peasunga manaketta jathikalai vacgitu savungada
+1191	C048333	Hate Speech	Telugu	దీనెమ్మ జీవితం నా చిన్నప్పుడు సంది దీని ఓవర్ యాక్షన్ చూడలేక చీదరి ఐతుండే తూ
+1192	C048335	Hate Speech	Roman Telugu	Puri sir me flop movies kuda vere directors teese hit movies kante manchi philosophical ga entertaining ga untai Meetho bagu paddollu mimmalni marchipoyi undicchu sir But memu kadu Love you sir E movie tho Vijay manchi super avvalani korukuntunna
+1193	C048340	Hate Speech	Roman Telugu	konni love stories loo love express cheyyataniki muddu pettukovaalsina avasaram undadu
+1194	C048341	Offensive	Tanglish	Remakena vera copyna vera enna puriyutha.inthamari mosamana varthaigalai potu pesaringale arivilla. Hai ajith fans neenga inthamari pesathenga
+1195	C048345	Offensive	Tanglish	An mozart musical not ilaya raja
+1196	C048347	Hate Speech	Roman Telugu	jai komatireddy rajagopal reddy
+1197	C048355	Hate Speech	Roman Telugu	ee 20 20 samvatsaramlo okka pie emm cm emmelye gaarlu evaru ennadu cheyani sahayalani okay okka aa devudu sonusud saar garu aapadalo unna prajala andarini kapadukuntu vacchina okay okka real hero devudu sonusud saar
+1198	C048356	Hate Speech	Telugu	వచ్చిందండి... మా తుగ్లక్ గాడి మిడ్ నైట్ దెవత
+1199	C048362	Offensive	Tanglish	comparinG,..Chitti rajini nallaa illai thane friends
+1200	C048363	Hate Speech	Roman Telugu	appatlo suneel kosame dialogs undevi ipudu aalaa leave
+1201	C048365	Offensive	Kannada	Hegde ಆಂಧ್ರವಲ ಗಳು eddare . ಅಂದ್ರ ನಾಯಿಗಳು ತೆಲುಗು.ಕನ್ನಡ ಪ್ರೇಮಿಗಳು ಕನ್ನಡ ಸಿನಿಮಾ ನೋಡಿತರೆ. ದರ್ಶನ್. ಸುದೀಪ್. ಪುನೀತ್. ಯಶ್. ರಕ್ಷಿತ್ ಶೆಟ್ಟಿ .ದ್ರುವ ಸರ್ಜಾ. ಶಿವಣ್ಣ. Heavy fan fellowing. ಇದೆ. But ಇನ್ನೊಂದು ತೆಲುಗು ಸಿನಿಮಾ ನೋಡೋದು ಚಿಕ್ಕಬಳ್ಳಾಪುರ ಜಾಸ್ತಿ .
+1202	C048367	Hate Speech	Roman Telugu	rk ki sugar ekkuva uncha apuko pakanna vadidhi cheppadhi vinnu
+1203	C048368	Hate Speech	Roman Telugu	manam choopinchina manchitanam ippudu falaanni ippudu pondutondanna mata dharmo rakshati rakshitah
+1204	C048372	Offensive	Tanglish	Kotha gopala Krishna Naidu thevidiyapaya anda vantha naye
+1205	C048373	Offensive	Tanglish	viswasathuku sirappana tharamana sambavangalai ini thaan paarka poreenga
+1206	C048379	Offensive	Tanglish	0: 27 tunnel scene yen padathula varla?
+1207	C048381	Hate Speech	Roman Telugu	match chuudaaniki vastunam ani cheppu brow
+1208	C048382	Offensive	Kanglish	Y boss yaro sade
+1209	C048385	Hate Speech	Tanglish	Kekka bekka kekka bekka pado thaane ithu... Directore
+1210	C048386	Hate Speech	Telugu	అరేయ్! అది మాకెందుకు చూపిస్తున్నవ్ రా ?
+1211	C048392	Offensive	Tanglish	Tha Enna ya panni vechurkinga 🤭🤭
+1212	C048399	Offensive	Kanglish	Elru Thika muchkond iri nim build up galu nodok agtilla..producer gee enro kashta...??? Kashta irodhu Badavarigee..corona bandhu esht family sayta .idave..uta ildale esht himse agta idee avrige jeevna nadsoke maklige nettagee ondh otthu uta kodok agdale avrige help madi
+1213	C048403	Offensive	Tanglish	0:15 to 0:51 bgm stolen from Han Zimmer
+1214	C048407	Hate Speech	Telugu	నీకు అసలు ఉంటే కదా రా సిగ్గు నీతో కూడా చేస్తాడేమో ఇప్పుడు chi
+1215	C048415	Offensive	Kannada	ಏನು ಅಂತ ಗೊತ್ತಿಲ್ಲ
+1216	C048427	Offensive	Tanglish	Yogi babu ku badhila Santhanam irundha semaya irundhirukum
+1217	C048428	Offensive	Tanglish	dislike potturukavangalukku oru bottle gelucil parcel
+1218	C048438	Offensive	Kanglish	Nimmamman hogi alli kelsa madu gothagute
+1219	C048440	Offensive	Tanglish	Kangana as a politician jayalalitha looks like a cartoon
+1220	C048441	Hate Speech	Tanglish	Ithuve vijay nadiccitha vijayku politics aase vanthurucci athan ipedilar movie nadikkiran sollithu tiriye vendiyathu.. mattevenge nadicca athu entertaiment.. ponga daa koddeingelar
+1221	C048448	Hate Speech	Telugu	వీడికి చెప్పు చూపించిన సిగ్గు రాలేదు
+1222	C048449	Hate Speech	Roman Telugu	brahmi software engineer ii love yu brahma sir
+1223	C048452	Hate Speech	Roman Telugu	technology perigina koddi sefty taggutundi hackers sulabhamgaa dochukuntunnaru
+1224	C048453	Hate Speech	Roman Telugu	I think ycp ki 2024 election last anukunta
+1225	C048463	Offensive	Tanglish	Sanga thamilan nu title vachutu enna_____ just remix song because?
+1226	C048465	Offensive	Tamil	இதுக்கு விரும்பலனு பொட்டவன் லா பக்தாள்ஸ் ஆ தா இருப்பான்..
+1227	C048472	Hate Speech	Telugu	ఒరేయ్ ఏంటిరా ఏదీ మాకు ఛీ ఛీ...బేవర్స్ ..
+1228	C048479	Offensive	Tamil	அது ஏண்டா தல குரல் இவ்வளவு கேவலமா இருக்கு நம்ம பங்கு சிவா படத்தில் மட்டும்
+1229	C048484	Offensive	Tanglish	Trending No.1, RIP #Kaapaan fans nu soldravanga like ah podunga
+1230	C048491	Hate Speech	Tamil	தரமான செருப்படி இந்த படத்துக்கு அப்புறம் ஸ்காலர்ஷிப் தருவதை நிருத்துங்கடா அவைங்களுக்கு அருவது வருசம் குடுத்தது போதுண்ட
+1231	C048498	Offensive	Tanglish	Komali ravi dhaan nee.....twiiter pakkam poi paaru kanna....Nalaya thamilagam rajini......
+1232	C048502	Offensive	Tamil	திருவண்ணாமலை மாவட்டம் வண்ணீயர் சார்பாக இத்திரைப்படம் வெற்றி அடைய வாழ்த்துக்கள் . திருமாவளவ‌ன்னுக்கு இது ஒரு செருப்படி.....
+1233	C048504	Hate Speech	Roman Telugu	digital rupee modata hole sale retailersinca factory llo vidhiga amalu cheyali
+1234	C048508	Offensive	Tanglish	Avengerska tough koduppaaru poala Yenga thalaiku yevlo dhillu paathiya
+1235	C048519	Hate Speech	Roman Telugu	aa dabbu kuudaa dobbaadu maa mukhyamantri
+1236	C048522	Offensive	Tanglish	There are really nice human beings irrespective of any of the various communities for this matter is concerned and there is this low life 'sirutha kutties' gang. Dei... Andha alavuku k**mutaigala vada Irupinga. Indha trailer la endha jadhi nu oru vartha kuda varala, oru jadhi name kuda varala, neenga yenda kadharuringa? Ungappan kudorukulla illa endradha neengale matikudupinga pola!!! 🤣
+1237	C048526	Offensive	Tanglish	Dey udhay onnu padam pannu illa arasiyal pannu, rendume panrana apo kandipa ne edho perusa plan panra. Tamilnadu close da🤣🤣
+1238	C048528	Offensive	Kanglish	Un like madorge mana maryadine ella guru oledelidru kidodrthada adthare
+1239	C048533	Offensive	Tanglish	Kangana look like a doll.. No similarity
+1240	C048537	Offensive	Tanglish	THe dislike is like ajith DICK small...
+1241	C048538	Hate Speech	Roman Telugu	nee praasa review super bayyahats off too kannada film industry next level movie keep it up
+1242	C048539	Offensive	Kannada	ಗುರು ನಿಮ್ಗೆ ಡೌಟ
+1243	C048541	Offensive	Tanglish	Ennada batman scene ah ivana vachu reshoot pannirukanunga
+1244	C048546	Hate Speech	Roman Telugu	bimbisara kalyan raam gaari carrier loo bhaarii vijayam sadhinchadam chaalaa aanandamgaa undhi
+1245	C048549	Hate Speech	Roman Telugu	swabhuddi doo rangaa petty parulamaatalaku longee viluvistaadu kaana sadhakudu ga nilichi annividhaala rich mummatiki kaane kaaledu
+1246	C048552	Offensive	Tanglish	Bgm like nkp theme va modhiparu🤔🤔
+1247	C048553	Hate Speech	Roman Telugu	Ayithe poyi master gaadi modda guduvu
+1248	C048555	Hate Speech	Roman Telugu	simon cowell u my frnd nuvvu oka paniki malina modda vi enduku putavu telidhu
+1249	C048556	Offensive	Kannada	ನಮ್ಮ ದೇಶದಲ್ಲಿ ಎಣ್ಣೆ ಗೆ. ಇಂಪಾರ್ಟೆಂಟ್ ಕೊಡ್ತಾರೆ..
+1250	C048557	Hate Speech	Roman Telugu	Arey howle Nizamabad MP Pasupu bord Edhi be Nv esukunna Angi lagu kudha Cangress icchindhe and TELANGANA icchindhi kuda Cangress A meeru cheppe Digital India lo ni AAdhar card kuda Cangress tecchindhe
+1251	C048558	Hate Speech	Roman Telugu	nijaanni nijaayiteegaa niroopinchadam chaalaa kashtam adhi nijaayiteegaa unnavaadike sadhyam neelo aa satta undhi nijayiti undhi
+1252	C048563	Hate Speech	Roman Telugu	veellandari kante rasp sir eetala sir best leaders …
+1253	C048564	Hate Speech	Tanglish	Vanthutaanunka kaarithu solla , story illana idane message solrathu
+1254	C048572	Hate Speech	Roman Telugu	bokkemi kaadu cm ante mohan babu kii bhayam nizam kaadani ante kudaradu
+1255	C048573	Hate Speech	Telugu	ఈ వీడియో RGV కోసమే చాలా మంది చూసి వుంటారు
+1256	C048581	Offensive	Tanglish	Build up konjam over but paakalam. Epo Enna veanumnalum maaralam
+1257	C048583	Hate Speech	Tamil	🤣பறை நாய்கள் ட்டிரைலர் பாத்து கதறுறனுக வன்னியன் காஞ்சிக்கு பொறந்த பறை நாய்கள் இந்த படம் பாத்து சாவுங்க மகனுகலபடம் வெற்றி விழா காண சேலம் வன்னியர் விட்டு சிங்கக்குட்டிகளின் சார்ப்பாக வாழ்த்துகள்
+1258	C048593	Hate Speech	Tamil	நல்லா தான் இருக்கு. ஆனா இப்போ இப்படியேல்லாம் எடுத்தா தியேட்டருக்கு எவனும் வரமாட்டேனே தலைவா. நல்ல படத்தை ஓடா விடமாட்டானுங்க.
+1259	C048594	Hate Speech	Roman Telugu	pawan kalyan antey oka power oka dairyam
+1260	C048598	Offensive	Tamil	மணிரத்னம் காட்பாதர் படத்த காப்பி அடிச்சு நாயகன் படத்த எடுத்தது பழைய கதை, செக்கசிவந்தவானமும் அதே காட்பாதர் காப்பிதான் என்பது புதிய கதை. இது புரியாம அரைவேக்காடான அட்லி ஹேட்டர்ஸ் குறுக்க நெடுக்க ஓடுதுங்க
+1261	C048601	Hate Speech	Roman Telugu	denginchukondi ra monna na notlo modda pettaru gah
+1262	C048603	Hate Speech	Tamil	எவன் வேண்டுமானலும் யாரயை வேண்டுமானலும் ஓக்கலாம் படம் எடுங்கடா
+1263	C048606	Hate Speech	Roman Telugu	taracy morgan modda oka murgi poyindhi vuntadhi endukuey ante karey gah vuntadhi
+1264	C048615	Offensive	Tamil	வரலாறு தெரியாமல் வெற்று புகழ்காக பிராமணன்கு கூட்டி கொடுத்தது தான் சாதி சொத்து சேர்ந்துள்ளது.ஒரு சிலரை தவிர.அறியாமை ,நீ கல்வி கற்கவே தடை விதித்தவன் பற்றி உனக்கு தெறியுமா?,உன்னை வெறும் கருவியாக மட்டும் பயன்படுத்தி உயர்ந்தவன்,அவனே பிராமணன் என்ற உயர்ந்தவன் நீ மாமா வேலை பார்த்து சொத்து சேர்த்தவன்.ஒருசில நல் உள்ளங்களை தவிர,மாண பெரிதென வாழ்ந்து அறியாமை எதிர்ததால் ஊரின் எல்லையில் தள்ளபட்டனர். உண்மை வெல்லும் ஒரு நாள்!!!
+1265	C048619	Hate Speech	Tanglish	Trailer nalla illa but padam nalla irukkumnu ninaikkura paarppom
+1266	C048625	Hate Speech	Kannada	ಇದನ್ನೂ ಕೂಡ ಡಿಸ್ಲೈಕ್ ಮಾಡ್ತಿರಲ್ಲರೊ ಏನ್ರೊ ಎಲ್ಲಿಂದ ಬರ್ತೀರೊ ನೀವೆಲ್ಲಾ
+1267	C048632	Offensive	Tanglish	I think indha padathula mr rangaraj pandey nadichirukalam Main roll la
+1268	C048633	Offensive	Tanglish	oruthar mela nenga viswasath katarathuga enoruthar Yan asingapaduthiringa.
+1269	C048635	Hate Speech	Roman Telugu	ii rashtraniki jarige prati anyayam gurinchi niswaardhamgaa matlade ekaika vyakti meere saar
+1270	C048636	Offensive	Kanglish	Thu.... Gaandu.... Ninobba gandsa
+1271	C048640	Hate Speech	Roman Telugu	vericosel gurinchi explain cheyandi madam
+1272	C048642	Offensive	Kanglish	Opinion ninu Tika mucchu...Evattu Kannada industry Andhre idii India ge gottirodhu DR RAJKUMAR..
+1273	C048644	Offensive	Tanglish	Sema nose cut to Rajini kanth.
+1274	C048647	Offensive	Tanglish	SK anna ponnungala stalk pandratha innum vidalaya
+1275	C048648	Hate Speech	Roman Telugu	Ggajuwaka pilla memu gajulollam kadaSuper performance all the best
+1276	C048649	Hate Speech	Kanglish	Those 1.2k dislikes are jealous kongas for sure🤣
+1277	C048653	Offensive	Tanglish	Dai idhallam massnnu solli asingapadutthadhingada... Idhu edho serial madhiri theriyuthu..
+1278	C048662	Offensive	Tanglish	Aiyo Aiyo... Bairavaa marana mass... chance ye illa... surely mega hit
+1279	C048668	Hate Speech	Roman Telugu	Comparing every single bok gadu with Pawan Kalyan
+1280	C048671	Hate Speech	Roman Telugu	theatre loo chuusi must enjoyed
+1281	C048674	Hate Speech	Roman Telugu	getup srini anna superbmyru ravadam chaalaa santosham
+1282	C048676	Hate Speech	Roman Telugu	Dhil raju manchi cinemal ki alaane chesthaadu. Last time krack movie ki alaa chesaadu. Appudu Krack yegisi yegisi thannindhi. Eppudu karthikeya2 dhorlinchi dhorlinchi thannuthundhi. So anni musukoni manchi movies ni encourage cheyyi...
+1283	C048678	Offensive	Kanglish	Bindu lowda hidko ba nan lowda
+1284	C048681	Offensive	Tanglish	kadaisila sonna oru vaarthaiku ajith pera vechu sildrathanam pandra ella naaikum serupadi maari iruku
+1285	C048682	Hate Speech	Roman Telugu	akkada saamaanya prajalu cheppede correct opinion
+1286	C048683	Hate Speech	Kanglish	Super anna bindass agi mathadiddira inshatu makake ugudru kelavar adaralli erthivi navu anthare antha mental people na mental hospital ge akbeku
+1287	C048688	Offensive	Tamil	இந்த மாதிரி மொக்க ட்ரைலர் ற நா பாததே இல்ல
+1288	C048689	Offensive	Tanglish	Hahha last tha gethu ithu 96 yara yemathuringa.
+1289	C048692	Offensive	Tanglish	Padam varum varaikum trailer pathu veri aethikuvom
+1290	C048693	Hate Speech	Roman Telugu	​kcr nee cm chesindi ilanti sannasi panulu cheyadanikekad kathakakapothe moosuko
+1291	C048710	Hate Speech	Roman Telugu	Telangana dongalu evaru Diniki kuda samadanam cheppandi
+1292	C048711	Hate Speech	Kannada	ಸರಿಯಾಗಿ ಹೇಳ್ದೆ ಗುರು ಊಗಿ ಚೀನಾಗೆ ಹುಟ್ದ್ ಗ್ ಆಡೋ ನಾಯ್ಗಳಿಗೆ
+1293	C048717	Hate Speech	Roman Telugu	Stage ekkithe chalu sollu
+1294	C048718	Hate Speech	Tanglish	Yovv ennayaa trailer ithuuu automaticaaaa siripuu varuthuu trailer mulukaa
+1295	C048720	Offensive	Tamil	இதே டீஸர விஜய் அண்ணா மட்டும் பன்னிருக்கனும், அவ்ளவு தான், பைரவா டீஸர் ஸ்டைலா வந்த கடுப்புல இங்க வந்து விக்கு பைரவா'னு கதரிட்டு கிடக்கானோ பொட்ட கிலட்டு தேவிடியா அஜித் பேன்ஸ் !!!
+1296	C048724	Hate Speech	Roman Telugu	evari daggara sunil lanty friends unnaaru
+1297	C048725	Hate Speech	Telugu	నైంటీ ఏసుకుని పందం దా మనకెందుకు యివ్వన్ని
+1298	C048726	Offensive	Tanglish	uthaya nidhi ku kannu theriyathu in this film
+1299	C048728	Hate Speech	Roman Telugu	Abba pk anna ventane photo digudhamu ani ante nivedha akka expression chudali Jai pspk
+1300	C048729	Hate Speech	Tanglish	Emppa Ajith fans vonga kadama unarchikku oru alve illaya?... Naanga likes podrathukku mulikkiromo illayo.. neenga Unlike panrathukku mulichirukeengalae...
+1301	C048733	Offensive	Tanglish	Ellam OK Rajini Enga Trailer la Kanom...
+1302	C048739	Offensive	Kannada	Vitthal ಕಚ್ಚಾ ಸುದೆಪಿ
+1303	C048742	Offensive	Tanglish	Yow pandey ne ennaya inga
+1304	C048745	Offensive	Tanglish	Thala pathi pesuna summa vidamatta da poda losu
+1305	C048751	Hate Speech	Telugu	ఒరేయ్ రాధాకృష్ణ ముందు ఎవరిని అయినా ఏ ఊరు ఎక్కడినుండి వచ్చారు అడిగాలి రా
+1306	C048754	Offensive	Tanglish	Chittiya villana taanae patrupo hero wa paatatillayae ini paapa -cuckoo
+1307	C048755	Offensive	Tanglish	Teaser onnum avlo grace illaye paapom movie epdi irukuthu
+1308	C048762	Hate Speech	Tanglish	Yen da ipdi kevalama padam yeduthu avungala kevalapaduthiringa
+1309	C048765	Hate Speech	Roman Telugu	​bjp tho kaliste ii will vote fore pawan anna
+1310	C048767	Offensive	Tanglish	Opening Hindi keran presents Hindi letters vera
+1311	C048771	Offensive	Tanglish	Vera Vera leval thalaiva surya anna massss
+1312	C048779	Offensive	Tanglish	Thala madiri screen presence evanukume ila..
+1313	C048786	Offensive	Tamil	அஜித் பீய தின்கிறவன்களா ஒரு கால் இல்லாத தமிழன் உயரம் தாண்டுதலில் ஆசிய பதக்கம் வென்றான் அவனை பாராட்ட துப்பு இல்ல கோடி கோடியா பணத்த வாங்கிகிட்டு கூத்து அடிக்கிற நாய் அஜித் அவனைபாத்து ஏன்டா அழிஞ்சு போறீங்க இவன் படத்த பாக்குறதுக்கு செலவு பண்ற பணத்துல நம் தமிழ் தம்பி தங்கைகள் எத்தனை பேர் ஊனமுற்று இருக்காங்க அவங்களுக்கு உதவுவோம் வாருங்கள் சகோதரர்களே
+1314	C048789	Offensive	Kanglish	Shivu rajkumarnPunith rajkumarnRaghavendra rajkumarnAvvr ge chance kodda beku...pappa
+1315	C048793	Hate Speech	Kanglish	YouTube nali upload agiroduna modhlu delete madsii
+1316	C048796	Hate Speech	Roman Telugu	vaeraa level sir
+1317	C048806	Offensive	Tanglish	vada chennai rajan character ta vitttutu intha padam nadichathuku vjsethupathi room potu aluthurupaaru
+1318	C048819	Hate Speech	Telugu	ఈ మాట చాలు ఈ ధైర్యం చాలు
+1319	C048821	Hate Speech	Tamil	வாணிய செட்டியார் சமுதாயம் சார்பாக வாழ்த்துக்கள் . இந்த டிரெயிலர் ல பார்த்துட்டு எல்லா சாதி காரனும் சும்மா இருக்கான்,ஆனால் இந்த குருமா குரூப்ஸ் மட்டும் இப்படி கதருது🤔
+1320	C048824	Hate Speech	Kanglish	Nija heliddiya guru.nEvr mane yaradru bordernalli sattidre gottagodu.
+1321	C048826	Hate Speech	Roman Telugu	mai love entr ii love yu entr
+1322	C048827	Hate Speech	Roman Telugu	jai rajasingh jai jai rajasingh prati okka hinduvu rajasingh venuka aayanatho kalisi melisi undaali jai rajasingh
+1323	C048852	Hate Speech	Roman Telugu	mahesh babu ee range loo navvadam ippati varaku idhe modati saari big thanks too sati anna
+1324	C048859	Offensive	Tanglish	Visuwasamavadhu Kusuvaasamavadhu Parak da Petta Parakk!!
+1325	C048864	Hate Speech	Tanglish	Ithu paakurathuku postman web series jaabagam varuthu
+1326	C048869	Hate Speech	Kannada	ದಿಯಾ ತುಂಬಾ ಚೆನ್ನಾಗಿ ಇದೆ ಎಲ್ಲರೂ ನೊಡಿ ಆದರೆ ಚಿತ್ರಕ್ಕೆ ಸರಿಯಾದ climax ಬೆಕಾಗಿತ್ತು
+1327	C048875	Hate Speech	Roman Telugu	Rayalaseema simham paritala Ravi telugurashtrala devudu NTR but family members of both have utterly failed to carry the legacy of these both in their respective range and categories
+1328	C048884	Offensive	Kanglish	boss mania Bhrame nalli baduktidiya chinna nnModlu darshan ye boss ge bucket hidadu beladirodu adunna taleli itko nnDarshan antha 100 jana na industry boss belsavrennavryako innobban ge bucket hiditare bucket nan magne
+1329	C048889	Offensive	Kannada	ಎಲೆ ಅಡಿಕೆ ಅಕಂಡು ಉಗಿ ಗುರು
+1330	C048890	Offensive	Tanglish	1:31 yaarukaachu asuran padam niyabgathuku vanthucha
+1331	C048896	Offensive	Tanglish	Vijay ,Surya ,Ajith fans savudaaaaaa dhanush maass
+1332	C048899	Offensive	Tanglish	Dislike panuvangge there more u dislike the more likea da kothi
+1333	C048903	Hate Speech	Tanglish	Thala fans cmt Ku like poduka...
+1334	C048916	Offensive	Tanglish	Why is akshay kumar a crow????
+1335	C048927	Hate Speech	Roman Telugu	nijamaina loukika vaadhi mana firoze anna jai hind
+1336	C048929	Offensive	Tanglish	Ivanathu ella Padamum pshco maatiri than irukum.. Ithula pshconu vera eduthu irukan kandipa Padam paakuravanuku paithiyam pudichidum
+1337	C048930	Hate Speech	Telugu	తండ్రి కొడుకు గురించి చెప్పకపోతే ఎవరు చెప్తారు తప్పు లేదు సహజం పుత్రోత్సాహం తండ్రికి
+1338	C048932	Hate Speech	Tamil	இதை விட கேவலமாக ஒரு டிரைலர் நான் பார்த்ததில்லை
+1339	C048933	Offensive	Tanglish	Worst movie in vikram sir list i ever seen
+1340	C048936	Hate Speech	Telugu	ఆల్రెడీ మీ మీద మీకే డౌట్ వచ్చేసింది.
+1341	C048937	Hate Speech	Kanglish	Promotion chennagi nadtilla
+1342	C048956	Hate Speech	Telugu	RGV తండ్రికి కండోమ్ వాడుట తెలువదో లేక అప్పుడు కండోమ్ లేదో అందుకే ఇ నా .............. పుట్టాడు
+1343	C048957	Hate Speech	Tanglish	Para badugala savkala adicha mathiri irukkum
+1344	C048961	Hate Speech	Tanglish	Sirippu pu a da kena poo u intha scene a mathula appram payangaramana vibarithangala santhikka vendi irukkum
+1345	C048964	Hate Speech	Telugu	కొరటాల శివా కథా బాగా తీయలేదు..
+1346	C048974	Offensive	Tanglish	Devendhira da....Suma va yaru history ithu devadhiran...la
+1347	C048977	Offensive	Tanglish	Ithukum dislike potta kammanattti koovaingalam yarda......enada unga taste......porama pudicha poramboakkus.....savungada.....
+1348	C048978	Hate Speech	Tanglish	Dislike potavanga ellarum rajini fans dhan vera yarum ila..
+1349	C048980	Hate Speech	Tanglish	Neenga innum ithu maariye padam eduthutu irunga! Anga (Malayalam Industry) ipolam vera level ah padam edukuranga!
+1350	C048991	Offensive	Kanglish	v nin Amman thullu sulemagne
+1351	C048993	Offensive	Tanglish	Innume 1 million like varalla hahh fans Power avalave Thana ..mokka vai savdal poda vidda potham
+1352	C048995	Hate Speech	Telugu	Muthy garu వీడు జనాలు అంత వెదవలు అనుకుంటున్నాడా…… ఎంత మొత్తుతున్నా ఎవడు నమ్మరు……..
+1353	C048998	Hate Speech	Roman Telugu	ee ammai chaalaa bagundhipade padee chudalinipistundi
+1354	C048999	Hate Speech	Roman Telugu	mantriki mind blank ayyindi aadaaraalato addamgaa dorikaaru saanubhooti kosam donga edupulu edustunnaru chee emm chesukuntaru anta addamgaa sampadinchikonchem manchi panulu cheyandi saaru
+1355	C049002	Offensive	Kanglish	TikTok nan shata shata
+1356	C049007	Offensive	Tamil	என்ன கொடுமடா இது தலையா இல்ல குருவி கூடா ? செட் ஆவல்லடா
+1357	C049008	Hate Speech	Tanglish	Similarly neram movie bgm vatti raja car thirutura appo varum...
+1358	C049013	Hate Speech	Roman Telugu	kaa pall garu meeru super
+1359	C049014	Hate Speech	Telugu	Rgv చాలా సంస్కార వంతమైనమనిషి ఆయన మాటచూపుప్రవర్తన అన్నింటిలో సంస్కారం కొట్టొచ్చినట్లు
+1360	C049015	Hate Speech	Roman Telugu	420jagangadu povali pavankalyaamgaaru cm khawali raastaam bagupaddali jai janasena jai pavankalyan
+1361	C049018	Offensive	Kanglish	Tuu avr sentiment na touch madi kaan neer haksi adana cover photo madi view tagotira
+1362	C049021	Hate Speech	Roman Telugu	Veedevado grahanthara vasi kappa la vunnadu
+1363	C049022	Offensive	Tanglish	Ennada, Singam kudhurai la varuthu! LOL
+1364	C049023	Hate Speech	Roman Telugu	tdp kii eppatikainaa maa anna nter gaare paggalu chepadatadu
+1365	C049030	Hate Speech	Roman Telugu	modi ki cheppu neku oka yogi ante chaalu nee vuncha kuda tagutaru
+1366	C049031	Hate Speech	Roman Telugu	mody gaari paalanalo bharat saktivantamaina desamgaa avatarinchindi
+1367	C049034	Offensive	Kannada	kumar Guru nan movie na first week theater nalli nodde I liked movie and referred my friends to see movie ಯಾರು ನೋಡಲಿಲ್ಲ ಅಂಥ ಅಂದ್ರೆ ನಾನ್ ನೋಡಿಲ್ಲ ಪ್ರೋತ್ಸಾಹ ಕೊಟಿಲ್ಲ ಅಂಥ ಅಲ್ಲ ದಯವಿಟ್ಟು ನೋಡ್ಕೊಂಡ್ ಮಾತಾಡಿ ನಮ್ಗೂ mathadokke ಬರುತೆ
+1368	C049038	Offensive	Kanglish	Histu hellidri adre nimma background video pubg du kudanu Chinese howrde alwa first ninu pubg na stop madinNinu heliddu nanu tappu andilla adre hobbarige helo munche nanu correct agirabeku k manDon't feel bad anna
+1369	C049039	Hate Speech	Roman Telugu	munawar moosi nadhi ayina nooru valla enni godavalu #deport munwar to afghan or syria
+1370	C049046	Hate Speech	Roman Telugu	mohan babu oppukunna oppukokapoyina chiranjeevi peddankanni vachchina gouravam m taggipodu
+1371	C049047	Offensive	Tamil	உத்யநதி ஸ்டாலின் ..red giant movies sun tv sun tv......corporate crimina
+1372	C049051	Offensive	Tanglish	Arasiyal Ku varathuku munnadiye ipdi troll panranga. Katchi arambichuta Rajini than entertainment polaye.
+1373	C049052	Offensive	Tanglish	Vaaa d va..... ..bigil oda......va.!..
+1374	C049061	Offensive	Tamil	தலய பாராட்டுவோம் ஆனா ஏன்யா விஜய நோண்டறீங்க காண்டு காயத்ரிகளா? ஹூம் எத்தன பிக்பாஸ் பாத்தாலும் திருந்தாத ஜூலிக....ச்சை
+1375	C049063	Offensive	Tanglish	Bat man kita concept ,krish kita irundhu mask , mugamoodi kita irundhu screenplay = hero 🤣🤣🤣
+1376	C049064	Offensive	Tanglish	Enna dhu Tamil cinema la vettu kutthu ilama oru padanum varatho
+1377	C049066	Hate Speech	Roman Telugu	modhee oka pralayam aayananu touch chesthe ika anthe pakistan kii ippudu buddhi vachinattundijaimodi
+1378	C049068	Offensive	Tanglish	adichathu addi vanghunavanuke therriyakoodatha appo ethuku addikiree
+1379	C049073	Hate Speech	Roman Telugu	bandla ganesh garu mea maatallo mea vagdhatilo pariniti kanipistondi baagaa chaalaa chakkagaspashtamuga unnadi unnattu matladaru super saar meeru
+1380	C049074	Hate Speech	Kanglish	Boli maklu yellaaa mobile ally nodtha edre énna theatre ge bandu yelli nodthaare
+1381	C049082	Hate Speech	Tanglish	Bgm etho birthday song mathiri iruku...!
+1382	C049083	Hate Speech	Telugu	రఘునందన్ గారికి మంచి భవిష్యత్ ఉండాలి అని కోరుకుంటున్నా ఇంటర్వ్యూ చాలా బాగుంది ఫస్ట్ టైమ్ RK గారు బాగా మాట్లాడారు
+1383	C049085	Hate Speech	Tanglish	Thala fans Va da otha vangada
+1384	C049094	Hate Speech	Tanglish	Its going to be Rajni’s Kochadaiyaan 🤣
+1385	C049096	Offensive	Kanglish	Corona dhinda theatre Alli cinema nodokke aaglilla maga. Mathhe nodthini. Cinema direction adbutha madidya.
+1386	C049098	Hate Speech	Roman Telugu	Entha show dengutunnaro telsa nvu vadu chustunna chala over iendi KG skin ledhu body lo endukey neku thonda mokam dhana
+1387	C049101	Hate Speech	Roman Telugu	taanu intaku mundhe cheppadu neenu ilah videos cheyadaaniki kaaranam andaruu inspire avvali ani
+1388	C049105	Offensive	Tamil	ரஜினி சார ரண்டு கண்ணத்துலயும் அரஞ்சிட்டீங்களேடா ....பாவிகளா
+1389	C049106	Hate Speech	Tamil	தலித் சமுதாய மக்களை தூண்டி விட்டு சாதி கலவரம் பன்னும் சில அரசியல் தலைவர்க்கு செருப்பு அடி தான் இனி மேல்
+1390	C049108	Offensive	Tanglish	I seen 2.0 i doesnt like this movie
+1391	C049110	Offensive	Tanglish	Sauratha erutha santa potu savanum kal la viluthu savakutathu
+1392	C049115	Hate Speech	Telugu	కొంచం ఘాటుగా వ్యాఖ్యానించారు కానీ నిజం అదే కదా…
+1393	C049119	Hate Speech	Telugu	ఎందుకు అల్యసాO చేస్తునవు పేటక
+1394	C049120	Offensive	Tanglish	Enna da trailer nu soltu Short film ah utrukinga🤣
+1395	C049122	Hate Speech	Telugu	దీనికన్నా బాగా పడేవాళ్ళు unnaru వాళ్ళను ఎంకరేజ్ చేయండి
+1396	C049125	Hate Speech	Telugu	నిత్యానంద బాబా లెక్క ...జగన్ బాబా ఆశ్రమం ఒకటి పెట్టుకుంటే రోజూ మంచి మంచి ఆశీర్వాదాలు తీసుకోవచ్చు మీరు
+1397	C049126	Hate Speech	Tanglish	37k dislikes frm amai fans and kullan fans porama la thirijuranga
+1398	C049134	Hate Speech	Telugu	ఇప్పుడు ప్రభుత్వం ఉగ్రవాదులు చెతులొ
+1399	C049136	Offensive	Tanglish	Dislike poduravanuku neraya aabathu kaathutu iruku 🤣🤣🤣...
