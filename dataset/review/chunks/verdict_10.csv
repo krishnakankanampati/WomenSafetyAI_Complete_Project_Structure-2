@@ -1,0 +1,1401 @@
+﻿comment_id,verdict,corrected_category,reason
+C054610,Correct,,derogatory contemptuous remark
+C054611,Wrong,Offensive,"dismissive remark, not group-based hate"
+C054613,Correct,,explicit hateful generalization targeting feminists as a group
+C054615,Wrong,Safe,"mild negative opinion about content, not offensive"
+C054616,Correct,,rude dismissive insult
+C054617,Wrong,Safe,"mild criticism, no insult or hostility"
+C054619,Wrong,Safe,"mild negative opinion about content, not offensive"
+C054621,Correct,,misogynistic generalization about women's sense
+C054629,Correct,,direct personal insult
+C054631,Wrong,Offensive,"generic dismissive remark, no explicit hateful target"
+C054634,Correct,,derogatory personal insult
+C054639,Correct,,direct personal insult
+C054643,Correct,,personal insult belittling the person
+C054646,Correct,,blames women as a group for problems
+C054648,Wrong,Safe,"mild negative opinion about content, not offensive"
+C054650,Wrong,Safe,"mild criticism, no insult or hostility"
+C054654,Correct,,"blames women as a group, misogynistic generalization"
+C054655,Correct,,misogynistic generalization distrusting women
+C054662,Wrong,Safe,"mild personal criticism, not offensive"
+C054664,Correct,,derogatory personal insult
+C054665,Correct,,misogynistic generalization distrusting women
+C054667,Correct,,misogynistic generalization denying women access/rights
+C054669,Correct,,derogatory insult calling content trash
+C054672,Correct,,misogynistic generalization about women's intelligence/agency
+C054676,Correct,,personal insult belittling the person
+C054683,Wrong,Safe,"mild criticism, lacks insulting language"
+C054685,Correct,,personal insult blaming individual
+C054689,Correct,,personal insult blaming individual
+C054690,Wrong,Safe,"mild criticism, lacks insulting language"
+C054696,Wrong,Safe,"mild personal criticism, not offensive"
+C054698,Correct,,derogatory contemptuous remark
+C054699,Wrong,Offensive,"generic dismissive complaint, no explicit hate target"
+C054701,Correct,,derogatory dismissal of content
+C054705,Wrong,Offensive,"generic dismissive remark, no explicit hateful target"
+C054706,Correct,,blames women as a group for problems
+C054708,Correct,,explicit misogynistic statement restricting women
+C054717,Wrong,Safe,"mild personal criticism, not offensive"
+C054724,Correct,,derogatory contemptuous remark
+C054726,Correct,,misogynistic generalization about women's intelligence/agency
+C054743,Correct,,misogynistic generalization about women's sense
+C054748,Correct,,misogynistic generalization distrusting women
+C054750,Correct,,"blames women as a group, misogynistic generalization"
+C054751,Wrong,Offensive,"generic dismissive remark, no explicit hateful target"
+C054755,Wrong,Safe,"mild criticism, no insult or hostility"
+C054756,Correct,,"mocking, derogatory remark"
+C054763,Correct,,misogynistic generalization about women's intelligence/agency
+C054772,Wrong,Offensive,"generic dismissive complaint, no explicit hate target"
+C054773,Correct,,misogynistic generalization about women's sense
+C054774,Correct,,personal insult belittling the person
+C054776,Correct,,derogatory personal insult
+C054784,Correct,,insulting remark about person's thinking
+C054786,Wrong,Offensive,"vague dismissive remark, no explicit gender/group named"
+C054788,Wrong,Offensive,"vague dismissive remark, no explicit gender-based hate"
+C054789,Wrong,Offensive,"generic dismissive remark, no explicit hateful target"
+C054795,Wrong,Offensive,"dismissive remark, not group-based hate"
+C054798,Correct,,misogynistic stereotype about women
+C054802,Wrong,Safe,"mild criticism, lacks insulting language"
+C054807,Wrong,Safe,"mild negative opinion about content, not offensive"
+C054808,Wrong,Safe,"mild critical advice, not offensive"
+C054818,Wrong,Safe,"mild personal criticism, not offensive"
+C054821,Wrong,Safe,"mild negative opinion about content, not offensive"
+C054829,Correct,,"blames women as a group, misogynistic generalization"
+C054832,Unsure,,"victim-blaming trope, plausibly gendered but target not explicit"
+C054836,Wrong,Safe,"mild personal criticism, not offensive"
+C054838,Correct,,misogynistic generalization about women's sense
+C054842,Wrong,Offensive,"generic dismissive remark, no explicit hateful target"
+C054846,Correct,,misogynistic generalization about women's sense
+C054849,Correct,,misogynistic generalization undermining women's equality
+C054850,Correct,,direct personal insult
+C054852,Unsure,,"victim-blaming trope, plausibly gendered but target not explicit"
+C054857,Correct,,"mocking, derogatory remark"
+C054862,Correct,,derogatory personal insult
+C054865,Correct,,personal insult blaming individual
+C054874,Wrong,Safe,"mild critical advice, not offensive"
+C054876,Wrong,Safe,"mild negative opinion about content, not offensive"
+C054881,Correct,,explicit misogynistic statement restricting women
+C054884,Correct,,misogynistic generalization distrusting women
+C054886,Correct,,name-calling insult ('waste fellow')
+C054888,Correct,,derogatory personal insult
+C054890,Correct,,derogatory insult calling content trash
+C054899,Correct,,rude dismissive insult
+C054904,Correct,,"mocking, derogatory remark"
+C054913,Wrong,Offensive,"generic dismissive remark, no explicit hateful target"
+C054914,Wrong,Safe,"mild negative opinion about content, not offensive"
+C054919,Wrong,Offensive,"generic dismissive remark, no explicit hateful target"
+C054922,Correct,,derogatory personal insult
+C054923,Wrong,Safe,"mild criticism, lacks insulting language"
+C054925,Wrong,Safe,"mild criticism, lacks insulting language"
+C054929,Correct,,misogynistic generalization undermining women's equality
+C054933,Correct,,dismissive personal insult
+C054934,Correct,,derogatory dismissal of content
+C054935,Correct,,"blames women as a group, misogynistic generalization"
+C054937,Correct,,explicit misogynistic statement restricting women
+C054940,Correct,,rude dismissive insult
+C054942,Wrong,Offensive,"vague dismissive remark, no explicit group target"
+C054943,Correct,,"blames women as a group, misogynistic generalization"
+C054947,Correct,,direct personal insult
+C054950,Wrong,Offensive,"generic dismissive remark, no explicit hateful target"
+C054951,Correct,,rude dismissive insult
+C054955,Correct,,explicit misogynistic denial of respect to women
+C054957,Correct,,rude dismissive insult
+C054962,Correct,,"mocking, derogatory remark"
+C054968,Wrong,Offensive,"vague dismissive remark, no explicit gender/group named"
+C054970,Correct,,misogynistic generalization undermining women's equality
+C054976,Wrong,Offensive,"vague dismissive remark, no explicit gender/group named"
+C054981,Correct,,personal insult blaming individual
+C054982,Wrong,Offensive,"dismissive remark, not group-based hate"
+C054994,Wrong,Safe,"mild critical advice, not offensive"
+C054996,Wrong,Offensive,"vague dismissive remark, no explicit gender/group named"
+C054997,Correct,,rude dismissive insult
+C054998,Correct,,misogynistic stereotype about women
+C055000,Wrong,Safe,"mild criticism, no insult or hostility"
+C055013,Correct,,"rude, hostile command"
+C055036,Correct,,name-calling insult ('waste fellow')
+C055038,Correct,,personal insult blaming individual
+C055055,Wrong,Offensive,"vague dismissive remark, no explicit gender/group named"
+C055059,Correct,,"mocking, derogatory remark"
+C055070,Correct,,misogynistic generalization distrusting women
+C055073,Correct,,blames women as a group for problems
+C055074,Unsure,,"victim-blaming trope, plausibly gendered but target not explicit"
+C055082,Correct,,derogatory personal insult
+C055083,Correct,,derogatory contemptuous remark
+C055084,Correct,,misogynistic generalization about women's intelligence/agency
+C055094,Correct,,personal insult belittling the person
+C055099,Correct,,direct personal insult
+C055101,Wrong,Safe,"mild criticism, lacks insulting language"
+C055106,Correct,,derogatory contemptuous remark
+C055110,Correct,,personal insult belittling the person
+C055111,Wrong,Safe,"mild negative opinion about content, not offensive"
+C055113,Correct,,insulting remark questioning sanity
+C055114,Correct,,derogatory insult calling content trash
+C055115,Correct,,blames women as a group for problems
+C055128,Wrong,Safe,"mild personal criticism, not offensive"
+C055134,Correct,,dismissive personal insult
+C055137,Correct,,derogatory contemptuous remark
+C055146,Unsure,,"victim-blaming trope, plausibly gendered but target not explicit"
+C055152,Wrong,Offensive,"vague dismissive remark, no explicit gender/group named"
+C055153,Wrong,Safe,"mild negative opinion about content, not offensive"
+C055154,Correct,,misogynistic stereotype about women
+C055162,Correct,,explicit misogynistic statement restricting women
+C055166,Correct,,derogatory insult calling content trash
+C055167,Wrong,Safe,"mild personal criticism, not offensive"
+C055169,Correct,,blames women as a group for problems
+C055180,Wrong,Safe,"mild negative opinion about content, not offensive"
+C055183,Correct,,derogatory contemptuous remark
+C055184,Correct,,derogatory personal insult
+C055185,Correct,,rude dismissive insult
+C055187,Wrong,Offensive,"vague dismissive remark, no explicit gender/group named"
+C055196,Correct,,"blames women as a group, misogynistic generalization"
+C055202,Correct,,insulting remark questioning sanity
+C055209,Correct,,misogynistic generalization distrusting women
+C055225,Wrong,Offensive,"vague dismissive remark, no explicit gender-based hate"
+C055228,Correct,,derogatory insult calling content trash
+C055246,Correct,,derogatory contemptuous remark
+C055248,Correct,,explicit misogynistic denial of respect to women
+C055254,Correct,,explicit hateful generalization targeting feminists as a group
+C055261,Correct,,derogatory contemptuous remark
+C055263,Wrong,Safe,"mild negative opinion about content, not offensive"
+C055266,Unsure,,"victim-blaming trope, plausibly gendered but target not explicit"
+C055271,Wrong,Offensive,"generic dismissive remark, no explicit hateful target"
+C055274,Correct,,derogatory dismissal of content
+C055277,Wrong,Safe,"mild criticism, lacks insulting language"
+C055284,Correct,,contains direct insult ('stupid')
+C055287,Correct,,explicit hateful generalization targeting feminists as a group
+C055289,Wrong,Offensive,"generic dismissive complaint, no explicit hate target"
+C055293,Correct,,misogynistic stereotype about women
+C055294,Correct,,"mocking, derogatory remark"
+C055297,Correct,,personal insult blaming individual
+C055303,Correct,,derogatory contemptuous remark
+C055305,Wrong,Offensive,"generic dismissive complaint, no explicit hate target"
+C055312,Wrong,Offensive,"dismissive remark, not group-based hate"
+C055315,Correct,,"mocking, derogatory remark"
+C055316,Correct,,blames women as a group for problems
+C055317,Correct,,derogatory personal insult
+C055319,Correct,,misogynistic generalization undermining women's equality
+C055321,Correct,,insulting remark questioning sanity
+C055323,Wrong,Offensive,"vague dismissive remark, no explicit gender-based hate"
+C055329,Correct,,misogynistic generalization about women's sense
+C055337,Correct,,misogynistic generalization about women's sense
+C055340,Wrong,Safe,"mild negative opinion about content, not offensive"
+C055341,Correct,,"mocking, derogatory remark"
+C055346,Wrong,Safe,"mild criticism, lacks insulting language"
+C055350,Correct,,insulting remark questioning sanity
+C055351,Correct,,blames women as a group for problems
+C055354,Wrong,Offensive,"vague dismissive remark, no explicit gender/group named"
+C055355,Correct,,"mocking, derogatory remark"
+C055360,Wrong,Offensive,"vague dismissive remark, no explicit gender/group named"
+C055363,Correct,,insulting remark about person's thinking
+C055365,Wrong,Offensive,"generic dismissive remark, no explicit hateful target"
+C055371,Correct,,derogatory personal insult
+C055372,Wrong,Offensive,"vague dismissive remark, no explicit gender/group named"
+C055376,Correct,,misogynistic generalization about women's intelligence/agency
+C055377,Correct,,dismissive personal insult
+C055378,Correct,,"mocking, derogatory remark"
+C055380,Correct,,rude dismissive insult
+C055388,Correct,,misogynistic generalization about women's intelligence/agency
+C055394,Wrong,Offensive,"vague dismissive remark, no explicit gender-based hate"
+C055395,Wrong,Offensive,"generic dismissive complaint, no explicit hate target"
+C055402,Correct,,misogynistic generalization denying women access/rights
+C055410,Unsure,,"victim-blaming trope, plausibly gendered but target not explicit"
+C055414,Correct,,blames women as a group for problems
+C055416,Correct,,misogynistic generalization undermining women's equality
+C055422,Correct,,explicit misogynistic denial of respect to women
+C055427,Correct,,"blames women as a group, misogynistic generalization"
+C055434,Wrong,Offensive,"generic dismissive remark, no explicit hateful target"
+C055436,Correct,,dismissive personal insult
+C055437,Correct,,derogatory insult calling content trash
+C055439,Correct,,personal insult blaming individual
+C055443,Correct,,derogatory personal insult
+C055448,Wrong,Safe,"mild critical advice, not offensive"
+C055460,Wrong,Safe,"mild personal criticism, not offensive"
+C055462,Wrong,Safe,"mild critical advice, not offensive"
+C055479,Wrong,Offensive,"vague dismissive remark, no explicit gender/group named"
+C055482,Wrong,Safe,"mild negative opinion about content, not offensive"
+C055491,Correct,,"mocking, derogatory remark"
+C055493,Correct,,derogatory dismissal of content
+C055500,Correct,,personal insult blaming individual
+C055501,Correct,,personal insult blaming individual
+C055503,Wrong,Offensive,"vague dismissive remark, no explicit gender-based hate"
+C055504,Wrong,Offensive,"generic dismissive remark, no explicit hateful target"
+C055512,Correct,,explicit misogynistic statement restricting women
+C055516,Correct,,insulting remark questioning sanity
+C055521,Correct,,derogatory personal insult
+C055533,Correct,,misogynistic generalization denying women access/rights
+C055535,Correct,,"blames women as a group, misogynistic generalization"
+C055537,Correct,,misogynistic stereotype about women
+C055538,Wrong,Offensive,"dismissive remark, not group-based hate"
+C055541,Correct,,misogynistic generalization about women's intelligence/agency
+C055544,Correct,,personal insult belittling the person
+C055545,Correct,,derogatory contemptuous remark
+C055550,Correct,,name-calling insult ('waste fellow')
+C055561,Correct,,personal insult blaming individual
+C055562,Correct,,personal insult blaming individual
+C055564,Correct,,name-calling insult ('waste fellow')
+C055565,Correct,,rude dismissive insult
+C055573,Correct,,explicit misogynistic statement restricting women
+C055574,Correct,,derogatory personal insult
+C055590,Correct,,personal insult belittling the person
+C055593,Unsure,,"victim-blaming trope, plausibly gendered but target not explicit"
+C055597,Correct,,"mocking, derogatory remark"
+C055599,Correct,,"blames women as a group, misogynistic generalization"
+C055600,Correct,,derogatory insult calling content trash
+C055604,Correct,,direct personal insult
+C055608,Wrong,Safe,"mild negative opinion about content, not offensive"
+C055609,Correct,,explicit misogynistic denial of respect to women
+C055611,Correct,,misogynistic generalization undermining women's equality
+C055612,Correct,,misogynistic stereotype about women
+C055614,Unsure,,"victim-blaming trope, plausibly gendered but target not explicit"
+C055616,Correct,,"blames women as a group, misogynistic generalization"
+C055617,Correct,,insulting remark about person's thinking
+C055619,Correct,,misogynistic stereotype about women
+C055620,Wrong,Safe,"mild criticism, lacks insulting language"
+C055621,Wrong,Offensive,"vague dismissive remark, no explicit gender-based hate"
+C055625,Correct,,derogatory insult calling content trash
+C055628,Correct,,derogatory personal insult
+C055631,Correct,,contains direct insult ('stupid')
+C055635,Correct,,personal insult blaming individual
+C055636,Unsure,,"victim-blaming trope, plausibly gendered but target not explicit"
+C055637,Wrong,Safe,"mild critical advice, not offensive"
+C055651,Wrong,Offensive,"vague dismissive remark, no explicit group target"
+C055653,Correct,,explicit misogynistic denial of respect to women
+C055655,Correct,,dismissive personal insult
+C055659,Correct,,direct personal insult
+C055667,Correct,,misogynistic generalization distrusting women
+C055669,Wrong,Safe,"mild personal criticism, not offensive"
+C055673,Wrong,Offensive,"vague dismissive remark, no explicit group target"
+C055675,Wrong,Offensive,"dismissive remark, not group-based hate"
+C055678,Correct,,explicit misogynistic statement restricting women
+C055680,Correct,,direct personal insult
+C055681,Wrong,Safe,"mild negative opinion about content, not offensive"
+C055684,Wrong,Safe,"mild negative opinion about content, not offensive"
+C055687,Wrong,Offensive,"vague dismissive remark, no explicit gender-based hate"
+C055690,Correct,,misogynistic generalization distrusting women
+C055694,Wrong,Offensive,"generic dismissive remark, no explicit hateful target"
+C055695,Correct,,explicit hateful generalization targeting feminists as a group
+C055701,Correct,,derogatory personal insult
+C055707,Correct,,derogatory contemptuous remark
+C055713,Correct,,misogynistic generalization undermining women's equality
+C055715,Correct,,"mocking, derogatory remark"
+C055718,Correct,,derogatory dismissal of content
+C055719,Correct,,"blames women as a group, misogynistic generalization"
+C055721,Wrong,Offensive,"generic dismissive remark, no explicit hateful target"
+C055725,Correct,,explicit hateful generalization targeting feminists as a group
+C055733,Correct,,"mocking, derogatory remark"
+C055737,Correct,,derogatory insult calling content trash
+C055740,Correct,,contains direct insult ('stupid')
+C055743,Wrong,Offensive,"generic dismissive complaint, no explicit hate target"
+C055744,Correct,,derogatory contemptuous remark
+C055746,Correct,,misogynistic generalization about women's sense
+C055750,Wrong,Safe,"mild criticism, lacks insulting language"
+C055753,Correct,,derogatory contemptuous remark
+C055760,Correct,,personal insult blaming individual
+C055764,Correct,,insulting remark about person's thinking
+C055767,Correct,,"rude, hostile command"
+C055768,Correct,,misogynistic generalization about women's intelligence/agency
+C055770,Correct,,rude dismissive insult
+C055771,Unsure,,"victim-blaming trope, plausibly gendered but target not explicit"
+C055776,Correct,,"blames women as a group, misogynistic generalization"
+C055780,Wrong,Safe,"mild negative opinion about content, not offensive"
+C055785,Correct,,derogatory dismissal of content
+C055794,Correct,,derogatory insult calling content trash
+C055795,Correct,,misogynistic stereotype about women
+C055798,Correct,,"blames women as a group, misogynistic generalization"
+C055799,Correct,,explicit misogynistic statement restricting women
+C055800,Wrong,Offensive,"vague dismissive remark, no explicit gender-based hate"
+C055802,Correct,,"rude, hostile command"
+C055807,Correct,,direct personal insult
+C055808,Correct,,explicit misogynistic statement restricting women
+C055810,Wrong,Offensive,"dismissive remark, not group-based hate"
+C055811,Correct,,"rude, hostile command"
+C055812,Correct,,misogynistic generalization denying women access/rights
+C055815,Correct,,insulting remark questioning sanity
+C055816,Wrong,Offensive,"vague dismissive remark, no explicit gender-based hate"
+C055823,Correct,,misogynistic generalization denying women access/rights
+C055824,Wrong,Safe,"mild criticism, no insult or hostility"
+C055825,Correct,,blames women as a group for problems
+C055827,Correct,,misogynistic generalization about women's intelligence/agency
+C055832,Correct,,insulting remark about person's thinking
+C055833,Correct,,misogynistic generalization about women's sense
+C055838,Wrong,Offensive,"generic dismissive remark, no explicit hateful target"
+C055861,Correct,,misogynistic generalization distrusting women
+C055865,Correct,,contains direct insult ('stupid')
+C055867,Correct,,personal insult blaming individual
+C055875,Wrong,Offensive,"generic dismissive remark, no explicit hateful target"
+C055882,Correct,,"blames women as a group, misogynistic generalization"
+C055883,Correct,,personal insult belittling the person
+C055884,Wrong,Offensive,"dismissive remark, not group-based hate"
+C055887,Correct,,"mocking, derogatory remark"
+C055892,Correct,,blames women as a group for problems
+C055896,Correct,,personal insult blaming individual
+C055899,Correct,,explicit misogynistic denial of respect to women
+C055904,Correct,,contains direct insult ('stupid')
+C055906,Correct,,personal insult belittling the person
+C055908,Correct,,explicit hateful generalization targeting feminists as a group
+C055912,Correct,,misogynistic generalization about women's sense
+C055914,Correct,,misogynistic generalization undermining women's equality
+C055921,Correct,,misogynistic generalization about women's intelligence/agency
+C055923,Correct,,misogynistic stereotype about women
+C055924,Correct,,misogynistic generalization distrusting women
+C055925,Wrong,Offensive,"vague dismissive remark, no explicit gender/group named"
+C055927,Correct,,misogynistic generalization denying women access/rights
+C055930,Wrong,Safe,"mild personal criticism, not offensive"
+C055934,Wrong,Safe,"mild criticism, no insult or hostility"
+C055936,Correct,,dismissive personal insult
+C055943,Wrong,Offensive,"vague dismissive remark, no explicit gender-based hate"
+C055944,Correct,,explicit misogynistic statement restricting women
+C055951,Correct,,misogynistic generalization distrusting women
+C055961,Wrong,Safe,"mild criticism, no insult or hostility"
+C055962,Wrong,Safe,"mild critical advice, not offensive"
+C055967,Correct,,explicit hateful generalization targeting feminists as a group
+C055979,Unsure,,"victim-blaming trope, plausibly gendered but target not explicit"
+C055986,Correct,,insulting remark questioning sanity
+C055987,Correct,,explicit misogynistic denial of respect to women
+C055989,Wrong,Safe,"mild criticism, lacks insulting language"
+C055991,Unsure,,"victim-blaming trope, plausibly gendered but target not explicit"
+C055992,Wrong,Offensive,"generic dismissive complaint, no explicit hate target"
+C055997,Correct,,derogatory contemptuous remark
+C056002,Correct,,derogatory contemptuous remark
+C056007,Correct,,misogynistic stereotype about women
+C056011,Correct,,rude dismissive insult
+C056012,Correct,,misogynistic generalization about women's intelligence/agency
+C056013,Wrong,Offensive,"generic dismissive remark, no explicit hateful target"
+C056015,Correct,,blames women as a group for problems
+C056027,Correct,,misogynistic generalization about women's sense
+C056033,Correct,,explicit misogynistic statement restricting women
+C056045,Correct,,derogatory dismissal of content
+C056055,Correct,,rude dismissive insult
+C056060,Wrong,Offensive,"generic dismissive remark, no explicit hateful target"
+C056063,Correct,,explicit misogynistic statement restricting women
+C056064,Correct,,personal insult belittling the person
+C056066,Wrong,Offensive,"generic dismissive remark, no explicit hateful target"
+C056069,Correct,,name-calling insult ('waste fellow')
+C056087,Correct,,misogynistic generalization distrusting women
+C056088,Correct,,derogatory contemptuous remark
+C056095,Correct,,misogynistic generalization about women's sense
+C056098,Correct,,dismissive personal insult
+C056110,Wrong,Offensive,"vague dismissive remark, no explicit gender/group named"
+C056113,Correct,,dismissive personal insult
+C056114,Correct,,explicit misogynistic statement restricting women
+C056122,Wrong,Offensive,"generic dismissive remark, no explicit hateful target"
+C056128,Correct,,misogynistic stereotype about women
+C056142,Correct,,explicit misogynistic statement restricting women
+C056147,Correct,,insulting remark questioning sanity
+C056149,Correct,,"blames women as a group, misogynistic generalization"
+C056158,Correct,,misogynistic generalization distrusting women
+C056166,Wrong,Offensive,"generic dismissive remark, no explicit hateful target"
+C056167,Correct,,personal insult blaming individual
+C056168,Correct,,name-calling insult ('waste fellow')
+C056169,Correct,,derogatory personal insult
+C056171,Correct,,contains direct insult ('stupid')
+C056174,Correct,,explicit misogynistic statement restricting women
+C056178,Wrong,Offensive,"vague dismissive remark, no explicit gender/group named"
+C056182,Wrong,Offensive,"generic dismissive remark, no explicit hateful target"
+C056183,Wrong,Offensive,"generic dismissive remark, no explicit hateful target"
+C056185,Correct,,"rude, hostile command"
+C056186,Correct,,"rude, hostile command"
+C056195,Correct,,derogatory insult calling content trash
+C056198,Unsure,,"victim-blaming trope, plausibly gendered but target not explicit"
+C056199,Correct,,personal insult blaming individual
+C056203,Correct,,misogynistic generalization undermining women's equality
+C056205,Correct,,dismissive personal insult
+C056208,Wrong,Safe,"mild criticism, no insult or hostility"
+C056210,Wrong,Offensive,"dismissive remark, not group-based hate"
+C056211,Correct,,dismissive personal insult
+C056213,Wrong,Offensive,"vague dismissive remark, no explicit gender-based hate"
+C056215,Correct,,insulting remark questioning sanity
+C056218,Correct,,misogynistic generalization about women's intelligence/agency
+C056229,Correct,,misogynistic stereotype about women
+C056233,Correct,,personal insult belittling the person
+C056238,Correct,,explicit misogynistic statement restricting women
+C056244,Correct,,explicit misogynistic statement restricting women
+C056247,Correct,,derogatory insult calling content trash
+C056250,Correct,,name-calling insult ('waste fellow')
+C056252,Correct,,blames women as a group for problems
+C056256,Wrong,Offensive,"generic dismissive remark, no explicit hateful target"
+C056267,Wrong,Offensive,"generic dismissive complaint, no explicit hate target"
+C056268,Correct,,"mocking, derogatory remark"
+C056271,Wrong,Safe,"mild criticism, no insult or hostility"
+C056273,Correct,,"mocking, derogatory remark"
+C056275,Correct,,explicit misogynistic statement restricting women
+C056279,Correct,,dismissive personal insult
+C056287,Correct,,name-calling insult ('waste fellow')
+C056290,Correct,,derogatory dismissal of content
+C056295,Correct,,explicit misogynistic denial of respect to women
+C056296,Wrong,Offensive,"vague dismissive remark, no explicit gender/group named"
+C056297,Correct,,blames women as a group for problems
+C056300,Correct,,direct personal insult
+C056305,Correct,,explicit misogynistic statement restricting women
+C056309,Wrong,Safe,"mild negative opinion about content, not offensive"
+C056312,Correct,,"mocking, derogatory remark"
+C056321,Wrong,Offensive,"generic dismissive complaint, no explicit hate target"
+C056325,Wrong,Offensive,"dismissive remark, not group-based hate"
+C056330,Wrong,Safe,"mild personal criticism, not offensive"
+C056331,Correct,,insulting remark about person's thinking
+C056336,Wrong,Offensive,"generic dismissive complaint, no explicit hate target"
+C056337,Correct,,direct personal insult
+C056338,Wrong,Offensive,"generic dismissive remark, no explicit hateful target"
+C056341,Correct,,misogynistic generalization about women's intelligence/agency
+C056349,Unsure,,"victim-blaming trope, plausibly gendered but target not explicit"
+C056351,Wrong,Safe,"mild criticism, lacks insulting language"
+C056352,Correct,,explicit misogynistic statement restricting women
+C056357,Correct,,explicit misogynistic denial of respect to women
+C056359,Wrong,Safe,"mild criticism, lacks insulting language"
+C056361,Unsure,,"victim-blaming trope, plausibly gendered but target not explicit"
+C056362,Correct,,blames women as a group for problems
+C056365,Correct,,"rude, hostile command"
+C056366,Correct,,personal insult belittling the person
+C056368,Wrong,Offensive,"generic dismissive remark, no explicit hateful target"
+C056369,Wrong,Offensive,"generic dismissive remark, no explicit hateful target"
+C056370,Correct,,insulting remark about person's thinking
+C056372,Correct,,misogynistic generalization denying women access/rights
+C056373,Correct,,dismissive personal insult
+C056381,Correct,,explicit hateful generalization targeting feminists as a group
+C056382,Correct,,dismissive personal insult
+C056385,Correct,,misogynistic generalization denying women access/rights
+C056387,Correct,,insulting remark questioning sanity
+C056388,Correct,,"mocking, derogatory remark"
+C056397,Wrong,Safe,"mild personal criticism, not offensive"
+C056399,Correct,,misogynistic generalization denying women access/rights
+C056400,Correct,,"blames women as a group, misogynistic generalization"
+C056407,Correct,,insulting remark questioning sanity
+C056410,Unsure,,"victim-blaming trope, plausibly gendered but target not explicit"
+C056415,Wrong,Safe,"mild critical advice, not offensive"
+C056416,Correct,,misogynistic generalization about women's sense
+C056418,Correct,,misogynistic generalization distrusting women
+C056430,Correct,,direct personal insult
+C056436,Wrong,Offensive,"vague dismissive remark, no explicit gender-based hate"
+C056440,Correct,,insulting remark questioning sanity
+C056442,Correct,,name-calling insult ('waste fellow')
+C056445,Correct,,misogynistic generalization about women's sense
+C056450,Wrong,Safe,"mild criticism, lacks insulting language"
+C056452,Wrong,Offensive,"vague dismissive remark, no explicit gender/group named"
+C056455,Correct,,personal insult blaming individual
+C056467,Wrong,Safe,"mild criticism, lacks insulting language"
+C056470,Correct,,personal insult belittling the person
+C056471,Correct,,personal insult belittling the person
+C056472,Wrong,Safe,"mild criticism, no insult or hostility"
+C056483,Correct,,rude dismissive insult
+C056486,Correct,,personal insult blaming individual
+C056490,Correct,,name-calling insult ('waste fellow')
+C056492,Wrong,Safe,"mild criticism, lacks insulting language"
+C056494,Correct,,direct personal insult
+C056505,Correct,,misogynistic generalization about women's sense
+C056506,Correct,,personal insult belittling the person
+C056512,Wrong,Safe,"mild personal criticism, not offensive"
+C056514,Unsure,,"victim-blaming trope, plausibly gendered but target not explicit"
+C056519,Wrong,Offensive,"dismissive remark, not group-based hate"
+C056528,Correct,,insulting remark questioning sanity
+C056533,Correct,,direct personal insult
+C056536,Correct,,explicit hateful generalization targeting feminists as a group
+C056540,Correct,,misogynistic generalization about women's sense
+C056541,Correct,,explicit misogynistic denial of respect to women
+C056542,Wrong,Offensive,"generic dismissive remark, no explicit hateful target"
+C056546,Wrong,Offensive,"generic dismissive remark, no explicit hateful target"
+C056549,Wrong,Offensive,"vague dismissive remark, no explicit group target"
+C056551,Wrong,Safe,"mild criticism, lacks insulting language"
+C056552,Correct,,misogynistic generalization about women's sense
+C056555,Correct,,explicit misogynistic denial of respect to women
+C056556,Unsure,,"victim-blaming trope, plausibly gendered but target not explicit"
+C056557,Correct,,contains direct insult ('stupid')
+C056558,Wrong,Safe,"mild negative opinion about content, not offensive"
+C056559,Wrong,Safe,"mild personal criticism, not offensive"
+C056561,Wrong,Offensive,"dismissive remark, not group-based hate"
+C056563,Wrong,Offensive,"vague dismissive remark, no explicit group target"
+C056565,Wrong,Offensive,"vague dismissive remark, no explicit gender/group named"
+C056566,Correct,,insulting remark about person's thinking
+C056569,Correct,,direct personal insult
+C056576,Correct,,"mocking, derogatory remark"
+C056585,Correct,,insulting remark questioning sanity
+C056588,Wrong,Offensive,"vague dismissive remark, no explicit gender-based hate"
+C056591,Correct,,explicit misogynistic denial of respect to women
+C056602,Unsure,,"victim-blaming trope, plausibly gendered but target not explicit"
+C056606,Correct,,misogynistic generalization about women's intelligence/agency
+C056608,Wrong,Offensive,"vague dismissive remark, no explicit group target"
+C056609,Correct,,explicit hateful generalization targeting feminists as a group
+C056623,Wrong,Safe,"mild critical advice, not offensive"
+C056631,Correct,,misogynistic generalization denying women access/rights
+C056637,Correct,,direct personal insult
+C056638,Correct,,explicit hateful generalization targeting feminists as a group
+C056641,Correct,,misogynistic generalization denying women access/rights
+C056642,Correct,,contains direct insult ('stupid')
+C056644,Correct,,explicit hateful generalization targeting feminists as a group
+C056651,Correct,,dismissive personal insult
+C056656,Correct,,dismissive personal insult
+C056658,Correct,,misogynistic generalization denying women access/rights
+C056660,Correct,,personal insult blaming individual
+C056665,Wrong,Safe,"mild personal criticism, not offensive"
+C056678,Correct,,insulting remark about person's thinking
+C056680,Correct,,insulting remark about person's thinking
+C056682,Unsure,,"victim-blaming trope, plausibly gendered but target not explicit"
+C056684,Correct,,misogynistic generalization undermining women's equality
+C056691,Correct,,explicit misogynistic statement restricting women
+C056692,Correct,,misogynistic stereotype about women
+C056695,Correct,,misogynistic generalization about women's sense
+C056696,Correct,,name-calling insult ('waste fellow')
+C056698,Correct,,misogynistic stereotype about women
+C056705,Correct,,misogynistic stereotype about women
+C056712,Correct,,insulting remark about person's thinking
+C056716,Correct,,"blames women as a group, misogynistic generalization"
+C056717,Wrong,Offensive,"generic dismissive remark, no explicit hateful target"
+C056721,Correct,,rude dismissive insult
+C056724,Correct,,derogatory insult calling content trash
+C056726,Correct,,explicit misogynistic denial of respect to women
+C056731,Correct,,rude dismissive insult
+C056732,Correct,,"blames women as a group, misogynistic generalization"
+C056733,Correct,,"mocking, derogatory remark"
+C056734,Correct,,rude dismissive insult
+C056737,Wrong,Offensive,"vague dismissive remark, no explicit gender/group named"
+C056742,Correct,,misogynistic generalization about women's sense
+C056746,Correct,,direct personal insult
+C056752,Correct,,name-calling insult ('waste fellow')
+C056754,Correct,,"rude, hostile command"
+C056756,Correct,,derogatory personal insult
+C056757,Correct,,contains direct insult ('stupid')
+C056758,Correct,,blames women as a group for problems
+C056759,Correct,,explicit misogynistic statement restricting women
+C056765,Correct,,explicit hateful generalization targeting feminists as a group
+C056772,Correct,,insulting remark about person's thinking
+C056777,Correct,,contains direct insult ('stupid')
+C056780,Correct,,insulting remark about person's thinking
+C056781,Correct,,dismissive personal insult
+C056792,Correct,,misogynistic generalization undermining women's equality
+C056797,Wrong,Safe,"mild critical advice, not offensive"
+C056799,Wrong,Offensive,"generic dismissive complaint, no explicit hate target"
+C056800,Correct,,insulting remark questioning sanity
+C056806,Correct,,"rude, hostile command"
+C056808,Correct,,misogynistic generalization undermining women's equality
+C056811,Correct,,"rude, hostile command"
+C056827,Correct,,"mocking, derogatory remark"
+C056828,Correct,,derogatory personal insult
+C056829,Correct,,insulting remark questioning sanity
+C056834,Correct,,explicit misogynistic statement restricting women
+C056837,Unsure,,"victim-blaming trope, plausibly gendered but target not explicit"
+C056843,Correct,,explicit misogynistic statement restricting women
+C056845,Correct,,insulting remark questioning sanity
+C056846,Correct,,misogynistic generalization about women's sense
+C056852,Correct,,derogatory contemptuous remark
+C056862,Wrong,Offensive,"vague dismissive remark, no explicit gender/group named"
+C056866,Correct,,insulting remark about person's thinking
+C056870,Correct,,explicit hateful generalization targeting feminists as a group
+C056873,Correct,,derogatory contemptuous remark
+C056874,Correct,,name-calling insult ('waste fellow')
+C056878,Wrong,Offensive,"dismissive remark, not group-based hate"
+C056880,Wrong,Offensive,"generic dismissive remark, no explicit hateful target"
+C056887,Wrong,Safe,"mild criticism, no insult or hostility"
+C056891,Correct,,personal insult belittling the person
+C056893,Correct,,misogynistic generalization about women's sense
+C056896,Wrong,Safe,"mild criticism, no insult or hostility"
+C056897,Correct,,"rude, hostile command"
+C056899,Correct,,misogynistic stereotype about women
+C056903,Correct,,dismissive personal insult
+C056918,Correct,,misogynistic generalization about women's sense
+C056921,Correct,,"mocking, derogatory remark"
+C056923,Correct,,"blames women as a group, misogynistic generalization"
+C056930,Correct,,"blames women as a group, misogynistic generalization"
+C056931,Correct,,misogynistic generalization undermining women's equality
+C056944,Correct,,dismissive personal insult
+C056951,Correct,,derogatory contemptuous remark
+C056961,Correct,,explicit misogynistic statement restricting women
+C056963,Unsure,,"victim-blaming trope, plausibly gendered but target not explicit"
+C056968,Correct,,misogynistic stereotype about women
+C056979,Correct,,derogatory insult calling content trash
+C056988,Correct,,misogynistic generalization about women's sense
+C056990,Correct,,blames women as a group for problems
+C056991,Correct,,blames women as a group for problems
+C057008,Unsure,,"victim-blaming trope, plausibly gendered but target not explicit"
+C057017,Wrong,Safe,"mild personal criticism, not offensive"
+C057018,Correct,,contains direct insult ('stupid')
+C057024,Correct,,personal insult blaming individual
+C057026,Wrong,Safe,"mild negative opinion about content, not offensive"
+C057028,Correct,,misogynistic generalization undermining women's equality
+C057030,Correct,,misogynistic generalization denying women access/rights
+C057032,Correct,,"rude, hostile command"
+C057047,Wrong,Safe,"mild personal criticism, not offensive"
+C057048,Correct,,misogynistic generalization undermining women's equality
+C057049,Correct,,rude dismissive insult
+C057050,Correct,,rude dismissive insult
+C057056,Correct,,explicit hateful generalization targeting feminists as a group
+C057063,Wrong,Safe,"mild criticism, lacks insulting language"
+C057064,Correct,,personal insult belittling the person
+C057066,Correct,,derogatory contemptuous remark
+C057068,Correct,,insulting remark questioning sanity
+C057069,Wrong,Offensive,"vague dismissive remark, no explicit gender/group named"
+C057071,Correct,,insulting remark about person's thinking
+C057073,Correct,,derogatory contemptuous remark
+C057075,Correct,,explicit misogynistic statement restricting women
+C057081,Correct,,insulting remark questioning sanity
+C057093,Wrong,Offensive,"vague dismissive remark, no explicit group target"
+C057094,Correct,,"mocking, derogatory remark"
+C057096,Correct,,name-calling insult ('waste fellow')
+C057097,Correct,,explicit misogynistic denial of respect to women
+C057100,Correct,,contains direct insult ('stupid')
+C057102,Wrong,Offensive,"dismissive remark, not group-based hate"
+C057103,Correct,,personal insult blaming individual
+C057106,Correct,,personal insult belittling the person
+C057110,Wrong,Safe,"mild criticism, no insult or hostility"
+C057112,Correct,,dismissive personal insult
+C057115,Wrong,Safe,"mild criticism, no insult or hostility"
+C057117,Correct,,rude dismissive insult
+C057121,Wrong,Safe,"mild criticism, lacks insulting language"
+C057124,Correct,,derogatory contemptuous remark
+C057129,Wrong,Offensive,"generic dismissive remark, no explicit hateful target"
+C057133,Wrong,Offensive,"vague dismissive remark, no explicit gender-based hate"
+C057144,Correct,,explicit misogynistic statement restricting women
+C057151,Correct,,rude dismissive insult
+C057152,Correct,,"blames women as a group, misogynistic generalization"
+C057154,Correct,,misogynistic generalization about women's intelligence/agency
+C057155,Correct,,misogynistic generalization denying women access/rights
+C057158,Correct,,explicit misogynistic denial of respect to women
+C057159,Wrong,Offensive,"vague dismissive remark, no explicit gender/group named"
+C057163,Correct,,rude dismissive insult
+C057169,Wrong,Offensive,"vague dismissive remark, no explicit gender/group named"
+C057170,Wrong,Offensive,"generic dismissive complaint, no explicit hate target"
+C057177,Correct,,misogynistic generalization distrusting women
+C057191,Wrong,Safe,"mild negative opinion about content, not offensive"
+C057196,Correct,,direct personal insult
+C057200,Correct,,direct personal insult
+C057205,Correct,,insulting remark questioning sanity
+C057210,Correct,,"mocking, derogatory remark"
+C057211,Correct,,"mocking, derogatory remark"
+C057222,Wrong,Safe,"mild criticism, lacks insulting language"
+C057226,Correct,,personal insult belittling the person
+C057229,Correct,,personal insult blaming individual
+C057233,Wrong,Safe,"mild criticism, no insult or hostility"
+C057239,Wrong,Safe,"mild criticism, lacks insulting language"
+C057240,Wrong,Safe,"mild critical advice, not offensive"
+C057253,Wrong,Safe,"mild critical advice, not offensive"
+C057254,Wrong,Offensive,"generic dismissive remark, no explicit hateful target"
+C057256,Correct,,personal insult belittling the person
+C057259,Wrong,Offensive,"dismissive remark, not group-based hate"
+C057262,Wrong,Offensive,"vague dismissive remark, no explicit gender-based hate"
+C057268,Wrong,Offensive,"generic dismissive complaint, no explicit hate target"
+C057270,Correct,,misogynistic generalization about women's sense
+C057287,Correct,,misogynistic generalization denying women access/rights
+C057290,Correct,,insulting remark questioning sanity
+C057294,Correct,,"blames women as a group, misogynistic generalization"
+C057295,Wrong,Safe,"mild negative opinion about content, not offensive"
+C057298,Correct,,explicit misogynistic denial of respect to women
+C057301,Wrong,Safe,"mild criticism, no insult or hostility"
+C057302,Correct,,misogynistic generalization distrusting women
+C057307,Correct,,explicit hateful generalization targeting feminists as a group
+C057309,Unsure,,"victim-blaming trope, plausibly gendered but target not explicit"
+C057311,Correct,,personal insult belittling the person
+C057316,Correct,,personal insult blaming individual
+C057318,Wrong,Offensive,"generic dismissive remark, no explicit hateful target"
+C057329,Correct,,derogatory insult calling content trash
+C057330,Wrong,Safe,"mild criticism, no insult or hostility"
+C057332,Correct,,explicit misogynistic statement restricting women
+C057337,Wrong,Safe,"mild criticism, lacks insulting language"
+C057340,Correct,,personal insult belittling the person
+C057341,Wrong,Offensive,"vague dismissive remark, no explicit gender-based hate"
+C057344,Wrong,Offensive,"generic dismissive remark, no explicit hateful target"
+C057348,Wrong,Offensive,"dismissive remark, not group-based hate"
+C057350,Correct,,blames women as a group for problems
+C057351,Correct,,"blames women as a group, misogynistic generalization"
+C057358,Correct,,personal insult belittling the person
+C057364,Correct,,rude dismissive insult
+C057368,Correct,,misogynistic generalization distrusting women
+C057371,Wrong,Safe,"mild personal criticism, not offensive"
+C057381,Correct,,contains direct insult ('stupid')
+C057382,Correct,,"rude, hostile command"
+C057383,Wrong,Offensive,"generic dismissive remark, no explicit hateful target"
+C057385,Correct,,personal insult belittling the person
+C057388,Correct,,derogatory insult calling content trash
+C057408,Correct,,derogatory contemptuous remark
+C057412,Wrong,Safe,"mild criticism, lacks insulting language"
+C057421,Correct,,explicit misogynistic statement restricting women
+C057424,Correct,,misogynistic stereotype about women
+C057428,Correct,,misogynistic generalization about women's intelligence/agency
+C057430,Correct,,derogatory contemptuous remark
+C057434,Wrong,Safe,"mild criticism, no insult or hostility"
+C057437,Wrong,Safe,"mild negative opinion about content, not offensive"
+C057442,Correct,,explicit misogynistic statement restricting women
+C057448,Unsure,,"victim-blaming trope, plausibly gendered but target not explicit"
+C057449,Wrong,Offensive,"generic dismissive remark, no explicit hateful target"
+C057451,Correct,,misogynistic generalization about women's intelligence/agency
+C057458,Correct,,blames women as a group for problems
+C057460,Wrong,Offensive,"dismissive remark, not group-based hate"
+C057467,Correct,,name-calling insult ('waste fellow')
+C057473,Correct,,insulting remark questioning sanity
+C057480,Correct,,misogynistic generalization about women's intelligence/agency
+C057488,Correct,,"mocking, derogatory remark"
+C057489,Correct,,explicit misogynistic denial of respect to women
+C057491,Correct,,"rude, hostile command"
+C057493,Wrong,Offensive,"generic dismissive remark, no explicit hateful target"
+C057498,Correct,,contains direct insult ('stupid')
+C057501,Correct,,dismissive personal insult
+C057504,Correct,,"rude, hostile command"
+C057511,Correct,,misogynistic stereotype about women
+C057516,Wrong,Safe,"mild personal criticism, not offensive"
+C057517,Correct,,derogatory contemptuous remark
+C057529,Correct,,"blames women as a group, misogynistic generalization"
+C057530,Unsure,,"victim-blaming trope, plausibly gendered but target not explicit"
+C057534,Correct,,rude dismissive insult
+C057536,Wrong,Safe,"mild critical advice, not offensive"
+C057540,Wrong,Offensive,"generic dismissive complaint, no explicit hate target"
+C057545,Correct,,name-calling insult ('waste fellow')
+C057549,Wrong,Offensive,"generic dismissive remark, no explicit hateful target"
+C057555,Wrong,Offensive,"vague dismissive remark, no explicit gender-based hate"
+C057559,Correct,,derogatory contemptuous remark
+C057561,Correct,,"mocking, derogatory remark"
+C057565,Wrong,Offensive,"dismissive remark, not group-based hate"
+C057566,Unsure,,"victim-blaming trope, plausibly gendered but target not explicit"
+C057567,Correct,,explicit misogynistic statement restricting women
+C057568,Correct,,misogynistic generalization distrusting women
+C057571,Wrong,Safe,"mild personal criticism, not offensive"
+C057574,Correct,,insulting remark questioning sanity
+C057576,Correct,,dismissive personal insult
+C057583,Correct,,explicit hateful generalization targeting feminists as a group
+C057600,Correct,,derogatory insult calling content trash
+C057607,Correct,,"blames women as a group, misogynistic generalization"
+C057612,Correct,,derogatory personal insult
+C057616,Correct,,explicit misogynistic statement restricting women
+C057626,Wrong,Safe,"mild criticism, no insult or hostility"
+C057634,Correct,,misogynistic stereotype about women
+C057637,Wrong,Safe,"mild personal criticism, not offensive"
+C057638,Correct,,contains direct insult ('stupid')
+C057643,Correct,,name-calling insult ('waste fellow')
+C057644,Correct,,dismissive personal insult
+C057648,Correct,,derogatory personal insult
+C057649,Wrong,Offensive,"generic dismissive complaint, no explicit hate target"
+C057650,Wrong,Offensive,"dismissive remark, not group-based hate"
+C057651,Correct,,personal insult belittling the person
+C057654,Unsure,,"victim-blaming trope, plausibly gendered but target not explicit"
+C057656,Wrong,Offensive,"vague dismissive remark, no explicit gender/group named"
+C057657,Correct,,personal insult blaming individual
+C057669,Correct,,explicit misogynistic statement restricting women
+C057674,Correct,,explicit misogynistic statement restricting women
+C057687,Correct,,misogynistic generalization distrusting women
+C057689,Correct,,direct personal insult
+C057691,Correct,,name-calling insult ('waste fellow')
+C057697,Correct,,derogatory contemptuous remark
+C057701,Correct,,derogatory personal insult
+C057709,Wrong,Offensive,"generic dismissive complaint, no explicit hate target"
+C057712,Unsure,,"victim-blaming trope, plausibly gendered but target not explicit"
+C057713,Correct,,misogynistic generalization about women's intelligence/agency
+C057717,Correct,,explicit misogynistic statement restricting women
+C057718,Correct,,dismissive personal insult
+C057720,Correct,,"mocking, derogatory remark"
+C057724,Correct,,misogynistic generalization about women's intelligence/agency
+C057729,Correct,,contains direct insult ('stupid')
+C057731,Correct,,derogatory dismissal of content
+C057736,Correct,,personal insult blaming individual
+C057740,Correct,,explicit misogynistic statement restricting women
+C057742,Correct,,"rude, hostile command"
+C057744,Correct,,direct personal insult
+C057754,Correct,,misogynistic generalization about women's intelligence/agency
+C057764,Correct,,personal insult blaming individual
+C057768,Correct,,insulting remark about person's thinking
+C057774,Correct,,insulting remark questioning sanity
+C057782,Unsure,,"victim-blaming trope, plausibly gendered but target not explicit"
+C057784,Wrong,Safe,"mild criticism, no insult or hostility"
+C057791,Wrong,Safe,"mild negative opinion about content, not offensive"
+C057793,Correct,,direct personal insult
+C057795,Correct,,misogynistic generalization undermining women's equality
+C057802,Correct,,personal insult blaming individual
+C057804,Correct,,insulting remark about person's thinking
+C057810,Wrong,Offensive,"vague dismissive remark, no explicit group target"
+C057811,Wrong,Offensive,"vague dismissive remark, no explicit gender-based hate"
+C057812,Wrong,Safe,"mild critical advice, not offensive"
+C057815,Correct,,insulting remark about person's thinking
+C057816,Correct,,personal insult blaming individual
+C057821,Wrong,Offensive,"generic dismissive remark, no explicit hateful target"
+C057841,Wrong,Safe,"mild personal criticism, not offensive"
+C057842,Correct,,derogatory dismissal of content
+C057846,Wrong,Safe,"mild criticism, lacks insulting language"
+C057847,Correct,,dismissive personal insult
+C057848,Correct,,blames women as a group for problems
+C057852,Correct,,dismissive personal insult
+C057854,Correct,,misogynistic generalization denying women access/rights
+C057856,Correct,,explicit hateful generalization targeting feminists as a group
+C057863,Correct,,explicit misogynistic statement restricting women
+C057865,Correct,,dismissive personal insult
+C057868,Correct,,"mocking, derogatory remark"
+C057872,Correct,,"blames women as a group, misogynistic generalization"
+C057876,Correct,,derogatory dismissal of content
+C057880,Correct,,"rude, hostile command"
+C057883,Correct,,contains direct insult ('stupid')
+C057886,Wrong,Offensive,"generic dismissive complaint, no explicit hate target"
+C057890,Correct,,direct personal insult
+C057892,Wrong,Offensive,"generic dismissive complaint, no explicit hate target"
+C057896,Wrong,Offensive,"generic dismissive remark, no explicit hateful target"
+C057906,Wrong,Offensive,"dismissive remark, not group-based hate"
+C057907,Correct,,misogynistic generalization about women's sense
+C057912,Correct,,misogynistic generalization denying women access/rights
+C057921,Correct,,"rude, hostile command"
+C057924,Correct,,direct personal insult
+C057925,Correct,,explicit misogynistic denial of respect to women
+C057930,Correct,,derogatory dismissal of content
+C057932,Correct,,"mocking, derogatory remark"
+C057934,Wrong,Safe,"mild critical advice, not offensive"
+C057938,Correct,,explicit misogynistic statement restricting women
+C057940,Correct,,blames women as a group for problems
+C057943,Wrong,Safe,"mild negative opinion about content, not offensive"
+C057945,Correct,,personal insult belittling the person
+C057953,Wrong,Offensive,"generic dismissive remark, no explicit hateful target"
+C057955,Correct,,blames women as a group for problems
+C057956,Correct,,name-calling insult ('waste fellow')
+C057958,Wrong,Offensive,"vague dismissive remark, no explicit gender/group named"
+C057966,Correct,,misogynistic generalization denying women access/rights
+C057968,Correct,,derogatory insult calling content trash
+C057971,Correct,,explicit misogynistic statement restricting women
+C057972,Correct,,explicit misogynistic statement restricting women
+C057977,Correct,,misogynistic generalization about women's sense
+C057985,Correct,,direct personal insult
+C057990,Wrong,Offensive,"generic dismissive remark, no explicit hateful target"
+C057994,Wrong,Offensive,"vague dismissive remark, no explicit gender/group named"
+C057999,Correct,,rude dismissive insult
+C058009,Correct,,derogatory dismissal of content
+C058011,Correct,,misogynistic generalization about women's intelligence/agency
+C058017,Correct,,derogatory contemptuous remark
+C058018,Correct,,derogatory personal insult
+C058019,Wrong,Offensive,"generic dismissive remark, no explicit hateful target"
+C058025,Wrong,Offensive,"dismissive remark, not group-based hate"
+C058028,Correct,,misogynistic generalization denying women access/rights
+C058032,Correct,,name-calling insult ('waste fellow')
+C058035,Wrong,Offensive,"generic dismissive remark, no explicit hateful target"
+C058042,Correct,,blames women as a group for problems
+C058043,Correct,,derogatory personal insult
+C058051,Correct,,direct personal insult
+C058055,Correct,,insulting remark questioning sanity
+C058058,Correct,,insulting remark questioning sanity
+C058067,Correct,,direct personal insult
+C058075,Wrong,Offensive,"generic dismissive complaint, no explicit hate target"
+C058078,Correct,,derogatory dismissal of content
+C058085,Wrong,Offensive,"vague dismissive remark, no explicit gender/group named"
+C058086,Correct,,explicit misogynistic statement restricting women
+C058087,Correct,,derogatory personal insult
+C058090,Correct,,rude dismissive insult
+C058093,Correct,,derogatory dismissal of content
+C058099,Correct,,personal insult belittling the person
+C058101,Correct,,derogatory personal insult
+C058102,Correct,,misogynistic generalization about women's intelligence/agency
+C058103,Wrong,Offensive,"vague dismissive remark, no explicit group target"
+C058107,Correct,,misogynistic generalization undermining women's equality
+C058115,Wrong,Offensive,"generic dismissive complaint, no explicit hate target"
+C058116,Wrong,Safe,"mild critical advice, not offensive"
+C058117,Correct,,personal insult belittling the person
+C058122,Correct,,insulting remark questioning sanity
+C058133,Wrong,Safe,"mild criticism, no insult or hostility"
+C058141,Correct,,derogatory insult calling content trash
+C058143,Wrong,Offensive,"dismissive remark, not group-based hate"
+C058150,Wrong,Offensive,"generic dismissive complaint, no explicit hate target"
+C058151,Correct,,blames women as a group for problems
+C058155,Correct,,direct personal insult
+C058156,Correct,,personal insult blaming individual
+C058160,Correct,,derogatory insult calling content trash
+C058167,Wrong,Safe,"mild criticism, no insult or hostility"
+C058171,Correct,,name-calling insult ('waste fellow')
+C058179,Wrong,Safe,"mild criticism, no insult or hostility"
+C058182,Wrong,Offensive,"generic dismissive remark, no explicit hateful target"
+C058186,Correct,,misogynistic generalization distrusting women
+C058190,Unsure,,"victim-blaming trope, plausibly gendered but target not explicit"
+C058193,Correct,,personal insult belittling the person
+C058202,Correct,,explicit misogynistic denial of respect to women
+C058203,Correct,,"rude, hostile command"
+C058206,Wrong,Safe,"mild negative opinion about content, not offensive"
+C058213,Correct,,personal insult belittling the person
+C058224,Correct,,insulting remark about person's thinking
+C058233,Correct,,"blames women as a group, misogynistic generalization"
+C058235,Correct,,blames women as a group for problems
+C058261,Correct,,personal insult belittling the person
+C058271,Correct,,direct personal insult
+C058274,Wrong,Safe,"mild personal criticism, not offensive"
+C058276,Correct,,derogatory contemptuous remark
+C058277,Correct,,personal insult blaming individual
+C058280,Correct,,"blames women as a group, misogynistic generalization"
+C058282,Wrong,Safe,"mild negative opinion about content, not offensive"
+C058285,Unsure,,"victim-blaming trope, plausibly gendered but target not explicit"
+C058287,Correct,,misogynistic generalization about women's sense
+C058289,Correct,,rude dismissive insult
+C058301,Correct,,insulting remark about person's thinking
+C058307,Unsure,,"victim-blaming trope, plausibly gendered but target not explicit"
+C058310,Correct,,misogynistic generalization about women's sense
+C058314,Correct,,"mocking, derogatory remark"
+C058317,Correct,,derogatory personal insult
+C058318,Correct,,"mocking, derogatory remark"
+C058320,Correct,,"rude, hostile command"
+C058326,Correct,,explicit misogynistic denial of respect to women
+C058328,Correct,,insulting remark about person's thinking
+C058329,Correct,,misogynistic generalization undermining women's equality
+C058330,Correct,,misogynistic generalization about women's intelligence/agency
+C058332,Correct,,personal insult blaming individual
+C058335,Correct,,misogynistic generalization undermining women's equality
+C058337,Wrong,Safe,"mild criticism, no insult or hostility"
+C058338,Correct,,insulting remark about person's thinking
+C058339,Wrong,Safe,"mild critical advice, not offensive"
+C058341,Unsure,,"victim-blaming trope, plausibly gendered but target not explicit"
+C058343,Wrong,Offensive,"vague dismissive remark, no explicit gender-based hate"
+C058345,Correct,,derogatory personal insult
+C058348,Correct,,explicit hateful generalization targeting feminists as a group
+C058352,Correct,,personal insult belittling the person
+C058354,Wrong,Safe,"mild criticism, no insult or hostility"
+C058362,Wrong,Offensive,"dismissive remark, not group-based hate"
+C058363,Correct,,misogynistic generalization about women's intelligence/agency
+C058364,Correct,,misogynistic generalization undermining women's equality
+C058368,Correct,,explicit hateful generalization targeting feminists as a group
+C058369,Correct,,rude dismissive insult
+C058372,Correct,,derogatory contemptuous remark
+C058374,Correct,,explicit misogynistic denial of respect to women
+C058375,Wrong,Offensive,"vague dismissive remark, no explicit gender-based hate"
+C058379,Correct,,rude dismissive insult
+C058388,Correct,,derogatory contemptuous remark
+C058399,Correct,,contains direct insult ('stupid')
+C058403,Unsure,,"victim-blaming trope, plausibly gendered but target not explicit"
+C058407,Correct,,insulting remark questioning sanity
+C058413,Correct,,dismissive personal insult
+C058414,Correct,,insulting remark about person's thinking
+C058420,Unsure,,"victim-blaming trope, plausibly gendered but target not explicit"
+C058422,Correct,,misogynistic generalization denying women access/rights
+C058435,Wrong,Safe,"mild criticism, lacks insulting language"
+C058440,Wrong,Offensive,"generic dismissive remark, no explicit hateful target"
+C058443,Correct,,misogynistic generalization about women's sense
+C058450,Wrong,Safe,"mild negative opinion about content, not offensive"
+C058458,Correct,,derogatory dismissal of content
+C058460,Correct,,misogynistic generalization distrusting women
+C058462,Correct,,misogynistic generalization undermining women's equality
+C058464,Correct,,dismissive personal insult
+C058467,Correct,,personal insult belittling the person
+C058468,Correct,,derogatory insult calling content trash
+C058470,Correct,,misogynistic generalization distrusting women
+C058471,Wrong,Safe,"mild negative opinion about content, not offensive"
+C058472,Correct,,"blames women as a group, misogynistic generalization"
+C058477,Wrong,Offensive,"generic dismissive complaint, no explicit hate target"
+C058478,Correct,,derogatory personal insult
+C058482,Correct,,explicit misogynistic denial of respect to women
+C058485,Correct,,misogynistic generalization about women's intelligence/agency
+C058486,Correct,,misogynistic stereotype about women
+C058489,Correct,,misogynistic stereotype about women
+C058490,Correct,,derogatory personal insult
+C058500,Correct,,explicit misogynistic denial of respect to women
+C058501,Correct,,derogatory insult calling content trash
+C058504,Correct,,contains direct insult ('stupid')
+C058505,Unsure,,"victim-blaming trope, plausibly gendered but target not explicit"
+C058506,Correct,,"blames women as a group, misogynistic generalization"
+C058508,Correct,,insulting remark questioning sanity
+C058509,Wrong,Offensive,"dismissive remark, not group-based hate"
+C058513,Correct,,"blames women as a group, misogynistic generalization"
+C058519,Correct,,misogynistic generalization undermining women's equality
+C058527,Wrong,Offensive,"vague dismissive remark, no explicit group target"
+C058532,Correct,,explicit misogynistic denial of respect to women
+C058534,Correct,,misogynistic generalization undermining women's equality
+C058538,Correct,,personal insult blaming individual
+C058542,Correct,,rude dismissive insult
+C058546,Correct,,misogynistic generalization about women's intelligence/agency
+C058547,Correct,,misogynistic generalization undermining women's equality
+C058549,Wrong,Safe,"mild critical advice, not offensive"
+C058553,Unsure,,"victim-blaming trope, plausibly gendered but target not explicit"
+C058554,Correct,,derogatory personal insult
+C058556,Correct,,misogynistic generalization about women's sense
+C058558,Correct,,explicit misogynistic statement restricting women
+C058560,Correct,,misogynistic generalization about women's sense
+C058567,Correct,,"mocking, derogatory remark"
+C058569,Wrong,Offensive,"vague dismissive remark, no explicit group target"
+C058574,Correct,,"blames women as a group, misogynistic generalization"
+C058576,Correct,,misogynistic generalization denying women access/rights
+C058579,Wrong,Offensive,"vague dismissive remark, no explicit group target"
+C058582,Wrong,Safe,"mild critical advice, not offensive"
+C058584,Correct,,insulting remark questioning sanity
+C058586,Correct,,misogynistic generalization denying women access/rights
+C058589,Correct,,explicit misogynistic statement restricting women
+C058599,Wrong,Offensive,"generic dismissive remark, no explicit hateful target"
+C058603,Wrong,Safe,"mild personal criticism, not offensive"
+C058621,Correct,,dismissive personal insult
+C058623,Correct,,misogynistic generalization undermining women's equality
+C058624,Correct,,blames women as a group for problems
+C058625,Correct,,personal insult blaming individual
+C058630,Correct,,blames women as a group for problems
+C058633,Wrong,Offensive,"vague dismissive remark, no explicit gender-based hate"
+C058634,Correct,,derogatory contemptuous remark
+C058638,Correct,,contains direct insult ('stupid')
+C058641,Correct,,derogatory dismissal of content
+C058642,Correct,,misogynistic stereotype about women
+C058645,Correct,,personal insult blaming individual
+C058649,Wrong,Safe,"mild criticism, no insult or hostility"
+C058651,Correct,,insulting remark questioning sanity
+C058652,Correct,,insulting remark questioning sanity
+C058656,Correct,,misogynistic generalization about women's intelligence/agency
+C058657,Correct,,personal insult belittling the person
+C058664,Correct,,name-calling insult ('waste fellow')
+C058672,Correct,,explicit misogynistic statement restricting women
+C058674,Correct,,blames women as a group for problems
+C058678,Correct,,insulting remark questioning sanity
+C058679,Correct,,blames women as a group for problems
+C058683,Correct,,misogynistic generalization denying women access/rights
+C058684,Correct,,misogynistic generalization about women's sense
+C058692,Correct,,derogatory insult calling content trash
+C058694,Correct,,derogatory insult calling content trash
+C058695,Correct,,dismissive personal insult
+C058709,Correct,,misogynistic generalization undermining women's equality
+C058714,Correct,,misogynistic stereotype about women
+C058716,Correct,,misogynistic generalization distrusting women
+C058722,Correct,,insulting remark about person's thinking
+C058724,Correct,,explicit misogynistic statement restricting women
+C058725,Correct,,contains direct insult ('stupid')
+C058728,Correct,,explicit misogynistic denial of respect to women
+C058729,Correct,,contains direct insult ('stupid')
+C058730,Correct,,explicit misogynistic statement restricting women
+C058732,Wrong,Offensive,"generic dismissive remark, no explicit hateful target"
+C058736,Correct,,rude dismissive insult
+C058737,Correct,,explicit misogynistic statement restricting women
+C058755,Wrong,Offensive,"dismissive remark, not group-based hate"
+C058760,Correct,,explicit misogynistic statement restricting women
+C058764,Correct,,derogatory dismissal of content
+C058769,Correct,,"blames women as a group, misogynistic generalization"
+C058777,Wrong,Safe,"mild critical advice, not offensive"
+C058778,Wrong,Offensive,"generic dismissive remark, no explicit hateful target"
+C058782,Correct,,personal insult belittling the person
+C058785,Correct,,"mocking, derogatory remark"
+C058786,Correct,,direct personal insult
+C058807,Unsure,,"victim-blaming trope, plausibly gendered but target not explicit"
+C058812,Correct,,misogynistic generalization undermining women's equality
+C058814,Correct,,misogynistic generalization denying women access/rights
+C058816,Correct,,direct personal insult
+C058819,Correct,,misogynistic generalization about women's intelligence/agency
+C058827,Wrong,Offensive,"generic dismissive remark, no explicit hateful target"
+C058831,Correct,,misogynistic generalization denying women access/rights
+C058833,Correct,,misogynistic generalization distrusting women
+C058841,Correct,,explicit misogynistic denial of respect to women
+C058842,Correct,,"blames women as a group, misogynistic generalization"
+C058846,Wrong,Offensive,"vague dismissive remark, no explicit gender-based hate"
+C058847,Wrong,Offensive,"vague dismissive remark, no explicit group target"
+C058849,Wrong,Offensive,"vague dismissive remark, no explicit gender/group named"
+C058852,Correct,,misogynistic generalization denying women access/rights
+C058853,Correct,,insulting remark about person's thinking
+C058855,Unsure,,"victim-blaming trope, plausibly gendered but target not explicit"
+C058856,Wrong,Offensive,"vague dismissive remark, no explicit gender/group named"
+C058859,Correct,,rude dismissive insult
+C058861,Correct,,misogynistic generalization denying women access/rights
+C058863,Wrong,Safe,"mild critical advice, not offensive"
+C058866,Correct,,explicit misogynistic statement restricting women
+C058874,Wrong,Safe,"mild criticism, lacks insulting language"
+C058878,Wrong,Offensive,"generic dismissive complaint, no explicit hate target"
+C058880,Correct,,direct personal insult
+C058889,Correct,,blames women as a group for problems
+C058890,Correct,,personal insult blaming individual
+C058891,Correct,,name-calling insult ('waste fellow')
+C058892,Correct,,misogynistic stereotype about women
+C058898,Correct,,direct personal insult
+C058911,Wrong,Offensive,"vague dismissive remark, no explicit gender/group named"
+C058913,Correct,,"rude, hostile command"
+C058914,Correct,,direct personal insult
+C058919,Correct,,misogynistic generalization about women's sense
+C058920,Correct,,explicit misogynistic statement restricting women
+C058928,Correct,,misogynistic generalization undermining women's equality
+C058931,Wrong,Offensive,"generic dismissive remark, no explicit hateful target"
+C058934,Correct,,explicit misogynistic statement restricting women
+C058936,Correct,,misogynistic generalization distrusting women
+C058940,Correct,,contains direct insult ('stupid')
+C058943,Unsure,,"victim-blaming trope, plausibly gendered but target not explicit"
+C058946,Wrong,Offensive,"generic dismissive complaint, no explicit hate target"
+C058949,Correct,,personal insult blaming individual
+C058950,Correct,,misogynistic generalization denying women access/rights
+C058954,Correct,,derogatory contemptuous remark
+C058958,Wrong,Offensive,"vague dismissive remark, no explicit gender-based hate"
+C058965,Correct,,blames women as a group for problems
+C058969,Correct,,derogatory contemptuous remark
+C058973,Correct,,rude dismissive insult
+C058977,Wrong,Safe,"mild personal criticism, not offensive"
+C058983,Correct,,derogatory personal insult
+C058984,Wrong,Safe,"mild critical advice, not offensive"
+C058985,Correct,,explicit misogynistic denial of respect to women
+C058986,Correct,,misogynistic generalization about women's intelligence/agency
+C058987,Wrong,Safe,"mild negative opinion about content, not offensive"
+C058989,Wrong,Offensive,"generic dismissive complaint, no explicit hate target"
+C058991,Wrong,Offensive,"vague dismissive remark, no explicit gender/group named"
+C058993,Correct,,blames women as a group for problems
+C059000,Correct,,misogynistic generalization undermining women's equality
+C059002,Wrong,Offensive,"generic dismissive complaint, no explicit hate target"
+C059004,Correct,,misogynistic generalization about women's sense
+C059011,Correct,,name-calling insult ('waste fellow')
+C059013,Correct,,dismissive personal insult
+C059018,Correct,,insulting remark questioning sanity
+C059020,Correct,,insulting remark about person's thinking
+C059026,Correct,,misogynistic generalization distrusting women
+C059031,Correct,,misogynistic generalization undermining women's equality
+C059032,Wrong,Offensive,"generic dismissive remark, no explicit hateful target"
+C059034,Wrong,Offensive,"dismissive remark, not group-based hate"
+C059038,Wrong,Offensive,"generic dismissive complaint, no explicit hate target"
+C059042,Wrong,Offensive,"generic dismissive remark, no explicit hateful target"
+C059043,Correct,,misogynistic generalization undermining women's equality
+C059047,Wrong,Safe,"mild critical advice, not offensive"
+C059051,Correct,,direct personal insult
+C059052,Correct,,personal insult blaming individual
+C059058,Correct,,"mocking, derogatory remark"
+C059060,Correct,,insulting remark about person's thinking
+C059061,Correct,,direct personal insult
+C059062,Correct,,explicit misogynistic statement restricting women
+C059063,Wrong,Offensive,"vague dismissive remark, no explicit group target"
+C059064,Correct,,derogatory insult calling content trash
+C059068,Correct,,derogatory insult calling content trash
+C059078,Correct,,personal insult blaming individual
+C059085,Correct,,contains direct insult ('stupid')
+C059086,Correct,,"rude, hostile command"
+C059090,Wrong,Offensive,"dismissive remark, not group-based hate"
+C059092,Wrong,Safe,"mild criticism, no insult or hostility"
+C059095,Wrong,Offensive,"vague dismissive remark, no explicit group target"
+C059102,Correct,,"blames women as a group, misogynistic generalization"
+C059103,Wrong,Safe,"mild criticism, no insult or hostility"
+C059107,Correct,,rude dismissive insult
+C059109,Wrong,Safe,"mild critical advice, not offensive"
+C059111,Correct,,blames women as a group for problems
+C059118,Wrong,Offensive,"vague dismissive remark, no explicit group target"
+C059122,Wrong,Safe,"mild critical advice, not offensive"
+C059125,Wrong,Offensive,"generic dismissive remark, no explicit hateful target"
+C059134,Correct,,insulting remark questioning sanity
+C059141,Correct,,direct personal insult
+C059147,Wrong,Offensive,"dismissive remark, not group-based hate"
+C059149,Wrong,Safe,"mild critical advice, not offensive"
+C059150,Correct,,derogatory dismissal of content
+C059154,Wrong,Safe,"mild personal criticism, not offensive"
+C059162,Correct,,insulting remark questioning sanity
+C059166,Wrong,Offensive,"generic dismissive remark, no explicit hateful target"
+C059167,Correct,,misogynistic generalization distrusting women
+C059169,Correct,,personal insult belittling the person
+C059174,Correct,,name-calling insult ('waste fellow')
+C059177,Wrong,Offensive,"vague dismissive remark, no explicit gender/group named"
+C059182,Correct,,"mocking, derogatory remark"
+C059186,Wrong,Offensive,"vague dismissive remark, no explicit gender/group named"
+C059187,Correct,,rude dismissive insult
+C059209,Correct,,derogatory insult calling content trash
+C059215,Correct,,misogynistic generalization denying women access/rights
+C059220,Correct,,misogynistic generalization undermining women's equality
+C059229,Correct,,misogynistic generalization denying women access/rights
+C059232,Wrong,Offensive,"vague dismissive remark, no explicit gender/group named"
+C059235,Correct,,"mocking, derogatory remark"
+C059238,Correct,,insulting remark questioning sanity
+C059246,Correct,,misogynistic stereotype about women
+C059250,Correct,,"blames women as a group, misogynistic generalization"
+C059251,Correct,,misogynistic stereotype about women
+C059256,Wrong,Safe,"mild criticism, lacks insulting language"
+C059257,Correct,,personal insult belittling the person
+C059259,Wrong,Safe,"mild criticism, no insult or hostility"
+C059260,Wrong,Offensive,"vague dismissive remark, no explicit gender/group named"
+C059262,Wrong,Safe,"mild critical advice, not offensive"
+C059263,Correct,,name-calling insult ('waste fellow')
+C059266,Correct,,derogatory dismissal of content
+C059271,Correct,,explicit misogynistic denial of respect to women
+C059276,Wrong,Safe,"mild criticism, no insult or hostility"
+C059277,Correct,,derogatory personal insult
+C059278,Correct,,personal insult belittling the person
+C059280,Correct,,insulting remark questioning sanity
+C059282,Correct,,name-calling insult ('waste fellow')
+C059285,Correct,,personal insult blaming individual
+C059287,Correct,,derogatory insult calling content trash
+C059292,Wrong,Offensive,"vague dismissive remark, no explicit gender/group named"
+C059293,Correct,,misogynistic generalization denying women access/rights
+C059294,Correct,,explicit misogynistic denial of respect to women
+C059297,Correct,,misogynistic stereotype about women
+C059300,Correct,,explicit misogynistic statement restricting women
+C059303,Wrong,Offensive,"vague dismissive remark, no explicit gender/group named"
+C059313,Correct,,misogynistic generalization denying women access/rights
+C059316,Wrong,Offensive,"generic dismissive remark, no explicit hateful target"
+C059317,Correct,,explicit misogynistic statement restricting women
+C059321,Wrong,Offensive,"vague dismissive remark, no explicit gender-based hate"
+C059326,Correct,,derogatory insult calling content trash
+C059330,Correct,,insulting remark about person's thinking
+C059335,Wrong,Offensive,"generic dismissive remark, no explicit hateful target"
+C059336,Wrong,Offensive,"vague dismissive remark, no explicit gender-based hate"
+C059339,Wrong,Offensive,"generic dismissive remark, no explicit hateful target"
+C059342,Correct,,insulting remark questioning sanity
+C059346,Correct,,misogynistic generalization denying women access/rights
+C059347,Wrong,Offensive,"vague dismissive remark, no explicit group target"
+C059352,Wrong,Offensive,"generic dismissive complaint, no explicit hate target"
+C059355,Wrong,Offensive,"generic dismissive remark, no explicit hateful target"
+C059360,Correct,,misogynistic generalization about women's intelligence/agency
+C059363,Correct,,"mocking, derogatory remark"
+C059364,Correct,,misogynistic generalization denying women access/rights
+C059369,Correct,,"blames women as a group, misogynistic generalization"
+C059375,Wrong,Offensive,"generic dismissive remark, no explicit hateful target"
+C059378,Correct,,misogynistic generalization undermining women's equality
+C059386,Correct,,insulting remark about person's thinking
+C059389,Correct,,contains direct insult ('stupid')
+C059394,Wrong,Safe,"mild negative opinion about content, not offensive"
+C059399,Correct,,direct personal insult
+C059406,Correct,,misogynistic generalization about women's sense
+C059407,Correct,,personal insult blaming individual
+C059408,Correct,,explicit misogynistic statement restricting women
+C059411,Wrong,Offensive,"vague dismissive remark, no explicit group target"
+C059412,Correct,,derogatory insult calling content trash
+C059420,Correct,,explicit misogynistic statement restricting women
+C059422,Correct,,explicit misogynistic statement restricting women
+C059429,Correct,,personal insult belittling the person
+C059430,Wrong,Offensive,"dismissive remark, not group-based hate"
+C059435,Correct,,explicit misogynistic denial of respect to women
+C059436,Correct,,misogynistic generalization about women's sense
+C059446,Correct,,misogynistic generalization undermining women's equality
+C059447,Wrong,Safe,"mild personal criticism, not offensive"
+C059460,Correct,,misogynistic generalization about women's intelligence/agency
+C059461,Correct,,misogynistic generalization undermining women's equality
+C059462,Correct,,derogatory dismissal of content
+C059463,Wrong,Safe,"mild personal criticism, not offensive"
+C059468,Correct,,rude dismissive insult
+C059469,Correct,,explicit misogynistic statement restricting women
+C059480,Correct,,explicit misogynistic statement restricting women
+C059488,Wrong,Offensive,"generic dismissive remark, no explicit hateful target"
+C059500,Correct,,misogynistic stereotype about women
+C059501,Correct,,contains direct insult ('stupid')
+C059502,Correct,,insulting remark questioning sanity
+C059504,Correct,,derogatory contemptuous remark
+C059511,Correct,,misogynistic generalization about women's sense
+C059515,Correct,,misogynistic generalization distrusting women
+C059521,Wrong,Safe,"mild criticism, no insult or hostility"
+C059523,Correct,,misogynistic generalization undermining women's equality
+C059524,Correct,,explicit misogynistic denial of respect to women
+C059530,Wrong,Safe,"mild criticism, no insult or hostility"
+C059532,Correct,,misogynistic generalization denying women access/rights
+C059533,Correct,,"blames women as a group, misogynistic generalization"
+C059534,Wrong,Offensive,"vague dismissive remark, no explicit gender-based hate"
+C059535,Correct,,explicit misogynistic denial of respect to women
+C059538,Correct,,misogynistic generalization about women's intelligence/agency
+C059540,Wrong,Offensive,"vague dismissive remark, no explicit gender-based hate"
+C059541,Correct,,personal insult belittling the person
+C059542,Wrong,Safe,"mild personal criticism, not offensive"
+C059544,Correct,,derogatory dismissal of content
+C059546,Correct,,misogynistic generalization undermining women's equality
+C059550,Correct,,misogynistic generalization distrusting women
+C059553,Correct,,"blames women as a group, misogynistic generalization"
+C059554,Correct,,"blames women as a group, misogynistic generalization"
+C059559,Correct,,direct personal insult
+C059566,Correct,,misogynistic generalization denying women access/rights
+C059570,Wrong,Safe,"mild personal criticism, not offensive"
+C059575,Correct,,insulting remark about person's thinking
+C059578,Correct,,"mocking, derogatory remark"
+C059579,Wrong,Safe,"mild criticism, no insult or hostility"
+C059580,Wrong,Safe,"mild negative opinion about content, not offensive"
+C059581,Correct,,blames women as a group for problems
+C059582,Correct,,insulting remark about person's thinking
+C059584,Wrong,Safe,"mild criticism, no insult or hostility"
+C059588,Correct,,"blames women as a group, misogynistic generalization"
+C059592,Correct,,misogynistic generalization denying women access/rights
+C059593,Correct,,derogatory personal insult
+C059597,Correct,,"blames women as a group, misogynistic generalization"
+C059598,Correct,,misogynistic generalization undermining women's equality
+C059605,Wrong,Safe,"mild negative opinion about content, not offensive"
+C059606,Correct,,direct personal insult
+C059607,Correct,,personal insult blaming individual
+C059609,Correct,,"rude, hostile command"
+C059611,Correct,,insulting remark questioning sanity
+C059612,Correct,,dismissive personal insult
+C059618,Correct,,name-calling insult ('waste fellow')
+C059620,Wrong,Offensive,"vague dismissive remark, no explicit gender-based hate"
+C059622,Correct,,insulting remark about person's thinking
+C059634,Correct,,misogynistic generalization about women's sense
+C059640,Correct,,"mocking, derogatory remark"
+C059647,Correct,,explicit hateful generalization targeting feminists as a group
+C059650,Correct,,misogynistic generalization distrusting women
+C059652,Wrong,Offensive,"generic dismissive remark, no explicit hateful target"
+C059653,Correct,,"mocking, derogatory remark"
+C059654,Correct,,misogynistic generalization about women's intelligence/agency
+C059658,Correct,,derogatory insult calling content trash
+C059661,Wrong,Safe,"mild criticism, no insult or hostility"
+C059662,Wrong,Offensive,"vague dismissive remark, no explicit gender/group named"
+C059664,Unsure,,"victim-blaming trope, plausibly gendered but target not explicit"
+C059666,Correct,,explicit hateful generalization targeting feminists as a group
+C059670,Correct,,insulting remark about person's thinking
+C059679,Correct,,personal insult blaming individual
+C059680,Unsure,,"victim-blaming trope, plausibly gendered but target not explicit"
+C059683,Correct,,explicit misogynistic statement restricting women
+C059700,Wrong,Safe,"mild critical advice, not offensive"
+C059704,Correct,,misogynistic generalization about women's intelligence/agency
+C059705,Wrong,Safe,"mild criticism, lacks insulting language"
+C059719,Correct,,derogatory personal insult
+C059720,Correct,,"rude, hostile command"
+C059725,Wrong,Safe,"mild criticism, lacks insulting language"
+C059726,Wrong,Offensive,"generic dismissive remark, no explicit hateful target"
+C059729,Wrong,Offensive,"vague dismissive remark, no explicit gender-based hate"
+C059730,Wrong,Offensive,"vague dismissive remark, no explicit group target"
+C059733,Wrong,Safe,"mild criticism, lacks insulting language"
+C059734,Wrong,Offensive,"vague dismissive remark, no explicit group target"
+C059757,Wrong,Offensive,"dismissive remark, not group-based hate"
+C059759,Wrong,Offensive,"vague dismissive remark, no explicit gender/group named"
+C059760,Correct,,insulting remark questioning sanity
+C059761,Correct,,explicit hateful generalization targeting feminists as a group
+C059763,Correct,,explicit misogynistic statement restricting women
+C059765,Correct,,"rude, hostile command"
+C059774,Correct,,explicit hateful generalization targeting feminists as a group
+C059775,Correct,,derogatory dismissal of content
+C059782,Correct,,derogatory contemptuous remark
+C059786,Wrong,Offensive,"generic dismissive remark, no explicit hateful target"
+C059788,Wrong,Offensive,"dismissive remark, not group-based hate"
+C059790,Correct,,blames women as a group for problems
+C059792,Wrong,Offensive,"generic dismissive remark, no explicit hateful target"
+C059796,Correct,,direct personal insult
+C059800,Correct,,derogatory dismissal of content
+C059811,Correct,,misogynistic generalization undermining women's equality
+C059823,Wrong,Safe,"mild criticism, no insult or hostility"
+C059833,Wrong,Safe,"mild negative opinion about content, not offensive"
+C059837,Correct,,misogynistic generalization distrusting women
+C059838,Correct,,blames women as a group for problems
+C059848,Wrong,Safe,"mild criticism, no insult or hostility"
+C059851,Wrong,Safe,"mild negative opinion about content, not offensive"
+C059855,Correct,,explicit misogynistic statement restricting women
+C059856,Correct,,misogynistic generalization about women's intelligence/agency
+C059858,Correct,,direct personal insult
+C059860,Correct,,"blames women as a group, misogynistic generalization"
+C059862,Correct,,dismissive personal insult
+C059866,Correct,,explicit misogynistic statement restricting women
+C059876,Correct,,misogynistic generalization undermining women's equality
+C059877,Correct,,insulting remark about person's thinking
+C059880,Correct,,"blames women as a group, misogynistic generalization"
+C059887,Correct,,personal insult belittling the person
+C059888,Wrong,Offensive,"vague dismissive remark, no explicit group target"
+C059890,Wrong,Safe,"mild personal criticism, not offensive"
+C059892,Wrong,Offensive,"vague dismissive remark, no explicit gender/group named"
+C059897,Correct,,misogynistic generalization about women's intelligence/agency
+C059898,Wrong,Offensive,"vague dismissive remark, no explicit gender/group named"
+C059905,Correct,,"mocking, derogatory remark"
+C059907,Correct,,misogynistic generalization distrusting women
+C059908,Correct,,"mocking, derogatory remark"
+C059909,Correct,,"mocking, derogatory remark"
+C059914,Wrong,Offensive,"vague dismissive remark, no explicit gender/group named"
+C059915,Wrong,Safe,"mild critical advice, not offensive"
+C059916,Correct,,misogynistic stereotype about women
+C059917,Correct,,explicit misogynistic statement restricting women
+C059921,Correct,,derogatory contemptuous remark
+C059926,Wrong,Safe,"mild critical advice, not offensive"
+C059927,Wrong,Offensive,"generic dismissive remark, no explicit hateful target"
+C059930,Wrong,Offensive,"vague dismissive remark, no explicit gender/group named"
+C059933,Correct,,name-calling insult ('waste fellow')
+C059935,Unsure,,"victim-blaming trope, plausibly gendered but target not explicit"
+C059938,Correct,,personal insult belittling the person
+C059940,Correct,,personal insult belittling the person
+C059941,Wrong,Offensive,"generic dismissive complaint, no explicit hate target"
+C059944,Correct,,explicit hateful generalization targeting feminists as a group
+C059947,Correct,,direct personal insult
+C059949,Correct,,misogynistic generalization distrusting women
+C059952,Correct,,derogatory dismissal of content
+C059954,Correct,,misogynistic generalization undermining women's equality
+C059955,Correct,,direct personal insult
+C059958,Correct,,dismissive personal insult
+C059961,Correct,,name-calling insult ('waste fellow')
+C059963,Correct,,derogatory personal insult
+C059966,Correct,,name-calling insult ('waste fellow')
+C059972,Correct,,rude dismissive insult
+C059974,Unsure,,"victim-blaming trope, plausibly gendered but target not explicit"
+C059980,Correct,,misogynistic generalization undermining women's equality
+C059983,Wrong,Safe,"mild personal criticism, not offensive"
+C059986,Correct,,derogatory personal insult
+C059993,Correct,,name-calling insult ('waste fellow')
+C059995,Correct,,direct personal insult
+C059996,Correct,,name-calling insult ('waste fellow')
+C059998,Wrong,Offensive,"vague dismissive remark, no explicit gender/group named"
+C060002,Correct,,"mocking, derogatory remark"
+C060011,Correct,,insulting remark about person's thinking
+C060013,Correct,,direct personal insult
+C060015,Wrong,Offensive,"vague dismissive remark, no explicit gender/group named"
+C060016,Wrong,Safe,"mild critical advice, not offensive"
+C060018,Wrong,Offensive,"generic dismissive complaint, no explicit hate target"
+C060022,Correct,,misogynistic generalization denying women access/rights
+C060023,Correct,,insulting remark about person's thinking
+C060026,Correct,,misogynistic generalization undermining women's equality
+C060030,Correct,,misogynistic generalization distrusting women
+C060037,Correct,,name-calling insult ('waste fellow')
+C060042,Correct,,explicit misogynistic statement restricting women
+C060044,Correct,,derogatory contemptuous remark
+C060045,Wrong,Safe,"mild criticism, lacks insulting language"
+C060051,Correct,,derogatory insult calling content trash
+C060060,Wrong,Offensive,"generic dismissive remark, no explicit hateful target"
+C060062,Correct,,"blames women as a group, misogynistic generalization"
