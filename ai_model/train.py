@@ -171,7 +171,26 @@ class Trainer:
             num_training_steps=total_steps,
         )
 
-        self.scaler = torch.cuda.amp.GradScaler(enabled=(DEVICE.type == "cuda"))
+        # bf16 autocast where the GPU supports it, NOT fp16. XLM-R overflows
+        # fp16 in the backward pass on this setup: gradients come out inf on
+        # every step, so the fp16 GradScaler skips every optimizer step and
+        # the model never actually trains (a full 8-epoch run left all 201
+        # params bit-identical to init). bf16 has fp32's exponent range, so
+        # no overflow and no loss scaling is needed - verified gradients go
+        # finite (~10) and weights move. fp16 is kept only as a fallback for
+        # pre-Ampere GPUs that lack bf16, where the scaler is still required.
+        self.use_bf16 = DEVICE.type == "cuda" and torch.cuda.is_bf16_supported()
+        self.amp_dtype = torch.bfloat16 if self.use_bf16 else torch.float16
+        # Scaler is a no-op passthrough under bf16 (enabled=False), so the
+        # scale/unscale/step/update calls below stay unchanged for both paths.
+        self.scaler = torch.cuda.amp.GradScaler(
+            enabled=(DEVICE.type == "cuda" and not self.use_bf16)
+        )
+        logger.info(
+            "Mixed precision: %s",
+            "bf16 (no scaler)" if self.use_bf16
+            else "fp16 (scaled)" if self.scaler.is_enabled() else "off (fp32)",
+        )
 
         self.best_f1 = 0.0
         self.start_epoch = 0
@@ -208,7 +227,13 @@ class Trainer:
                 self.optimizer.zero_grad()
 
             with torch.set_grad_enabled(train):
-                with torch.autocast(device_type=DEVICE.type, enabled=self.scaler.is_enabled()):
+                # enabled follows "is this a CUDA run", not the scaler - under
+                # bf16 the scaler is disabled but autocast must still be on.
+                with torch.autocast(
+                    device_type=DEVICE.type,
+                    dtype=self.amp_dtype,
+                    enabled=(DEVICE.type == "cuda"),
+                ):
                     outputs = self.model(
                         input_ids=input_ids,
                         attention_mask=attention_mask,
