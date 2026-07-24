@@ -1,0 +1,301 @@
+comment_id,verdict,corrected_category,reason
+C038284,Wrong,Offensive,"mocking remark about skin lotion, not hate speech"
+C038286,Wrong,Offensive,"sarcastic political jab, not hate speech"
+C038288,Wrong,Safe,"music comment, no hate/offense"
+C038289,Wrong,Safe,comment about movie score similarity
+C038292,Wrong,Safe,praise for actor despite insults faced
+C038294,Wrong,Threat,"personal curse/threat, not group hate"
+C038312,Wrong,Safe,"movie graphics critique, no hate"
+C038316,Wrong,Safe,mild criticism of a judging decision
+C038322,Wrong,Safe,political praise comment
+C038325,Wrong,Safe,neutral political observation
+C038327,Correct,,vulgar slur targeting outsider group
+C038336,Correct,,"vulgar insult, correctly offensive"
+C038338,Correct,,vulgar sexual insult
+C038339,Wrong,Safe,"generic hyperbolic statement, not offensive"
+C038344,Wrong,Safe,praise for actor family
+C038346,Wrong,Safe,song promotion comment
+C038355,Wrong,Safe,"gossip about elopement, no hate/insult"
+C038356,Correct,,"mocking rival fans, rude tone"
+C038385,Wrong,Safe,political/movie commentary about actor
+C038388,Wrong,Safe,"fan rivalry comment, no insult"
+C038395,Correct,,vulgar insult targeting regional group
+C038400,Wrong,Offensive,"personal insult, not group hate speech"
+C038401,Wrong,Safe,movie opinion comment
+C038406,Wrong,Safe,positive wish for movie success
+C038408,Correct,,vulgar personal insult
+C038414,Correct,,communal grievance targeting religious group
+C038417,Correct,,explicit communal generalization about Muslims
+C038426,Wrong,Offensive,"personal insult, not group hate"
+C038434,Wrong,Safe,fan banter comment
+C038441,Correct,,explicit caste-based hate against Brahmins
+C038442,Wrong,Safe,political encouragement comment
+C038444,Wrong,Safe,movie dialogue comparison
+C038445,Wrong,Safe,movie comparison comment
+C038454,Wrong,Safe,praise for actor's comedy
+C038460,Wrong,Safe,movie/song comment
+C038463,Wrong,Safe,praise for honesty and activism
+C038467,Wrong,Safe,ambiguous but appears neutral/positive
+C038477,Wrong,Safe,regional pride/political support comment
+C038481,Correct,,insult with censored slur
+C038483,Wrong,Offensive,"vulgar personal insult of politician, not group hate"
+C038487,Wrong,Safe,movie critique using slang
+C038488,Wrong,Offensive,sarcastic bribery accusation
+C038494,Correct,,vulgar personal insult
+C038496,Wrong,Safe,fan praise comment
+C038499,Correct,,vulgar caste-based hate insult
+C038507,Wrong,Safe,movie opinion comment
+C038508,Correct,,communal/caste accusation
+C038511,Wrong,Offensive,"vague dismissive remark, no explicit group"
+C038513,Wrong,Offensive,"regional generalization, mild hyperbole"
+C038516,Wrong,Safe,benign health advice comment
+C038517,Wrong,Safe,disappointment about movie viewership
+C038522,Wrong,Safe,casual neutral comment
+C038525,Wrong,Safe,respectful praise comment
+C038526,Wrong,Safe,fan hype comment
+C038528,Wrong,Safe,political comparison comment
+C038533,Correct,,hostile threatening tone kept as offensive
+C038536,Wrong,Safe,political/movie release commentary
+C038537,Wrong,Safe,sympathetic comment about COVID impact
+C038541,Wrong,Safe,"rhetorical political criticism, no hate"
+C038553,Wrong,Safe,comment about song rhyme
+C038555,Wrong,Offensive,"vulgar personal insult, not generalization"
+C038556,Wrong,Safe,mundane comment about savings
+C038557,Wrong,Offensive,vulgar personal insult
+C038559,Correct,,crude language about a game
+C038562,Wrong,Safe,fan hype comment
+C038564,Wrong,Safe,casual movie comment
+C038576,Wrong,Safe,mild movie opinion
+C038578,Wrong,Safe,movie casting opinion
+C038579,Unsure,,unclear/garbled meaning
+C038581,Wrong,Safe,"mild personal criticism, no hostility"
+C038586,Correct,,mocking actor's appearance/style
+C038589,Wrong,Safe,"fan loyalty comment, unclear but benign"
+C038594,Correct,,vulgar gendered insult
+C038598,Wrong,Offensive,mocking/emasculating insult of individual
+C038605,Wrong,Offensive,personal jab about education
+C038609,Wrong,Safe,movie music editing comment
+C038611,Wrong,Offensive,"mocking movie trailer, no group hate"
+C038613,Wrong,Safe,praise for acting
+C038616,Unsure,,unclear xenophobic-tinged remark
+C038619,Correct,,misogynistic slur plus caste reference
+C038622,Wrong,Safe,"pro-Dalit movie reference, not hate"
+C038624,Wrong,Safe,movie villain look comparison
+C038625,Wrong,Safe,unclear but appears positive
+C038626,Wrong,Safe,"frustration about trending, no hate"
+C038633,Wrong,Safe,movie release speculation
+C038634,Wrong,Safe,"condescending YouTube advice, not offensive"
+C038635,Wrong,Safe,cricket sports comment
+C038643,Wrong,Safe,political praise comment
+C038644,Wrong,Safe,"sarcastic media criticism, mild"
+C038645,Unsure,,"garbled text, unclear meaning"
+C038647,Unsure,,"unclear phrase, ambiguous tone"
+C038650,Correct,,mocking actor's interfaith marriage
+C038651,Correct,,insulting mockery of actor/movie
+C038659,Wrong,Safe,mild sarcastic political comment
+C038664,Wrong,Safe,"rhetorical question about upbringing, no hate"
+C038666,Wrong,Safe,motivational comment
+C038668,Wrong,Safe,sympathetic comment about actress
+C038673,Correct,,mocking insult calling person a joker
+C038675,Wrong,Offensive,"personal accusation, not group hate"
+C038683,Unsure,,"mixed sarcastic congratulation, unclear"
+C038686,Wrong,Safe,comment about movie viewership
+C038698,Wrong,Safe,fan comment about actor
+C038700,Wrong,Safe,neutral producer comment
+C038706,Wrong,Offensive,"political rivalry insult, not identity hate"
+C038708,Wrong,Safe,negative movie review
+C038726,Wrong,Safe,"political/regional question, no hate"
+C038729,Wrong,Safe,fan frustration comment
+C038733,Correct,,mocking insult about actor's body
+C038735,Wrong,Safe,movie critique comment
+C038739,Correct,,dehumanizing insult toward group
+C038740,Wrong,Safe,praise for production banner
+C038742,Wrong,Safe,movie reference joke
+C038744,Wrong,Safe,praise comment for actor
+C038745,Wrong,Offensive,"vulgar personal insult, not group hate"
+C038747,Wrong,Safe,casual request comment
+C038749,Unsure,,"unclear tone, possible boast/threat"
+C038754,Correct,,vulgar misogynistic insult
+C038759,Wrong,Safe,compliment about honesty
+C038760,Wrong,Safe,neutral comment about repeat viewers
+C038763,Correct,,body-shaming comparison of actress
+C038765,Wrong,Safe,praise for father-son roles
+C038766,Wrong,Offensive,"vulgar aggressive trash talk, not hate"
+C038768,Unsure,,unclear gossip comment
+C038769,Wrong,Safe,praise for political leader
+C038771,Wrong,Offensive,political insult using dehumanizing term
+C038773,Wrong,Threat,curse wishing death/disappearance
+C038774,Wrong,Safe,music comparison comment
+C038775,Wrong,Safe,"fan rivalry banter, playful tone"
+C038778,Correct,,mocking insult comparing to beggars
+C038786,Wrong,Safe,fan wish for show continuation
+C038788,Wrong,Safe,casual remark about likes
+C038801,Wrong,Safe,mild complaint about language use
+C038805,Wrong,Offensive,"insult toward directors, no specific protected group"
+C038810,Wrong,Safe,promotional comment about YouTuber
+C038813,Wrong,Safe,fan affection comment
+C038815,Wrong,Offensive,hostile rhetoric threatening legal action
+C038822,Correct,,vulgar insult
+C038825,Wrong,Safe,mild sarcastic remark about likes
+C038830,Wrong,Offensive,"vulgar corruption complaint, not group hate"
+C038836,Wrong,Safe,"anti-caste message, not hate"
+C038846,Wrong,Safe,mild mockery of singing style
+C038848,Correct,,caste-based slur insult
+C038849,Wrong,Safe,simple negative opinion
+C038850,Wrong,Safe,"fan rivalry taunt, mild"
+C038851,Unsure,,garbled/unclear text
+C038853,Unsure,,"unclear text, possibly vulgar"
+C038859,Wrong,Safe,fan comment
+C038867,Correct,,explicit caste-based hate speech
+C038870,Unsure,,unclear violent imagery
+C038871,Unsure,,garbled caste-related text
+C038878,Wrong,Safe,"praise for a strong roast/comeback, no hate"
+C038879,Wrong,Offensive,"personal insult, not group hate speech"
+C038881,Wrong,Safe,sarcastic remark about video quality
+C038882,Wrong,Safe,"list of actor/movie names, no hate"
+C038886,Wrong,Safe,political praise comment
+C038890,Wrong,Offensive,"political insult, not identity-based hate"
+C038904,Wrong,Offensive,personal insult
+C038907,Wrong,Safe,casual question about movie release
+C038912,Correct,,vulgar caste/gender insult toward fans
+C038918,Wrong,Safe,praise comment
+C038924,Correct,,sarcastic dismissive contempt
+C038928,Correct,,insult calling director a dog
+C038930,Wrong,Safe,praise for actor's voice
+C038934,Wrong,Safe,praise comment
+C038936,Wrong,Safe,neutral quote about entering politics
+C038937,Correct,,vulgar insult using slurs
+C038942,Wrong,Safe,mild sympathetic criticism
+C038943,Correct,,vulgar caste-based hate speech
+C038946,Wrong,Safe,regional pride comment
+C038955,Wrong,Safe,mild negative review
+C038960,Correct,,vulgar personal insult
+C038961,Wrong,Safe,"list crediting cast/crew, no hate"
+C038963,Wrong,Offensive,dismissive rhetorical insult
+C038964,Wrong,Safe,praise comment
+C038965,Wrong,Safe,praise for movie/director
+C038970,Wrong,Safe,comment about trailer quality
+C038971,Unsure,,short unclear phrase
+C038974,Wrong,Safe,casual comment about views
+C038975,Wrong,Safe,casual movie comparison
+C038977,Wrong,Offensive,dismissive political jab
+C038981,Wrong,Safe,"rhetorical question, no insult"
+C038984,Wrong,Safe,"confused criticism of statements, no hate"
+C038990,Wrong,Safe,positive praise comment
+C038992,Wrong,Safe,educational/spiritual comment
+C038993,Unsure,,ambiguous caste-related remark
+C038995,Wrong,Safe,music comparison critique
+C038996,Wrong,Offensive,"vulgar personal insult, not group hate"
+C039002,Wrong,Safe,praise comment
+C039003,Wrong,Safe,mild political mockery
+C039005,Wrong,Safe,neutral movie opinion
+C039006,Wrong,Safe,casual comment about view milestones
+C039008,Wrong,Threat,hostile wish for destruction of filmmaker
+C039011,Wrong,Safe,garbled fan hype comment
+C039012,Wrong,Threat,wishes accident/coma on actor
+C039019,Wrong,Safe,mild complaint about copying
+C039026,Correct,,vulgar sexual insult
+C039027,Wrong,Threat,threatening violent language
+C039028,Wrong,Offensive,"vulgar corruption insult, not group hate"
+C039029,Correct,,extremely vulgar sexual insult
+C039030,Correct,,vulgar insult
+C039031,Unsure,,"short unclear phrase, possibly vulgar"
+C039036,Wrong,Safe,casual comment
+C039037,Wrong,Safe,positive encouragement comment
+C039040,Wrong,Offensive,"personal insult, not group hate"
+C039044,Wrong,Sexual Harassment,explicit vulgar sexual insult
+C039051,Wrong,Offensive,"short insult, not group hate"
+C039052,Wrong,Safe,neutral political reference
+C039053,Wrong,Offensive,"political sarcasm, mild insult"
+C039054,Wrong,Safe,praise for a roast video
+C039055,Wrong,Hate Speech,vulgar caste slur disrespecting Ambedkar
+C039061,Wrong,Safe,positive comment about a person
+C039063,Wrong,Safe,playful fan mockery
+C039064,Wrong,Safe,praise for actor
+C039066,Wrong,Safe,casual comment
+C039067,Unsure,,unclear phrase
+C039075,Wrong,Offensive,sarcastic mocking criticism
+C039085,Wrong,Safe,praise/exclamation
+C039086,Wrong,Safe,praise for movie
+C039090,Wrong,Safe,fan hype/emotional praise
+C039097,Wrong,Safe,vague political comment
+C039098,Wrong,Safe,mild praise with slight jab
+C039099,Wrong,Safe,casual comment
+C039100,Wrong,Safe,"mild criticism, not hate"
+C039101,Wrong,Offensive,personal accusation of theft
+C039102,Wrong,Offensive,"vulgar personal insult, not group hate"
+C039116,Unsure,,"dark/morbid joke, ambiguous intent"
+C039117,Wrong,Safe,sympathetic comment
+C039119,Wrong,Offensive,mocking political figure
+C039121,Wrong,Offensive,mocking insult about illiteracy
+C039126,Wrong,Safe,casual comment about dislikes
+C039131,Wrong,Safe,movie comparison comment
+C039140,Wrong,Safe,joke about dislike count
+C039142,Wrong,Offensive,"personal insult, not group hate"
+C039143,Wrong,Safe,mild criticism about acting age
+C039147,Wrong,Safe,mild criticism of director's choices
+C039151,Unsure,,unclear phrase
+C039153,Wrong,Offensive,ableist mocking comparison
+C039157,Wrong,Safe,"mild disdain expression, casual"
+C039160,Wrong,Offensive,personal insult
+C039163,Correct,,crude language taunting fans
+C039164,Wrong,Safe,"mild criticism, not hate"
+C039169,Wrong,Offensive,body-shaming comment about teeth
+C039170,Wrong,Safe,"media criticism, not hate"
+C039178,Wrong,Threat,violent threat against videographer
+C039189,Correct,,vulgar misogynistic insult
+C039191,Wrong,Safe,fan praise comment
+C039194,Wrong,Safe,neutral speculation about politics
+C039199,Wrong,Safe,mild criticism about dance
+C039215,Wrong,Safe,mild criticism about dialogue
+C039216,Wrong,Safe,"sports/political comment, no hate"
+C039218,Wrong,Safe,"fan hype rhetoric, not real threat"
+C039219,Wrong,Safe,vague philosophical comment
+C039225,Wrong,Safe,self-reflective comment
+C039228,Wrong,Safe,unclear movie comment
+C039246,Wrong,Safe,comment about piracy platforms
+C039248,Wrong,Safe,"Tamil pride/nationalist sentiment, no direct hate"
+C039254,Wrong,Safe,positive statement
+C039259,Wrong,Safe,political praise
+C039271,Wrong,Safe,praise for leader/movie
+C039282,Wrong,Offensive,"mocking rival fans, not group hate"
+C039284,Wrong,Safe,movie release comparison comment
+C039289,Wrong,Offensive,personal political insult
+C039292,Wrong,Safe,praise for acting
+C039293,Correct,,dismissive insult of actor
+C039294,Wrong,Hate Speech,vulgar caste-based insult toward director
+C039295,Wrong,Safe,praise for movie
+C039296,Wrong,Safe,mild complaint about dislikes
+C039299,Wrong,Offensive,short insult
+C039300,Correct,,insult calling commenter a fool
+C039304,Wrong,Safe,"mild criticism, not hate"
+C039313,Wrong,Safe,praise for leader
+C039314,Wrong,Safe,compliment about appearance
+C039315,Wrong,Offensive,vulgar insult toward channel
+C039317,Wrong,Safe,unclear political comment
+C039329,Wrong,Safe,positive statement
+C039333,Wrong,Safe,praise comment
+C039339,Wrong,Safe,praise for movie trailer
+C039340,Wrong,Safe,praise for director
+C039341,Wrong,Safe,compliment about dance
+C039344,Wrong,Safe,"fan hype rhetoric, not real threat"
+C039346,Wrong,Safe,encouragement comment
+C039347,Wrong,Safe,fan comment
+C039353,Wrong,Safe,fan hype comment
+C039355,Wrong,Offensive,personal political insult
+C039358,Wrong,Safe,religious/philosophical comment
+C039360,Wrong,Safe,praise comment
+C039362,Wrong,Safe,mild criticism comparing actors
+C039372,Unsure,,"critical caste commentary, ambiguous tone"
+C039386,Wrong,Safe,"mostly praise, idiomatic dismissal of critics"
+C039391,Wrong,Safe,mild fan banter
+C039396,Wrong,Safe,fan hype praise
+C039414,Correct,,mocking insult calling person a madman
+C039425,Wrong,Offensive,"nationalistic jab, mild"
+C039430,Wrong,Safe,neutral comment about video editing
+C039431,Wrong,Safe,enthusiastic fan comment
+C039434,Wrong,Safe,political praise comment
+C039441,Correct,,regional group stereotype/generalization
+C039445,Wrong,Safe,neutral question
+C039448,Wrong,Safe,positive statement
+C039453,Wrong,Safe,"mild complaint, not offensive"

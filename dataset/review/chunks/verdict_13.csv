@@ -1,0 +1,1074 @@
+﻿comment_id,verdict,corrected_category,reason
+C070797,Correct,,dismissive/insulting remark about content
+C070798,Correct,,explicit misogynistic generalization about women
+C070799,Correct,,mildly rude critical remark directed at person
+C070806,Wrong,Offensive,"generic insult about unnamed 'they', no explicit hate target"
+C070808,Correct,,insulting dismissive remark
+C070823,Correct,,dismissive/insulting remark about content
+C070825,Wrong,Offensive,"generic insult about unnamed 'they', no explicit hate target"
+C070831,Correct,,dismissive rude remark
+C070844,Correct,,misogynistic generalization about women
+C070845,Correct,,insulting dismissive remark
+C070846,Correct,,"explicit misogynistic statement, women should stay offline"
+C070850,Wrong,Offensive,"generic dismissive insult, no explicit gender/group target"
+C070853,Correct,,explicit misogynistic generalization about women
+C070855,Correct,,misogynistic generalization about women
+C070866,Wrong,Offensive,"generic dismissive insult, no explicit hate target"
+C070868,Correct,,insulting remark targeting the person
+C070874,Wrong,Offensive,"generic dismissive insult, not targeting protected group"
+C070875,Correct,,misogynistic generalization about women
+C070879,Correct,,insulting remark targeting the person
+C070881,Correct,,insulting dismissive remark
+C070882,Correct,,misogynistic generalization blaming women
+C070884,Correct,,broad hateful generalization targeting feminists as a group
+C070885,Correct,,insulting dismissive remark
+C070892,Correct,,misogynistic generalization about women
+C070894,Correct,,direct insult ('waste fellow')
+C070895,Correct,,insulting remark about the person
+C070897,Wrong,Offensive,"generic dismissive insult, no explicit hate target"
+C070901,Correct,,condescending rebuke about person's post
+C070902,Correct,,direct insult calling logic 'stupid'
+C070904,Correct,,dismissive/insulting remark about content
+C070910,Correct,,dismissive insulting remark
+C070911,Correct,,insulting remark about the person
+C070920,Correct,,misogynistic generalization about women
+C070922,Correct,,insulting remark targeting the person
+C070926,Correct,,insulting dismissive remark
+C070937,Correct,,insulting dismissive remark
+C070939,Wrong,Offensive,"generic dismissive insult, no explicit gender/group target"
+C070940,Correct,,dismissive critical remark about content
+C070941,Correct,,dismissive rude remark
+C070942,Correct,,insulting remark calling thinking trashy
+C070945,Wrong,Offensive,"generic dismissive insult, not targeting protected group"
+C070954,Correct,,insulting/mocking remark
+C070958,Correct,,insulting remark questioning sanity
+C070966,Correct,,insulting remark about the person
+C070969,Correct,,broad hateful generalization targeting feminists as a group
+C070976,Wrong,Offensive,"generic dismissive insult, no explicit hate target"
+C070977,Correct,,sexist stereotype generalizing about women
+C070985,Correct,,explicit misogynistic generalization about women
+C070987,Correct,,explicit misogynistic generalization about women
+C070988,Wrong,Offensive,"dismissive generic insult, not explicitly hateful toward a group"
+C070995,Correct,,misogynistic generalization blaming women
+C070997,Correct,,insulting remark targeting the person
+C071007,Correct,,insulting remark calling content trash
+C071010,Correct,,condescending rebuke directed at person
+C071013,Correct,,misogynistic generalization blaming women
+C071014,Wrong,Offensive,"dismissive generic insult, not explicitly hateful toward a group"
+C071016,Correct,,misogynistic generalization about women
+C071017,Correct,,insulting/mocking remark
+C071021,Correct,,misogynistic generalization blaming women
+C071023,Wrong,Offensive,"generic insult, no explicit hate target"
+C071031,Correct,,dismissive rude remark
+C071040,Correct,,insulting dismissive remark
+C071047,Correct,,misogynistic generalization about women
+C071049,Correct,,direct insult calling logic 'stupid'
+C071050,Correct,,condescending rebuke about person's post
+C071057,Correct,,misogynistic generalization about women
+C071060,Wrong,Offensive,"generic insult about unnamed 'they', no explicit hate target"
+C071063,Correct,,broad hateful generalization targeting feminists as a group
+C071070,Correct,,insulting remark calling content trash
+C071077,Wrong,Offensive,"generic dismissive insult, not targeting protected group"
+C071081,Correct,,misogynistic generalization about women
+C071085,Correct,,"rude, dismissive command"
+C071090,Correct,,dismissive insulting remark
+C071092,Correct,,misogynistic generalization blaming women
+C071104,Correct,,misogynistic generalization about women
+C071111,Wrong,Offensive,"generic dismissive insult, no explicit gender/group target"
+C071119,Correct,,misogynistic generalization about women
+C071120,Correct,,dismissive rude remark
+C071123,Wrong,Offensive,"generic dismissive insult, no explicit gender/group target"
+C071129,Correct,,explicit misogynistic generalization about women
+C071130,Correct,,insulting dismissive remark
+C071138,Correct,,misogynistic generalization about women
+C071139,Correct,,misogynistic generalization about women
+C071142,Correct,,insulting/mocking remark
+C071143,Correct,,insulting dismissive remark
+C071144,Correct,,misogynistic generalization about women
+C071153,Correct,,"rude, dismissive command"
+C071154,Correct,,explicit misogynistic generalization about women
+C071158,Correct,,insulting remark calling thinking trashy
+C071181,Wrong,Offensive,"generic dismissive insult, not targeting protected group"
+C071186,Correct,,"explicit misogynistic statement, women should stay offline"
+C071187,Wrong,Offensive,"generic dismissive insult, no explicit gender/group target"
+C071189,Correct,,explicit misogynistic generalization about women
+C071192,Correct,,misogynistic generalization blaming women
+C071193,Correct,,insulting remark targeting the person
+C071195,Correct,,misogynistic generalization about women
+C071196,Correct,,insulting remark questioning sanity
+C071200,Correct,,"rude, dismissive command"
+C071201,Correct,,insulting dismissive remark
+C071204,Correct,,"rude, dismissive command"
+C071206,Correct,,insulting remark about the person
+C071207,Correct,,sexist stereotype generalizing about women
+C071217,Correct,,insulting dismissive remark
+C071219,Correct,,misogynistic generalization blaming women
+C071220,Wrong,Offensive,"generic dismissive insult, no explicit gender/group target"
+C071223,Wrong,Offensive,"generic dismissive insult, no explicit gender/group target"
+C071225,Correct,,explicit misogynistic generalization about women
+C071230,Correct,,"mocking, dismissive remark"
+C071232,Wrong,Offensive,"dismissive generic insult, not explicitly hateful toward a group"
+C071233,Correct,,dismissive critical remark about content
+C071234,Correct,,insulting dismissive remark
+C071239,Correct,,misogynistic generalization about women
+C071250,Correct,,sexist stereotype generalizing about women
+C071256,Correct,,dismissive critical remark about content
+C071260,Correct,,insulting remark targeting the person
+C071266,Correct,,"mocking, dismissive remark"
+C071268,Correct,,insulting remark calling content trash
+C071270,Wrong,Offensive,"generic dismissive insult, no explicit hate target"
+C071275,Wrong,Offensive,"generic insult about posters, no explicit hate target"
+C071276,Correct,,condescending rebuke directed at person
+C071280,Correct,,explicit misogynistic statement excluding women from platforms
+C071281,Correct,,misogynistic generalization about women
+C071287,Correct,,broad hateful generalization targeting feminists as a group
+C071290,Correct,,insulting remark about the person
+C071291,Wrong,Offensive,"generic dismissive insult, not targeting protected group"
+C071295,Correct,,misogynistic generalization blaming women
+C071301,Correct,,dismissive rude remark
+C071305,Wrong,Offensive,"generic dismissive insult, no explicit hate target"
+C071311,Correct,,mildly rude critical remark directed at person
+C071313,Correct,,insulting remark calling content trash
+C071315,Wrong,Offensive,"generic dismissive insult, no explicit hate target"
+C071317,Correct,,"mocking, dismissive remark"
+C071321,Wrong,Offensive,"generic dismissive insult, no explicit hate target"
+C071322,Correct,,direct insult calling logic 'stupid'
+C071324,Correct,,dismissive insulting remark
+C071325,Wrong,Offensive,"dismissive generic insult, not explicitly hateful toward a group"
+C071334,Correct,,mildly rude critical remark directed at person
+C071340,Wrong,Offensive,"generic insult about unnamed 'they', no explicit hate target"
+C071342,Correct,,explicit misogynistic statement excluding women from platforms
+C071347,Correct,,"mocking, dismissive remark"
+C071358,Correct,,misogynistic generalization about women
+C071361,Correct,,insulting/mocking remark
+C071362,Correct,,insulting remark calling content trash
+C071370,Correct,,misogynistic generalization about women
+C071372,Correct,,explicit misogynistic generalization about women
+C071376,Correct,,sexist stereotype generalizing about women
+C071377,Wrong,Offensive,"generic dismissive insult, no explicit gender/group target"
+C071385,Correct,,broad hateful generalization targeting feminists as a group
+C071387,Correct,,misogynistic generalization about women
+C071392,Correct,,explicit misogynistic statement excluding women from platforms
+C071395,Correct,,insulting/mocking remark
+C071404,Correct,,explicit misogynistic generalization about women
+C071405,Correct,,explicit misogynistic generalization about women
+C071409,Correct,,dismissive insulting remark
+C071410,Correct,,"explicit misogynistic statement, women should stay offline"
+C071414,Correct,,"rude, dismissive command"
+C071416,Correct,,broad hateful generalization targeting feminists as a group
+C071417,Correct,,"explicit misogynistic statement, women should stay offline"
+C071426,Correct,,direct insult calling logic 'stupid'
+C071427,Correct,,misogynistic generalization about women
+C071429,Correct,,direct insult calling logic 'stupid'
+C071430,Correct,,mildly rude critical remark directed at person
+C071434,Correct,,direct insult ('waste fellow')
+C071438,Wrong,Offensive,"generic dismissive insult, no explicit hate target"
+C071445,Correct,,insulting remark calling content trash
+C071448,Correct,,insulting dismissive remark
+C071449,Wrong,Offensive,"generic dismissive insult, no explicit hate target"
+C071451,Correct,,insulting remark calling thinking trashy
+C071452,Correct,,direct insult calling logic 'stupid'
+C071453,Wrong,Offensive,"generic dismissive insult, not targeting protected group"
+C071459,Wrong,Offensive,"generic insult about posters, no explicit hate target"
+C071465,Correct,,misogynistic generalization about women
+C071470,Correct,,sexist stereotype generalizing about women
+C071477,Correct,,explicit misogynistic generalization about women
+C071487,Correct,,direct insult ('waste fellow')
+C071488,Wrong,Offensive,"dismissive generic insult, not explicitly hateful toward a group"
+C071492,Correct,,insulting dismissive remark
+C071501,Correct,,dismissive critical remark about content
+C071502,Correct,,insulting remark about the person
+C071509,Correct,,insulting/mocking remark
+C071511,Correct,,dismissive rude remark
+C071512,Wrong,Offensive,"dismissive generic insult, not explicitly hateful toward a group"
+C071513,Correct,,"explicit misogynistic statement, women should stay offline"
+C071516,Wrong,Offensive,"generic insult, no explicit hate target"
+C071517,Wrong,Offensive,"generic dismissive insult, no explicit hate target"
+C071518,Correct,,sexist stereotype generalizing about women
+C071519,Correct,,insulting/mocking remark
+C071521,Correct,,condescending rebuke directed at person
+C071522,Correct,,dismissive insulting remark
+C071524,Correct,,"mocking, dismissive remark"
+C071525,Correct,,"mocking, dismissive remark"
+C071526,Correct,,insulting dismissive remark
+C071531,Correct,,insulting remark calling thinking trashy
+C071532,Correct,,misogynistic generalization about women
+C071536,Correct,,explicit misogynistic generalization about women
+C071540,Wrong,Offensive,"generic dismissive insult, no explicit hate target"
+C071541,Wrong,Offensive,"generic insult about posters, no explicit hate target"
+C071543,Correct,,insulting remark calling thinking trashy
+C071544,Correct,,dismissive insulting remark
+C071553,Correct,,insulting remark calling thinking trashy
+C071558,Correct,,dismissive/insulting remark about content
+C071559,Correct,,explicit misogynistic generalization about women
+C071561,Correct,,insulting remark calling thinking trashy
+C071566,Correct,,dismissive/insulting remark about content
+C071571,Correct,,insulting remark calling content trash
+C071572,Correct,,direct insult ('waste fellow')
+C071577,Correct,,sexist stereotype generalizing about women
+C071583,Correct,,insulting dismissive remark
+C071584,Correct,,direct insult calling logic 'stupid'
+C071588,Wrong,Offensive,"generic dismissive insult, not targeting protected group"
+C071589,Correct,,dismissive insulting remark
+C071592,Correct,,insulting dismissive remark
+C071593,Correct,,condescending rebuke directed at person
+C071594,Correct,,dismissive rude remark
+C071595,Correct,,insulting remark questioning sanity
+C071598,Wrong,Offensive,"generic insult about unnamed 'they', no explicit hate target"
+C071599,Correct,,dismissive critical remark about content
+C071615,Correct,,condescending rebuke directed at person
+C071619,Correct,,dismissive critical remark about content
+C071625,Correct,,broad hateful generalization targeting feminists as a group
+C071626,Correct,,explicit misogynistic generalization about women
+C071631,Correct,,explicit misogynistic generalization about women
+C071633,Correct,,explicit misogynistic generalization about women
+C071638,Correct,,dismissive rude remark
+C071646,Correct,,insulting remark questioning sanity
+C071648,Correct,,insulting dismissive remark
+C071651,Wrong,Offensive,"generic dismissive insult, no explicit gender/group target"
+C071653,Correct,,mildly rude critical remark directed at person
+C071659,Correct,,broad hateful generalization targeting feminists as a group
+C071663,Correct,,condescending rebuke directed at person
+C071667,Wrong,Offensive,"generic dismissive insult, not targeting protected group"
+C071671,Wrong,Offensive,"generic dismissive insult, no explicit hate target"
+C071672,Correct,,"rude, dismissive command"
+C071675,Correct,,broad hateful generalization targeting feminists as a group
+C071687,Correct,,"explicit misogynistic statement, women should stay offline"
+C071692,Wrong,Offensive,"generic dismissive insult, no explicit gender/group target"
+C071695,Correct,,misogynistic generalization about women
+C071696,Correct,,dismissive/insulting remark about content
+C071700,Correct,,insulting remark calling thinking trashy
+C071703,Correct,,explicit misogynistic generalization about women
+C071705,Correct,,insulting remark calling thinking trashy
+C071707,Correct,,explicit misogynistic generalization about women
+C071711,Correct,,explicit misogynistic generalization about women
+C071715,Correct,,"rude, dismissive command"
+C071717,Correct,,explicit misogynistic statement excluding women from platforms
+C071723,Correct,,sexist stereotype generalizing about women
+C071742,Correct,,insulting dismissive remark
+C071747,Correct,,explicit misogynistic statement excluding women from platforms
+C071750,Correct,,mildly rude critical remark directed at person
+C071751,Wrong,Offensive,"dismissive generic insult, not explicitly hateful toward a group"
+C071755,Wrong,Offensive,"generic dismissive insult, no explicit hate target"
+C071762,Correct,,mildly rude critical remark directed at person
+C071763,Correct,,direct insult ('waste fellow')
+C071775,Correct,,insulting dismissive remark
+C071778,Correct,,insulting remark about the person
+C071787,Correct,,misogynistic generalization about women
+C071794,Correct,,"mocking, dismissive remark"
+C071795,Correct,,insulting remark about the person
+C071796,Wrong,Offensive,"generic dismissive insult, not targeting protected group"
+C071798,Correct,,insulting dismissive remark
+C071801,Correct,,explicit misogynistic generalization about women
+C071802,Wrong,Offensive,"generic dismissive insult, no explicit hate target"
+C071804,Wrong,Offensive,"generic dismissive insult, not targeting protected group"
+C071810,Wrong,Offensive,"generic insult about unnamed 'they', no explicit hate target"
+C071813,Correct,,misogynistic generalization about women
+C071816,Correct,,condescending rebuke directed at person
+C071826,Wrong,Offensive,"generic insult about unnamed 'they', no explicit hate target"
+C071829,Correct,,dismissive critical remark about content
+C071831,Correct,,condescending rebuke about person's post
+C071838,Correct,,insulting/mocking remark
+C071844,Correct,,dismissive/insulting remark about content
+C071845,Correct,,direct insult calling logic 'stupid'
+C071846,Correct,,misogynistic generalization about women
+C071851,Correct,,insulting/mocking remark
+C071852,Correct,,"mocking, dismissive remark"
+C071853,Wrong,Offensive,"generic insult, no explicit hate target"
+C071855,Correct,,misogynistic generalization about women
+C071860,Wrong,Offensive,"generic insult about unnamed 'they', no explicit hate target"
+C071863,Correct,,explicit misogynistic generalization about women
+C071864,Wrong,Offensive,"generic dismissive insult, no explicit gender/group target"
+C071867,Correct,,explicit misogynistic generalization about women
+C071874,Correct,,"rude, dismissive command"
+C071877,Correct,,dismissive rude remark
+C071879,Correct,,insulting remark questioning sanity
+C071881,Correct,,direct insult ('waste fellow')
+C071886,Correct,,misogynistic generalization about women
+C071892,Correct,,dismissive critical remark about content
+C071893,Correct,,insulting dismissive remark
+C071894,Correct,,misogynistic generalization blaming women
+C071896,Correct,,misogynistic generalization about women
+C071898,Correct,,insulting remark calling content trash
+C071899,Correct,,explicit misogynistic generalization about women
+C071904,Correct,,insulting remark about the person
+C071905,Correct,,insulting dismissive remark
+C071907,Correct,,insulting dismissive remark
+C071910,Correct,,dismissive rude remark
+C071912,Correct,,explicit misogynistic generalization about women
+C071916,Correct,,dismissive critical remark about content
+C071917,Correct,,broad hateful generalization targeting feminists as a group
+C071920,Correct,,misogynistic generalization about women
+C071927,Correct,,condescending rebuke directed at person
+C071930,Correct,,mildly rude critical remark directed at person
+C071934,Correct,,dismissive/insulting remark about content
+C071936,Correct,,dismissive/insulting remark about content
+C071941,Correct,,insulting remark about the person
+C071952,Correct,,insulting remark targeting the person
+C071956,Correct,,insulting dismissive remark
+C071962,Correct,,insulting remark calling content trash
+C071974,Correct,,dismissive insulting remark
+C071975,Correct,,misogynistic generalization about women
+C071978,Correct,,insulting remark calling thinking trashy
+C071980,Correct,,condescending rebuke about person's post
+C071988,Correct,,explicit misogynistic generalization about women
+C071989,Correct,,explicit misogynistic generalization about women
+C071994,Wrong,Offensive,"generic dismissive insult, no explicit gender/group target"
+C071996,Correct,,explicit misogynistic generalization about women
+C072003,Correct,,"mocking, dismissive remark"
+C072004,Correct,,misogynistic generalization about women
+C072005,Correct,,"explicit misogynistic statement, women should stay offline"
+C072011,Correct,,direct insult calling logic 'stupid'
+C072012,Correct,,misogynistic generalization about women
+C072019,Wrong,Offensive,"generic dismissive insult, no explicit gender/group target"
+C072023,Correct,,insulting dismissive remark
+C072029,Correct,,condescending rebuke about person's post
+C072030,Correct,,dismissive critical remark about content
+C072033,Correct,,sexist stereotype generalizing about women
+C072035,Wrong,Offensive,"generic insult, no explicit hate target"
+C072040,Correct,,direct insult calling logic 'stupid'
+C072047,Wrong,Offensive,"generic dismissive insult, no explicit hate target"
+C072049,Correct,,explicit misogynistic generalization about women
+C072051,Correct,,explicit misogynistic statement excluding women from platforms
+C072053,Correct,,explicit misogynistic generalization about women
+C072057,Correct,,insulting/mocking remark
+C072061,Correct,,misogynistic generalization about women
+C072063,Correct,,"explicit misogynistic statement, women should stay offline"
+C072067,Correct,,insulting remark calling content trash
+C072068,Correct,,sexist stereotype generalizing about women
+C072069,Correct,,dismissive/insulting remark about content
+C072074,Correct,,explicit misogynistic statement excluding women from platforms
+C072075,Correct,,insulting/mocking remark
+C072077,Wrong,Offensive,"dismissive generic insult, not explicitly hateful toward a group"
+C072078,Correct,,misogynistic generalization about women
+C072084,Correct,,"mocking, dismissive remark"
+C072095,Wrong,Offensive,"generic dismissive insult, not targeting protected group"
+C072107,Correct,,"rude, dismissive command"
+C072112,Correct,,insulting remark questioning sanity
+C072121,Correct,,insulting remark targeting the person
+C072124,Correct,,dismissive rude remark
+C072127,Correct,,insulting dismissive remark
+C072129,Correct,,"explicit misogynistic statement, women should stay offline"
+C072133,Correct,,mildly rude critical remark directed at person
+C072137,Correct,,misogynistic generalization about women
+C072140,Correct,,dismissive critical remark about content
+C072142,Correct,,dismissive rude remark
+C072143,Wrong,Offensive,"generic dismissive insult, no explicit hate target"
+C072153,Correct,,misogynistic generalization about women
+C072156,Wrong,Offensive,"generic dismissive insult, no explicit hate target"
+C072158,Correct,,insulting dismissive remark
+C072170,Correct,,condescending rebuke directed at person
+C072180,Correct,,dismissive/insulting remark about content
+C072183,Wrong,Offensive,"dismissive generic insult, not explicitly hateful toward a group"
+C072184,Wrong,Offensive,"generic dismissive insult, no explicit hate target"
+C072189,Correct,,broad hateful generalization targeting feminists as a group
+C072193,Correct,,misogynistic generalization about women
+C072195,Correct,,insulting remark targeting the person
+C072199,Correct,,direct insult ('waste fellow')
+C072200,Wrong,Offensive,"generic dismissive insult, no explicit hate target"
+C072206,Correct,,direct insult calling logic 'stupid'
+C072207,Correct,,direct insult ('waste fellow')
+C072208,Correct,,dismissive rude remark
+C072212,Wrong,Offensive,"dismissive generic insult, not explicitly hateful toward a group"
+C072213,Wrong,Offensive,"generic insult, no explicit hate target"
+C072215,Correct,,insulting remark targeting the person
+C072217,Correct,,dismissive rude remark
+C072218,Correct,,"rude, dismissive command"
+C072221,Correct,,"mocking, dismissive remark"
+C072222,Wrong,Offensive,"generic dismissive insult, no explicit hate target"
+C072224,Correct,,condescending rebuke about person's post
+C072231,Correct,,"explicit misogynistic statement, women should stay offline"
+C072233,Correct,,insulting remark targeting the person
+C072237,Correct,,misogynistic generalization about women
+C072241,Correct,,mildly rude critical remark directed at person
+C072245,Correct,,"mocking, dismissive remark"
+C072250,Correct,,direct insult ('waste fellow')
+C072251,Correct,,misogynistic generalization about women
+C072252,Correct,,explicit misogynistic generalization about women
+C072253,Wrong,Offensive,"dismissive generic insult, not explicitly hateful toward a group"
+C072256,Wrong,Offensive,"generic dismissive insult, no explicit hate target"
+C072259,Correct,,dismissive/insulting remark about content
+C072262,Correct,,misogynistic generalization about women
+C072263,Correct,,misogynistic generalization about women
+C072268,Correct,,insulting/mocking remark
+C072269,Wrong,Offensive,"dismissive generic insult, not explicitly hateful toward a group"
+C072270,Correct,,misogynistic generalization about women
+C072272,Wrong,Offensive,"generic insult about posters, no explicit hate target"
+C072275,Correct,,misogynistic generalization about women
+C072282,Correct,,explicit misogynistic generalization about women
+C072286,Correct,,mildly rude critical remark directed at person
+C072289,Correct,,misogynistic generalization about women
+C072290,Correct,,broad hateful generalization targeting feminists as a group
+C072292,Correct,,condescending rebuke about person's post
+C072295,Wrong,Offensive,"generic dismissive insult, no explicit hate target"
+C072297,Correct,,misogynistic generalization about women
+C072298,Correct,,explicit misogynistic generalization about women
+C072303,Correct,,broad hateful generalization targeting feminists as a group
+C072306,Wrong,Offensive,"generic insult about posters, no explicit hate target"
+C072312,Correct,,condescending rebuke directed at person
+C072313,Wrong,Offensive,"generic dismissive insult, not targeting protected group"
+C072327,Correct,,insulting remark questioning sanity
+C072334,Wrong,Offensive,"generic dismissive insult, no explicit gender/group target"
+C072337,Correct,,dismissive/insulting remark about content
+C072340,Correct,,insulting remark about the person
+C072346,Correct,,dismissive/insulting remark about content
+C072353,Correct,,misogynistic generalization about women
+C072355,Wrong,Offensive,"generic insult, no explicit hate target"
+C072356,Wrong,Offensive,"generic dismissive insult, no explicit hate target"
+C072362,Correct,,misogynistic generalization about women
+C072365,Correct,,explicit misogynistic statement excluding women from platforms
+C072368,Correct,,insulting dismissive remark
+C072374,Correct,,"mocking, dismissive remark"
+C072383,Correct,,"mocking, dismissive remark"
+C072385,Correct,,direct insult calling logic 'stupid'
+C072386,Correct,,sexist stereotype generalizing about women
+C072388,Correct,,misogynistic generalization about women
+C072398,Wrong,Offensive,"generic dismissive insult, no explicit hate target"
+C072399,Correct,,"explicit misogynistic statement, women should stay offline"
+C072403,Correct,,"mocking, dismissive remark"
+C072406,Wrong,Offensive,"generic dismissive insult, no explicit hate target"
+C072407,Correct,,misogynistic generalization about women
+C072412,Correct,,mildly rude critical remark directed at person
+C072413,Correct,,insulting remark calling thinking trashy
+C072414,Wrong,Offensive,"generic insult, no explicit hate target"
+C072415,Correct,,"explicit misogynistic statement, women should stay offline"
+C072425,Wrong,Offensive,"generic insult about posters, no explicit hate target"
+C072427,Correct,,direct insult calling logic 'stupid'
+C072429,Correct,,"rude, dismissive command"
+C072435,Correct,,insulting dismissive remark
+C072439,Correct,,condescending rebuke about person's post
+C072441,Correct,,dismissive insulting remark
+C072447,Correct,,misogynistic generalization blaming women
+C072448,Correct,,direct insult ('waste fellow')
+C072454,Wrong,Offensive,"generic dismissive insult, no explicit hate target"
+C072464,Correct,,mildly rude critical remark directed at person
+C072465,Wrong,Offensive,"generic dismissive insult, no explicit gender/group target"
+C072471,Correct,,insulting remark targeting the person
+C072485,Correct,,dismissive/insulting remark about content
+C072486,Correct,,misogynistic generalization about women
+C072488,Correct,,"mocking, dismissive remark"
+C072490,Correct,,insulting dismissive remark
+C072491,Wrong,Offensive,"dismissive generic insult, not explicitly hateful toward a group"
+C072497,Correct,,mildly rude critical remark directed at person
+C072498,Wrong,Offensive,"generic dismissive insult, no explicit hate target"
+C072499,Correct,,"mocking, dismissive remark"
+C072500,Correct,,insulting remark questioning sanity
+C072502,Correct,,explicit misogynistic generalization about women
+C072503,Correct,,direct insult calling logic 'stupid'
+C072523,Correct,,direct insult ('waste fellow')
+C072525,Wrong,Offensive,"generic dismissive insult, no explicit hate target"
+C072529,Correct,,insulting/mocking remark
+C072530,Correct,,"rude, dismissive command"
+C072533,Correct,,insulting dismissive remark
+C072535,Correct,,explicit misogynistic generalization about women
+C072537,Correct,,insulting dismissive remark
+C072538,Correct,,insulting remark targeting the person
+C072539,Correct,,misogynistic generalization about women
+C072553,Wrong,Offensive,"generic insult about unnamed 'they', no explicit hate target"
+C072557,Correct,,insulting remark calling thinking trashy
+C072558,Correct,,"rude, dismissive command"
+C072559,Wrong,Offensive,"generic dismissive insult, no explicit hate target"
+C072567,Wrong,Offensive,"generic insult, no explicit hate target"
+C072572,Correct,,insulting dismissive remark
+C072582,Correct,,mildly rude critical remark directed at person
+C072584,Correct,,explicit misogynistic statement excluding women from platforms
+C072589,Correct,,dismissive rude remark
+C072595,Correct,,"explicit misogynistic statement, women should stay offline"
+C072598,Correct,,misogynistic generalization about women
+C072599,Wrong,Offensive,"generic dismissive insult, no explicit hate target"
+C072600,Correct,,condescending rebuke directed at person
+C072602,Correct,,misogynistic generalization blaming women
+C072608,Wrong,Offensive,"generic dismissive insult, no explicit gender/group target"
+C072609,Correct,,broad hateful generalization targeting feminists as a group
+C072610,Correct,,direct insult calling logic 'stupid'
+C072617,Wrong,Offensive,"generic insult about posters, no explicit hate target"
+C072620,Wrong,Offensive,"generic dismissive insult, not targeting protected group"
+C072631,Correct,,dismissive critical remark about content
+C072633,Wrong,Offensive,"generic insult about posters, no explicit hate target"
+C072642,Wrong,Offensive,"generic dismissive insult, no explicit hate target"
+C072643,Correct,,explicit misogynistic statement excluding women from platforms
+C072644,Correct,,insulting remark about the person
+C072646,Correct,,insulting dismissive remark
+C072649,Wrong,Offensive,"generic insult about posters, no explicit hate target"
+C072650,Correct,,explicit misogynistic generalization about women
+C072652,Correct,,sexist stereotype generalizing about women
+C072656,Correct,,explicit misogynistic generalization about women
+C072664,Correct,,insulting dismissive remark
+C072665,Correct,,condescending rebuke about person's post
+C072666,Correct,,broad hateful generalization targeting feminists as a group
+C072672,Correct,,"mocking, dismissive remark"
+C072677,Correct,,"rude, dismissive command"
+C072681,Wrong,Offensive,"generic insult, no explicit hate target"
+C072685,Correct,,direct insult calling logic 'stupid'
+C072688,Correct,,insulting dismissive remark
+C072690,Wrong,Offensive,"generic dismissive insult, no explicit hate target"
+C072693,Correct,,explicit misogynistic generalization about women
+C072695,Correct,,insulting remark targeting the person
+C072696,Correct,,dismissive/insulting remark about content
+C072698,Correct,,insulting remark targeting the person
+C072703,Wrong,Offensive,"generic dismissive insult, not targeting protected group"
+C072704,Wrong,Offensive,"generic dismissive insult, no explicit gender/group target"
+C072710,Correct,,misogynistic generalization about women
+C072711,Wrong,Offensive,"generic insult about unnamed 'they', no explicit hate target"
+C072712,Correct,,broad hateful generalization targeting feminists as a group
+C072715,Correct,,insulting dismissive remark
+C072719,Correct,,dismissive rude remark
+C072724,Correct,,"mocking, dismissive remark"
+C072733,Correct,,misogynistic generalization about women
+C072735,Wrong,Offensive,"generic dismissive insult, no explicit hate target"
+C072737,Correct,,mildly rude critical remark directed at person
+C072747,Correct,,misogynistic generalization about women
+C072748,Correct,,insulting/mocking remark
+C072750,Correct,,insulting remark targeting the person
+C072752,Correct,,misogynistic generalization about women
+C072758,Correct,,insulting remark calling thinking trashy
+C072762,Correct,,"rude, dismissive command"
+C072764,Wrong,Offensive,"generic insult about unnamed 'they', no explicit hate target"
+C072765,Correct,,misogynistic generalization about women
+C072766,Correct,,misogynistic generalization about women
+C072767,Correct,,condescending rebuke directed at person
+C072768,Correct,,mildly rude critical remark directed at person
+C072773,Correct,,"explicit misogynistic statement, women should stay offline"
+C072775,Correct,,insulting dismissive remark
+C072781,Correct,,direct insult ('waste fellow')
+C072787,Correct,,condescending rebuke directed at person
+C072788,Wrong,Offensive,"generic dismissive insult, no explicit hate target"
+C072791,Correct,,condescending rebuke directed at person
+C072793,Correct,,insulting remark calling thinking trashy
+C072796,Correct,,dismissive critical remark about content
+C072799,Correct,,dismissive critical remark about content
+C072800,Correct,,misogynistic generalization blaming women
+C072807,Correct,,"explicit misogynistic statement, women should stay offline"
+C072813,Correct,,broad hateful generalization targeting feminists as a group
+C072818,Correct,,dismissive insulting remark
+C072821,Correct,,dismissive rude remark
+C072823,Correct,,sexist stereotype generalizing about women
+C072824,Wrong,Offensive,"generic insult, no explicit hate target"
+C072825,Wrong,Offensive,"generic dismissive insult, no explicit hate target"
+C072826,Correct,,"explicit misogynistic statement, women should stay offline"
+C072833,Wrong,Offensive,"generic dismissive insult, no explicit hate target"
+C072835,Correct,,insulting dismissive remark
+C072836,Correct,,broad hateful generalization targeting feminists as a group
+C072839,Correct,,"explicit misogynistic statement, women should stay offline"
+C072850,Correct,,insulting remark calling content trash
+C072851,Wrong,Offensive,"generic insult about unnamed 'they', no explicit hate target"
+C072852,Correct,,sexist stereotype generalizing about women
+C072856,Wrong,Offensive,"generic dismissive insult, no explicit hate target"
+C072861,Correct,,dismissive insulting remark
+C072866,Correct,,insulting dismissive remark
+C072869,Wrong,Offensive,"generic dismissive insult, no explicit hate target"
+C072876,Correct,,insulting dismissive remark
+C072881,Correct,,insulting dismissive remark
+C072883,Correct,,insulting remark questioning sanity
+C072884,Wrong,Offensive,"generic insult about unnamed 'they', no explicit hate target"
+C072887,Wrong,Offensive,"generic dismissive insult, no explicit gender/group target"
+C072894,Correct,,misogynistic generalization about women
+C072914,Correct,,misogynistic generalization blaming women
+C072916,Correct,,explicit misogynistic generalization about women
+C072920,Wrong,Offensive,"generic insult about unnamed 'they', no explicit hate target"
+C072924,Correct,,insulting dismissive remark
+C072926,Correct,,insulting dismissive remark
+C072932,Wrong,Offensive,"generic dismissive insult, not targeting protected group"
+C072935,Correct,,dismissive critical remark about content
+C072938,Wrong,Offensive,"generic insult about unnamed 'they', no explicit hate target"
+C072954,Wrong,Offensive,"dismissive generic insult, not explicitly hateful toward a group"
+C072955,Wrong,Offensive,"generic dismissive insult, no explicit gender/group target"
+C072957,Correct,,sexist stereotype generalizing about women
+C072959,Correct,,dismissive/insulting remark about content
+C072968,Wrong,Offensive,"generic dismissive insult, no explicit hate target"
+C072972,Correct,,dismissive rude remark
+C072974,Correct,,condescending rebuke about person's post
+C072975,Correct,,insulting remark targeting the person
+C072979,Correct,,explicit misogynistic statement excluding women from platforms
+C072985,Correct,,explicit misogynistic generalization about women
+C072987,Correct,,misogynistic generalization about women
+C072988,Correct,,insulting remark calling thinking trashy
+C072990,Correct,,insulting remark targeting the person
+C072998,Correct,,explicit misogynistic generalization about women
+C073000,Correct,,dismissive insulting remark
+C073004,Correct,,direct insult ('waste fellow')
+C073015,Wrong,Offensive,"generic dismissive insult, no explicit gender/group target"
+C073018,Correct,,explicit misogynistic statement excluding women from platforms
+C073019,Wrong,Offensive,"dismissive generic insult, not explicitly hateful toward a group"
+C073023,Correct,,misogynistic generalization about women
+C073024,Correct,,"explicit misogynistic statement, women should stay offline"
+C073025,Correct,,broad hateful generalization targeting feminists as a group
+C073029,Correct,,sexist stereotype generalizing about women
+C073030,Correct,,"rude, dismissive command"
+C073039,Correct,,misogynistic generalization about women
+C073043,Correct,,"mocking, dismissive remark"
+C073053,Wrong,Offensive,"generic dismissive insult, not targeting protected group"
+C073064,Correct,,insulting dismissive remark
+C073065,Correct,,misogynistic generalization about women
+C073066,Correct,,dismissive insulting remark
+C073069,Wrong,Offensive,"generic insult about unnamed 'they', no explicit hate target"
+C073072,Wrong,Offensive,"generic dismissive insult, no explicit hate target"
+C073073,Correct,,explicit misogynistic generalization about women
+C073074,Correct,,broad hateful generalization targeting feminists as a group
+C073078,Correct,,insulting dismissive remark
+C073079,Correct,,mildly rude critical remark directed at person
+C073089,Correct,,sexist stereotype generalizing about women
+C073090,Correct,,misogynistic generalization about women
+C073101,Correct,,insulting dismissive remark
+C073102,Correct,,dismissive critical remark about content
+C073107,Wrong,Offensive,"generic dismissive insult, no explicit hate target"
+C073112,Correct,,insulting dismissive remark
+C073114,Correct,,misogynistic generalization about women
+C073115,Wrong,Offensive,"generic insult about posters, no explicit hate target"
+C073117,Correct,,dismissive critical remark about content
+C073126,Correct,,broad hateful generalization targeting feminists as a group
+C073131,Correct,,insulting remark questioning sanity
+C073136,Correct,,dismissive/insulting remark about content
+C073140,Correct,,insulting remark calling content trash
+C073143,Wrong,Offensive,"generic dismissive insult, no explicit hate target"
+C073146,Correct,,direct insult ('waste fellow')
+C073149,Correct,,insulting dismissive remark
+C073154,Correct,,explicit misogynistic generalization about women
+C073158,Correct,,insulting remark questioning sanity
+C073159,Correct,,insulting dismissive remark
+C073164,Correct,,insulting remark calling content trash
+C073167,Correct,,misogynistic generalization blaming women
+C073170,Correct,,dismissive insulting remark
+C073172,Correct,,dismissive/insulting remark about content
+C073174,Correct,,explicit misogynistic generalization about women
+C073176,Correct,,direct insult calling logic 'stupid'
+C073179,Correct,,broad hateful generalization targeting feminists as a group
+C073208,Correct,,dismissive/insulting remark about content
+C073209,Correct,,insulting dismissive remark
+C073212,Correct,,dismissive/insulting remark about content
+C073220,Correct,,misogynistic generalization about women
+C073228,Correct,,direct insult ('waste fellow')
+C073230,Wrong,Offensive,"generic dismissive insult, no explicit hate target"
+C073234,Wrong,Offensive,"dismissive generic insult, not explicitly hateful toward a group"
+C073238,Wrong,Offensive,"dismissive generic insult, not explicitly hateful toward a group"
+C073240,Correct,,explicit misogynistic generalization about women
+C073242,Correct,,sexist stereotype generalizing about women
+C073245,Correct,,direct insult calling logic 'stupid'
+C073249,Correct,,"mocking, dismissive remark"
+C073250,Wrong,Offensive,"generic dismissive insult, no explicit gender/group target"
+C073258,Correct,,explicit misogynistic generalization about women
+C073264,Correct,,misogynistic generalization blaming women
+C073266,Correct,,insulting dismissive remark
+C073268,Correct,,mildly rude critical remark directed at person
+C073275,Correct,,insulting remark calling thinking trashy
+C073286,Correct,,insulting remark questioning sanity
+C073288,Correct,,insulting remark calling content trash
+C073293,Wrong,Offensive,"generic dismissive insult, no explicit hate target"
+C073294,Correct,,mildly rude critical remark directed at person
+C073299,Correct,,explicit misogynistic statement excluding women from platforms
+C073302,Correct,,mildly rude critical remark directed at person
+C073304,Correct,,insulting remark calling thinking trashy
+C073308,Wrong,Offensive,"generic insult, no explicit hate target"
+C073312,Correct,,explicit misogynistic generalization about women
+C073315,Wrong,Offensive,"generic insult, no explicit hate target"
+C073319,Correct,,insulting remark calling content trash
+C073325,Correct,,dismissive/insulting remark about content
+C073332,Correct,,direct insult ('waste fellow')
+C073335,Correct,,direct insult calling logic 'stupid'
+C073340,Wrong,Offensive,"generic dismissive insult, no explicit gender/group target"
+C073343,Correct,,insulting dismissive remark
+C073354,Wrong,Offensive,"dismissive generic insult, not explicitly hateful toward a group"
+C073362,Correct,,direct insult calling logic 'stupid'
+C073367,Correct,,direct insult ('waste fellow')
+C073370,Wrong,Offensive,"generic insult about unnamed 'they', no explicit hate target"
+C073371,Wrong,Offensive,"generic insult about posters, no explicit hate target"
+C073374,Correct,,dismissive/insulting remark about content
+C073375,Correct,,insulting remark questioning sanity
+C073386,Correct,,"mocking, dismissive remark"
+C073391,Correct,,misogynistic generalization about women
+C073396,Correct,,misogynistic generalization about women
+C073402,Correct,,explicit misogynistic statement excluding women from platforms
+C073404,Correct,,insulting dismissive remark
+C073407,Correct,,explicit misogynistic generalization about women
+C073408,Correct,,"mocking, dismissive remark"
+C073413,Correct,,insulting remark calling thinking trashy
+C073417,Correct,,direct insult ('waste fellow')
+C073421,Correct,,insulting remark questioning sanity
+C073425,Correct,,explicit misogynistic generalization about women
+C073427,Correct,,direct insult calling logic 'stupid'
+C073428,Correct,,insulting dismissive remark
+C073429,Correct,,insulting remark targeting the person
+C073430,Wrong,Offensive,"generic dismissive insult, no explicit hate target"
+C073433,Correct,,condescending rebuke directed at person
+C073437,Wrong,Offensive,"generic insult about posters, no explicit hate target"
+C073445,Correct,,"mocking, dismissive remark"
+C073446,Wrong,Offensive,"generic insult about posters, no explicit hate target"
+C073448,Correct,,dismissive rude remark
+C073451,Wrong,Offensive,"generic insult about unnamed 'they', no explicit hate target"
+C073452,Correct,,"mocking, dismissive remark"
+C073458,Wrong,Offensive,"generic insult about posters, no explicit hate target"
+C073460,Correct,,explicit misogynistic generalization about women
+C073461,Correct,,broad hateful generalization targeting feminists as a group
+C073463,Correct,,misogynistic generalization about women
+C073464,Correct,,insulting/mocking remark
+C073467,Correct,,explicit misogynistic statement excluding women from platforms
+C073471,Wrong,Offensive,"generic dismissive insult, no explicit hate target"
+C073476,Correct,,"rude, dismissive command"
+C073477,Wrong,Offensive,"generic dismissive insult, no explicit gender/group target"
+C073478,Correct,,misogynistic generalization blaming women
+C073480,Wrong,Offensive,"generic insult about unnamed 'they', no explicit hate target"
+C073482,Correct,,insulting/mocking remark
+C073486,Correct,,"mocking, dismissive remark"
+C073493,Wrong,Offensive,"generic dismissive insult, no explicit hate target"
+C073495,Correct,,insulting remark questioning sanity
+C073498,Correct,,direct insult ('waste fellow')
+C073501,Wrong,Offensive,"generic insult about unnamed 'they', no explicit hate target"
+C073503,Correct,,misogynistic generalization about women
+C073505,Correct,,insulting dismissive remark
+C073508,Correct,,insulting remark targeting the person
+C073516,Correct,,broad hateful generalization targeting feminists as a group
+C073522,Wrong,Offensive,"generic dismissive insult, no explicit gender/group target"
+C073527,Correct,,insulting dismissive remark
+C073538,Correct,,insulting dismissive remark
+C073540,Correct,,mildly rude critical remark directed at person
+C073542,Correct,,explicit misogynistic generalization about women
+C073543,Correct,,misogynistic generalization about women
+C073544,Wrong,Offensive,"generic insult about unnamed 'they', no explicit hate target"
+C073550,Wrong,Offensive,"generic insult about unnamed 'they', no explicit hate target"
+C073553,Correct,,insulting dismissive remark
+C073558,Correct,,dismissive/insulting remark about content
+C073561,Correct,,explicit misogynistic statement excluding women from platforms
+C073566,Correct,,broad hateful generalization targeting feminists as a group
+C073572,Wrong,Offensive,"generic dismissive insult, not targeting protected group"
+C073574,Correct,,"rude, dismissive command"
+C073576,Correct,,"rude, dismissive command"
+C073583,Correct,,misogynistic generalization about women
+C073586,Correct,,insulting remark about the person
+C073587,Correct,,misogynistic generalization about women
+C073595,Correct,,"mocking, dismissive remark"
+C073596,Correct,,broad hateful generalization targeting feminists as a group
+C073598,Correct,,dismissive insulting remark
+C073600,Correct,,insulting dismissive remark
+C073615,Correct,,dismissive rude remark
+C073619,Correct,,dismissive critical remark about content
+C073622,Correct,,explicit misogynistic generalization about women
+C073623,Correct,,dismissive critical remark about content
+C073626,Correct,,insulting remark calling content trash
+C073634,Wrong,Offensive,"generic insult, no explicit hate target"
+C073636,Correct,,insulting dismissive remark
+C073637,Correct,,sexist stereotype generalizing about women
+C073641,Correct,,dismissive rude remark
+C073644,Wrong,Offensive,"generic insult about posters, no explicit hate target"
+C073649,Correct,,insulting remark calling content trash
+C073650,Correct,,dismissive rude remark
+C073659,Wrong,Offensive,"generic dismissive insult, no explicit gender/group target"
+C073663,Wrong,Offensive,"generic insult, no explicit hate target"
+C073665,Correct,,explicit misogynistic generalization about women
+C073667,Wrong,Offensive,"generic insult about unnamed 'they', no explicit hate target"
+C073669,Wrong,Offensive,"dismissive generic insult, not explicitly hateful toward a group"
+C073683,Correct,,insulting/mocking remark
+C073685,Wrong,Offensive,"generic insult about posters, no explicit hate target"
+C073686,Correct,,insulting dismissive remark
+C073692,Correct,,direct insult calling logic 'stupid'
+C073699,Correct,,"explicit misogynistic statement, women should stay offline"
+C073708,Correct,,insulting remark questioning sanity
+C073711,Correct,,explicit misogynistic generalization about women
+C073714,Correct,,misogynistic generalization about women
+C073718,Correct,,misogynistic generalization blaming women
+C073720,Correct,,insulting dismissive remark
+C073728,Correct,,explicit misogynistic statement excluding women from platforms
+C073746,Correct,,insulting remark calling thinking trashy
+C073747,Correct,,condescending rebuke about person's post
+C073749,Correct,,insulting dismissive remark
+C073759,Correct,,dismissive insulting remark
+C073762,Correct,,broad hateful generalization targeting feminists as a group
+C073768,Correct,,mildly rude critical remark directed at person
+C073777,Wrong,Offensive,"generic insult, no explicit hate target"
+C073779,Correct,,insulting remark about the person
+C073780,Correct,,misogynistic generalization blaming women
+C073783,Correct,,"rude, dismissive command"
+C073785,Correct,,condescending rebuke directed at person
+C073791,Correct,,insulting remark calling content trash
+C073792,Correct,,insulting remark calling thinking trashy
+C073796,Correct,,insulting/mocking remark
+C073807,Correct,,direct insult ('waste fellow')
+C073810,Correct,,dismissive rude remark
+C073816,Correct,,condescending rebuke directed at person
+C073822,Correct,,explicit misogynistic statement excluding women from platforms
+C073824,Wrong,Offensive,"dismissive generic insult, not explicitly hateful toward a group"
+C073826,Correct,,condescending rebuke about person's post
+C073834,Correct,,insulting/mocking remark
+C073837,Correct,,broad hateful generalization targeting feminists as a group
+C073838,Correct,,insulting/mocking remark
+C073841,Correct,,broad hateful generalization targeting feminists as a group
+C073846,Wrong,Offensive,"generic dismissive insult, not targeting protected group"
+C073847,Correct,,broad hateful generalization targeting feminists as a group
+C073852,Wrong,Offensive,"generic dismissive insult, not targeting protected group"
+C073854,Correct,,dismissive insulting remark
+C073860,Correct,,dismissive critical remark about content
+C073861,Correct,,misogynistic generalization about women
+C073864,Correct,,insulting remark calling content trash
+C073876,Correct,,direct insult calling logic 'stupid'
+C073883,Correct,,insulting remark questioning sanity
+C073886,Correct,,explicit misogynistic generalization about women
+C073887,Correct,,direct insult ('waste fellow')
+C073888,Correct,,misogynistic generalization about women
+C073895,Correct,,insulting remark calling thinking trashy
+C073908,Correct,,insulting/mocking remark
+C073912,Correct,,dismissive rude remark
+C073913,Correct,,broad hateful generalization targeting feminists as a group
+C073914,Correct,,dismissive critical remark about content
+C073924,Correct,,insulting remark targeting the person
+C073925,Correct,,misogynistic generalization blaming women
+C073946,Correct,,misogynistic generalization about women
+C073947,Correct,,insulting remark questioning sanity
+C073954,Correct,,misogynistic generalization about women
+C073958,Correct,,dismissive rude remark
+C073961,Correct,,misogynistic generalization about women
+C073963,Wrong,Offensive,"generic insult about posters, no explicit hate target"
+C073966,Correct,,insulting remark about the person
+C073967,Correct,,insulting dismissive remark
+C073972,Correct,,insulting dismissive remark
+C073973,Correct,,misogynistic generalization about women
+C073974,Correct,,dismissive/insulting remark about content
+C073979,Correct,,"explicit misogynistic statement, women should stay offline"
+C073981,Correct,,sexist stereotype generalizing about women
+C073983,Correct,,explicit misogynistic generalization about women
+C073984,Correct,,condescending rebuke about person's post
+C073990,Correct,,broad hateful generalization targeting feminists as a group
+C073999,Correct,,insulting dismissive remark
+C074000,Correct,,misogynistic generalization about women
+C074003,Correct,,misogynistic generalization about women
+C074009,Wrong,Offensive,"generic dismissive insult, no explicit hate target"
+C074011,Correct,,dismissive critical remark about content
+C074021,Correct,,dismissive critical remark about content
+C074022,Correct,,insulting/mocking remark
+C074024,Correct,,sexist stereotype generalizing about women
+C074025,Correct,,misogynistic generalization blaming women
+C074028,Correct,,insulting dismissive remark
+C074030,Correct,,insulting remark targeting the person
+C074031,Correct,,misogynistic generalization blaming women
+C074038,Correct,,insulting/mocking remark
+C074040,Wrong,Offensive,"generic dismissive insult, not targeting protected group"
+C074041,Correct,,insulting/mocking remark
+C074042,Correct,,misogynistic generalization blaming women
+C074046,Correct,,misogynistic generalization about women
+C074056,Correct,,dismissive insulting remark
+C074058,Correct,,dismissive rude remark
+C074059,Correct,,dismissive insulting remark
+C074067,Correct,,mildly rude critical remark directed at person
+C074071,Correct,,insulting remark questioning sanity
+C074075,Correct,,dismissive/insulting remark about content
+C074076,Correct,,condescending rebuke directed at person
+C074079,Wrong,Offensive,"dismissive generic insult, not explicitly hateful toward a group"
+C074081,Correct,,misogynistic generalization about women
+C074084,Correct,,condescending rebuke directed at person
+C074087,Correct,,misogynistic generalization about women
+C074088,Correct,,"rude, dismissive command"
+C074091,Correct,,mildly rude critical remark directed at person
+C074094,Wrong,Offensive,"generic dismissive insult, no explicit hate target"
+C074096,Correct,,broad hateful generalization targeting feminists as a group
+C074097,Correct,,explicit misogynistic statement excluding women from platforms
+C074099,Correct,,insulting dismissive remark
+C074104,Correct,,misogynistic generalization about women
+C074106,Correct,,sexist stereotype generalizing about women
+C074111,Correct,,insulting dismissive remark
+C074115,Correct,,"rude, dismissive command"
+C074116,Correct,,sexist stereotype generalizing about women
+C074117,Correct,,explicit misogynistic statement excluding women from platforms
+C074118,Wrong,Offensive,"dismissive generic insult, not explicitly hateful toward a group"
+C074121,Correct,,dismissive insulting remark
+C074122,Correct,,explicit misogynistic generalization about women
+C074134,Correct,,misogynistic generalization about women
+C074140,Correct,,insulting remark targeting the person
+C074141,Correct,,condescending rebuke about person's post
+C074143,Correct,,"explicit misogynistic statement, women should stay offline"
+C074145,Correct,,explicit misogynistic generalization about women
+C074147,Correct,,misogynistic generalization about women
+C074149,Correct,,insulting dismissive remark
+C074151,Correct,,"mocking, dismissive remark"
+C074155,Correct,,explicit misogynistic statement excluding women from platforms
+C074157,Correct,,insulting remark questioning sanity
+C074162,Wrong,Offensive,"generic insult about posters, no explicit hate target"
+C074164,Correct,,misogynistic generalization about women
+C074177,Correct,,misogynistic generalization about women
+C074187,Correct,,condescending rebuke directed at person
+C074188,Correct,,dismissive critical remark about content
+C074191,Wrong,Offensive,"generic dismissive insult, no explicit hate target"
+C074208,Correct,,misogynistic generalization about women
+C074217,Correct,,"mocking, dismissive remark"
+C074218,Correct,,insulting remark about the person
+C074219,Correct,,sexist stereotype generalizing about women
+C074221,Correct,,"explicit misogynistic statement, women should stay offline"
+C074222,Correct,,direct insult ('waste fellow')
+C074226,Correct,,explicit misogynistic statement excluding women from platforms
+C074243,Wrong,Offensive,"generic dismissive insult, no explicit hate target"
+C074244,Correct,,explicit misogynistic statement excluding women from platforms
+C074245,Correct,,explicit misogynistic generalization about women
+C074260,Correct,,explicit misogynistic statement excluding women from platforms
+C074266,Correct,,insulting dismissive remark
+C074271,Correct,,condescending rebuke about person's post
+C074273,Correct,,"explicit misogynistic statement, women should stay offline"
+C074278,Correct,,dismissive/insulting remark about content
+C074280,Correct,,misogynistic generalization about women
+C074284,Correct,,insulting dismissive remark
+C074286,Correct,,mildly rude critical remark directed at person
+C074292,Correct,,"rude, dismissive command"
+C074295,Correct,,sexist stereotype generalizing about women
+C074301,Correct,,broad hateful generalization targeting feminists as a group
+C074303,Correct,,insulting remark calling content trash
+C074309,Wrong,Offensive,"generic insult, no explicit hate target"
+C074313,Correct,,misogynistic generalization about women
+C074314,Correct,,dismissive insulting remark
+C074319,Correct,,dismissive/insulting remark about content
+C074321,Correct,,"mocking, dismissive remark"
+C074324,Wrong,Offensive,"generic dismissive insult, no explicit hate target"
+C074327,Wrong,Offensive,"generic insult about unnamed 'they', no explicit hate target"
+C074329,Correct,,insulting dismissive remark
+C074331,Wrong,Offensive,"generic insult about unnamed 'they', no explicit hate target"
+C074338,Correct,,"rude, dismissive command"
+C074341,Correct,,condescending rebuke directed at person
+C074347,Correct,,direct insult calling logic 'stupid'
+C074352,Correct,,misogynistic generalization blaming women
+C074353,Correct,,dismissive insulting remark
+C074355,Correct,,condescending rebuke about person's post
+C074361,Correct,,insulting dismissive remark
+C074365,Correct,,insulting remark calling thinking trashy
+C074370,Correct,,misogynistic generalization about women
+C074371,Correct,,explicit misogynistic generalization about women
+C074373,Correct,,"mocking, dismissive remark"
+C074376,Correct,,dismissive/insulting remark about content
+C074377,Wrong,Offensive,"generic insult about unnamed 'they', no explicit hate target"
+C074386,Correct,,insulting remark calling thinking trashy
+C074394,Correct,,misogynistic generalization blaming women
+C074396,Correct,,dismissive insulting remark
+C074407,Correct,,insulting/mocking remark
+C074412,Correct,,sexist stereotype generalizing about women
+C074413,Correct,,condescending rebuke about person's post
+C074415,Correct,,insulting remark calling thinking trashy
+C074418,Wrong,Offensive,"generic dismissive insult, not targeting protected group"
+C074420,Wrong,Offensive,"generic insult about unnamed 'they', no explicit hate target"
+C074426,Correct,,insulting dismissive remark
+C074428,Correct,,dismissive rude remark
+C074431,Wrong,Offensive,"dismissive generic insult, not explicitly hateful toward a group"
+C074432,Correct,,"explicit misogynistic statement, women should stay offline"
+C074449,Wrong,Offensive,"generic dismissive insult, no explicit gender/group target"
+C074455,Correct,,direct insult ('waste fellow')
+C074460,Correct,,condescending rebuke about person's post
+C074471,Correct,,insulting dismissive remark
+C074477,Correct,,insulting dismissive remark
+C074489,Correct,,condescending rebuke directed at person
+C074495,Correct,,explicit misogynistic generalization about women
+C074505,Correct,,insulting remark questioning sanity
+C074509,Correct,,explicit misogynistic generalization about women
+C074514,Correct,,misogynistic generalization blaming women
+C074515,Correct,,explicit misogynistic generalization about women
+C074525,Wrong,Offensive,"generic dismissive insult, no explicit hate target"
+C074527,Correct,,misogynistic generalization blaming women
+C074538,Wrong,Offensive,"generic dismissive insult, no explicit hate target"
+C074539,Correct,,misogynistic generalization about women
+C074540,Correct,,insulting remark targeting the person
+C074543,Wrong,Offensive,"generic insult, no explicit hate target"
+C074546,Correct,,sexist stereotype generalizing about women
+C074553,Wrong,Offensive,"generic insult, no explicit hate target"
+C074555,Correct,,misogynistic generalization about women
+C074557,Wrong,Offensive,"generic dismissive insult, not targeting protected group"
+C074560,Correct,,sexist stereotype generalizing about women
+C074582,Correct,,dismissive insulting remark
+C074583,Correct,,dismissive/insulting remark about content
+C074595,Correct,,insulting remark about the person
+C074596,Correct,,misogynistic generalization about women
+C074600,Correct,,misogynistic generalization blaming women
+C074607,Wrong,Offensive,"generic insult about unnamed 'they', no explicit hate target"
+C074609,Correct,,misogynistic generalization about women
+C074616,Correct,,insulting remark calling thinking trashy
+C074619,Wrong,Offensive,"dismissive generic insult, not explicitly hateful toward a group"
+C074622,Wrong,Offensive,"generic dismissive insult, no explicit gender/group target"
+C074624,Correct,,misogynistic generalization about women
+C074633,Correct,,dismissive critical remark about content
+C074635,Wrong,Offensive,"generic insult about posters, no explicit hate target"
+C074638,Correct,,insulting dismissive remark
+C074642,Correct,,misogynistic generalization blaming women
+C074643,Correct,,direct insult calling logic 'stupid'
+C074651,Correct,,"mocking, dismissive remark"
+C074654,Correct,,insulting dismissive remark
+C074657,Correct,,direct insult ('waste fellow')
+C074658,Correct,,explicit misogynistic generalization about women
+C074663,Correct,,mildly rude critical remark directed at person
+C074669,Correct,,insulting remark calling thinking trashy
+C074670,Wrong,Offensive,"generic insult about unnamed 'they', no explicit hate target"
+C074677,Correct,,condescending rebuke directed at person
+C074679,Wrong,Offensive,"generic insult about posters, no explicit hate target"
+C074682,Correct,,direct insult ('waste fellow')
+C074686,Correct,,misogynistic generalization blaming women
+C074702,Wrong,Offensive,"generic insult, no explicit hate target"
+C074703,Correct,,insulting remark calling content trash
+C074705,Wrong,Offensive,"generic insult about unnamed 'they', no explicit hate target"
+C074714,Correct,,insulting remark targeting the person
+C074717,Correct,,explicit misogynistic generalization about women
+C074724,Correct,,dismissive/insulting remark about content
+C074727,Wrong,Offensive,"generic insult about unnamed 'they', no explicit hate target"
+C074732,Correct,,direct insult calling logic 'stupid'
+C074734,Wrong,Offensive,"generic insult, no explicit hate target"
+C074739,Wrong,Offensive,"generic dismissive insult, no explicit hate target"
+C074752,Correct,,insulting dismissive remark
+C074755,Correct,,explicit misogynistic generalization about women
+C074757,Correct,,dismissive critical remark about content
+C074758,Correct,,sexist stereotype generalizing about women
+C074759,Correct,,sexist stereotype generalizing about women
+C074760,Correct,,insulting remark calling content trash
+C074762,Correct,,broad hateful generalization targeting feminists as a group
+C074770,Correct,,explicit misogynistic generalization about women
+C074771,Correct,,"rude, dismissive command"
+C074772,Correct,,misogynistic generalization about women
+C074776,Correct,,"mocking, dismissive remark"
+C074779,Correct,,dismissive insulting remark
+C074790,Wrong,Offensive,"generic dismissive insult, not targeting protected group"
+C074792,Correct,,insulting remark questioning sanity
+C074793,Correct,,insulting dismissive remark
+C074800,Correct,,insulting dismissive remark
+C074805,Wrong,Offensive,"generic insult, no explicit hate target"
+C074806,Wrong,Offensive,"generic dismissive insult, no explicit hate target"
+C074814,Correct,,dismissive critical remark about content
+C074815,Correct,,"mocking, dismissive remark"
+C074816,Correct,,broad hateful generalization targeting feminists as a group
+C074818,Wrong,Offensive,"dismissive generic insult, not explicitly hateful toward a group"
+C074820,Correct,,dismissive critical remark about content
+C074822,Correct,,explicit misogynistic generalization about women
+C074824,Correct,,misogynistic generalization about women
+C074826,Wrong,Offensive,"generic insult about unnamed 'they', no explicit hate target"
+C074832,Correct,,explicit misogynistic generalization about women
+C074833,Correct,,misogynistic generalization blaming women
+C074838,Correct,,mildly rude critical remark directed at person
+C074839,Correct,,misogynistic generalization blaming women
+C074840,Correct,,direct insult ('waste fellow')
+C074842,Correct,,condescending rebuke directed at person
+C074846,Correct,,insulting remark about the person
+C074848,Wrong,Offensive,"generic dismissive insult, not targeting protected group"
+C074855,Correct,,dismissive insulting remark
+C074856,Wrong,Offensive,"generic dismissive insult, no explicit hate target"
+C074859,Correct,,dismissive insulting remark
+C074860,Correct,,dismissive/insulting remark about content
+C074862,Wrong,Offensive,"generic dismissive insult, no explicit hate target"
+C074871,Correct,,condescending rebuke about person's post
+C074877,Correct,,insulting remark calling thinking trashy
+C074881,Correct,,insulting/mocking remark
+C074882,Correct,,insulting/mocking remark
+C074883,Correct,,insulting remark questioning sanity
+C074884,Correct,,insulting remark calling content trash
+C074894,Correct,,insulting remark calling thinking trashy
+C074900,Correct,,sexist stereotype generalizing about women
+C074903,Correct,,explicit misogynistic generalization about women
+C074908,Correct,,broad hateful generalization targeting feminists as a group
+C074920,Correct,,dismissive insulting remark
+C074924,Correct,,misogynistic generalization blaming women
+C074925,Correct,,explicit misogynistic statement excluding women from platforms
+C074928,Correct,,mildly rude critical remark directed at person
+C074933,Correct,,insulting remark calling thinking trashy
+C074935,Correct,,insulting remark calling thinking trashy
+C074940,Wrong,Offensive,"generic dismissive insult, no explicit hate target"
+C074943,Correct,,insulting/mocking remark
+C074956,Correct,,explicit misogynistic statement excluding women from platforms
+C074961,Wrong,Offensive,"generic dismissive insult, no explicit gender/group target"
+C074968,Wrong,Offensive,"generic insult about posters, no explicit hate target"
+C074973,Correct,,dismissive critical remark about content
+C074980,Correct,,explicit misogynistic generalization about women
+C074982,Wrong,Offensive,"generic insult, no explicit hate target"
+C074983,Correct,,insulting dismissive remark
+C074986,Correct,,dismissive critical remark about content
+C074990,Correct,,"mocking, dismissive remark"
+C074991,Wrong,Offensive,"generic insult, no explicit hate target"
+C074994,Correct,,insulting remark calling thinking trashy
+C074995,Wrong,Offensive,"generic dismissive insult, not targeting protected group"
+C074999,Correct,,explicit misogynistic generalization about women
+C075000,Correct,,insulting remark targeting the person

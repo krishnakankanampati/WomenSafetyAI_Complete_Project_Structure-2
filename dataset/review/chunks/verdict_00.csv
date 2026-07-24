@@ -1,0 +1,1401 @@
+﻿comment_id,verdict,corrected_category,reason
+C000001,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000003,Unsure,,No clear lexical signal; needs manual review
+C000008,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000011,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C000015,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C000017,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000020,Correct,,
+C000024,Correct,,
+C000028,Correct,,
+C000040,Correct,,
+C000042,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000044,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C000048,Unsure,,No clear lexical signal; needs manual review
+C000062,Unsure,,No clear lexical signal; needs manual review
+C000065,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000069,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C000073,Unsure,,No clear lexical signal; needs manual review
+C000074,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C000078,Unsure,,No clear lexical signal; needs manual review
+C000081,Unsure,,No clear lexical signal; needs manual review
+C000088,Correct,,
+C000091,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000093,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000094,Unsure,,No clear lexical signal; needs manual review
+C000096,Unsure,,No clear lexical signal; needs manual review
+C000099,Correct,,
+C000101,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000103,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000111,Unsure,,No clear lexical signal; needs manual review
+C000113,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000123,Correct,,
+C000126,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000135,Unsure,,No clear lexical signal; needs manual review
+C000136,Unsure,,No clear lexical signal; needs manual review
+C000138,Correct,,
+C000143,Unsure,,No clear lexical signal; needs manual review
+C000144,Unsure,,No clear lexical signal; needs manual review
+C000148,Unsure,,No clear lexical signal; needs manual review
+C000151,Unsure,,No clear lexical signal; needs manual review
+C000154,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C000160,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000163,Unsure,,No clear lexical signal; needs manual review
+C000166,Correct,,
+C000167,Unsure,,No clear lexical signal; needs manual review
+C000172,Correct,,
+C000180,Unsure,,No clear lexical signal; needs manual review
+C000181,Unsure,,No clear lexical signal; needs manual review
+C000182,Unsure,,No clear lexical signal; needs manual review
+C000186,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000191,Unsure,,No clear lexical signal; needs manual review
+C000195,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000199,Unsure,,No clear lexical signal; needs manual review
+C000200,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000202,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000203,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000204,Unsure,,No clear lexical signal; needs manual review
+C000210,Unsure,,No clear lexical signal; needs manual review
+C000212,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000214,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C000215,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000216,Unsure,,No clear lexical signal; needs manual review
+C000217,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000224,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000238,Unsure,,No clear lexical signal; needs manual review
+C000241,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C000244,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000247,Correct,,
+C000254,Unsure,,No clear lexical signal; needs manual review
+C000255,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000257,Unsure,,No clear lexical signal; needs manual review
+C000269,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000272,Correct,,
+C000298,Unsure,,No clear lexical signal; needs manual review
+C000301,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000305,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000309,Unsure,,No clear lexical signal; needs manual review
+C000310,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000313,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000318,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000326,Unsure,,No clear lexical signal; needs manual review
+C000330,Unsure,,No clear lexical signal; needs manual review
+C000331,Unsure,,No clear lexical signal; needs manual review
+C000332,Unsure,,No clear lexical signal; needs manual review
+C000334,Unsure,,No clear lexical signal; needs manual review
+C000340,Unsure,,No clear lexical signal; needs manual review
+C000341,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000357,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C000358,Unsure,,No clear lexical signal; needs manual review
+C000367,Unsure,,No clear lexical signal; needs manual review
+C000369,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000378,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C000381,Unsure,,No clear lexical signal; needs manual review
+C000382,Correct,,
+C000386,Unsure,,No clear lexical signal; needs manual review
+C000389,Unsure,,No clear lexical signal; needs manual review
+C000400,Unsure,,No clear lexical signal; needs manual review
+C000409,Unsure,,No clear lexical signal; needs manual review
+C000411,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000412,Unsure,,No clear lexical signal; needs manual review
+C000413,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000414,Unsure,,No clear lexical signal; needs manual review
+C000417,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000419,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000420,Unsure,,No clear lexical signal; needs manual review
+C000425,Unsure,,No clear lexical signal; needs manual review
+C000429,Unsure,,No clear lexical signal; needs manual review
+C000433,Unsure,,No clear lexical signal; needs manual review
+C000435,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000438,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000441,Unsure,,No clear lexical signal; needs manual review
+C000442,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C000449,Unsure,,No clear lexical signal; needs manual review
+C000454,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000455,Correct,,
+C000457,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000466,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000472,Unsure,,No clear lexical signal; needs manual review
+C000479,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000484,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000497,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000500,Unsure,,No clear lexical signal; needs manual review
+C000502,Correct,,
+C000504,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C000505,Unsure,,No clear lexical signal; needs manual review
+C000506,Unsure,,No clear lexical signal; needs manual review
+C000510,Unsure,,No clear lexical signal; needs manual review
+C000512,Unsure,,No clear lexical signal; needs manual review
+C000527,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C000528,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000530,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000533,Correct,,
+C000537,Unsure,,No clear lexical signal; needs manual review
+C000542,Unsure,,No clear lexical signal; needs manual review
+C000544,Unsure,,No clear lexical signal; needs manual review
+C000548,Unsure,,No clear lexical signal; needs manual review
+C000551,Correct,,
+C000555,Unsure,,No clear lexical signal; needs manual review
+C000557,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000559,Unsure,,No clear lexical signal; needs manual review
+C000560,Unsure,,No clear lexical signal; needs manual review
+C000561,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000562,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000565,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000568,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C000592,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000595,Unsure,,No clear lexical signal; needs manual review
+C000596,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000599,Unsure,,No clear lexical signal; needs manual review
+C000600,Unsure,,No clear lexical signal; needs manual review
+C000614,Unsure,,No clear lexical signal; needs manual review
+C000616,Unsure,,No clear lexical signal; needs manual review
+C000617,Unsure,,No clear lexical signal; needs manual review
+C000623,Unsure,,No clear lexical signal; needs manual review
+C000625,Unsure,,No clear lexical signal; needs manual review
+C000635,Unsure,,No clear lexical signal; needs manual review
+C000643,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000649,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000650,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000651,Unsure,,No clear lexical signal; needs manual review
+C000652,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000657,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000658,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000660,Unsure,,No clear lexical signal; needs manual review
+C000665,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000674,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000679,Unsure,,No clear lexical signal; needs manual review
+C000681,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000683,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000690,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000696,Unsure,,No clear lexical signal; needs manual review
+C000697,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000699,Unsure,,No clear lexical signal; needs manual review
+C000701,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000705,Unsure,,No clear lexical signal; needs manual review
+C000706,Unsure,,No clear lexical signal; needs manual review
+C000707,Unsure,,No clear lexical signal; needs manual review
+C000708,Unsure,,No clear lexical signal; needs manual review
+C000713,Correct,,
+C000716,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000720,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000721,Correct,,
+C000732,Correct,,
+C000737,Unsure,,No clear lexical signal; needs manual review
+C000738,Unsure,,No clear lexical signal; needs manual review
+C000739,Correct,,
+C000740,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000746,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000748,Unsure,,No clear lexical signal; needs manual review
+C000749,Correct,,
+C000751,Unsure,,No clear lexical signal; needs manual review
+C000755,Unsure,,No clear lexical signal; needs manual review
+C000757,Correct,,
+C000760,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000767,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C000768,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000774,Correct,,
+C000778,Unsure,,No clear lexical signal; needs manual review
+C000779,Unsure,,No clear lexical signal; needs manual review
+C000782,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000788,Unsure,,No clear lexical signal; needs manual review
+C000790,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000815,Unsure,,No clear lexical signal; needs manual review
+C000823,Unsure,,No clear lexical signal; needs manual review
+C000824,Correct,,
+C000826,Correct,,
+C000839,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C000843,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C000844,Unsure,,No clear lexical signal; needs manual review
+C000846,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000847,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000848,Unsure,,No clear lexical signal; needs manual review
+C000849,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C000850,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000851,Unsure,,No clear lexical signal; needs manual review
+C000858,Correct,,
+C000863,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000868,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000869,Unsure,,No clear lexical signal; needs manual review
+C000872,Correct,,
+C000874,Unsure,,No clear lexical signal; needs manual review
+C000875,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000880,Unsure,,No clear lexical signal; needs manual review
+C000887,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000889,Unsure,,No clear lexical signal; needs manual review
+C000890,Unsure,,No clear lexical signal; needs manual review
+C000895,Unsure,,No clear lexical signal; needs manual review
+C000911,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000912,Unsure,,No clear lexical signal; needs manual review
+C000914,Unsure,,No clear lexical signal; needs manual review
+C000918,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C000922,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000924,Correct,,
+C000926,Unsure,,No clear lexical signal; needs manual review
+C000928,Unsure,,No clear lexical signal; needs manual review
+C000938,Unsure,,No clear lexical signal; needs manual review
+C000941,Correct,,
+C000944,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000947,Unsure,,No clear lexical signal; needs manual review
+C000948,Unsure,,No clear lexical signal; needs manual review
+C000950,Unsure,,No clear lexical signal; needs manual review
+C000956,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000958,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C000960,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000962,Unsure,,No clear lexical signal; needs manual review
+C000963,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000970,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000971,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C000972,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000974,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000975,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000976,Unsure,,No clear lexical signal; needs manual review
+C000980,Unsure,,No clear lexical signal; needs manual review
+C000986,Unsure,,No clear lexical signal; needs manual review
+C000987,Unsure,,No clear lexical signal; needs manual review
+C000990,Unsure,,No clear lexical signal; needs manual review
+C000991,Correct,,
+C000992,Unsure,,No clear lexical signal; needs manual review
+C000993,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C000999,Unsure,,No clear lexical signal; needs manual review
+C001002,Wrong,Hate Speech,Targets caste/religion/nationality group with hostility
+C001004,Unsure,,No clear lexical signal; needs manual review
+C001005,Unsure,,No clear lexical signal; needs manual review
+C001007,Unsure,,No clear lexical signal; needs manual review
+C001020,Unsure,,No clear lexical signal; needs manual review
+C001021,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C001030,Unsure,,No clear lexical signal; needs manual review
+C001034,Unsure,,No clear lexical signal; needs manual review
+C001040,Correct,,
+C001043,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C001044,Unsure,,No clear lexical signal; needs manual review
+C001050,Correct,,
+C001056,Correct,,
+C001057,Unsure,,No clear lexical signal; needs manual review
+C001063,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C001069,Unsure,,No clear lexical signal; needs manual review
+C001072,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C001078,Correct,,
+C001083,Correct,,
+C001086,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C001092,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C001093,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C001095,Unsure,,No clear lexical signal; needs manual review
+C001101,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C001106,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C001116,Unsure,,No clear lexical signal; needs manual review
+C001120,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C001125,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C001135,Unsure,,No clear lexical signal; needs manual review
+C001142,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C001144,Unsure,,No clear lexical signal; needs manual review
+C001145,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C001146,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C001150,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C001151,Unsure,,No clear lexical signal; needs manual review
+C001157,Unsure,,No clear lexical signal; needs manual review
+C001173,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C001179,Unsure,,No clear lexical signal; needs manual review
+C001201,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C001204,Correct,,
+C001205,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C001208,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C001209,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C001212,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C001215,Unsure,,No clear lexical signal; needs manual review
+C001216,Unsure,,No clear lexical signal; needs manual review
+C001217,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C001220,Correct,,
+C001221,Unsure,,No clear lexical signal; needs manual review
+C001239,Unsure,,No clear lexical signal; needs manual review
+C001241,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C001246,Unsure,,No clear lexical signal; needs manual review
+C001247,Unsure,,No clear lexical signal; needs manual review
+C001248,Unsure,,No clear lexical signal; needs manual review
+C001249,Unsure,,No clear lexical signal; needs manual review
+C001252,Unsure,,No clear lexical signal; needs manual review
+C001253,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C001258,Unsure,,No clear lexical signal; needs manual review
+C001263,Unsure,,No clear lexical signal; needs manual review
+C001267,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C001268,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C001271,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C001279,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C001289,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C001292,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C001295,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C001298,Unsure,,No clear lexical signal; needs manual review
+C001301,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C001302,Unsure,,No clear lexical signal; needs manual review
+C001305,Unsure,,No clear lexical signal; needs manual review
+C001306,Unsure,,No clear lexical signal; needs manual review
+C001307,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C001308,Unsure,,No clear lexical signal; needs manual review
+C001318,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C001324,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C001328,Correct,,
+C001334,Unsure,,No clear lexical signal; needs manual review
+C001336,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C001347,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C001350,Correct,,
+C001367,Unsure,,No clear lexical signal; needs manual review
+C001369,Unsure,,No clear lexical signal; needs manual review
+C001381,Unsure,,No clear lexical signal; needs manual review
+C001386,Unsure,,No clear lexical signal; needs manual review
+C001389,Unsure,,No clear lexical signal; needs manual review
+C001391,Unsure,,No clear lexical signal; needs manual review
+C001400,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C001406,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C001408,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C001411,Unsure,,No clear lexical signal; needs manual review
+C001413,Correct,,
+C001415,Correct,,
+C001419,Unsure,,No clear lexical signal; needs manual review
+C001420,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C001421,Unsure,,No clear lexical signal; needs manual review
+C001424,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C001426,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C001428,Correct,,
+C001438,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C001439,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C001443,Unsure,,No clear lexical signal; needs manual review
+C001452,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C001454,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C001459,Unsure,,No clear lexical signal; needs manual review
+C001462,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C001465,Unsure,,No clear lexical signal; needs manual review
+C001466,Unsure,,No clear lexical signal; needs manual review
+C001468,Unsure,,No clear lexical signal; needs manual review
+C001471,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C001472,Correct,,
+C001476,Unsure,,No clear lexical signal; needs manual review
+C001477,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C001479,Unsure,,No clear lexical signal; needs manual review
+C001483,Unsure,,No clear lexical signal; needs manual review
+C001487,Correct,,
+C001491,Unsure,,No clear lexical signal; needs manual review
+C001493,Unsure,,No clear lexical signal; needs manual review
+C001494,Unsure,,No clear lexical signal; needs manual review
+C001499,Correct,,
+C001500,Correct,,
+C001501,Unsure,,No clear lexical signal; needs manual review
+C001502,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C001503,Correct,,
+C001518,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C001532,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C001533,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C001536,Unsure,,No clear lexical signal; needs manual review
+C001537,Unsure,,No clear lexical signal; needs manual review
+C001544,Correct,,
+C001549,Unsure,,No clear lexical signal; needs manual review
+C001558,Unsure,,No clear lexical signal; needs manual review
+C001562,Unsure,,No clear lexical signal; needs manual review
+C001566,Unsure,,No clear lexical signal; needs manual review
+C001567,Unsure,,No clear lexical signal; needs manual review
+C001570,Unsure,,No clear lexical signal; needs manual review
+C001573,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C001581,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C001582,Unsure,,No clear lexical signal; needs manual review
+C001583,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C001586,Correct,,
+C001590,Unsure,,No clear lexical signal; needs manual review
+C001600,Unsure,,No clear lexical signal; needs manual review
+C001603,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C001606,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C001607,Correct,,
+C001615,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C001619,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C001621,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C001623,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C001626,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C001627,Unsure,,No clear lexical signal; needs manual review
+C001629,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C001639,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C001641,Unsure,,No clear lexical signal; needs manual review
+C001644,Unsure,,No clear lexical signal; needs manual review
+C001652,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C001654,Unsure,,No clear lexical signal; needs manual review
+C001658,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C001659,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C001660,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C001662,Unsure,,No clear lexical signal; needs manual review
+C001664,Unsure,,No clear lexical signal; needs manual review
+C001666,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C001668,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C001682,Unsure,,No clear lexical signal; needs manual review
+C001690,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C001693,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C001697,Unsure,,No clear lexical signal; needs manual review
+C001704,Unsure,,No clear lexical signal; needs manual review
+C001705,Unsure,,No clear lexical signal; needs manual review
+C001709,Unsure,,No clear lexical signal; needs manual review
+C001710,Unsure,,No clear lexical signal; needs manual review
+C001712,Unsure,,No clear lexical signal; needs manual review
+C001715,Unsure,,No clear lexical signal; needs manual review
+C001717,Unsure,,No clear lexical signal; needs manual review
+C001722,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C001724,Unsure,,No clear lexical signal; needs manual review
+C001729,Unsure,,No clear lexical signal; needs manual review
+C001732,Unsure,,No clear lexical signal; needs manual review
+C001736,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C001740,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C001747,Unsure,,No clear lexical signal; needs manual review
+C001753,Correct,,
+C001754,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C001755,Unsure,,No clear lexical signal; needs manual review
+C001757,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C001758,Unsure,,No clear lexical signal; needs manual review
+C001760,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C001764,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C001766,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C001768,Unsure,,No clear lexical signal; needs manual review
+C001771,Unsure,,No clear lexical signal; needs manual review
+C001773,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C001781,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C001782,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C001789,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C001793,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C001794,Correct,,
+C001797,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C001798,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C001804,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C001812,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C001817,Correct,,
+C001821,Correct,,
+C001825,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C001833,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C001853,Unsure,,No clear lexical signal; needs manual review
+C001855,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C001862,Unsure,,No clear lexical signal; needs manual review
+C001865,Unsure,,No clear lexical signal; needs manual review
+C001866,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C001867,Unsure,,No clear lexical signal; needs manual review
+C001869,Unsure,,No clear lexical signal; needs manual review
+C001871,Unsure,,No clear lexical signal; needs manual review
+C001875,Unsure,,No clear lexical signal; needs manual review
+C001878,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C001885,Unsure,,No clear lexical signal; needs manual review
+C001886,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C001903,Correct,,
+C001913,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C001916,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C001918,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C001920,Unsure,,No clear lexical signal; needs manual review
+C001924,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C001925,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C001932,Unsure,,No clear lexical signal; needs manual review
+C001933,Unsure,,No clear lexical signal; needs manual review
+C001936,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C001940,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C001943,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C001947,Correct,,
+C001959,Unsure,,No clear lexical signal; needs manual review
+C001965,Unsure,,No clear lexical signal; needs manual review
+C001967,Unsure,,No clear lexical signal; needs manual review
+C001969,Unsure,,No clear lexical signal; needs manual review
+C001970,Correct,,
+C001971,Unsure,,No clear lexical signal; needs manual review
+C001972,Correct,,
+C001979,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C001980,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C001984,Unsure,,No clear lexical signal; needs manual review
+C001988,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C001989,Unsure,,No clear lexical signal; needs manual review
+C001990,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002000,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002007,Unsure,,No clear lexical signal; needs manual review
+C002019,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C002021,Unsure,,No clear lexical signal; needs manual review
+C002029,Unsure,,No clear lexical signal; needs manual review
+C002033,Unsure,,No clear lexical signal; needs manual review
+C002034,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002035,Unsure,,No clear lexical signal; needs manual review
+C002036,Unsure,,No clear lexical signal; needs manual review
+C002040,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C002046,Unsure,,No clear lexical signal; needs manual review
+C002047,Unsure,,No clear lexical signal; needs manual review
+C002048,Unsure,,No clear lexical signal; needs manual review
+C002058,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C002059,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002060,Unsure,,No clear lexical signal; needs manual review
+C002061,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002063,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002068,Unsure,,No clear lexical signal; needs manual review
+C002069,Unsure,,No clear lexical signal; needs manual review
+C002075,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002083,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002087,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002088,Unsure,,No clear lexical signal; needs manual review
+C002089,Unsure,,No clear lexical signal; needs manual review
+C002091,Unsure,,No clear lexical signal; needs manual review
+C002093,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002098,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C002101,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002102,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002103,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002104,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002105,Unsure,,No clear lexical signal; needs manual review
+C002106,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002108,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002112,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C002113,Unsure,,No clear lexical signal; needs manual review
+C002115,Unsure,,No clear lexical signal; needs manual review
+C002117,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002121,Unsure,,No clear lexical signal; needs manual review
+C002126,Unsure,,No clear lexical signal; needs manual review
+C002127,Unsure,,No clear lexical signal; needs manual review
+C002133,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002135,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002141,Unsure,,No clear lexical signal; needs manual review
+C002142,Unsure,,No clear lexical signal; needs manual review
+C002152,Unsure,,No clear lexical signal; needs manual review
+C002155,Unsure,,No clear lexical signal; needs manual review
+C002157,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002163,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002168,Unsure,,No clear lexical signal; needs manual review
+C002171,Unsure,,No clear lexical signal; needs manual review
+C002172,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002173,Unsure,,No clear lexical signal; needs manual review
+C002183,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002184,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002187,Unsure,,No clear lexical signal; needs manual review
+C002189,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002193,Correct,,
+C002197,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002200,Unsure,,No clear lexical signal; needs manual review
+C002208,Unsure,,No clear lexical signal; needs manual review
+C002219,Unsure,,No clear lexical signal; needs manual review
+C002228,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002232,Unsure,,No clear lexical signal; needs manual review
+C002233,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C002246,Unsure,,No clear lexical signal; needs manual review
+C002255,Unsure,,No clear lexical signal; needs manual review
+C002262,Unsure,,No clear lexical signal; needs manual review
+C002270,Unsure,,No clear lexical signal; needs manual review
+C002274,Unsure,,No clear lexical signal; needs manual review
+C002279,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002280,Correct,,
+C002282,Unsure,,No clear lexical signal; needs manual review
+C002283,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002285,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002287,Unsure,,No clear lexical signal; needs manual review
+C002289,Unsure,,No clear lexical signal; needs manual review
+C002290,Unsure,,No clear lexical signal; needs manual review
+C002291,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002292,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002295,Correct,,
+C002319,Unsure,,No clear lexical signal; needs manual review
+C002320,Unsure,,No clear lexical signal; needs manual review
+C002322,Unsure,,No clear lexical signal; needs manual review
+C002327,Unsure,,No clear lexical signal; needs manual review
+C002328,Unsure,,No clear lexical signal; needs manual review
+C002329,Unsure,,No clear lexical signal; needs manual review
+C002338,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002344,Unsure,,No clear lexical signal; needs manual review
+C002347,Unsure,,No clear lexical signal; needs manual review
+C002348,Correct,,
+C002355,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C002356,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002358,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002368,Unsure,,No clear lexical signal; needs manual review
+C002369,Unsure,,No clear lexical signal; needs manual review
+C002373,Correct,,
+C002383,Unsure,,No clear lexical signal; needs manual review
+C002386,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002388,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002390,Unsure,,No clear lexical signal; needs manual review
+C002400,Unsure,,No clear lexical signal; needs manual review
+C002402,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002407,Unsure,,No clear lexical signal; needs manual review
+C002409,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C002410,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002412,Unsure,,No clear lexical signal; needs manual review
+C002413,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002418,Unsure,,No clear lexical signal; needs manual review
+C002423,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C002428,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C002429,Unsure,,No clear lexical signal; needs manual review
+C002431,Unsure,,No clear lexical signal; needs manual review
+C002437,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002440,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002442,Unsure,,No clear lexical signal; needs manual review
+C002444,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002445,Unsure,,No clear lexical signal; needs manual review
+C002453,Unsure,,No clear lexical signal; needs manual review
+C002458,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C002461,Unsure,,No clear lexical signal; needs manual review
+C002465,Correct,,
+C002469,Unsure,,No clear lexical signal; needs manual review
+C002470,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002472,Correct,,
+C002473,Unsure,,No clear lexical signal; needs manual review
+C002474,Unsure,,No clear lexical signal; needs manual review
+C002478,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002479,Unsure,,No clear lexical signal; needs manual review
+C002482,Unsure,,No clear lexical signal; needs manual review
+C002495,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002497,Unsure,,No clear lexical signal; needs manual review
+C002498,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002501,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002508,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002510,Unsure,,No clear lexical signal; needs manual review
+C002516,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002519,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C002521,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002526,Unsure,,No clear lexical signal; needs manual review
+C002527,Unsure,,No clear lexical signal; needs manual review
+C002532,Correct,,
+C002536,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002539,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002546,Unsure,,No clear lexical signal; needs manual review
+C002547,Unsure,,No clear lexical signal; needs manual review
+C002549,Unsure,,No clear lexical signal; needs manual review
+C002554,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002558,Unsure,,No clear lexical signal; needs manual review
+C002559,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002561,Correct,,
+C002563,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002575,Unsure,,No clear lexical signal; needs manual review
+C002590,Correct,,
+C002591,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002593,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002596,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002602,Unsure,,No clear lexical signal; needs manual review
+C002607,Unsure,,No clear lexical signal; needs manual review
+C002610,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002611,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002618,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002622,Unsure,,No clear lexical signal; needs manual review
+C002623,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002626,Unsure,,No clear lexical signal; needs manual review
+C002627,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002629,Unsure,,No clear lexical signal; needs manual review
+C002630,Unsure,,No clear lexical signal; needs manual review
+C002637,Unsure,,No clear lexical signal; needs manual review
+C002639,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C002640,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002643,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002648,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C002650,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002651,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002652,Unsure,,No clear lexical signal; needs manual review
+C002659,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002665,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002666,Unsure,,No clear lexical signal; needs manual review
+C002672,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002673,Unsure,,No clear lexical signal; needs manual review
+C002674,Unsure,,No clear lexical signal; needs manual review
+C002678,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002679,Unsure,,No clear lexical signal; needs manual review
+C002684,Unsure,,No clear lexical signal; needs manual review
+C002685,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002686,Unsure,,No clear lexical signal; needs manual review
+C002692,Unsure,,No clear lexical signal; needs manual review
+C002698,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002701,Correct,,
+C002704,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002706,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002708,Unsure,,No clear lexical signal; needs manual review
+C002709,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002710,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002726,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C002731,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C002733,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002734,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002737,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C002739,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002740,Unsure,,No clear lexical signal; needs manual review
+C002744,Unsure,,No clear lexical signal; needs manual review
+C002747,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002750,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002751,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002753,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002754,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002755,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002756,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002758,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002762,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002766,Correct,,
+C002767,Unsure,,No clear lexical signal; needs manual review
+C002768,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002775,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002783,Correct,,
+C002786,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002792,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C002794,Unsure,,No clear lexical signal; needs manual review
+C002799,Correct,,
+C002804,Correct,,
+C002807,Unsure,,No clear lexical signal; needs manual review
+C002809,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C002811,Unsure,,No clear lexical signal; needs manual review
+C002814,Unsure,,No clear lexical signal; needs manual review
+C002816,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C002817,Unsure,,No clear lexical signal; needs manual review
+C002822,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C002836,Correct,,
+C002838,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002839,Correct,,
+C002846,Unsure,,No clear lexical signal; needs manual review
+C002848,Unsure,,No clear lexical signal; needs manual review
+C002853,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C002856,Unsure,,No clear lexical signal; needs manual review
+C002857,Correct,,
+C002864,Unsure,,No clear lexical signal; needs manual review
+C002871,Unsure,,No clear lexical signal; needs manual review
+C002873,Unsure,,No clear lexical signal; needs manual review
+C002879,Correct,,
+C002889,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002891,Correct,,
+C002894,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002895,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002900,Correct,,
+C002904,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002912,Unsure,,No clear lexical signal; needs manual review
+C002916,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002917,Unsure,,No clear lexical signal; needs manual review
+C002918,Unsure,,No clear lexical signal; needs manual review
+C002926,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002933,Unsure,,No clear lexical signal; needs manual review
+C002934,Correct,,
+C002940,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002943,Unsure,,No clear lexical signal; needs manual review
+C002944,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002954,Unsure,,No clear lexical signal; needs manual review
+C002958,Unsure,,No clear lexical signal; needs manual review
+C002962,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002965,Unsure,,No clear lexical signal; needs manual review
+C002967,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002970,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002971,Unsure,,No clear lexical signal; needs manual review
+C002972,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002976,Unsure,,No clear lexical signal; needs manual review
+C002977,Unsure,,No clear lexical signal; needs manual review
+C002978,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C002981,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C002983,Correct,,
+C002987,Unsure,,No clear lexical signal; needs manual review
+C002999,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C003002,Correct,,
+C003003,Unsure,,No clear lexical signal; needs manual review
+C003014,Unsure,,No clear lexical signal; needs manual review
+C003016,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003018,Unsure,,No clear lexical signal; needs manual review
+C003020,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003023,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003030,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003031,Unsure,,No clear lexical signal; needs manual review
+C003033,Unsure,,No clear lexical signal; needs manual review
+C003036,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003038,Unsure,,No clear lexical signal; needs manual review
+C003042,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003044,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003050,Unsure,,No clear lexical signal; needs manual review
+C003052,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003057,Unsure,,No clear lexical signal; needs manual review
+C003079,Unsure,,No clear lexical signal; needs manual review
+C003088,Unsure,,No clear lexical signal; needs manual review
+C003091,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003094,Correct,,
+C003098,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003100,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003109,Unsure,,No clear lexical signal; needs manual review
+C003112,Unsure,,No clear lexical signal; needs manual review
+C003117,Unsure,,No clear lexical signal; needs manual review
+C003119,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003121,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003122,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003124,Correct,,
+C003125,Unsure,,No clear lexical signal; needs manual review
+C003135,Unsure,,No clear lexical signal; needs manual review
+C003137,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003139,Unsure,,No clear lexical signal; needs manual review
+C003143,Correct,,
+C003145,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003155,Unsure,,No clear lexical signal; needs manual review
+C003161,Unsure,,No clear lexical signal; needs manual review
+C003169,Unsure,,No clear lexical signal; needs manual review
+C003170,Unsure,,No clear lexical signal; needs manual review
+C003171,Unsure,,No clear lexical signal; needs manual review
+C003176,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003180,Unsure,,No clear lexical signal; needs manual review
+C003182,Correct,,
+C003191,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C003192,Unsure,,No clear lexical signal; needs manual review
+C003193,Unsure,,No clear lexical signal; needs manual review
+C003198,Unsure,,No clear lexical signal; needs manual review
+C003203,Unsure,,No clear lexical signal; needs manual review
+C003205,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C003210,Unsure,,No clear lexical signal; needs manual review
+C003214,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003217,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003219,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003223,Unsure,,No clear lexical signal; needs manual review
+C003227,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C003234,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C003236,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003239,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003246,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003250,Unsure,,No clear lexical signal; needs manual review
+C003256,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003263,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003275,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C003278,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003279,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003283,Unsure,,No clear lexical signal; needs manual review
+C003285,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003287,Unsure,,No clear lexical signal; needs manual review
+C003290,Correct,,
+C003292,Correct,,
+C003294,Unsure,,No clear lexical signal; needs manual review
+C003295,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C003296,Unsure,,No clear lexical signal; needs manual review
+C003300,Correct,,
+C003309,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C003317,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003320,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003325,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003334,Unsure,,No clear lexical signal; needs manual review
+C003343,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003347,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003350,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003351,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003360,Unsure,,No clear lexical signal; needs manual review
+C003362,Unsure,,No clear lexical signal; needs manual review
+C003374,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003385,Unsure,,No clear lexical signal; needs manual review
+C003386,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003387,Unsure,,No clear lexical signal; needs manual review
+C003388,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003390,Unsure,,No clear lexical signal; needs manual review
+C003396,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003403,Unsure,,No clear lexical signal; needs manual review
+C003405,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003407,Unsure,,No clear lexical signal; needs manual review
+C003409,Unsure,,No clear lexical signal; needs manual review
+C003410,Unsure,,No clear lexical signal; needs manual review
+C003411,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003417,Unsure,,No clear lexical signal; needs manual review
+C003425,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003431,Unsure,,No clear lexical signal; needs manual review
+C003438,Unsure,,No clear lexical signal; needs manual review
+C003448,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003452,Unsure,,No clear lexical signal; needs manual review
+C003455,Unsure,,No clear lexical signal; needs manual review
+C003456,Unsure,,No clear lexical signal; needs manual review
+C003457,Unsure,,No clear lexical signal; needs manual review
+C003458,Correct,,
+C003461,Correct,,
+C003462,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003465,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003468,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003469,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003471,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C003474,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003483,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C003485,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003493,Correct,,
+C003495,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003497,Unsure,,No clear lexical signal; needs manual review
+C003500,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003505,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C003515,Unsure,,No clear lexical signal; needs manual review
+C003520,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003522,Unsure,,No clear lexical signal; needs manual review
+C003525,Unsure,,No clear lexical signal; needs manual review
+C003532,Unsure,,No clear lexical signal; needs manual review
+C003535,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003536,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003539,Unsure,,No clear lexical signal; needs manual review
+C003541,Unsure,,No clear lexical signal; needs manual review
+C003551,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003554,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003555,Unsure,,No clear lexical signal; needs manual review
+C003558,Correct,,
+C003562,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003565,Unsure,,No clear lexical signal; needs manual review
+C003568,Correct,,
+C003569,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003573,Correct,,
+C003578,Unsure,,No clear lexical signal; needs manual review
+C003583,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003585,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003587,Unsure,,No clear lexical signal; needs manual review
+C003590,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C003594,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C003598,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003601,Unsure,,No clear lexical signal; needs manual review
+C003603,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003606,Unsure,,No clear lexical signal; needs manual review
+C003611,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003612,Unsure,,No clear lexical signal; needs manual review
+C003617,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C003624,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003633,Unsure,,No clear lexical signal; needs manual review
+C003637,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C003639,Unsure,,No clear lexical signal; needs manual review
+C003641,Unsure,,No clear lexical signal; needs manual review
+C003642,Unsure,,No clear lexical signal; needs manual review
+C003645,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003646,Correct,,
+C003650,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003653,Unsure,,No clear lexical signal; needs manual review
+C003655,Unsure,,No clear lexical signal; needs manual review
+C003659,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003665,Unsure,,No clear lexical signal; needs manual review
+C003668,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003670,Unsure,,No clear lexical signal; needs manual review
+C003671,Unsure,,No clear lexical signal; needs manual review
+C003675,Correct,,
+C003679,Unsure,,No clear lexical signal; needs manual review
+C003682,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003686,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003689,Correct,,
+C003690,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003695,Unsure,,No clear lexical signal; needs manual review
+C003696,Unsure,,No clear lexical signal; needs manual review
+C003701,Unsure,,No clear lexical signal; needs manual review
+C003703,Unsure,,No clear lexical signal; needs manual review
+C003704,Unsure,,No clear lexical signal; needs manual review
+C003705,Correct,,
+C003707,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003708,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003713,Unsure,,No clear lexical signal; needs manual review
+C003723,Unsure,,No clear lexical signal; needs manual review
+C003727,Unsure,,No clear lexical signal; needs manual review
+C003729,Unsure,,No clear lexical signal; needs manual review
+C003731,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003732,Unsure,,No clear lexical signal; needs manual review
+C003734,Unsure,,No clear lexical signal; needs manual review
+C003739,Correct,,
+C003742,Unsure,,No clear lexical signal; needs manual review
+C003744,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003745,Unsure,,No clear lexical signal; needs manual review
+C003749,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003750,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003752,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003753,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003755,Unsure,,No clear lexical signal; needs manual review
+C003757,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003758,Unsure,,No clear lexical signal; needs manual review
+C003762,Unsure,,No clear lexical signal; needs manual review
+C003766,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003767,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003771,Correct,,
+C003779,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003783,Unsure,,No clear lexical signal; needs manual review
+C003788,Unsure,,No clear lexical signal; needs manual review
+C003792,Unsure,,No clear lexical signal; needs manual review
+C003798,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003799,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003812,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003819,Unsure,,No clear lexical signal; needs manual review
+C003822,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C003830,Unsure,,No clear lexical signal; needs manual review
+C003832,Unsure,,No clear lexical signal; needs manual review
+C003844,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003846,Unsure,,No clear lexical signal; needs manual review
+C003849,Unsure,,No clear lexical signal; needs manual review
+C003855,Unsure,,No clear lexical signal; needs manual review
+C003856,Unsure,,No clear lexical signal; needs manual review
+C003859,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003860,Unsure,,No clear lexical signal; needs manual review
+C003865,Unsure,,No clear lexical signal; needs manual review
+C003870,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003872,Unsure,,No clear lexical signal; needs manual review
+C003875,Unsure,,No clear lexical signal; needs manual review
+C003877,Unsure,,No clear lexical signal; needs manual review
+C003878,Unsure,,No clear lexical signal; needs manual review
+C003880,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003882,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003886,Wrong,Hate Speech,Targets caste/religion/nationality group with hostility
+C003887,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003892,Unsure,,No clear lexical signal; needs manual review
+C003899,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003901,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003902,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003903,Unsure,,No clear lexical signal; needs manual review
+C003904,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C003906,Correct,,
+C003911,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003912,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003921,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003926,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003929,Unsure,,No clear lexical signal; needs manual review
+C003933,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003935,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003936,Unsure,,No clear lexical signal; needs manual review
+C003942,Unsure,,No clear lexical signal; needs manual review
+C003950,Unsure,,No clear lexical signal; needs manual review
+C003956,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003959,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003963,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C003966,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C003972,Unsure,,No clear lexical signal; needs manual review
+C003974,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003982,Unsure,,No clear lexical signal; needs manual review
+C003987,Unsure,,No clear lexical signal; needs manual review
+C003988,Unsure,,No clear lexical signal; needs manual review
+C003992,Unsure,,No clear lexical signal; needs manual review
+C003994,Unsure,,No clear lexical signal; needs manual review
+C003996,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C003997,Correct,,
+C004000,Correct,,
+C004008,Unsure,,No clear lexical signal; needs manual review
+C004013,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004016,Correct,,
+C004020,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004021,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004024,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004026,Correct,,
+C004036,Unsure,,No clear lexical signal; needs manual review
+C004037,Unsure,,No clear lexical signal; needs manual review
+C004043,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004048,Unsure,,No clear lexical signal; needs manual review
+C004050,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004054,Unsure,,No clear lexical signal; needs manual review
+C004055,Unsure,,No clear lexical signal; needs manual review
+C004065,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004070,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004079,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004082,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004084,Unsure,,No clear lexical signal; needs manual review
+C004085,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004086,Correct,,
+C004088,Unsure,,No clear lexical signal; needs manual review
+C004090,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004091,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004092,Unsure,,No clear lexical signal; needs manual review
+C004097,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004099,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004110,Unsure,,No clear lexical signal; needs manual review
+C004112,Unsure,,No clear lexical signal; needs manual review
+C004116,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004118,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004124,Unsure,,No clear lexical signal; needs manual review
+C004128,Unsure,,No clear lexical signal; needs manual review
+C004131,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004136,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004138,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004141,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004145,Unsure,,No clear lexical signal; needs manual review
+C004146,Unsure,,No clear lexical signal; needs manual review
+C004147,Unsure,,No clear lexical signal; needs manual review
+C004150,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004157,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004165,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004166,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C004171,Unsure,,No clear lexical signal; needs manual review
+C004172,Unsure,,No clear lexical signal; needs manual review
+C004175,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004187,Unsure,,No clear lexical signal; needs manual review
+C004196,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004198,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004201,Unsure,,No clear lexical signal; needs manual review
+C004209,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004211,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C004213,Unsure,,No clear lexical signal; needs manual review
+C004222,Unsure,,No clear lexical signal; needs manual review
+C004225,Correct,,
+C004228,Correct,,
+C004235,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C004239,Unsure,,No clear lexical signal; needs manual review
+C004248,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004255,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004256,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004259,Unsure,,No clear lexical signal; needs manual review
+C004261,Unsure,,No clear lexical signal; needs manual review
+C004264,Unsure,,No clear lexical signal; needs manual review
+C004266,Correct,,
+C004271,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004280,Unsure,,No clear lexical signal; needs manual review
+C004287,Correct,,
+C004288,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C004293,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004295,Unsure,,No clear lexical signal; needs manual review
+C004296,Unsure,,No clear lexical signal; needs manual review
+C004300,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004305,Unsure,,No clear lexical signal; needs manual review
+C004308,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004310,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004322,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004323,Correct,,
+C004326,Unsure,,No clear lexical signal; needs manual review
+C004329,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004332,Unsure,,No clear lexical signal; needs manual review
+C004333,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C004335,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C004336,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004341,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004345,Unsure,,No clear lexical signal; needs manual review
+C004347,Correct,,
+C004348,Unsure,,No clear lexical signal; needs manual review
+C004352,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004353,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C004360,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004361,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004363,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004366,Unsure,,No clear lexical signal; needs manual review
+C004370,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004374,Correct,,
+C004375,Correct,,
+C004379,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004387,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C004392,Unsure,,No clear lexical signal; needs manual review
+C004393,Unsure,,No clear lexical signal; needs manual review
+C004394,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004399,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004409,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C004410,Unsure,,No clear lexical signal; needs manual review
+C004411,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004413,Unsure,,No clear lexical signal; needs manual review
+C004419,Unsure,,No clear lexical signal; needs manual review
+C004422,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004424,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004426,Unsure,,No clear lexical signal; needs manual review
+C004431,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004432,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004434,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004435,Unsure,,No clear lexical signal; needs manual review
+C004437,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004444,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004446,Unsure,,No clear lexical signal; needs manual review
+C004447,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004451,Correct,,
+C004458,Unsure,,No clear lexical signal; needs manual review
+C004463,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C004467,Unsure,,No clear lexical signal; needs manual review
+C004468,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004473,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004475,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004476,Correct,,
+C004479,Unsure,,No clear lexical signal; needs manual review
+C004483,Unsure,,No clear lexical signal; needs manual review
+C004485,Unsure,,No clear lexical signal; needs manual review
+C004486,Unsure,,No clear lexical signal; needs manual review
+C004492,Unsure,,No clear lexical signal; needs manual review
+C004499,Unsure,,No clear lexical signal; needs manual review
+C004502,Unsure,,No clear lexical signal; needs manual review
+C004503,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004506,Unsure,,No clear lexical signal; needs manual review
+C004508,Unsure,,No clear lexical signal; needs manual review
+C004511,Unsure,,No clear lexical signal; needs manual review
+C004516,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004518,Unsure,,No clear lexical signal; needs manual review
+C004525,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004529,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004532,Unsure,,No clear lexical signal; needs manual review
+C004533,Correct,,
+C004534,Unsure,,No clear lexical signal; needs manual review
+C004545,Correct,,
+C004547,Unsure,,No clear lexical signal; needs manual review
+C004552,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004555,Unsure,,No clear lexical signal; needs manual review
+C004558,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004561,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004563,Unsure,,No clear lexical signal; needs manual review
+C004567,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004570,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004572,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C004573,Unsure,,No clear lexical signal; needs manual review
+C004590,Unsure,,No clear lexical signal; needs manual review
+C004600,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004603,Correct,,
+C004610,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C004612,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C004620,Unsure,,No clear lexical signal; needs manual review
+C004625,Unsure,,No clear lexical signal; needs manual review
+C004626,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004629,Unsure,,No clear lexical signal; needs manual review
+C004631,Unsure,,No clear lexical signal; needs manual review
+C004633,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004635,Unsure,,No clear lexical signal; needs manual review
+C004636,Unsure,,No clear lexical signal; needs manual review
+C004638,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004642,Unsure,,No clear lexical signal; needs manual review
+C004643,Unsure,,No clear lexical signal; needs manual review
+C004645,Unsure,,No clear lexical signal; needs manual review
+C004649,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004663,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C004665,Unsure,,No clear lexical signal; needs manual review
+C004672,Unsure,,No clear lexical signal; needs manual review
+C004678,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004679,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004681,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004688,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004692,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004695,Unsure,,No clear lexical signal; needs manual review
+C004705,Unsure,,No clear lexical signal; needs manual review
+C004706,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004707,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004713,Correct,,
+C004719,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004722,Unsure,,No clear lexical signal; needs manual review
+C004729,Correct,,
+C004731,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004734,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004736,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C004738,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004741,Unsure,,No clear lexical signal; needs manual review
+C004746,Unsure,,No clear lexical signal; needs manual review
+C004747,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C004753,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004757,Unsure,,No clear lexical signal; needs manual review
+C004758,Unsure,,No clear lexical signal; needs manual review
+C004760,Unsure,,No clear lexical signal; needs manual review
+C004764,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C004768,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004771,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004777,Correct,,
+C004780,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C004786,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004796,Unsure,,No clear lexical signal; needs manual review
+C004797,Unsure,,No clear lexical signal; needs manual review
+C004801,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004806,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004808,Unsure,,No clear lexical signal; needs manual review
+C004809,Unsure,,No clear lexical signal; needs manual review
+C004827,Unsure,,No clear lexical signal; needs manual review
+C004831,Unsure,,No clear lexical signal; needs manual review
+C004833,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004834,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004835,Unsure,,No clear lexical signal; needs manual review
+C004836,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004838,Correct,,
+C004840,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C004842,Unsure,,No clear lexical signal; needs manual review
+C004844,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004845,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004846,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004847,Unsure,,No clear lexical signal; needs manual review
+C004851,Correct,,
+C004852,Unsure,,No clear lexical signal; needs manual review
+C004858,Unsure,,No clear lexical signal; needs manual review
+C004860,Unsure,,No clear lexical signal; needs manual review
+C004864,Unsure,,No clear lexical signal; needs manual review
+C004869,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004872,Unsure,,No clear lexical signal; needs manual review
+C004878,Unsure,,No clear lexical signal; needs manual review
+C004883,Unsure,,No clear lexical signal; needs manual review
+C004884,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004895,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004896,Unsure,,No clear lexical signal; needs manual review
+C004897,Correct,,
+C004898,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004900,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004903,Correct,,
+C004905,Unsure,,No clear lexical signal; needs manual review
+C004915,Unsure,,No clear lexical signal; needs manual review
+C004918,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004924,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C004931,Correct,,
+C004933,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004934,Unsure,,No clear lexical signal; needs manual review
+C004936,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004940,Unsure,,No clear lexical signal; needs manual review
+C004944,Unsure,,No clear lexical signal; needs manual review
+C004949,Unsure,,No clear lexical signal; needs manual review
+C004951,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C004961,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004969,Unsure,,No clear lexical signal; needs manual review
+C004971,Unsure,,No clear lexical signal; needs manual review
+C004974,Unsure,,No clear lexical signal; needs manual review
+C004975,Correct,,
+C004976,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004980,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004984,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C004986,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C004991,Unsure,,No clear lexical signal; needs manual review
+C004993,Unsure,,No clear lexical signal; needs manual review
+C005003,Unsure,,No clear lexical signal; needs manual review
+C005017,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C005025,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C005026,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C005027,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C005028,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C005029,Unsure,,No clear lexical signal; needs manual review
+C005032,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C005037,Correct,,
+C005044,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C005046,Correct,,
+C005047,Correct,,
+C005054,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C005056,Correct,,
+C005058,Unsure,,No clear lexical signal; needs manual review
+C005064,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C005067,Unsure,,No clear lexical signal; needs manual review
+C005075,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C005077,Unsure,,No clear lexical signal; needs manual review
+C005081,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C005090,Unsure,,No clear lexical signal; needs manual review
+C005091,Correct,,
+C005095,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C005103,Unsure,,No clear lexical signal; needs manual review
+C005107,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C005112,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C005116,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C005118,Unsure,,No clear lexical signal; needs manual review
+C005120,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C005124,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C005128,Unsure,,No clear lexical signal; needs manual review
+C005134,Correct,,
+C005136,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C005139,Correct,,
+C005140,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C005156,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C005161,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C005162,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C005164,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C005174,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C005175,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C005178,Unsure,,No clear lexical signal; needs manual review
+C005180,Correct,,
+C005187,Unsure,,No clear lexical signal; needs manual review
+C005188,Unsure,,No clear lexical signal; needs manual review
+C005193,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C005198,Correct,,
+C005205,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C005207,Unsure,,No clear lexical signal; needs manual review
+C005208,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C005219,Unsure,,No clear lexical signal; needs manual review
+C005226,Unsure,,No clear lexical signal; needs manual review
+C005229,Unsure,,No clear lexical signal; needs manual review
+C005233,Unsure,,No clear lexical signal; needs manual review
+C005239,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C005248,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C005252,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C005254,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C005256,Unsure,,No clear lexical signal; needs manual review
+C005265,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C005267,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C005269,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C005272,Unsure,,No clear lexical signal; needs manual review
+C005273,Correct,,
+C005280,Unsure,,No clear lexical signal; needs manual review
+C005290,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C005295,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C005310,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C005313,Unsure,,No clear lexical signal; needs manual review
+C005316,Unsure,,No clear lexical signal; needs manual review
+C005318,Unsure,,No clear lexical signal; needs manual review
+C005319,Unsure,,No clear lexical signal; needs manual review
+C005320,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C005324,Unsure,,No clear lexical signal; needs manual review
+C005326,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C005328,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C005330,Unsure,,No clear lexical signal; needs manual review
+C005344,Unsure,,No clear lexical signal; needs manual review
+C005350,Unsure,,No clear lexical signal; needs manual review
+C005362,Unsure,,No clear lexical signal; needs manual review
+C005367,Unsure,,No clear lexical signal; needs manual review
+C005371,Unsure,,No clear lexical signal; needs manual review
+C005374,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C005376,Unsure,,No clear lexical signal; needs manual review
+C005377,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"
+C005383,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C005384,Unsure,,No clear lexical signal; needs manual review
+C005386,Unsure,,No clear lexical signal; needs manual review
+C005388,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C005389,Unsure,,No clear lexical signal; needs manual review
+C005392,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C005394,Wrong,Safe,"Neutral movie/political/celebrity comment, no hostility"
+C005396,Wrong,Offensive,"Vulgar slur/insult, but no group targeted"

@@ -1,0 +1,21 @@
+   comment_id      language     category                                                                            comment  english_translation
+0     C021910  Roman Telugu  Hate Speech                                             anna envy thopu neki saati evaru laeru                  NaN
+1     C021916        Telugu  Hate Speech                          ఆమె ధైర్యానికి సమర్ధతకు సెల్యూట్ కాఫీడే సంస్థ ఛైర్ పర్సన్                  NaN
+2     C021924  Roman Telugu  Hate Speech         Nattu ga , neku manishiki undalsina lakshanam okkati kooda ledhu kadha ra.                  NaN
+3     C021925        Telugu  Hate Speech                                        కేసీఆర్ కేబినెట్లో మీటింగ్ లేదు బొచ్చు లేదు                  NaN
+4     C021929      Tanglish    Offensive            Aduththavan compose panna music use panrathu aanmai illatha ye kurikkum                  NaN
+5     C021931      Tanglish    Offensive                 Enada tamil cinema eduka sonna Hollywood cinema eduthu vachirkinga                  NaN
+6     C021935      Tanglish  Hate Speech                                          WTF views kum likes samanthame ilaye ya..                  NaN
+7     C021936        Telugu  Hate Speech          నాని అన్న నువ్వు పొరపటున గాని NTR అన్న ని ఏమైన అన్నవో నీ life ఖాతం జాగ్రత                  NaN
+8     C021939      Kanglish  Hate Speech     Maneli appa amma na chennagi nodkondilla andru tirke shoki beku ivarigella bro                  NaN
+9     C021941      Tanglish    Offensive  Thalai ku thalai poora Neraiya Neraiya Neraiya romdha Neraiya neracha mudi irruku                  NaN
+10    C021952  Roman Telugu  Hate Speech                                                       dammu unna raaju maa rajanna                  NaN
+11    C021954      Tanglish    Offensive                      Tha nega like podulana kuda dislike enna ithukku da poduringa                  NaN
+12    C021955        Telugu  Hate Speech                             ఈ దునియలో సిగ్గులేని ముఖ్యమంత్రి మీరే సర్ కెసిఆర్ గారు                  NaN
+13    C021956        Telugu  Hate Speech                                                         మ్యూజిక్ చాలా చాలా బాగుంది                  NaN
+14    C021963      Tanglish  Hate Speech                          ennnangada bharath aane nenu pada stunt ellam potrukeenga                  NaN
+15    C021964      Tanglish    Offensive    Thalaivar ku 35k dislikes ah epdida manasu varuthu ungaluku sleeper cells ugala                  NaN
+16    C021965      Tanglish    Offensive                          Yenda mask kuda krishn padatha pathu copy adicirukigaleda                  NaN
+17    C021967  Roman Telugu  Hate Speech                                 Veedi comedy kosam ..valla nannani kuda vadalaledu                  NaN
+18    C021968        Telugu  Hate Speech  వాడికి ఎంత కుల పిచ్చి అంటే jr ntr ni దేశమంతా ప్రచారానికి బీజేపీ ఉపయోగిస్తుంది ఆట.                  NaN
+19    C021971      Tanglish    Offensive                                                       8K dislikes from animal pans                  NaN

@@ -1,0 +1,1401 @@
+﻿comment_id,verdict,corrected_category,reason
+C065423,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C065424,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C065441,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C065443,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C065444,Correct,,Explicit misogynistic generalization about women as a group
+C065446,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C065455,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C065462,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C065475,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C065478,Correct,,Explicit misogynistic generalization about women as a group
+C065480,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C065483,Correct,,Explicit misogynistic generalization about women as a group
+C065486,Correct,,Explicit misogynistic generalization about women as a group
+C065488,Correct,,Explicit misogynistic generalization about women as a group
+C065494,Correct,,Explicit misogynistic generalization about women as a group
+C065499,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C065500,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C065502,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C065510,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C065512,Correct,,Explicit misogynistic generalization about women as a group
+C065517,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C065518,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C065520,Correct,,Explicit misogynistic generalization about women as a group
+C065534,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C065537,Correct,,Explicit misogynistic generalization about women as a group
+C065538,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C065545,Correct,,Explicit misogynistic generalization about women as a group
+C065554,Correct,,Explicit misogynistic generalization about women as a group
+C065557,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C065562,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C065564,Correct,,Explicit misogynistic generalization about women as a group
+C065565,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C065568,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C065570,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C065571,Correct,,Explicit misogynistic generalization about women as a group
+C065578,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C065583,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C065608,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C065610,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C065619,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C065633,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C065635,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C065639,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C065640,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C065658,Correct,,Explicit misogynistic generalization about women as a group
+C065663,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C065665,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C065666,Correct,,Explicit misogynistic generalization about women as a group
+C065673,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C065679,Correct,,Explicit misogynistic generalization about women as a group
+C065681,Correct,,Explicit misogynistic generalization about women as a group
+C065686,Correct,,Explicit misogynistic generalization about women as a group
+C065687,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C065703,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C065709,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C065713,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C065714,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C065715,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C065718,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C065719,Correct,,Explicit misogynistic generalization about women as a group
+C065722,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C065726,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C065727,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C065728,Correct,,Explicit misogynistic generalization about women as a group
+C065732,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C065736,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C065740,Correct,,Explicit misogynistic generalization about women as a group
+C065741,Correct,,Explicit misogynistic generalization about women as a group
+C065744,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C065746,Correct,,Explicit misogynistic generalization about women as a group
+C065751,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C065761,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C065763,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C065764,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C065766,Correct,,Explicit misogynistic generalization about women as a group
+C065769,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C065774,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C065775,Correct,,Explicit misogynistic generalization about women as a group
+C065784,Correct,,Explicit misogynistic generalization about women as a group
+C065791,Correct,,Explicit misogynistic generalization about women as a group
+C065795,Correct,,Explicit misogynistic generalization about women as a group
+C065807,Correct,,Explicit misogynistic generalization about women as a group
+C065808,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C065813,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C065814,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C065816,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C065819,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C065820,Correct,,Explicit misogynistic generalization about women as a group
+C065821,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C065823,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C065828,Correct,,Explicit misogynistic generalization about women as a group
+C065832,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C065833,Correct,,Explicit misogynistic generalization about women as a group
+C065835,Correct,,Explicit misogynistic generalization about women as a group
+C065843,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C065855,Correct,,Explicit misogynistic generalization about women as a group
+C065860,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C065861,Correct,,Explicit misogynistic generalization about women as a group
+C065865,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C065867,Correct,,Explicit misogynistic generalization about women as a group
+C065870,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C065875,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C065877,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C065878,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C065879,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C065886,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C065893,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C065900,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C065902,Correct,,Explicit misogynistic generalization about women as a group
+C065904,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C065905,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C065906,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C065908,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C065909,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C065911,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C065912,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C065915,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C065919,Correct,,Explicit misogynistic generalization about women as a group
+C065922,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C065925,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C065932,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C065957,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C065962,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C065964,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C065965,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C065966,Correct,,Explicit misogynistic generalization about women as a group
+C065973,Correct,,Explicit misogynistic generalization about women as a group
+C065974,Correct,,Explicit misogynistic generalization about women as a group
+C065976,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C065978,Correct,,Explicit misogynistic generalization about women as a group
+C065980,Correct,,Explicit misogynistic generalization about women as a group
+C065982,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C065987,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C065995,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C065999,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066003,Correct,,Explicit misogynistic generalization about women as a group
+C066004,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C066008,Correct,,Explicit misogynistic generalization about women as a group
+C066016,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066017,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066020,Correct,,Explicit misogynistic generalization about women as a group
+C066021,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066022,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C066026,Correct,,Explicit misogynistic generalization about women as a group
+C066029,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C066039,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066044,Correct,,Explicit misogynistic generalization about women as a group
+C066047,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066050,Correct,,Explicit misogynistic generalization about women as a group
+C066051,Correct,,Explicit misogynistic generalization about women as a group
+C066053,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066054,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066066,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066069,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C066076,Correct,,Explicit misogynistic generalization about women as a group
+C066082,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066083,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066084,Correct,,Explicit misogynistic generalization about women as a group
+C066086,Correct,,Explicit misogynistic generalization about women as a group
+C066088,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066093,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066094,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066097,Correct,,Explicit misogynistic generalization about women as a group
+C066109,Correct,,Explicit misogynistic generalization about women as a group
+C066110,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C066112,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066113,Correct,,Explicit misogynistic generalization about women as a group
+C066114,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066120,Correct,,Explicit misogynistic generalization about women as a group
+C066121,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066124,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066126,Correct,,Explicit misogynistic generalization about women as a group
+C066127,Correct,,Explicit misogynistic generalization about women as a group
+C066128,Correct,,Explicit misogynistic generalization about women as a group
+C066130,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066131,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C066132,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066135,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C066139,Correct,,Explicit misogynistic generalization about women as a group
+C066146,Correct,,Explicit misogynistic generalization about women as a group
+C066147,Correct,,Explicit misogynistic generalization about women as a group
+C066148,Correct,,Explicit misogynistic generalization about women as a group
+C066152,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066161,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066162,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C066173,Correct,,Explicit misogynistic generalization about women as a group
+C066188,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066191,Correct,,Explicit misogynistic generalization about women as a group
+C066195,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066199,Correct,,Explicit misogynistic generalization about women as a group
+C066202,Correct,,Explicit misogynistic generalization about women as a group
+C066203,Correct,,Explicit misogynistic generalization about women as a group
+C066206,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C066207,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066211,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066212,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066217,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C066231,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066233,Correct,,Explicit misogynistic generalization about women as a group
+C066236,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066242,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C066251,Correct,,Explicit misogynistic generalization about women as a group
+C066256,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C066263,Correct,,Explicit misogynistic generalization about women as a group
+C066272,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066275,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066278,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C066284,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066289,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C066290,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066291,Correct,,Explicit misogynistic generalization about women as a group
+C066292,Correct,,Explicit misogynistic generalization about women as a group
+C066298,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066302,Correct,,Explicit misogynistic generalization about women as a group
+C066303,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066305,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066313,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066315,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066319,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066323,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066325,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066331,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066335,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C066338,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066359,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066362,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066374,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066375,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C066379,Correct,,Explicit misogynistic generalization about women as a group
+C066380,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066390,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C066394,Correct,,Explicit misogynistic generalization about women as a group
+C066397,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066401,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066406,Correct,,Explicit misogynistic generalization about women as a group
+C066412,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066414,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066415,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066419,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066429,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066431,Correct,,Explicit misogynistic generalization about women as a group
+C066433,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066434,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066439,Correct,,Explicit misogynistic generalization about women as a group
+C066440,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066443,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066447,Correct,,Explicit misogynistic generalization about women as a group
+C066459,Correct,,Explicit misogynistic generalization about women as a group
+C066460,Correct,,Explicit misogynistic generalization about women as a group
+C066466,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C066470,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066474,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066477,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C066478,Correct,,Explicit misogynistic generalization about women as a group
+C066483,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066484,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C066488,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C066493,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C066501,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066503,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066505,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066508,Correct,,Explicit misogynistic generalization about women as a group
+C066513,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066516,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066518,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C066526,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066529,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066531,Correct,,Explicit misogynistic generalization about women as a group
+C066534,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066547,Correct,,Explicit misogynistic generalization about women as a group
+C066549,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C066553,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066554,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066558,Correct,,Explicit misogynistic generalization about women as a group
+C066559,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066560,Correct,,Explicit misogynistic generalization about women as a group
+C066563,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066565,Correct,,Explicit misogynistic generalization about women as a group
+C066566,Correct,,Explicit misogynistic generalization about women as a group
+C066571,Correct,,Explicit misogynistic generalization about women as a group
+C066572,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C066578,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C066580,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066581,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066582,Correct,,Explicit misogynistic generalization about women as a group
+C066584,Correct,,Explicit misogynistic generalization about women as a group
+C066585,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C066589,Correct,,Explicit misogynistic generalization about women as a group
+C066593,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066598,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C066600,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066606,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066611,Correct,,Explicit misogynistic generalization about women as a group
+C066612,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066617,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C066619,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066621,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066623,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066625,Correct,,Explicit misogynistic generalization about women as a group
+C066626,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066630,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066635,Correct,,Explicit misogynistic generalization about women as a group
+C066637,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C066641,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C066649,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066650,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066653,Correct,,Explicit misogynistic generalization about women as a group
+C066654,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066656,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066677,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066678,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066679,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066683,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C066690,Correct,,Explicit misogynistic generalization about women as a group
+C066691,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066694,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066702,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066709,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066711,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066714,Correct,,Explicit misogynistic generalization about women as a group
+C066727,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C066728,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066729,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066730,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066739,Correct,,Explicit misogynistic generalization about women as a group
+C066742,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066744,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066748,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066749,Correct,,Explicit misogynistic generalization about women as a group
+C066750,Correct,,Explicit misogynistic generalization about women as a group
+C066752,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066754,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066755,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066757,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066758,Correct,,Explicit misogynistic generalization about women as a group
+C066759,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066763,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066770,Correct,,Explicit misogynistic generalization about women as a group
+C066775,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066780,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066785,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066789,Correct,,Explicit misogynistic generalization about women as a group
+C066791,Correct,,Explicit misogynistic generalization about women as a group
+C066792,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066793,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066796,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C066798,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066800,Correct,,Explicit misogynistic generalization about women as a group
+C066808,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C066810,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066814,Correct,,Explicit misogynistic generalization about women as a group
+C066816,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066817,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066824,Correct,,Explicit misogynistic generalization about women as a group
+C066825,Correct,,Explicit misogynistic generalization about women as a group
+C066826,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066827,Correct,,Explicit misogynistic generalization about women as a group
+C066832,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C066833,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C066838,Correct,,Explicit misogynistic generalization about women as a group
+C066840,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066844,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066851,Correct,,Explicit misogynistic generalization about women as a group
+C066859,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066862,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066863,Correct,,Explicit misogynistic generalization about women as a group
+C066867,Correct,,Explicit misogynistic generalization about women as a group
+C066876,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066881,Correct,,Explicit misogynistic generalization about women as a group
+C066885,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C066891,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066892,Correct,,Explicit misogynistic generalization about women as a group
+C066896,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066897,Correct,,Explicit misogynistic generalization about women as a group
+C066899,Correct,,Explicit misogynistic generalization about women as a group
+C066910,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066911,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066912,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066914,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066918,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C066926,Correct,,Explicit misogynistic generalization about women as a group
+C066927,Correct,,Explicit misogynistic generalization about women as a group
+C066929,Correct,,Explicit misogynistic generalization about women as a group
+C066930,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066933,Correct,,Explicit misogynistic generalization about women as a group
+C066944,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066958,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066962,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066967,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066971,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066981,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C066984,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C066985,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C066993,Correct,,Explicit misogynistic generalization about women as a group
+C067000,Correct,,Explicit misogynistic generalization about women as a group
+C067001,Correct,,Explicit misogynistic generalization about women as a group
+C067002,Correct,,Explicit misogynistic generalization about women as a group
+C067003,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067009,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C067013,Correct,,Explicit misogynistic generalization about women as a group
+C067016,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C067026,Correct,,Explicit misogynistic generalization about women as a group
+C067027,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067030,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067032,Correct,,Explicit misogynistic generalization about women as a group
+C067036,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C067039,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067042,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067046,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067048,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067056,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067057,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067060,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067061,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067063,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067067,Correct,,Explicit misogynistic generalization about women as a group
+C067070,Correct,,Explicit misogynistic generalization about women as a group
+C067071,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067074,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C067081,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C067084,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067086,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067089,Correct,,Explicit misogynistic generalization about women as a group
+C067090,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067091,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067099,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067106,Correct,,Explicit misogynistic generalization about women as a group
+C067120,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067122,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C067125,Correct,,Explicit misogynistic generalization about women as a group
+C067127,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067133,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067138,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C067140,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C067145,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067148,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067150,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067151,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067157,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067158,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067161,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067162,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067164,Correct,,Explicit misogynistic generalization about women as a group
+C067166,Correct,,Explicit misogynistic generalization about women as a group
+C067168,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C067170,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067172,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C067180,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067183,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067184,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067187,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067188,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067189,Correct,,Explicit misogynistic generalization about women as a group
+C067190,Correct,,Explicit misogynistic generalization about women as a group
+C067202,Correct,,Explicit misogynistic generalization about women as a group
+C067208,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067211,Correct,,Explicit misogynistic generalization about women as a group
+C067214,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067215,Correct,,Explicit misogynistic generalization about women as a group
+C067216,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067222,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067227,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067229,Correct,,Explicit misogynistic generalization about women as a group
+C067244,Correct,,Explicit misogynistic generalization about women as a group
+C067247,Correct,,Explicit misogynistic generalization about women as a group
+C067257,Correct,,Explicit misogynistic generalization about women as a group
+C067260,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067267,Correct,,Explicit misogynistic generalization about women as a group
+C067271,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C067275,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067277,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067278,Correct,,Explicit misogynistic generalization about women as a group
+C067279,Correct,,Explicit misogynistic generalization about women as a group
+C067280,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C067282,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067283,Correct,,Explicit misogynistic generalization about women as a group
+C067285,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C067287,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067293,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067294,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067301,Correct,,Explicit misogynistic generalization about women as a group
+C067302,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067308,Correct,,Explicit misogynistic generalization about women as a group
+C067309,Correct,,Explicit misogynistic generalization about women as a group
+C067315,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067316,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067328,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067329,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067331,Correct,,Explicit misogynistic generalization about women as a group
+C067335,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C067345,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067350,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067353,Correct,,Explicit misogynistic generalization about women as a group
+C067356,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C067357,Correct,,Explicit misogynistic generalization about women as a group
+C067361,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C067365,Correct,,Explicit misogynistic generalization about women as a group
+C067368,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067376,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067381,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067383,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067384,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067385,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067401,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067402,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067406,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067409,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C067414,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067416,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067420,Correct,,Explicit misogynistic generalization about women as a group
+C067425,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067427,Correct,,Explicit misogynistic generalization about women as a group
+C067429,Correct,,Explicit misogynistic generalization about women as a group
+C067445,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067446,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C067448,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067450,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C067452,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067453,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067456,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C067457,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067460,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C067465,Correct,,Explicit misogynistic generalization about women as a group
+C067467,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067472,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067473,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067476,Correct,,Explicit misogynistic generalization about women as a group
+C067483,Correct,,Explicit misogynistic generalization about women as a group
+C067489,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C067490,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067491,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067503,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C067504,Correct,,Explicit misogynistic generalization about women as a group
+C067505,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C067509,Correct,,Explicit misogynistic generalization about women as a group
+C067513,Correct,,Explicit misogynistic generalization about women as a group
+C067515,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067517,Correct,,Explicit misogynistic generalization about women as a group
+C067533,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067536,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C067540,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C067541,Correct,,Explicit misogynistic generalization about women as a group
+C067543,Correct,,Explicit misogynistic generalization about women as a group
+C067544,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C067549,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C067557,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067559,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067562,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067563,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067569,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067570,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C067573,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067586,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067588,Correct,,Explicit misogynistic generalization about women as a group
+C067591,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067592,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067595,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067601,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067605,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067612,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C067620,Correct,,Explicit misogynistic generalization about women as a group
+C067627,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067629,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C067634,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067646,Correct,,Explicit misogynistic generalization about women as a group
+C067647,Correct,,Explicit misogynistic generalization about women as a group
+C067648,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067651,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067660,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067661,Correct,,Explicit misogynistic generalization about women as a group
+C067662,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067663,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C067664,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067671,Correct,,Explicit misogynistic generalization about women as a group
+C067675,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C067676,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067678,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067682,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067688,Correct,,Explicit misogynistic generalization about women as a group
+C067689,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067691,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067695,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C067696,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067700,Correct,,Explicit misogynistic generalization about women as a group
+C067701,Correct,,Explicit misogynistic generalization about women as a group
+C067703,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C067723,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067737,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067754,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C067762,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067766,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067770,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C067774,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C067784,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C067790,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067799,Correct,,Explicit misogynistic generalization about women as a group
+C067803,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067805,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067806,Correct,,Explicit misogynistic generalization about women as a group
+C067807,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067812,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C067814,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C067816,Correct,,Explicit misogynistic generalization about women as a group
+C067820,Correct,,Explicit misogynistic generalization about women as a group
+C067825,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067826,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C067829,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067831,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C067837,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067839,Correct,,Explicit misogynistic generalization about women as a group
+C067844,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067850,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067851,Correct,,Explicit misogynistic generalization about women as a group
+C067852,Correct,,Explicit misogynistic generalization about women as a group
+C067854,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067856,Correct,,Explicit misogynistic generalization about women as a group
+C067859,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C067860,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C067866,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C067872,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C067881,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067890,Correct,,Explicit misogynistic generalization about women as a group
+C067891,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C067893,Correct,,Explicit misogynistic generalization about women as a group
+C067894,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067902,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C067909,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067911,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C067922,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067923,Correct,,Explicit misogynistic generalization about women as a group
+C067929,Correct,,Explicit misogynistic generalization about women as a group
+C067931,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067933,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067941,Correct,,Explicit misogynistic generalization about women as a group
+C067942,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067946,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C067948,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C067949,Correct,,Explicit misogynistic generalization about women as a group
+C067958,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067961,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067964,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067965,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067968,Correct,,Explicit misogynistic generalization about women as a group
+C067973,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C067978,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067985,Correct,,Explicit misogynistic generalization about women as a group
+C067991,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C067993,Correct,,Explicit misogynistic generalization about women as a group
+C067995,Correct,,Explicit misogynistic generalization about women as a group
+C067997,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068001,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C068005,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068007,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C068011,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068020,Correct,,Explicit misogynistic generalization about women as a group
+C068023,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068025,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C068026,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068034,Correct,,Explicit misogynistic generalization about women as a group
+C068037,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068038,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068040,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068047,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068050,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068054,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068065,Correct,,Explicit misogynistic generalization about women as a group
+C068069,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068074,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068079,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068081,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068083,Correct,,Explicit misogynistic generalization about women as a group
+C068089,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068090,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068108,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C068115,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068118,Correct,,Explicit misogynistic generalization about women as a group
+C068120,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C068121,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068123,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C068125,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068127,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C068139,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068145,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C068148,Correct,,Explicit misogynistic generalization about women as a group
+C068152,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068154,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C068155,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068159,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068161,Correct,,Explicit misogynistic generalization about women as a group
+C068163,Correct,,Explicit misogynistic generalization about women as a group
+C068165,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C068174,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068178,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068179,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068182,Correct,,Explicit misogynistic generalization about women as a group
+C068183,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C068185,Correct,,Explicit misogynistic generalization about women as a group
+C068191,Correct,,Explicit misogynistic generalization about women as a group
+C068193,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068198,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C068200,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068204,Correct,,Explicit misogynistic generalization about women as a group
+C068215,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C068216,Correct,,Explicit misogynistic generalization about women as a group
+C068218,Correct,,Explicit misogynistic generalization about women as a group
+C068220,Correct,,Explicit misogynistic generalization about women as a group
+C068228,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068229,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068230,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068231,Correct,,Explicit misogynistic generalization about women as a group
+C068241,Correct,,Explicit misogynistic generalization about women as a group
+C068245,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068247,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068250,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068252,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068254,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068255,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C068264,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C068266,Correct,,Explicit misogynistic generalization about women as a group
+C068267,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C068273,Correct,,Explicit misogynistic generalization about women as a group
+C068274,Correct,,Explicit misogynistic generalization about women as a group
+C068279,Correct,,Explicit misogynistic generalization about women as a group
+C068284,Correct,,Explicit misogynistic generalization about women as a group
+C068286,Correct,,Explicit misogynistic generalization about women as a group
+C068289,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068290,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068292,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068297,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C068303,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068304,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068306,Correct,,Explicit misogynistic generalization about women as a group
+C068309,Correct,,Explicit misogynistic generalization about women as a group
+C068313,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068319,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C068320,Correct,,Explicit misogynistic generalization about women as a group
+C068325,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C068332,Correct,,Explicit misogynistic generalization about women as a group
+C068339,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068340,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068342,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068349,Correct,,Explicit misogynistic generalization about women as a group
+C068352,Correct,,Explicit misogynistic generalization about women as a group
+C068357,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C068358,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C068363,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C068367,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068370,Correct,,Explicit misogynistic generalization about women as a group
+C068377,Correct,,Explicit misogynistic generalization about women as a group
+C068380,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068385,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068386,Correct,,Explicit misogynistic generalization about women as a group
+C068387,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068388,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068390,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C068392,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068394,Correct,,Explicit misogynistic generalization about women as a group
+C068395,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068402,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068403,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068412,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068413,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C068421,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C068424,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068444,Correct,,Explicit misogynistic generalization about women as a group
+C068445,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068453,Correct,,Explicit misogynistic generalization about women as a group
+C068460,Correct,,Explicit misogynistic generalization about women as a group
+C068462,Correct,,Explicit misogynistic generalization about women as a group
+C068473,Correct,,Explicit misogynistic generalization about women as a group
+C068475,Correct,,Explicit misogynistic generalization about women as a group
+C068480,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068483,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C068489,Correct,,Explicit misogynistic generalization about women as a group
+C068492,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068496,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068503,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068504,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068505,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068506,Correct,,Explicit misogynistic generalization about women as a group
+C068512,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C068513,Correct,,Explicit misogynistic generalization about women as a group
+C068518,Correct,,Explicit misogynistic generalization about women as a group
+C068521,Correct,,Explicit misogynistic generalization about women as a group
+C068526,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068527,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068531,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C068533,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C068541,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C068544,Correct,,Explicit misogynistic generalization about women as a group
+C068550,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068553,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C068554,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C068556,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C068557,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C068561,Correct,,Explicit misogynistic generalization about women as a group
+C068563,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068564,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068568,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068580,Correct,,Explicit misogynistic generalization about women as a group
+C068587,Correct,,Explicit misogynistic generalization about women as a group
+C068590,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C068592,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068595,Correct,,Explicit misogynistic generalization about women as a group
+C068605,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C068606,Correct,,Explicit misogynistic generalization about women as a group
+C068609,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068616,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C068617,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068627,Correct,,Explicit misogynistic generalization about women as a group
+C068628,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C068629,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068630,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068634,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C068635,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068636,Correct,,Explicit misogynistic generalization about women as a group
+C068647,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068648,Correct,,Explicit misogynistic generalization about women as a group
+C068649,Correct,,Explicit misogynistic generalization about women as a group
+C068651,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068656,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068664,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068667,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068673,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068674,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068676,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068677,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C068678,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068681,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C068682,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C068683,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068688,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068695,Correct,,Explicit misogynistic generalization about women as a group
+C068696,Correct,,Explicit misogynistic generalization about women as a group
+C068703,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068711,Correct,,Explicit misogynistic generalization about women as a group
+C068712,Correct,,Explicit misogynistic generalization about women as a group
+C068717,Correct,,Explicit misogynistic generalization about women as a group
+C068718,Correct,,Explicit misogynistic generalization about women as a group
+C068720,Correct,,Explicit misogynistic generalization about women as a group
+C068721,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068726,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068727,Correct,,Explicit misogynistic generalization about women as a group
+C068729,Correct,,Explicit misogynistic generalization about women as a group
+C068733,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C068737,Correct,,Explicit misogynistic generalization about women as a group
+C068745,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068748,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068750,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068755,Correct,,Explicit misogynistic generalization about women as a group
+C068762,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068766,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068770,Correct,,Explicit misogynistic generalization about women as a group
+C068772,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068773,Correct,,Explicit misogynistic generalization about women as a group
+C068776,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C068789,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068791,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068792,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068793,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068794,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C068797,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068799,Correct,,Explicit misogynistic generalization about women as a group
+C068812,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068813,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068819,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068821,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068822,Correct,,Explicit misogynistic generalization about women as a group
+C068825,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068826,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068828,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068837,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C068839,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068841,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C068848,Correct,,Explicit misogynistic generalization about women as a group
+C068855,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068861,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068867,Correct,,Explicit misogynistic generalization about women as a group
+C068870,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068871,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068880,Correct,,Explicit misogynistic generalization about women as a group
+C068881,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068888,Correct,,Explicit misogynistic generalization about women as a group
+C068889,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068909,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068910,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068913,Correct,,Explicit misogynistic generalization about women as a group
+C068915,Correct,,Explicit misogynistic generalization about women as a group
+C068917,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068922,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068931,Correct,,Explicit misogynistic generalization about women as a group
+C068934,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C068935,Correct,,Explicit misogynistic generalization about women as a group
+C068936,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068944,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C068946,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068948,Correct,,Explicit misogynistic generalization about women as a group
+C068951,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068954,Correct,,Explicit misogynistic generalization about women as a group
+C068957,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068960,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068961,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068963,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068971,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068973,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068976,Correct,,Explicit misogynistic generalization about women as a group
+C068978,Correct,,Explicit misogynistic generalization about women as a group
+C068980,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C068986,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068987,Correct,,Explicit misogynistic generalization about women as a group
+C068988,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068989,Correct,,Explicit misogynistic generalization about women as a group
+C068992,Correct,,Explicit misogynistic generalization about women as a group
+C068993,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068994,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C068995,Correct,,Explicit misogynistic generalization about women as a group
+C068997,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C068998,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069005,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069006,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069015,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069019,Correct,,Explicit misogynistic generalization about women as a group
+C069021,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069024,Correct,,Explicit misogynistic generalization about women as a group
+C069035,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C069038,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069039,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C069040,Correct,,Explicit misogynistic generalization about women as a group
+C069041,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069042,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069047,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069048,Correct,,Explicit misogynistic generalization about women as a group
+C069053,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069054,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069055,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069058,Correct,,Explicit misogynistic generalization about women as a group
+C069059,Correct,,Explicit misogynistic generalization about women as a group
+C069060,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C069062,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069063,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069066,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069071,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C069073,Correct,,Explicit misogynistic generalization about women as a group
+C069075,Correct,,Explicit misogynistic generalization about women as a group
+C069090,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C069094,Correct,,Explicit misogynistic generalization about women as a group
+C069105,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C069106,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069109,Correct,,Explicit misogynistic generalization about women as a group
+C069117,Correct,,Explicit misogynistic generalization about women as a group
+C069118,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C069126,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069129,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069133,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069134,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069141,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069159,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C069169,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069172,Correct,,Explicit misogynistic generalization about women as a group
+C069174,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069176,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C069180,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069195,Correct,,Explicit misogynistic generalization about women as a group
+C069210,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069220,Correct,,Explicit misogynistic generalization about women as a group
+C069222,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C069228,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069234,Correct,,Explicit misogynistic generalization about women as a group
+C069239,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069240,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069241,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C069242,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069244,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069248,Correct,,Explicit misogynistic generalization about women as a group
+C069253,Correct,,Explicit misogynistic generalization about women as a group
+C069259,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069263,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C069271,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069272,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069280,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069281,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069286,Correct,,Explicit misogynistic generalization about women as a group
+C069290,Correct,,Explicit misogynistic generalization about women as a group
+C069291,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069293,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069297,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C069299,Correct,,Explicit misogynistic generalization about women as a group
+C069302,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069305,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C069307,Correct,,Explicit misogynistic generalization about women as a group
+C069308,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C069310,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069323,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069327,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069328,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C069340,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069344,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069346,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069352,Correct,,Explicit misogynistic generalization about women as a group
+C069356,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069361,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C069365,Correct,,Explicit misogynistic generalization about women as a group
+C069368,Correct,,Explicit misogynistic generalization about women as a group
+C069371,Correct,,Explicit misogynistic generalization about women as a group
+C069373,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C069375,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069376,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C069378,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069387,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C069388,Correct,,Explicit misogynistic generalization about women as a group
+C069389,Correct,,Explicit misogynistic generalization about women as a group
+C069391,Correct,,Explicit misogynistic generalization about women as a group
+C069392,Correct,,Explicit misogynistic generalization about women as a group
+C069393,Correct,,Explicit misogynistic generalization about women as a group
+C069394,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069396,Correct,,Explicit misogynistic generalization about women as a group
+C069405,Correct,,Explicit misogynistic generalization about women as a group
+C069415,Correct,,Explicit misogynistic generalization about women as a group
+C069416,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069419,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069421,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C069422,Correct,,Explicit misogynistic generalization about women as a group
+C069428,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069432,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069434,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069436,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C069440,Correct,,Explicit misogynistic generalization about women as a group
+C069445,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C069450,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069459,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069462,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069463,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C069481,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069488,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069489,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069493,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C069496,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069498,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C069499,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069501,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069502,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C069503,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069505,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069509,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069512,Correct,,Explicit misogynistic generalization about women as a group
+C069513,Correct,,Explicit misogynistic generalization about women as a group
+C069530,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069541,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069542,Correct,,Explicit misogynistic generalization about women as a group
+C069545,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069548,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069551,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C069555,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069556,Correct,,Explicit misogynistic generalization about women as a group
+C069557,Correct,,Explicit misogynistic generalization about women as a group
+C069563,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069566,Correct,,Explicit misogynistic generalization about women as a group
+C069567,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069569,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C069576,Correct,,Explicit misogynistic generalization about women as a group
+C069583,Correct,,Explicit misogynistic generalization about women as a group
+C069588,Correct,,Explicit misogynistic generalization about women as a group
+C069590,Correct,,Explicit misogynistic generalization about women as a group
+C069598,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069599,Correct,,Explicit misogynistic generalization about women as a group
+C069603,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069604,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C069606,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C069608,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069610,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069612,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069613,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069617,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069619,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C069627,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069630,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069642,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069648,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C069659,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069660,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069663,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C069666,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C069669,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069673,Correct,,Explicit misogynistic generalization about women as a group
+C069683,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069684,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069688,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069692,Correct,,Explicit misogynistic generalization about women as a group
+C069693,Correct,,Explicit misogynistic generalization about women as a group
+C069695,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C069696,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069697,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C069698,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069699,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C069704,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069707,Correct,,Explicit misogynistic generalization about women as a group
+C069713,Correct,,Explicit misogynistic generalization about women as a group
+C069715,Correct,,Explicit misogynistic generalization about women as a group
+C069719,Correct,,Explicit misogynistic generalization about women as a group
+C069723,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C069724,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069725,Correct,,Explicit misogynistic generalization about women as a group
+C069733,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069735,Correct,,Explicit misogynistic generalization about women as a group
+C069736,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C069740,Correct,,Explicit misogynistic generalization about women as a group
+C069742,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069743,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069744,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069747,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C069758,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069761,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069766,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069768,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069770,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069772,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069774,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069775,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C069778,Correct,,Explicit misogynistic generalization about women as a group
+C069782,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069785,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069787,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C069796,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069797,Correct,,Explicit misogynistic generalization about women as a group
+C069799,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069807,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069810,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069812,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069817,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069818,Correct,,Explicit misogynistic generalization about women as a group
+C069821,Correct,,Explicit misogynistic generalization about women as a group
+C069822,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069823,Correct,,Explicit misogynistic generalization about women as a group
+C069831,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069840,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069841,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069844,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069847,Correct,,Explicit misogynistic generalization about women as a group
+C069850,Correct,,Explicit misogynistic generalization about women as a group
+C069853,Correct,,Explicit misogynistic generalization about women as a group
+C069861,Correct,,Explicit misogynistic generalization about women as a group
+C069866,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069869,Correct,,Explicit misogynistic generalization about women as a group
+C069878,Correct,,Explicit misogynistic generalization about women as a group
+C069879,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069889,Correct,,Explicit misogynistic generalization about women as a group
+C069890,Correct,,Explicit misogynistic generalization about women as a group
+C069892,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069893,Correct,,Explicit misogynistic generalization about women as a group
+C069895,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069896,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C069903,Correct,,Explicit misogynistic generalization about women as a group
+C069904,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069906,Correct,,Explicit misogynistic generalization about women as a group
+C069907,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C069908,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C069913,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C069916,Correct,,Explicit misogynistic generalization about women as a group
+C069919,Correct,,Explicit misogynistic generalization about women as a group
+C069927,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C069929,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069932,Correct,,Explicit misogynistic generalization about women as a group
+C069933,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069937,Correct,,Explicit misogynistic generalization about women as a group
+C069938,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069942,Correct,,Explicit misogynistic generalization about women as a group
+C069951,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C069952,Correct,,Explicit misogynistic generalization about women as a group
+C069955,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069960,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C069972,Correct,,Explicit misogynistic generalization about women as a group
+C069973,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069976,Correct,,Explicit misogynistic generalization about women as a group
+C069980,Correct,,Explicit misogynistic generalization about women as a group
+C069983,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069984,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C069988,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069990,Correct,,Explicit misogynistic generalization about women as a group
+C069993,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C069995,Correct,,Explicit misogynistic generalization about women as a group
+C070011,Correct,,Explicit misogynistic generalization about women as a group
+C070013,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070018,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070021,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070022,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070023,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C070028,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070036,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C070039,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070041,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C070048,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070051,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070061,Correct,,Explicit misogynistic generalization about women as a group
+C070062,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070063,Correct,,Explicit misogynistic generalization about women as a group
+C070064,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070067,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070071,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070072,Correct,,Explicit misogynistic generalization about women as a group
+C070074,Correct,,Explicit misogynistic generalization about women as a group
+C070079,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C070080,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070088,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C070092,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C070094,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070096,Correct,,Explicit misogynistic generalization about women as a group
+C070097,Correct,,Explicit misogynistic generalization about women as a group
+C070100,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070101,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C070106,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070115,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070123,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070125,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070129,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070130,Correct,,Explicit misogynistic generalization about women as a group
+C070131,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C070132,Correct,,Explicit misogynistic generalization about women as a group
+C070136,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070137,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070138,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C070139,Correct,,Explicit misogynistic generalization about women as a group
+C070142,Correct,,Explicit misogynistic generalization about women as a group
+C070144,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070145,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070146,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070150,Correct,,Explicit misogynistic generalization about women as a group
+C070154,Correct,,Explicit misogynistic generalization about women as a group
+C070157,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070158,Correct,,Explicit misogynistic generalization about women as a group
+C070159,Correct,,Explicit misogynistic generalization about women as a group
+C070167,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070168,Correct,,Explicit misogynistic generalization about women as a group
+C070169,Correct,,Explicit misogynistic generalization about women as a group
+C070170,Correct,,Explicit misogynistic generalization about women as a group
+C070173,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070174,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070175,Correct,,Explicit misogynistic generalization about women as a group
+C070178,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070181,Correct,,Explicit misogynistic generalization about women as a group
+C070182,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070183,Correct,,Explicit misogynistic generalization about women as a group
+C070186,Correct,,Explicit misogynistic generalization about women as a group
+C070188,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C070191,Correct,,Explicit misogynistic generalization about women as a group
+C070198,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070199,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C070211,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C070217,Correct,,Explicit misogynistic generalization about women as a group
+C070218,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070221,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070223,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070225,Correct,,Explicit misogynistic generalization about women as a group
+C070229,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C070233,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070235,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070236,Correct,,Explicit misogynistic generalization about women as a group
+C070241,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070250,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C070255,Correct,,Explicit misogynistic generalization about women as a group
+C070261,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070262,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070263,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070268,Correct,,Explicit misogynistic generalization about women as a group
+C070270,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C070271,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070274,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070278,Correct,,Explicit misogynistic generalization about women as a group
+C070286,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070306,Correct,,Explicit misogynistic generalization about women as a group
+C070319,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070321,Correct,,Explicit misogynistic generalization about women as a group
+C070322,Correct,,Explicit misogynistic generalization about women as a group
+C070323,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070326,Correct,,Explicit misogynistic generalization about women as a group
+C070334,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070340,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070341,Correct,,Explicit misogynistic generalization about women as a group
+C070347,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070358,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070361,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070366,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C070371,Correct,,Explicit misogynistic generalization about women as a group
+C070372,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070373,Correct,,Explicit misogynistic generalization about women as a group
+C070374,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070378,Correct,,Explicit misogynistic generalization about women as a group
+C070380,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070388,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070389,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C070393,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C070394,Correct,,Explicit misogynistic generalization about women as a group
+C070397,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070403,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C070406,Correct,,Explicit misogynistic generalization about women as a group
+C070407,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070419,Correct,,Explicit misogynistic generalization about women as a group
+C070426,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070429,Correct,,Explicit misogynistic generalization about women as a group
+C070430,Correct,,Explicit misogynistic generalization about women as a group
+C070431,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070433,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C070436,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C070440,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070445,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070449,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C070450,Correct,,Explicit misogynistic generalization about women as a group
+C070454,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C070456,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C070458,Correct,,Explicit misogynistic generalization about women as a group
+C070459,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C070460,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C070466,Correct,,Explicit misogynistic generalization about women as a group
+C070475,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070479,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C070480,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C070490,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070491,Correct,,Explicit misogynistic generalization about women as a group
+C070494,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C070500,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070502,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070507,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C070508,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070509,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070510,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070511,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070517,Correct,,Explicit misogynistic generalization about women as a group
+C070522,Correct,,Explicit misogynistic generalization about women as a group
+C070525,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C070533,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C070536,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070542,Correct,,Explicit misogynistic generalization about women as a group
+C070543,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C070546,Correct,,Explicit misogynistic generalization about women as a group
+C070547,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070550,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070551,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C070552,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070556,Correct,,Explicit misogynistic generalization about women as a group
+C070563,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070568,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070569,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070580,Correct,,Explicit misogynistic generalization about women as a group
+C070581,Correct,,Explicit misogynistic generalization about women as a group
+C070586,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C070593,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070596,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070597,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070598,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070603,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070609,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070610,Correct,,Explicit misogynistic generalization about women as a group
+C070612,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070613,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070615,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070623,Correct,,Explicit misogynistic generalization about women as a group
+C070625,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C070626,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070638,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070643,Correct,,Explicit misogynistic generalization about women as a group
+C070646,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070657,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070666,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C070667,Correct,,Explicit misogynistic generalization about women as a group
+C070668,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C070673,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070674,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C070676,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070684,Correct,,Explicit misogynistic generalization about women as a group
+C070685,Correct,,Explicit misogynistic generalization about women as a group
+C070688,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070692,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070694,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070705,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C070709,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070710,Correct,,Explicit misogynistic generalization about women as a group
+C070711,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070712,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070713,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C070714,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070716,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C070718,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070719,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C070723,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070729,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070732,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070738,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070740,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070745,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070748,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070750,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C070766,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070768,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070769,Correct,,Explicit misogynistic generalization about women as a group
+C070770,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C070784,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070785,Correct,,"Generic rude/dismissive insult, no hateful group targeting"
+C070787,Correct,,Explicit misogynistic generalization about women as a group
+C070790,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
+C070793,Correct,,Explicit misogynistic generalization about women as a group
+C070796,Wrong,Offensive,"Vague 'they/people', no explicit gender target, generic dismissive remark"
