@@ -41,7 +41,7 @@ from ai_model.config import (
     WARMUP_RATIO,
     WEIGHT_DECAY,
 )
-from ai_model.dataset import create_train_loader, create_validation_loader, compute_class_weights
+from ai_model.dataset import create_train_loader, create_validation_loader
 from ai_model.model import (
     build_layerwise_param_groups,
     create_model,
@@ -126,15 +126,20 @@ class Trainer:
         self.epochs = epochs
 
         logger.info("Creating data loaders...")
+        # create_train_loader() now draws from a WeightedRandomSampler over
+        # the joint (language, category) distribution instead of a plain
+        # shuffle - see dataset.compute_sample_weights() for why (models
+        # were learning "this language is usually Safe" as a shortcut on
+        # Tamil/Tanglish/Kannada/Kanglish). That sampler already rebalances
+        # category frequency as a side effect, so the global per-category
+        # loss weights below are intentionally NOT applied too - stacking
+        # both would compound on already-tiny (language, category) cells
+        # (e.g. Kannada Threat, 44 real rows) and destabilize training.
         self.train_loader = create_train_loader()
         self.valid_loader = create_validation_loader()
 
-        logger.info("Computing class weights from train.csv distribution...")
-        class_weights = compute_class_weights().to(DEVICE)
-        logger.info("Class weights: %s", class_weights.tolist())
-
         logger.info("Creating model...")
-        self.model = create_model(DEVICE, class_weights=class_weights)
+        self.model = create_model(DEVICE, class_weights=None)
 
         # Keep the pretrained multilingual embeddings frozen for epoch 1
         # so the randomly-initialized classifier head doesn't push large,
