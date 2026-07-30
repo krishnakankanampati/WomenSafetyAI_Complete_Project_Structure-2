@@ -43,7 +43,9 @@ Classify each comment into exactly one of these 5 categories:
 - Threat: explicit or implied intent to harm, kill, stalk, or retaliate against a specific person ("I know where you live", "you'll regret this").
 - Hate Speech: content demeaning a group based on caste, religion, gender, ethnicity, or community (not an individual) - e.g. "that caste is inferior", "women don't deserve rights", "all X people are Y". Distinguish from Offensive (targets an individual, no group basis) and from ordinary political/critical opinion (no group basis).
 
-Some comments are genuinely ambiguous (e.g. caste-politics movie discourse, sarcasm, coded language). Make your best judgment and explain briefly why."""
+Some comments are genuinely ambiguous (e.g. caste-politics movie discourse, sarcasm, coded language). Make your best judgment and explain briefly why.
+
+Write the reasoning as a plain, natural sentence - do not wrap words or phrases in quotation marks, even when referencing the exact words used."""
 
 
 class ModerationVerdict(BaseModel):
@@ -78,7 +80,24 @@ class QuotaExhausted(Exception):
 _client = None
 _disabled = False  # set after a hard auth failure so we don't retry every request
 _benched = {}      # model name -> time.monotonic() when it last returned 429
-_dead = set()      # models that 404'd: renamed, retired, or a typo in the chain
+_dead = set()      # models that 404'd or 403'd: retired, typo'd, or not in our tier
+
+# A 403 means either "this key is not a valid caller" (fatal for every model)
+# or "this model isn't available to your project" (fatal for one model only).
+# Google returns both with status PERMISSION_DENIED, so the message is the only
+# signal distinguishing them - these substrings are the key-rejection wording,
+# as opposed to the per-model "Your project has been denied access".
+_KEY_REJECTION_MARKERS = (
+    "unregistered callers",
+    "api key not valid",
+    "api_key_invalid",
+    "expected oauth 2 access token",
+)
+
+
+def _is_key_rejection(error) -> bool:
+    message = str(error).lower()
+    return any(marker in message for marker in _KEY_REJECTION_MARKERS)
 
 
 def _get_client():
@@ -96,9 +115,10 @@ def _available_models():
       - benched (429): temporary. Skipped until QUOTA_RETRY_AFTER_SECONDS has
         passed - long enough for a per-minute limit to clear, short enough that
         a daily quota resetting mid-process gets picked back up.
-      - dead (404): permanent for this process. A model that doesn't exist -
-        retired, renamed, or a typo in the chain - will never start working, so
-        retrying it just adds a wasted round-trip to every single request.
+      - dead (404 or 403): permanent for this process. A model that doesn't
+        exist - retired, renamed, or a typo in the chain - will never start
+        working, and neither will one this project's billing tier can't reach,
+        so retrying either just adds a wasted round-trip to every request.
     """
     now = time.monotonic()
     return [
@@ -161,9 +181,8 @@ def classify_with_llm(text: str) -> Optional[ModerationVerdict]:
 
         except errors.ClientError as e:
             code = getattr(e, "code", None)
-            if code in (401, 403):
-                # An auth failure is about the key, not the model - trying the
-                # rest of the chain would fail identically.
+            if code == 401 or (code == 403 and _is_key_rejection(e)):
+                # A rejected key fails identically on every model, so stop.
                 logger.warning(
                     "LLM fallback disabled for this run: GEMINI_API_KEY was rejected "
                     "(%s). Check the key's validity to enable low-confidence escalation.",
@@ -171,6 +190,20 @@ def classify_with_llm(text: str) -> Optional[ModerationVerdict]:
                 )
                 _disabled = True
                 return None
+            if code == 403:
+                # Not an auth problem: a 403 "project has been denied access" is
+                # per-model gating - newer models need a billed project, while
+                # older ones on the same key answer fine. This used to disable
+                # the whole fallback on the first model, which silently killed
+                # escalation entirely on an unbilled project (observed
+                # 2026-07-30: every 2.5+ model 403s, gemini-2.0-flash works).
+                # Treated like 404 - drop this model, keep going down the chain.
+                _dead.add(model)
+                logger.warning(
+                    "%s is not available to this project (403) - dropped from the "
+                    "chain for this run. Enable billing to use it.", model,
+                )
+                continue
             if code == 429:
                 _benched[model] = time.monotonic()
                 logger.warning("%s hit quota - trying next model in the chain.", model)
