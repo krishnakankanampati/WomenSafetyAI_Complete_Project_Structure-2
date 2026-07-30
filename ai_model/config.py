@@ -327,11 +327,39 @@ LLM_ESCALATION_THRESHOLD = 0.85
 # gemini-3.6-flash is deliberately absent despite being newest: the same probe
 # got one successful call, then immediate 429. It would burn a retry slot on
 # every request for one call a day.
+#
+# Re-probed every text model 2026-07-30. The decisive variable turned out to be
+# *which Google Cloud project the API key belongs to*, not the model list and
+# not the key format:
+#   - "Default Gemini Project" has no quota tier at all (AI Studio's Rate Limit
+#     page says "Project quota tier unavailable"). Every model there fails -
+#     2.5-and-newer with 403, the rest with an instant 429 that no amount of
+#     waiting clears, because the allowance is zero rather than spent.
+#   - "My First Project" is on the Free tier and answers 200 for all the
+#     flash-class models below.
+# A key minted in the wrong project reproduces exactly the symptoms of a dead
+# key, which is what made this expensive to diagnose. If the fallback ever goes
+# quiet again, check the key's project on the Rate Limit page first.
+#
+# gemini-3.6-flash is now included: the 2026-07-24 probe saw one call then an
+# immediate 429, but on this project it answers reliably. gemini-flash-latest
+# and gemini-flash-lite-latest are moving aliases - kept last of the working
+# set since they may resolve onto a model already listed above and share its
+# quota bucket rather than adding a fresh one.
+#
+# The 2.0 entries sit at the end: permitted here (they 429 rather than 403) but
+# their daily allowance was already spent, so they are last-resort capacity that
+# self-heals at the next reset.
 LLM_FALLBACK_MODELS = [
-    "gemini-3.5-flash-lite",    # fastest (~1.2s), largest observed daily quota
-    "gemini-3.1-flash-lite",    # same tier, separate bucket
-    "gemini-3-flash-preview",   # works but slow (~40s observed)
-    "gemini-3.5-flash",         # strongest, but ~20/day
+    "gemini-3.5-flash-lite",       # fastest (~1.2s), largest observed daily quota
+    "gemini-3.1-flash-lite",       # same tier, separate bucket
+    "gemini-3.6-flash",            # newest; reliable on this project
+    "gemini-3.5-flash",            # strongest, but ~20/day
+    "gemini-3-flash-preview",      # works but slow (~40s observed) - late on purpose
+    "gemini-flash-lite-latest",    # alias; may share a bucket with one above
+    "gemini-flash-latest",         # alias; same caveat
+    "gemini-2.0-flash",            # permitted, daily allowance spent
+    "gemini-2.0-flash-lite",       # same
 ]
 
 # Kept as the "preferred" single model for logging and reports.
