@@ -6,3 +6,7 @@ __pycache__/
 saved_models/
 saved_models_backup*/
 logs/
+
+# AWS deployment artifacts - contains the SSH private key (.pem) and
+# instance/security-group IDs specific to this one deployment; never commit.
+deployment/aws/
