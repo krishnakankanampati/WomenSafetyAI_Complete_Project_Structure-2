@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useState } from 'react'
 
-const BACKEND_URL = "http://localhost:8000";
+const BACKEND_URL = import.meta.env.VITE_BACKEND_URL ?? (import.meta.env.DEV ? "http://localhost:8000" : "");
 
 const CATEGORIES = [
   { label: "Threat", color: "var(--cat-threat)" },

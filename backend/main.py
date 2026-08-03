@@ -37,7 +37,14 @@ app.add_middleware(
     # fetches fail rather than returning false. Any localhost port is fine
     # here: this dashboard is local-only and holds no cookie to steal
     # (allow_credentials stays False).
-    allow_origin_regex=r"http://localhost:\d+",
+    #
+    # The deployed frontend is actually same-origin with the backend (Nginx
+    # reverse-proxies /api and /auth to this process on the same host), so
+    # CORS doesn't gate that path at all - this nip.io pattern is a safety
+    # net for hitting the API directly from a different origin (e.g. testing
+    # against the deployed backend from a local dev frontend), not something
+    # the normal production flow depends on.
+    allow_origin_regex=r"http://localhost:\d+|https://[\w.-]+\.nip\.io",
     allow_methods=["GET", "POST"],
     allow_headers=["*"],
     allow_credentials=False,

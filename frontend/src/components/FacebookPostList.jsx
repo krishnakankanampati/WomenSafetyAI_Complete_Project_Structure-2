@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react'
 import FacebookIcon from './FacebookIcon'
 
-const BACKEND_URL = "http://localhost:8000";
+const BACKEND_URL = import.meta.env.VITE_BACKEND_URL ?? (import.meta.env.DEV ? "http://localhost:8000" : "");
 
 function formatDate(iso) {
   return new Date(iso).toLocaleDateString(undefined, { year: 'numeric', month: 'short', day: 'numeric' })

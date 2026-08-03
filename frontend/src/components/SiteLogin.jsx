@@ -2,7 +2,7 @@ import YouTubeIcon from './YouTubeIcon'
 import InstagramIcon from './InstagramIcon'
 import FacebookIcon from './FacebookIcon'
 
-const BACKEND_URL = "http://localhost:8000";
+const BACKEND_URL = import.meta.env.VITE_BACKEND_URL ?? (import.meta.env.DEV ? "http://localhost:8000" : "");
 
 function ShieldIcon() {
   return (

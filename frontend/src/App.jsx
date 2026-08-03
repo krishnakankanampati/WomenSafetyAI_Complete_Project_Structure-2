@@ -7,7 +7,7 @@ import InstagramMediaList from './components/InstagramMediaList'
 import FacebookPostList from './components/FacebookPostList'
 import VideoMonitor from './components/VideoMonitor'
 
-const BACKEND_URL = "http://localhost:8000";
+const BACKEND_URL = import.meta.env.VITE_BACKEND_URL ?? (import.meta.env.DEV ? "http://localhost:8000" : "");
 const INACTIVITY_LIMIT_MS = 3 * 60 * 1000;
 
 function App() {
