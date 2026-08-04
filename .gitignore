@@ -10,3 +10,7 @@ logs/
 # AWS deployment artifacts - contains the SSH private key (.pem) and
 # instance/security-group IDs specific to this one deployment; never commit.
 deployment/aws/
+
+frontend/node_modules/
+frontend/dist/
+frontend/*.log
