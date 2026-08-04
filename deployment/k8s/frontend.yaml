@@ -1,0 +1,47 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: wsai-frontend
+  namespace: wsai
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: wsai-frontend
+  template:
+    metadata:
+      labels:
+        app: wsai-frontend
+    spec:
+      containers:
+        - name: frontend
+          image: krishna3242/wsai-frontend:latest
+          imagePullPolicy: Always
+          ports:
+            - containerPort: 80
+          env:
+            # Only matters if something hits this pod's /api directly - the
+            # real traffic path is host nginx routing /api and /auth straight
+            # to the wsai-backend Service, never through this container.
+            - name: BACKEND_UPSTREAM
+              value: "wsai-backend.wsai.svc.cluster.local:8000"
+          resources:
+            requests:
+              memory: "32Mi"
+              cpu: "50m"
+            limits:
+              memory: "128Mi"
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: wsai-frontend
+  namespace: wsai
+spec:
+  selector:
+    app: wsai-frontend
+  ports:
+    - port: 80
+      targetPort: 80
+      nodePort: 30081
+  type: NodePort

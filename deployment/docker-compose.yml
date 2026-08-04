@@ -1,2 +1,47 @@
-version: '3'
-services: {}
+version: '3.8'
+
+# Local, self-contained stack: `docker compose up --build` from this
+# directory. Uses a local Mongo container rather than Atlas so it needs
+# nothing beyond the .env API keys to run - production (k8s) instead points
+# MONGO_URI at Atlas, since that's already backed up and monitored.
+services:
+  mongo:
+    image: mongo:7
+    restart: unless-stopped
+    volumes:
+      - mongo-data:/data/db
+    ports:
+      - "27017:27017"
+
+  backend:
+    build:
+      context: ..
+      dockerfile: deployment/docker/backend.Dockerfile
+    restart: unless-stopped
+    env_file:
+      - ../.env
+    environment:
+      # Overrides whatever MONGO_URI is in .env - Atlas is for production,
+      # local compose always talks to the mongo service above.
+      MONGO_URI: mongodb://mongo:27017
+      FRONTEND_URL: http://localhost:8080
+      GOOGLE_OAUTH_REDIRECT_URI: http://localhost:8000/auth/callback
+    volumes:
+      - ../saved_models:/app/saved_models:ro
+    ports:
+      - "8000:8000"
+    depends_on:
+      - mongo
+
+  frontend:
+    build:
+      context: ..
+      dockerfile: deployment/docker/frontend.Dockerfile
+    restart: unless-stopped
+    ports:
+      - "8080:80"
+    depends_on:
+      - backend
+
+volumes:
+  mongo-data:

@@ -1,0 +1,83 @@
+# The real Secret is never committed here - it's created imperatively on the
+# node from the existing production .env, which already holds every value
+# this needs:
+#
+#   kubectl create secret generic wsai-env -n wsai --from-env-file=/home/ubuntu/app/.env
+#
+# Re-run with --dry-run=client -o yaml | kubectl apply -f - to update it
+# in place after rotating a key, rather than deleting/recreating.
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: wsai-backend
+  namespace: wsai
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: wsai-backend
+  template:
+    metadata:
+      labels:
+        app: wsai-backend
+    spec:
+      containers:
+        - name: backend
+          image: krishna3242/wsai-backend:latest
+          imagePullPolicy: Always
+          ports:
+            - containerPort: 8000
+          envFrom:
+            - secretRef:
+                name: wsai-env
+          volumeMounts:
+            # Model weights live on the node's disk, not in the image - see
+            # backend.Dockerfile's comment on why. Single-node k3s makes a
+            # hostPath safe here; a multi-node cluster would need a real PVC
+            # instead.
+            - name: saved-models
+              mountPath: /app/saved_models
+              readOnly: true
+          resources:
+            requests:
+              memory: "1500Mi"
+              cpu: "250m"
+            limits:
+              # 2500Mi OOMKilled it during startup (tokenizer + model load +
+              # predictor init briefly peaks higher than the steady-state
+              # serving footprint). 3200Mi leaves the frontend pod + k3s
+              # system pods + host OS roughly 500Mi on this 4GB node, tight
+              # but workable with the 2GB swap file as a cushion.
+              memory: "3200Mi"
+          readinessProbe:
+            httpGet:
+              path: /auth/status
+              port: 8000
+            initialDelaySeconds: 30
+            periodSeconds: 10
+            failureThreshold: 6
+          livenessProbe:
+            httpGet:
+              path: /auth/status
+              port: 8000
+            initialDelaySeconds: 45
+            periodSeconds: 20
+      volumes:
+        - name: saved-models
+          hostPath:
+            path: /home/ubuntu/app/saved_models
+            type: Directory
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: wsai-backend
+  namespace: wsai
+spec:
+  selector:
+    app: wsai-backend
+  ports:
+    - port: 8000
+      targetPort: 8000
+      nodePort: 30080
+  type: NodePort

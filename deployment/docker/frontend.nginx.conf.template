@@ -1,0 +1,33 @@
+server {
+    listen 80;
+    server_name _;
+    root /usr/share/nginx/html;
+    index index.html;
+
+    # BACKEND_UPSTREAM is substituted at container start by nginx:alpine's
+    # built-in envsubst-on-templates entrypoint script (any file dropped in
+    # /etc/nginx/templates/*.template gets env vars substituted into
+    # /etc/nginx/conf.d/ automatically - see the base image's docs).
+    # In k8s this proxy is redundant but harmless: the host-level nginx in
+    # front of the cluster already routes /api and /auth straight to the
+    # backend Service and never sends those paths here.
+    location /api/ {
+        proxy_pass http://${BACKEND_UPSTREAM};
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;
+    }
+
+    location /auth/ {
+        proxy_pass http://${BACKEND_UPSTREAM};
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;
+    }
+
+    location / {
+        try_files $uri $uri/ /index.html;
+    }
+}
