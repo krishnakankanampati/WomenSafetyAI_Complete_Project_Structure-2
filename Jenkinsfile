@@ -39,7 +39,7 @@ pipeline {
                 // a specific prior image if a deploy misbehaves.
                 sh "kubectl -n wsai set image deployment/wsai-backend backend=${IMAGE_BACKEND}:${BUILD_NUMBER}"
                 sh "kubectl -n wsai set image deployment/wsai-frontend frontend=${IMAGE_FRONTEND}:${BUILD_NUMBER}"
-                sh 'kubectl -n wsai rollout status deployment/wsai-backend --timeout=180s'
+                sh 'kubectl -n wsai rollout status deployment/wsai-backend --timeout=280s'
                 sh 'kubectl -n wsai rollout status deployment/wsai-frontend --timeout=90s'
             }
         }

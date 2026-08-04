@@ -13,6 +13,13 @@ metadata:
   namespace: wsai
 spec:
   replicas: 1
+  # Default RollingUpdate briefly runs old+new pods together even at
+  # replicas: 1 (surge of 1) - each pod cold-downloads the ~1GB xlm-roberta-base
+  # base weights on startup (no persistent HF cache), so two starting at once
+  # doubles both disk and network load on this single small node and can tip
+  # it into DiskPressure mid-rollout. Recreate avoids the overlap entirely.
+  strategy:
+    type: Recreate
   selector:
     matchLabels:
       app: wsai-backend
@@ -55,7 +62,7 @@ spec:
               port: 8000
             initialDelaySeconds: 30
             periodSeconds: 10
-            failureThreshold: 6
+            failureThreshold: 10
           livenessProbe:
             httpGet:
               path: /auth/status
