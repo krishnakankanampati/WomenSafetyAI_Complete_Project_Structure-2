@@ -19,6 +19,7 @@ const POLL_INTERVAL_MS = {
 
 function VideoMonitor({ platform, contentId, onBack, onLogout }) {
   const [incidents, setIncidents] = useState([])
+  const [totalComments, setTotalComments] = useState(null)
 
   useEffect(() => {
     fetch(`${BACKEND_URL}/api/monitor/${platform}/${contentId}/start`, { method: "POST" })
@@ -26,7 +27,10 @@ function VideoMonitor({ platform, contentId, onBack, onLogout }) {
     const fetchIncidents = () => {
       fetch(`${BACKEND_URL}/api/incidents/${platform}/${contentId}`)
         .then((res) => res.json())
-        .then((data) => setIncidents(data.incidents))
+        .then((data) => {
+          setIncidents(data.incidents)
+          setTotalComments(data.total_comments)
+        })
     }
     fetchIncidents()
     const intervalId = setInterval(fetchIncidents, POLL_INTERVAL_MS[platform])
@@ -61,6 +65,10 @@ function VideoMonitor({ platform, contentId, onBack, onLogout }) {
 
       <div className="section-label">Analytics</div>
       <div className="stat-grid">
+        <div className="stat-tile">
+          <div className="stat-tile-value">{totalComments === null ? "—" : totalComments}</div>
+          <div className="stat-tile-label">Total comments</div>
+        </div>
         <div className="stat-tile">
           <div className="stat-tile-value">{incidents.length}</div>
           <div className="stat-tile-label">Total flagged</div>

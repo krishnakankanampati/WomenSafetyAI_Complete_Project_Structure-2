@@ -10,11 +10,16 @@ function formatDate(iso) {
 function VideoList({ onSelectVideo, onBack, onLogout }) {
   const [videos, setVideos] = useState([])
   const [loading, setLoading] = useState(true)
+  const [error, setError] = useState(null)
 
   useEffect(() => {
     fetch(`${BACKEND_URL}/api/videos`)
-      .then((res) => res.json())
-      .then((data) => setVideos(data.videos))
+      .then(async (res) => {
+        const data = await res.json()
+        if (!res.ok) throw new Error(data.detail || `Request failed (${res.status})`)
+        setVideos(data.videos)
+      })
+      .catch((err) => setError(err.message))
       .finally(() => setLoading(false))
   }, [])
 
@@ -29,6 +34,8 @@ function VideoList({ onSelectVideo, onBack, onLogout }) {
 
       {loading ? (
         <p className="center-note">Loading your videos...</p>
+      ) : error ? (
+        <p className="empty-note" style={{ color: "var(--cat-threat)" }}>{error}</p>
       ) : videos.length === 0 ? (
         <p className="empty-note">No videos found on this channel.</p>
       ) : (

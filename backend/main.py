@@ -5,6 +5,7 @@ from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import RedirectResponse
 from googleapiclient.discovery import build as build_youtube_client
+from googleapiclient.errors import HttpError
 
 from ai_model.predict import get_predictor
 from backend.config import FRONTEND_URL
@@ -15,7 +16,7 @@ from backend.meta_oauth_store import (
     disconnect as meta_disconnect,
     get_valid_meta_credentials,
 )
-from backend.monitor import PROCESSORS, is_monitoring, start_monitor, stop_monitor
+from backend.monitor import PROCESSORS, get_total_comments, is_monitoring, start_monitor, stop_monitor
 from backend.oauth_store import (
     build_flow,
     get_valid_credentials,
@@ -136,14 +137,20 @@ def list_videos():
 
     youtube = build_youtube_client("youtube", "v3", credentials=creds)
 
-    channels_resp = youtube.channels().list(part="contentDetails", mine=True).execute()
-    uploads_playlist_id = channels_resp["items"][0]["contentDetails"]["relatedPlaylists"]["uploads"]
+    try:
+        channels_resp = youtube.channels().list(part="contentDetails", mine=True).execute()
+        uploads_playlist_id = channels_resp["items"][0]["contentDetails"]["relatedPlaylists"]["uploads"]
 
-    items_resp = youtube.playlistItems().list(
-        part="snippet",
-        playlistId=uploads_playlist_id,
-        maxResults=25,
-    ).execute()
+        items_resp = youtube.playlistItems().list(
+            part="snippet",
+            playlistId=uploads_playlist_id,
+            maxResults=25,
+        ).execute()
+    except HttpError as e:
+        reason = e.error_details[0]["reason"] if e.error_details else str(e)
+        if reason == "quotaExceeded":
+            raise HTTPException(status_code=503, detail="YouTube API daily quota exceeded - try again later")
+        raise HTTPException(status_code=502, detail=f"YouTube API error: {reason}")
 
     videos = [
         {
@@ -226,4 +233,4 @@ def monitor_status(platform: str, content_id: str):
 
 @app.get("/api/incidents/{platform}/{content_id}")
 def incidents(platform: str, content_id: str):
-    return {"incidents": get_incidents(content_id)}
+    return {"incidents": get_incidents(content_id), "total_comments": get_total_comments(platform, content_id)}

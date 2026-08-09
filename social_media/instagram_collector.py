@@ -65,12 +65,12 @@ def fetch_comments(media_id: str, max_results: int = 50):
     return comments[:max_results]
 
 
-def process_media(media_id: str, max_results: int = 50) -> int:
-    """Fetch, classify, and act on comments not seen before. Returns incident count."""
+def process_media(media_id: str, max_results: int = 50) -> tuple[int, int]:
+    """Fetch, classify, and act on comments not seen before. Returns (incident_count, total_comments_fetched)."""
     comments = fetch_comments(media_id, max_results=max_results)
     new_comments = [c for c in comments if try_claim(c["comment_id"])]
     if not new_comments:
-        return 0
+        return 0, len(comments)
 
     predictor = get_predictor()
     predictions = predictor.predict_batch([c["comment"] for c in new_comments])
@@ -113,7 +113,7 @@ def process_media(media_id: str, max_results: int = 50) -> int:
             )
             incidents += 1
 
-    return incidents
+    return incidents, len(comments)
 
 
 def watch(media_id: str, interval: int, max_results: int = 50):
@@ -122,7 +122,7 @@ def watch(media_id: str, interval: int, max_results: int = 50):
         while True:
             timestamp = datetime.now().strftime("%H:%M:%S")
             try:
-                incidents = process_media(media_id, max_results=max_results)
+                incidents, _ = process_media(media_id, max_results=max_results)
                 if incidents:
                     print(f"[{timestamp}] {incidents} new incident(s) alerted.")
             except requests.HTTPError as e:
@@ -144,8 +144,8 @@ def main():
         watch(args.media_id, interval=args.interval, max_results=args.max)
         return
 
-    incidents = process_media(args.media_id, max_results=args.max)
-    print(f"\n{incidents} incident(s) saved to MongoDB and emailed to the NGO contact.")
+    incidents, total = process_media(args.media_id, max_results=args.max)
+    print(f"\n{incidents} incident(s) saved to MongoDB and emailed to the NGO contact ({total} comment(s) checked).")
 
 
 if __name__ == "__main__":

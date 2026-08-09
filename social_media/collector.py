@@ -80,8 +80,8 @@ def fetch_comments(video_id: str, max_results: int = 50):
     return comments[:max_results]
 
 
-def process_video(video_id: str, max_results: int = 50) -> int:
-    """Fetch, classify, and act on comments not seen before. Returns incident count."""
+def process_video(video_id: str, max_results: int = 50) -> tuple[int, int]:
+    """Fetch, classify, and act on comments not seen before. Returns (incident_count, total_comments_fetched)."""
     comments = fetch_comments(video_id, max_results=max_results)
     # try_claim is atomic (unique index in Mongo) - the filter itself is what
     # prevents two concurrent callers (e.g. a CLI watch loop left running
@@ -89,7 +89,7 @@ def process_video(video_id: str, max_results: int = 50) -> int:
     # comment, not anything downstream in this function.
     new_comments = [c for c in comments if try_claim(c["comment_id"])]
     if not new_comments:
-        return 0
+        return 0, len(comments)
 
     predictor = get_predictor()
     predictions = predictor.predict_batch([c["comment"] for c in new_comments])
@@ -139,7 +139,7 @@ def process_video(video_id: str, max_results: int = 50) -> int:
             )
             incidents += 1
 
-    return incidents
+    return incidents, len(comments)
 
 
 def watch(video_id: str, interval: int, max_results: int = 50):
@@ -148,7 +148,7 @@ def watch(video_id: str, interval: int, max_results: int = 50):
         while True:
             timestamp = datetime.now().strftime("%H:%M:%S")
             try:
-                incidents = process_video(video_id, max_results=max_results)
+                incidents, _ = process_video(video_id, max_results=max_results)
                 if incidents:
                     print(f"[{timestamp}] {incidents} new incident(s) alerted.")
             except HttpError as e:
@@ -182,13 +182,13 @@ def main():
         return
 
     try:
-        incidents = process_video(video_id, max_results=args.max)
+        incidents, total = process_video(video_id, max_results=args.max)
     except HttpError as e:
         reason = e.error_details[0]["reason"] if e.error_details else str(e)
         print(f"YouTube API error ({reason}): comments may be disabled for this video.", file=sys.stderr)
         sys.exit(1)
 
-    print(f"\n{incidents} incident(s) saved to MongoDB and emailed to the NGO contact.")
+    print(f"\n{incidents} incident(s) saved to MongoDB and emailed to the NGO contact ({total} comment(s) checked).")
 
 
 if __name__ == "__main__":

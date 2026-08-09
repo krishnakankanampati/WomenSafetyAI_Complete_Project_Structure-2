@@ -34,6 +34,13 @@ DEFAULT_INTERVALS = {
 
 _monitor_tasks: dict[str, asyncio.Task] = {}
 
+# Latest total-comments-on-the-platform reading per (platform, content_id),
+# refreshed every poll. Deliberately not persisted to Mongo: it's a live
+# "what does the platform report right now" number, not a historical count -
+# process_*'s own dedup (try_claim) already prevents re-alerting on comments
+# we've seen, but every poll still re-fetches and re-counts all of them.
+_last_total_comments: dict[str, int] = {}
+
 
 def _key(platform: str, content_id: str) -> str:
     return f"{platform}:{content_id}"
@@ -42,9 +49,11 @@ def _key(platform: str, content_id: str) -> str:
 async def _poll_loop(platform: str, content_id: str, max_results: int = 50, interval: int | None = None):
     process = PROCESSORS[platform]
     interval = interval if interval is not None else DEFAULT_INTERVALS[platform]
+    key = _key(platform, content_id)
     while True:
         try:
-            await asyncio.to_thread(process, content_id, max_results)
+            _, total = await asyncio.to_thread(process, content_id, max_results)
+            _last_total_comments[key] = total
         except Exception:
             logger.exception("poll failed for %s:%s", platform, content_id)
         await asyncio.sleep(interval)
@@ -63,6 +72,7 @@ def start_monitor(platform: str, content_id: str) -> bool:
 def stop_monitor(platform: str, content_id: str) -> bool:
     """Returns False if no monitor was running for this (platform, content_id)."""
     task = _monitor_tasks.pop(_key(platform, content_id), None)
+    _last_total_comments.pop(_key(platform, content_id), None)
     if task is None:
         return False
     task.cancel()
@@ -72,3 +82,8 @@ def stop_monitor(platform: str, content_id: str) -> bool:
 def is_monitoring(platform: str, content_id: str) -> bool:
     task = _monitor_tasks.get(_key(platform, content_id))
     return task is not None and not task.done()
+
+
+def get_total_comments(platform: str, content_id: str) -> int | None:
+    """Last polled total comment count, or None if no poll has completed yet."""
+    return _last_total_comments.get(_key(platform, content_id))
